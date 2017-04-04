@@ -37,7 +37,7 @@ if __name__=="__main__":
 	production = sys.argv[3]
 	#dictList = ['acc','ae','ap','ap90','ben','bhs','bop','bor','bur','cae','ccs','gra','gst','ieg','inm','krm','mci','md','mw','mw72','mwe','pd','pe','pgn','pui','pw','pwg','sch','shs','skd','snp','stc','vcp','vei','wil','yat']
 
-	meaningseparator = {'acc':('([ .])--','\g<1>BREAK --'), 'md':(';','BREAK'), 'ap90':('<b>[-]{2}([0-9]+)</b>','BREAK<b>\g<1></b>'), 'ben':(' <b>','BREAK <b>'), 'bhs':('([(]<b>[0-9]+</b>[)])','BREAK\g<1>'), 'bor':(' <br>',' BREAK'), 'bur':(';;','BREAK'), 'cae':(';',';BREAK'), 'ccs':(';',';BREAK'), 'gra':('<P1></P1>','BREAK')}
+	meaningseparator = {'acc':('([ .])--','\g<1>BREAK --'), 'md':(';','BREAK'), 'ap90':('<b>[-]{2}([0-9]+)</b>','BREAK<b>\g<1></b>'), 'ben':(' <b>','BREAK <b>'), 'bhs':('([(]<b>[0-9]+</b>[)])','BREAK\g<1>'), 'bor':(' <br>',' BREAK'), 'bur':(';;','BREAK'), 'cae':(';',';BREAK'), 'ccs':(';',';BREAK'), 'gra':('<P1></P1>','BREAK'), 'gst':('<P></P>','BREAK')}
 	if dictId in meaningseparator:
 		instr = meaningseparator[dictId][0]
 		outstr = meaningseparator[dictId][1]
@@ -86,7 +86,7 @@ if __name__=="__main__":
 				rep = rep.replace(u'Ç',u'S')
 				rep = transcoder.transcoder_processString(rep,'slp1','deva')
 				html = html.replace('<i>'+ital+'</i>','<i>'+rep+'</i>')
-		if dictId in ['acc','ap90','ben','bhs','bur','cae','ccs','gra']:
+		if dictId in ['acc','ap90','ben','bhs','bur','cae','ccs','gra','gst']:
 			html = transcoder.transcoder_processString(html,'as','roman')
 			html = html.replace(u'ç',u'ś')
 			html = html.replace(u'Ç',u'Ś')
@@ -106,6 +106,8 @@ if __name__=="__main__":
 			html = html.replace(u'|',u'')
 		if dictId in ['cae']:
 			html = html.replace(u'·',u'')
+		if dictId in ['gst']:
+			html = html.replace(' ^','BREAK ^')
 		html = html.replace('- ','')
 		html = html.replace('&amp;','&')
 		html = html.replace(u'î',u'ī')
