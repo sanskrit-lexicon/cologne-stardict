@@ -67,7 +67,10 @@ if __name__=="__main__":
 			html = html.replace('<lb></lb>',' ')
 		else:
 			html = html.replace('<lb></lb>','')
+		if dictId in ['pd']:
+			html = html.replace('<br>','')
 		html = html.replace('<b>--Comp.</b>','BREAK<b>--Comp.</b>BREAK') # ap90
+		#print html
 		html = html.decode('utf-8')
 		html = html.replace(u'<b><s>º',u'BREAK<b><s>º') # ap90
 		#print html.encode('utf-8')
@@ -81,7 +84,9 @@ if __name__=="__main__":
 		if dictId in ['ben']:
 			html = html.replace(' <i>','BREAK <i>')
 			html = html.replace('i. e.BREAK <i>','i.e. <i>')
-		if dictId in ['bur']:
+		if dictId in ['pd']:
+			html = re.sub(u'(¦[^<]*)<i>','\g<1>',html)
+		if dictId in ['bur','pd']:
 			italictext = re.findall('<i>([^<]*)</i>',html)
 			for ital in italictext:
 				rep = transcoder.transcoder_processString(ital,'as','slp1')
@@ -89,7 +94,7 @@ if __name__=="__main__":
 				rep = rep.replace(u'Ç',u'S')
 				rep = transcoder.transcoder_processString(rep,'slp1','deva')
 				html = html.replace('<i>'+ital+'</i>','<i>'+rep+'</i>')
-		if dictId in ['acc','ap90','ben','bhs','bur','cae','ccs','gra','gst','ieg','inm','mci','mw72']:
+		if dictId in ['acc','ap90','ben','bhs','bur','cae','ccs','gra','gst','ieg','inm','mci','mw72','pd']:
 			html = transcoder.transcoder_processString(html,'as','roman')
 			html = html.replace(u'ç',u'ś')
 			html = html.replace(u'Ç',u'Ś')
@@ -118,6 +123,8 @@ if __name__=="__main__":
 		html = html.replace(u'î',u'ī')
 		html = html.replace(u'â',u'ā')
 		html = re.sub('[<][^>]*[>]','',html)
+		if dictId in ['pd']:
+			html = re.sub('^[.]','',html)
 		html = html.replace('BREAK','<BR>')
 		html = html.replace('<BR><BR>','<BR>')
 		if production == '0':
