@@ -72,7 +72,7 @@ if __name__=="__main__":
 			html = html.replace('<lb></lb>','')
 		if dictId in ['pd']:
 			html = html.replace('<br>','')
-		if dictId in ['pw']:
+		if dictId in ['pw','pwg']:
 			html = re.sub(' <gram','BREAK<gram',html)
 			html = re.sub('([^(])<divm','BREAK\g<1><divm',html)
 		html = html.replace('<b>--Comp.</b>','BREAK<b>--Comp.</b>BREAK') # ap90
@@ -100,7 +100,7 @@ if __name__=="__main__":
 				rep = rep.replace(u'Ç',u'S')
 				rep = transcoder.transcoder_processString(rep,'slp1','deva')
 				html = html.replace('<i>'+ital+'</i>','<i>'+rep+'</i>')
-		if dictId in ['acc','ap90','ben','bhs','bur','cae','ccs','gra','gst','ieg','inm','mci','mw72','pd','pe','pgn','pui']:
+		if dictId in ['acc','ap90','ben','bhs','bur','cae','ccs','gra','gst','ieg','inm','mci','mw72','pd','pe','pgn','pui','pwg']:
 			html = transcoder.transcoder_processString(html,'as','roman')
 			html = html.replace(u'ç',u'ś')
 			html = html.replace(u'Ç',u'Ś')
@@ -133,7 +133,7 @@ if __name__=="__main__":
 		if dictId in ['pd']:
 			html = re.sub('^[.]','',html)
 		html = html.replace('BREAK','<BR>')
-		if dictId in ['pw']:
+		if dictId in ['pw','pwg']:
 			html = transcoder.transcoder_processString(key2,'slp1','deva')+'<BR>'+html
 		html = html.replace('<BR><BR>','<BR>')
 		if production == '0':
