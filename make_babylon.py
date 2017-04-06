@@ -44,6 +44,7 @@ if __name__=="__main__":
 	inputfile = pathToDicts+'/'+dictId+'/'+dictId+'xml/xml/'+dictId+'.xml'
 	tree = etree.parse(inputfile)
 	hw = tree.xpath("/"+dictId+"/H1/h/key1")
+	key2s = tree.xpath("/"+dictId+"/H1/h/key2")
 	entry =  tree.xpath("/"+dictId+"/H1/body")
 	if production == '0':
 		outputfile = codecs.open('output/'+dictId+'.babylon','w','utf-8')
@@ -52,6 +53,8 @@ if __name__=="__main__":
 	counter = 0
 	for x in xrange(len(hw)):
 		heading1 = etree.tostring(hw[x], method='text', encoding='utf-8')
+		key2 = etree.tostring(key2s[x], method='text', encoding='utf-8')
+		key2 = key2.decode('utf-8')
 		if counter % 1000 == 0:
 			print counter
 		counter += 1
@@ -62,13 +65,16 @@ if __name__=="__main__":
 			heading = heading1
 		#text = etree.tostring(entry[x], method='text', encoding='utf-8')
 		html = etree.tostring(entry[x], method='html', encoding='utf-8')
-		html = re.sub('\[Page[0-9+ abc-]+\]','',html)
+		html = re.sub('\[Page[0-9+ abc.-]+\]','',html)
 		if dictId in ['mwe']:
 			html = html.replace('<lb></lb>',' ')
 		else:
 			html = html.replace('<lb></lb>','')
 		if dictId in ['pd']:
 			html = html.replace('<br>','')
+		if dictId in ['pw']:
+			html = re.sub(' <gram','BREAK<gram',html)
+			html = re.sub('([^(])<divm','BREAK\g<1><divm',html)
 		html = html.replace('<b>--Comp.</b>','BREAK<b>--Comp.</b>BREAK') # ap90
 		#print html
 		html = html.decode('utf-8')
@@ -127,6 +133,8 @@ if __name__=="__main__":
 		if dictId in ['pd']:
 			html = re.sub('^[.]','',html)
 		html = html.replace('BREAK','<BR>')
+		if dictId in ['pw']:
+			html = transcoder.transcoder_processString(key2,'slp1','deva')+'<BR>'+html
 		html = html.replace('<BR><BR>','<BR>')
 		if production == '0':
 			html = html.replace('<BR>','\n')
