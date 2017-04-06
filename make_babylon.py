@@ -94,7 +94,7 @@ if __name__=="__main__":
 				rep = rep.replace(u'Ç',u'S')
 				rep = transcoder.transcoder_processString(rep,'slp1','deva')
 				html = html.replace('<i>'+ital+'</i>','<i>'+rep+'</i>')
-		if dictId in ['acc','ap90','ben','bhs','bur','cae','ccs','gra','gst','ieg','inm','mci','mw72','pd']:
+		if dictId in ['acc','ap90','ben','bhs','bur','cae','ccs','gra','gst','ieg','inm','mci','mw72','pd','pe']:
 			html = transcoder.transcoder_processString(html,'as','roman')
 			html = html.replace(u'ç',u'ś')
 			html = html.replace(u'Ç',u'Ś')
