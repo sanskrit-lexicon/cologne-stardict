@@ -124,6 +124,7 @@ if __name__=="__main__":
 			html = html.replace('] ',']BREAK')
 			html = html.replace('<s>(</s>','(')
 			html = html.replace('<s>) </s>',') ')
+			html = html.replace(u'ṛi',u'ṛ')
 		if dictId in ['bur']:
 			html = html.replace(u'|',u'')
 		if dictId in ['cae']:
