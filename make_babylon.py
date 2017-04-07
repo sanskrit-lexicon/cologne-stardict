@@ -41,7 +41,7 @@ if __name__=="__main__":
 	if dictId in meaningseparator:
 		instr = meaningseparator[dictId][0]
 		outstr = meaningseparator[dictId][1]
-	inputfile = pathToDicts+'/'+dictId+'/'+dictId+'xml/xml/'+dictId+'.xml'
+	inputfile = pathToDicts+'/'+dictId+'.xml'
 	tree = etree.parse(inputfile)
 	hw = tree.xpath("/"+dictId+"/H1/h/key1")
 	key2s = tree.xpath("/"+dictId+"/H1/h/key2")
