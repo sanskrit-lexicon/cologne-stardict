@@ -66,7 +66,7 @@ if __name__=="__main__":
 		#text = etree.tostring(entry[x], method='text', encoding='utf-8')
 		html = etree.tostring(entry[x], method='html', encoding='utf-8')
 		html = re.sub('\[Page[0-9+ abc.-]+\]','',html)
-		if dictId in ['mwe']:
+		if dictId in ['mwe','ap']:
 			html = html.replace('<lb></lb>',' ')
 		else:
 			html = html.replace('<lb></lb>','')
@@ -92,10 +92,17 @@ if __name__=="__main__":
 			html = html.replace('i. e.BREAK <i>','i.e. <i>')
 		if dictId in ['pd']:
 			html = re.sub(u'(¦[^<]*)<i>','\g<1>',html)
-		if dictId in ['bur','pd']:
 			italictext = re.findall('<i>([^<]*)</i>',html)
 			for ital in italictext:
 				rep = transcoder.transcoder_processString(ital,'as','slp1')
+				rep = rep.replace(u'ç',u'S')
+				rep = rep.replace(u'Ç',u'S')
+				rep = transcoder.transcoder_processString(rep,'slp1','deva')
+				html = html.replace('<i>'+ital+'</i>','<i>'+rep+'</i>')
+		if dictId in ['bur']:
+			italictext = re.findall('<i>([^<]*)</i>',html)
+			for ital in italictext:
+				rep = transcoder.transcoder_processString(ital,'roman','slp1')
 				rep = rep.replace(u'ç',u'S')
 				rep = rep.replace(u'Ç',u'S')
 				rep = transcoder.transcoder_processString(rep,'slp1','deva')
@@ -126,10 +133,13 @@ if __name__=="__main__":
 		if dictId in ['mwe']:
 			html = re.sub(u'[)]([^ ,.;\n])',u') \g<1>',html)
 		html = html.replace('- ','')
+		html = re.sub('[ ]+',' ',html)
 		html = html.replace('&amp;','&')
 		html = html.replace(u'î',u'ī')
 		html = html.replace(u'â',u'ā')
 		html = re.sub('[<][^>]*[>]','',html)
+		if dictId in ['ap']:
+			html = html.replace('- -','-')
 		if dictId in ['pd']:
 			html = re.sub('^[.]','',html)
 		html = html.replace('BREAK','<BR>')
