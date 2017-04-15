@@ -76,8 +76,8 @@ if __name__=="__main__":
 			html = re.sub(' <gram','BREAK<gram',html)
 			html = re.sub('([^(])<divm','BREAK\g<1><divm',html)
 		if dictId in ['sch']:
-			html = re.sub(u'\[Schµ[0-9]+\]','',html)
-			html = re.sub(u'€[0-9]+','',html)
+			html = re.sub('\[Schµ[0-9]+\]','',html)
+			html = re.sub('€[0-9]+','',html)
 		html = html.replace('<b>--Comp.</b>','BREAK<b>--Comp.</b>BREAK') # ap90
 		#print html
 		html = html.decode('utf-8')
