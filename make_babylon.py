@@ -78,6 +78,7 @@ if __name__=="__main__":
 		if dictId in ['sch']:
 			html = re.sub('\[Schµ[0-9]+\]','',html)
 			html = re.sub('€[0-9]+','',html)
+			html = html.replace(' -- ','BREAK -- ')
 		html = html.replace('<b>--Comp.</b>','BREAK<b>--Comp.</b>BREAK') # ap90
 		#print html
 		html = html.decode('utf-8')
