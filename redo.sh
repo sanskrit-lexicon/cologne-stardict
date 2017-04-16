@@ -4,3 +4,6 @@ do
 	echo 'Started' $Val 'handling'.
 	python make_babylon.py input/extracted/pywork $Val $1
 done
+
+sh move_to_stardict.sh
+
