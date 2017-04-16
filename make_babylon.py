@@ -37,7 +37,7 @@ if __name__=="__main__":
 	production = sys.argv[3]
 	#dictList = ['acc','ae','ap','ap90','ben','bhs','bop','bor','bur','cae','ccs','gra','gst','ieg','inm','krm','mci','md','mw','mw72','mwe','pd','pe','pgn','pui','pw','pwg','sch','shs','skd','snp','stc','vcp','vei','wil','yat']
 
-	meaningseparator = {'acc':('([ .])--','\g<1>BREAK --'), 'md':(';',';BREAK'), 'ap90':('<b>[-]{2}([0-9]+)</b>','BREAK<b>\g<1></b>'), 'ben':(' <b>','BREAK <b>'), 'bhs':('([(]<b>[0-9]+</b>[)])','BREAK\g<1>'), 'bor':(' <br>',' BREAK'), 'bur':(';;','BREAK'), 'cae':(';',';BREAK'), 'ccs':(';',';BREAK'), 'gra':('<P1></P1>','BREAK'), 'gst':('<P></P>','BREAK'), 'ieg':('; ',';BREAK'), 'mci':('<b>','BREAK<b>'), 'mw72':('<i>--','BREAK<i>--'), 'mwe':('.--','BREAK--'), 'ap':('</lb>[.]','</lb>BREAK'), 'pui':('</F>','</F>BREAK'), 'shs':('([).]) ([0-9nmf]+[.])','\g<1>BREAK \g<2>'), 'snp':('<P></P>','BREAK<P></P>'), 'stc':(';',';BREAK'), 'wil':(' ([mfn]+)[.]','BREAK\g<1>.'), 'yat':('<i>','BREAK<i>')}
+	meaningseparator = {'acc':('([ .])--','\g<1>BREAK --'), 'md':(';',';BREAK'), 'ap90':('<b>[-]{2}([0-9]+)</b>','BREAK<b>\g<1></b>'), 'ben':(' <b>','BREAK <b>'), 'bhs':('([(]<b>[0-9]+</b>[)])','BREAK\g<1>'), 'bor':(' <br>',' BREAK'), 'bur':(';;','BREAK'), 'cae':(';',';BREAK'), 'ccs':(';',';BREAK'), 'gra':('<P1></P1>','BREAK'), 'gst':('<P></P>','BREAK'), 'ieg':('; ',';BREAK'), 'mci':('<b>','BREAK<b>'), 'mw72':('<i>--','BREAK<i>--'), 'mwe':('.--','BREAK--'), 'ap':('<lb></lb>[.]','<lb></lb>BREAK'), 'pui':('</F>','</F>BREAK'), 'shs':('([).]) ([0-9nmf]+[.])','\g<1>BREAK \g<2>'), 'snp':('<P></P>','BREAK<P></P>'), 'stc':(';',';BREAK'), 'wil':(' ([mfn]+)[.]','BREAK\g<1>.'), 'yat':('<i>','BREAK<i>')}
 	if dictId in meaningseparator:
 		instr = meaningseparator[dictId][0]
 		outstr = meaningseparator[dictId][1]
@@ -66,7 +66,10 @@ if __name__=="__main__":
 		#text = etree.tostring(entry[x], method='text', encoding='utf-8')
 		html = etree.tostring(entry[x], method='html', encoding='utf-8')
 		html = re.sub('\[Page[0-9+ abc.-]+\]','',html)
-		if dictId in ['mwe','ap']:
+		if dictId in ['mwe']:
+			html = html.replace('<lb></lb>',' ')
+		elif dictId in ['ap']:
+			html = re.sub('<lb></lb>[.]<b>','BREAK<b>',html)
 			html = html.replace('<lb></lb>',' ')
 		else:
 			html = html.replace('<lb></lb>','')
@@ -79,6 +82,8 @@ if __name__=="__main__":
 			html = re.sub('\[Schµ[0-9]+\]','',html)
 			html = re.sub('€[0-9]+','',html)
 			html = html.replace(' -- ','BREAK -- ')
+		if dictId in ['acc']:
+			html = html.replace('<br>','BREAK\t')
 		html = html.replace('<b>--Comp.</b>','BREAK<b>--Comp.</b>BREAK') # ap90
 		if dictId in ['wil']:
 			html = html.replace('¦ ','BREAK')
@@ -88,8 +93,12 @@ if __name__=="__main__":
 		html = html.decode('utf-8')
 		if dictId in ['wil']:
 			html = html.replace(u'²',u'\t')
+		if dictId in ['ap']:
+			html = html.replace(u'.²',u'BREAK\t')
+			html = html.replace(u'.³','BREAK\t\t')
 		html = html.replace(u'<b><s>º',u'BREAK<b><s>º') # ap90
 		#print html.encode('utf-8')
+		
 		if dictId in meaningseparator and re.search(instr,html):
 			html = re.sub(instr,outstr,html)
 		html = re.sub(u'[(](<b><s>--[a-zA-Z]+</s>)',u'BREAK\g<1>',html) # ap90
