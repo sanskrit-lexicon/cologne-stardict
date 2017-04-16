@@ -37,7 +37,7 @@ if __name__=="__main__":
 	production = sys.argv[3]
 	#dictList = ['acc','ae','ap','ap90','ben','bhs','bop','bor','bur','cae','ccs','gra','gst','ieg','inm','krm','mci','md','mw','mw72','mwe','pd','pe','pgn','pui','pw','pwg','sch','shs','skd','snp','stc','vcp','vei','wil','yat']
 
-	meaningseparator = {'acc':('([ .])--','\g<1>BREAK --'), 'md':(';',';BREAK'), 'ap90':('<b>[-]{2}([0-9]+)</b>','BREAK<b>\g<1></b>'), 'ben':(' <b>','BREAK <b>'), 'bhs':('([(]<b>[0-9]+</b>[)])','BREAK\g<1>'), 'bor':(' <br>',' BREAK'), 'bur':(';;','BREAK'), 'cae':(';',';BREAK'), 'ccs':(';',';BREAK'), 'gra':('<P1></P1>','BREAK'), 'gst':('<P></P>','BREAK'), 'ieg':('; ',';BREAK'), 'mci':('<b>','BREAK<b>'), 'mw72':('<i>--','BREAK<i>--'), 'mwe':('.--','BREAK--'), 'ap':('</lb>[.]','</lb>BREAK'), 'pui':('</F>','</F>BREAK'), 'shs':('([).]) ([0-9nmf]+[.])','\g<1>BREAK \g<2>')}
+	meaningseparator = {'acc':('([ .])--','\g<1>BREAK --'), 'md':(';',';BREAK'), 'ap90':('<b>[-]{2}([0-9]+)</b>','BREAK<b>\g<1></b>'), 'ben':(' <b>','BREAK <b>'), 'bhs':('([(]<b>[0-9]+</b>[)])','BREAK\g<1>'), 'bor':(' <br>',' BREAK'), 'bur':(';;','BREAK'), 'cae':(';',';BREAK'), 'ccs':(';',';BREAK'), 'gra':('<P1></P1>','BREAK'), 'gst':('<P></P>','BREAK'), 'ieg':('; ',';BREAK'), 'mci':('<b>','BREAK<b>'), 'mw72':('<i>--','BREAK<i>--'), 'mwe':('.--','BREAK--'), 'ap':('</lb>[.]','</lb>BREAK'), 'pui':('</F>','</F>BREAK'), 'shs':('([).]) ([0-9nmf]+[.])','\g<1>BREAK \g<2>'), 'snp':('<P></P>','BREAK<P></P>')}
 	if dictId in meaningseparator:
 		instr = meaningseparator[dictId][0]
 		outstr = meaningseparator[dictId][1]
@@ -94,8 +94,8 @@ if __name__=="__main__":
 		if dictId in ['ben']:
 			html = html.replace(' <i>','BREAK <i>')
 			html = html.replace('i. e.BREAK <i>','i.e. <i>')
-		if dictId in ['pd']:
-			html = re.sub(u'(¦[^<]*)<i>','\g<1>',html)
+		if dictId in ['pd','snp']:
+			html = re.sub(u'(¦[^<]*)<i>','\g<1>',html) # pd
 			italictext = re.findall('<i>([^<]*)</i>',html)
 			for ital in italictext:
 				rep = transcoder.transcoder_processString(ital,'as','slp1')
