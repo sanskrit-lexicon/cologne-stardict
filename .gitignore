@@ -1,0 +1,7 @@
+output/*
+input/*
+production/*
+analyse/*
+log.txt
+*.pyc
+
