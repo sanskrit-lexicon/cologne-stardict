@@ -102,12 +102,14 @@ if __name__=="__main__":
 		if dictId in meaningseparator and re.search(instr,html):
 			html = re.sub(instr,outstr,html)
 		html = re.sub(u'[(](<b><s>--[a-zA-Z]+</s>)',u'BREAK\g<1>',html) # ap90
+		if dictId in ['ben']:
+			html = html.replace(u'¤10',u'') # BEN usually has dIrga mentioned and hrasva being mentioned by breve.
 		sanskrittext = re.findall('<s>([^<]*)</s>',html)
 		html = re.sub(u'(<s>--[a-zA-Z]+</s>)',u'BREAK\g<1>',html) # ap90
 		for sans in sanskrittext:
 			html = html.replace('<s>'+sans+'</s>','<s>'+transcoder.transcoder_processString(sans,'slp1','deva')+'</s>')
 		if dictId in ['ben']:
-			html = html.replace(' <i>','BREAK <i>')
+			html = re.sub('<i>([^<]*[-][,])</i>','BREAK<i>\g<1></i>',html)
 			html = html.replace('i. e.BREAK <i>','i.e. <i>')
 		if dictId in ['pd']:
 			html = re.sub(u'(¦[^<]*)<i>','\g<1>',html) # pd
@@ -136,6 +138,18 @@ if __name__=="__main__":
 				rep = transcoder.transcoder_processString(rep,'slp1','deva')
 				html = html.replace('<body><b>'+ital+'</b>','<body><b>'+rep+'</b>BREAK')
 				html = re.sub(u'<body><b>([^<]*)।</b>',u'<body><b>\g<1></b>',html) # vei
+		if dictId in ['ben']:
+			italictext = re.findall('<i>([^<]*)</i>',html)
+			for ital in italictext:
+				rep = ital.lower()
+				rep = rep.replace('ch','c')
+				rep = rep.replace('sh','z')
+				rep = transcoder.transcoder_processString(rep,'as','slp1')
+				rep = rep.replace(u'ç',u'S')
+				rep = rep.replace(u'Ç',u'S')
+				rep = transcoder.transcoder_processString(rep,'slp1','deva')
+				html = html.replace('<i>'+ital+'</i>','<i>'+rep+'</i>')
+				#html = re.sub('<i>([^<]*[-][,])</i>','BREAK<i>\g<1></i>',html)
 		if dictId in ['acc','ap90','ben','bhs','bur','cae','ccs','gra','gst','ieg','inm','mci','mw72','pd','pe','pgn','pui','pwg']:
 			html = transcoder.transcoder_processString(html,'as','roman')
 			html = html.replace(u'ç',u'ś')
@@ -154,6 +168,7 @@ if __name__=="__main__":
 			html = html.replace('<s>(</s>','(')
 			html = html.replace('<s>) </s>',') ')
 			html = html.replace(u'ṛi',u'ṛ')
+			
 		if dictId in ['bur']:
 			html = html.replace(u'|',u'')
 		if dictId in ['cae']:
