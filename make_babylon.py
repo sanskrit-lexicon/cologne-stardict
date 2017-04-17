@@ -120,10 +120,18 @@ if __name__=="__main__":
 				rep = rep.replace(u'Ç',u'S')
 				rep = transcoder.transcoder_processString(rep,'slp1','deva')
 				html = html.replace('<i>'+ital+'</i>','<i>'+rep+'</i>')
-		if dictId in ['bur','snp','stc']:
+		if dictId in ['bur','stc']:
 			italictext = re.findall('<i>([^<]*)</i>',html)
 			for ital in italictext:
 				rep = transcoder.transcoder_processString(ital,'roman','slp1')
+				rep = rep.replace(u'ç',u'S')
+				rep = rep.replace(u'Ç',u'S')
+				rep = transcoder.transcoder_processString(rep,'slp1','deva')
+				html = html.replace('<i>'+ital+'</i>','<i>'+rep+'</i>')
+		if dictId in ['snp']:
+			italictext = re.findall('<i>([^<]*)</i>',html)
+			for ital in italictext:
+				rep = transcoder.transcoder_processString(ital,'as','slp1')
 				rep = rep.replace(u'ç',u'S')
 				rep = rep.replace(u'Ç',u'S')
 				rep = transcoder.transcoder_processString(rep,'slp1','deva')
@@ -150,7 +158,7 @@ if __name__=="__main__":
 				rep = transcoder.transcoder_processString(rep,'slp1','deva')
 				html = html.replace('<i>'+ital+'</i>','<i>'+rep+'</i>')
 				#html = re.sub('<i>([^<]*[-][,])</i>','BREAK<i>\g<1></i>',html)
-		if dictId in ['acc','ap90','ben','bhs','bur','cae','ccs','gra','gst','ieg','inm','mci','mw72','pd','pe','pgn','pui','pwg']:
+		if dictId in ['acc','ap90','ben','bhs','bur','cae','ccs','gra','gst','ieg','inm','mci','mw72','pd','pe','pgn','pui','pwg','vei']:
 			html = transcoder.transcoder_processString(html,'as','roman')
 			html = html.replace(u'ç',u'ś')
 			html = html.replace(u'Ç',u'Ś')
