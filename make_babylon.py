@@ -14,29 +14,33 @@ import datetime
 def timestamp():
 	return datetime.datetime.now()
 
-def add_tags1(x):
-	global prevsutra
-	m = re.search(u'^(.*)॥([१२३४५६७८९०। /-]*)॥',x)
-	sutra = m.group(1).strip()
-	num = m.group(2).strip()
-	current_sutra = num.split(u'।')
-	print current_sutra
-	if len(current_sutra) != 3:
-		print current_sutra
-		prevsutra = current_sutra
-		exit(0)
-	result = '\n\n'+num+'|'+sutra+'|'+sutra+' '+num+'|'+num+' '+sutra+'\n'+sutra+' '+num+' <BR> '
-	result = result.replace(u'।','.')
-	return result
-
-	
+# Function to read normalized headwords (hwnorm1c.txt) into a dict
+# Returns a dict with headword as key and the list of associated headwords as value.
+def readhwnorm1c():
+	fin = codecs.open('input/hwnorm1c.txt','r','utf-8')
+	lines = fin.readlines()
+	output = {}
+	for line in lines:
+		line = line.strip()
+		chunks = line.split(';')
+		words = []
+		if len(chunks) > 1:
+			baseword = chunks[0].split(':')[0]
+			for chunk in chunks[1:]:
+				worddictsep = chunk.split(':')
+				word = worddictsep[0]
+				output[word] = [baseword,word]
+	return output
 
 if __name__=="__main__":
 	pathToDicts = sys.argv[1]
 	dictId = sys.argv[2]
 	production = sys.argv[3]
 	#dictList = ['acc','ae','ap','ap90','ben','bhs','bop','bor','bur','cae','ccs','gra','gst','ieg','inm','krm','mci','md','mw','mw72','mwe','pd','pe','pgn','pui','pw','pwg','sch','shs','skd','snp','stc','vcp','vei','wil','yat']
-
+	
+	# Read a list of normalized headwords. See https://github.com/sanskrit-coders/stardict-sanskrit/issues/66.
+	hwnormlist = readhwnorm1c()
+	
 	meaningseparator = {'acc':('([ .])--','\g<1>BREAK --'), 'md':(';',';BREAK'), 'ap90':('<b>[-]{2}([0-9]+)</b>','BREAK<b>\g<1></b>'), 'ben':(' <b>','BREAK <b>'), 'bhs':('([(]<b>[0-9]+</b>[)])','BREAK\g<1>'), 'bor':(' <br>',' BREAK'), 'bur':(';;','BREAK'), 'cae':(';',';BREAK'), 'ccs':(';',';BREAK'), 'gra':('<P1></P1>','BREAK'), 'gst':('<P></P>','BREAK'), 'ieg':('; ',';BREAK'), 'mci':('<b>','BREAK<b>'), 'mw72':('<i>--','BREAK<i>--'), 'mwe':('.--','BREAK--'), 'ap':('<lb></lb>[.]','<lb></lb>BREAK'), 'pui':('</F>','</F>BREAK'), 'shs':('([).]) ([0-9nmf]+[.])','\g<1>BREAK \g<2>'), 'snp':('<P></P>','BREAK<P></P>'), 'stc':(';',';BREAK'), 'wil':(' ([mfn]+)[.]','BREAK\g<1>.'), 'yat':('<i>','BREAK<i>')}
 	if dictId in meaningseparator:
 		instr = meaningseparator[dictId][0]
@@ -58,15 +62,22 @@ if __name__=="__main__":
 		if counter % 1000 == 0:
 			print counter
 		counter += 1
-		#print heading1
+		if heading1 in hwnormlist and dictId in ['skd']:
+			possibleheadings = hwnormlist[heading1]
+		else:
+			possibleheadings = [heading1]
+		"""
+		if len(possibleheadings) > 1:
+			print possibleheadings
+		"""
 		if dictId not in ['ae','mwe','bor']:
-			heading = transcoder.transcoder_processString(heading1,'slp1','deva')
+			heading = '|'.join([transcoder.transcoder_processString(head,'slp1','deva') for head in possibleheadings])
 		else:
 			heading = heading1
 		#text = etree.tostring(entry[x], method='text', encoding='utf-8')
 		html = etree.tostring(entry[x], method='html', encoding='utf-8')
 		html = re.sub('\[Page[0-9+ abc.-]+\]','',html)
-		if dictId in ['mwe']:
+		if dictId in ['mwe','skd']:
 			html = html.replace('<lb></lb>',' ')
 		elif dictId in ['ap']:
 			html = re.sub('<lb></lb>[.]<b>','BREAK<b>',html)
@@ -120,7 +131,7 @@ if __name__=="__main__":
 				rep = rep.replace(u'Ç',u'S')
 				rep = transcoder.transcoder_processString(rep,'slp1','deva')
 				html = html.replace('<i>'+ital+'</i>','<i>'+rep+'</i>')
-		if dictId in ['bur','stc']:
+		if dictId in ['bur']:
 			italictext = re.findall('<i>([^<]*)</i>',html)
 			for ital in italictext:
 				rep = transcoder.transcoder_processString(ital,'roman','slp1')
@@ -128,7 +139,7 @@ if __name__=="__main__":
 				rep = rep.replace(u'Ç',u'S')
 				rep = transcoder.transcoder_processString(rep,'slp1','deva')
 				html = html.replace('<i>'+ital+'</i>','<i>'+rep+'</i>')
-		if dictId in ['snp']:
+		if dictId in ['snp','stc']:
 			italictext = re.findall('<i>([^<]*)</i>',html)
 			for ital in italictext:
 				rep = transcoder.transcoder_processString(ital,'as','slp1')
@@ -179,6 +190,9 @@ if __name__=="__main__":
 			
 		if dictId in ['bur']:
 			html = html.replace(u'|',u'')
+		if dictId in ['stc']:
+			html = transcoder.transcoder_processString(html,'as','roman')
+			html = html.replace('|','')
 		if dictId in ['cae']:
 			html = html.replace(u'·',u'')
 		if dictId in ['gst']:
