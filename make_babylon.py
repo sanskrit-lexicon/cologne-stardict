@@ -29,7 +29,8 @@ def readhwnorm1c():
 			for chunk in chunks[1:]:
 				worddictsep = chunk.split(':')
 				word = worddictsep[0]
-				output[word] = [baseword,word]
+				dicts = worddictsep[-1].split(',')
+				output[word] = ([baseword,word],dicts)
 	return output
 
 if __name__=="__main__":
@@ -62,8 +63,9 @@ if __name__=="__main__":
 		if counter % 1000 == 0:
 			print counter
 		counter += 1
-		if heading1 in hwnormlist and dictId in ['skd']:
-			possibleheadings = hwnormlist[heading1]
+		if heading1 in hwnormlist and dictId.upper() in hwnormlist[heading1][1]:
+			possibleheadings = hwnormlist[heading1][0]
+			print possibleheadings
 		else:
 			possibleheadings = [heading1]
 		"""
@@ -77,7 +79,7 @@ if __name__=="__main__":
 		#text = etree.tostring(entry[x], method='text', encoding='utf-8')
 		html = etree.tostring(entry[x], method='html', encoding='utf-8')
 		html = re.sub('\[Page[0-9+ abc.-]+\]','',html)
-		if dictId in ['mwe','skd']:
+		if dictId in ['mwe','skd','vcp']:
 			html = html.replace('<lb></lb>',' ')
 		elif dictId in ['ap']:
 			html = re.sub('<lb></lb>[.]<b>','BREAK<b>',html)
