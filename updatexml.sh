@@ -11,3 +11,7 @@ do
 echo "unzipping "$DICT"_xml.zip ..."
 unzip -o ../zips/"$DICT"_xml.zip
 done
+
+echo "Copying latest hwnorm1c.txt file."
+echo "It presumes that the hwnorm1 repository is sibling of cologne-stardict repository."
+cp ../hwnorm1/ejf/hwnorm1c/hwnorm1c.txt input/hwnorm1c.txt
