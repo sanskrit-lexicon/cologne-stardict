@@ -30,7 +30,9 @@ def readhwnorm1c():
 				worddictsep = chunk.split(':')
 				word = worddictsep[0]
 				dicts = worddictsep[-1].split(',')
-				output[word] = ([baseword,word],dicts)
+				if not baseword == word:
+					result = [baseword,word]
+					output[word] = (result,dicts)
 	return output
 
 if __name__=="__main__":
