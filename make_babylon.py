@@ -35,12 +35,19 @@ def readhwnorm1c():
 					output[word] = (result,dicts)
 	return output
 
+def licencetext(dictId):
+	fin = codecs.open('../Cologne_localcopy/'+dictId+'/'+dictId+'txt/'+dictId+'header.xml','r','utf-8')
+	data = fin.read()
+	fin.close()
+	return data
 if __name__=="__main__":
 	pathToDicts = sys.argv[1]
 	dictId = sys.argv[2]
 	production = sys.argv[3]
 	#dictList = ['acc','ae','ap','ap90','ben','bhs','bop','bor','bur','cae','ccs','gra','gst','ieg','inm','krm','mci','md','mw','mw72','mwe','pd','pe','pgn','pui','pw','pwg','sch','shs','skd','snp','stc','vcp','vei','wil','yat']
 	
+	licence = licencetext(dictId).encode('utf-8').strip()
+	licence = licence.replace('\n','<BR>')
 	# Read a list of normalized headwords. See https://github.com/sanskrit-coders/stardict-sanskrit/issues/66.
 	hwnormlist = readhwnorm1c()
 	
@@ -57,6 +64,11 @@ if __name__=="__main__":
 		outputfile = codecs.open('output/'+dictId+'.babylon','w','utf-8')
 	elif production == '1':
 		outputfile = codecs.open('production/'+dictId+'.babylon','w','utf-8')
+		
+	# Write licence text
+	outputfile.write('LICENCE\n')
+	outputfile.write(licence+'\n\n')
+
 	counter = 0
 	for x in xrange(len(hw)):
 		heading1 = etree.tostring(hw[x], method='text', encoding='utf-8')
