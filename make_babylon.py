@@ -139,7 +139,7 @@ if __name__=="__main__":
 			html = re.sub('<i>([^<]*[-][,])</i>','BREAK<i>\g<1></i>',html)
 			html = html.replace('i. e.BREAK <i>','i.e. <i>')
 		if dictId in ['ae']:
-			html = re.sub('<i>-(.*)</b>','BREAK\t<i>\g<1></i>',html)
+			html = re.sub('<i>-(.*)</i>','BREAK\t<i>\g<1></i>',html)
 			html = re.sub('<b>([0-9]+)</b>','BREAK\t\t<b>\g<1></b>',html)
 		if dictId in ['pd']:
 			html = re.sub(u'(¦[^<]*)<i>','\g<1>',html) # pd
@@ -228,6 +228,8 @@ if __name__=="__main__":
 			html = html.replace('- -','-')
 		if dictId in ['pd']:
 			html = re.sub('^[.]','',html)
+		if dictId in ['ae']:
+			html = html.replace('- -','') # अंगीकार- -द्योतक
 		html = html.replace('BREAK','<BR>')
 		if dictId in ['pw','pwg']:
 			html = transcoder.transcoder_processString(key2,'slp1','deva')+'<BR>'+html
