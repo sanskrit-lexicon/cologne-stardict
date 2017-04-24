@@ -51,7 +51,7 @@ if __name__=="__main__":
 	# Read a list of normalized headwords. See https://github.com/sanskrit-coders/stardict-sanskrit/issues/66.
 	hwnormlist = readhwnorm1c()
 	
-	meaningseparator = {'acc':('([ .])--','\g<1>BREAK --'), 'md':(';',';BREAK'), 'ap90':('<b>[-]{2}([0-9]+)</b>','BREAK<b>\g<1></b>'), 'ben':(' <b>','BREAK <b>'), 'bhs':('([(]<b>[0-9]+</b>[)])','BREAK\g<1>'), 'bor':(' <br>',' BREAK'), 'bur':(';;','BREAK'), 'cae':(';',';BREAK'), 'ccs':(';',';BREAK'), 'gra':('<P1></P1>','BREAK'), 'gst':('<P></P>','BREAK'), 'ieg':('; ',';BREAK'), 'mci':('<b>','BREAK<b>'), 'mw72':('<i>--','BREAK<i>--'), 'mwe':('.--','BREAK--'), 'ap':('<lb></lb>[.]','<lb></lb>BREAK'), 'pui':('</F>','</F>BREAK'), 'shs':('([).]) ([0-9nmf]+[.])','\g<1>BREAK \g<2>'), 'snp':('<P></P>','BREAK<P></P>'), 'stc':(';',';BREAK'), 'wil':(' ([mfn]+)[.]','BREAK\g<1>.'), 'yat':('<i>','BREAK<i>')}
+	meaningseparator = {'acc':('([ .])--','\g<1>BREAK --'), 'md':(';',';BREAK'), 'ap90':('<b>[-]{2}([0-9]+)</b>','BREAK<b>\g<1></b>'), 'ben':(' <b>','BREAK <b>'), 'bhs':('([(]<b>[0-9]+</b>[)])','BREAK\g<1>'), 'bor':(' <br>',' BREAK'), 'bur':(';;','BREAK'), 'cae':(';',';BREAK'), 'ccs':(';',';BREAK'), 'gra':('<P1></P1>','BREAK'), 'gst':('<P></P>','BREAK'), 'ieg':('; ',';BREAK'), 'mci':('<b>','BREAK<b>'), 'mw72':('<i>--','BREAK<i>--'), 'mwe':('.--','BREAK--'), 'ap':('<lb></lb>[.]','<lb></lb>BREAK'), 'pui':('</F>','</F>BREAK'), 'shs':('([).]) ([0-9nmf]+[.])','\g<1>BREAK \g<2>'), 'snp':('<P></P>','BREAK<P></P>'), 'stc':(';',';BREAK'), 'wil':(' ([mfn]+)[.]','BREAK\g<1>.'), 'yat':('<i>','BREAK<i>'), 'ae':('<b>-','BREAK<b>-')}
 	if dictId in meaningseparator:
 		instr = meaningseparator[dictId][0]
 		outstr = meaningseparator[dictId][1]
@@ -138,6 +138,9 @@ if __name__=="__main__":
 		if dictId in ['ben']:
 			html = re.sub('<i>([^<]*[-][,])</i>','BREAK<i>\g<1></i>',html)
 			html = html.replace('i. e.BREAK <i>','i.e. <i>')
+		if dictId in ['ae']:
+			html = re.sub('<i>-(.*)</b>','BREAK\t<i>\g<1></i>',html)
+			html = re.sub('<b>([0-9]+)</b>','BREAK\t\t<b>\g<1></b>',html)
 		if dictId in ['pd']:
 			html = re.sub(u'(¦[^<]*)<i>','\g<1>',html) # pd
 			italictext = re.findall('<i>([^<]*)</i>',html)
