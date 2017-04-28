@@ -1,5 +1,5 @@
-output/*
-input/*
+input/zips/*
+input/extracted/*
 production/*
 analyse/*
 log.txt
