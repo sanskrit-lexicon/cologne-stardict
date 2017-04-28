@@ -125,8 +125,11 @@ if __name__=="__main__":
 		if dictId in ['wil']:
 			html = html.replace(u'²',u'\t')
 		if dictId in ['ap']:
-			html = html.replace(u'.²',u'BREAK\t')
+			html = html.replace(u'.²',u'BREAK\t') # Earlier version
 			html = html.replace(u'.³','BREAK\t\t')
+			html = re.sub(u'<div n="[?]"[^>]*>','BREAK',html) # New version of AP after https://github.com/sanskrit-lexicon/Cologne/issues/113
+			html = re.sub(u'<div n="2"[^>]*>','BREAK\t',html)
+			html = re.sub(u'<div n="3"[^>]*>','BREAK\t\t',html)
 		html = html.replace(u'<b><s>º',u'BREAK<b><s>º') # ap90
 		#print html.encode('utf-8')
 		
