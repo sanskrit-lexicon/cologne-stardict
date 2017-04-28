@@ -1,13 +1,18 @@
 <fsm start='INIT'>
 
+<e><s>INIT</s><in>a10</in><out>A</out></e>
 <e><s>INIT</s><in>a1</in><out>A</out></e>
+<e><s>INIT</s><in>i10</in><out>I</out></e>
 <e><s>INIT</s><in>i1</in><out>I</out></e>
+<e><s>INIT</s><in>u10</in><out>U</out></e>
 <e><s>INIT</s><in>u1</in><out>U</out></e>
+<e><s>INIT</s><in>r2i</in><out>f</out></e>
 <e><s>INIT</s><in>r2</in><out>f</out></e>
 <e><s>INIT</s><in>r21</in><out>F</out></e>
 <e><s>INIT</s><in>l2</in><out>x</out></e>
 <e><s>INIT</s><in>au</in><out>O</out></e>
 <e><s>INIT</s><in>ai</in><out>E</out></e>
+<e><s>INIT</s><in>m5</in><out>M</out></e>
 <e><s>INIT</s><in>m2</in><out>M</out></e>
 <e><s>INIT</s><in>h2</in><out>H</out></e>
 
@@ -17,6 +22,7 @@
 
 <e><s>INIT</s><in>ch</in><out>C</out></e>
 <e><s>INIT</s><in>jh</in><out>J</out></e>
+<e><s>INIT</s><in>n4</in><out>Y</out></e>
 <e><s>INIT</s><in>n5</in><out>Y</out></e>
 
 <e><s>INIT</s><in>d2</in><out>q</out></e>
