@@ -40,6 +40,7 @@ def licencetext(dictId):
 	data = fin.read()
 	fin.close()
 	return data
+
 if __name__=="__main__":
 	pathToDicts = sys.argv[1]
 	dictId = sys.argv[2]
@@ -239,4 +240,3 @@ if __name__=="__main__":
 		outputfile.write(heading+'\n')
 		outputfile.write(html+'\n\n')
 	outputfile.close()
-		
