@@ -67,7 +67,7 @@ if __name__=="__main__":
 		outputfile = codecs.open('production/'+dictId+'.babylon','w','utf-8')
 		
 	# Write licence text
-	outputfile.write('LICENCE\n')
+	outputfile.write('LICENCE.xml\n')
 	outputfile.write(unicode(licence)+u'\n\n')
 
 	counter = 0
