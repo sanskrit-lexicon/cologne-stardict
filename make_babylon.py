@@ -1,11 +1,12 @@
 # This Python file uses the following encoding: utf-8
 """
 Usage:
-python make_babylon.py pathToDicts dictId
+python make_babylon.py pathToDicts dictId [0/1]
+0 for viewing (\n line break), 1 for production (More HTML like line break)
 e.g.
-python make_babylon.py ../../Cologne_localcopy md
+python make_babylon.py input/extracted/pywork md 1
 """
-import re,codecs,sys,os.path
+import re,codecs,sys
 from lxml import etree
 import transcoder
 import datetime
@@ -35,34 +36,33 @@ def readhwnorm1c():
 					output[word] = (result,dicts)
 	return output
 
-def licencetext(licencefile):
-	if os.path.isfile(licencefile):
-		fin = codecs.open(licencefile,'r','utf-8')
-		data = fin.read()
-		fin.close()
-		return data
-	else:
-		return 'Not specified.'
-
+def licencetext(dictId):
+	fin = codecs.open('../Cologne_localcopy/'+dictId+'/'+dictId+'txt/'+dictId+'header.xml','r','utf-8')
+	data = fin.read()
+	fin.close()
+	return data
+	
 if __name__=="__main__":
 	pathToDicts = sys.argv[1]
 	dictId = sys.argv[2]
 	production = sys.argv[3]
 	#dictList = ['acc','ae','ap','ap90','ben','bhs','bop','bor','bur','cae','ccs','gra','gst','ieg','inm','krm','mci','md','mw','mw72','mwe','pd','pe','pgn','pui','pw','pwg','sch','shs','skd','snp','stc','vcp','vei','wil','yat']
 	
+	#licence = licencetext(dictId).strip()
+	#licence = licence.replace('\n','<BR>')
+	
 	# Read a list of normalized headwords. See https://github.com/sanskrit-coders/stardict-sanskrit/issues/66.
 	hwnormlist = readhwnorm1c()
-	
+	lnumEntryDict = {}
 	meaningseparator = {'acc':('([ .])--','\g<1>BREAK --'), 'md':(';',';BREAK'), 'ap90':('<b>[-]{2}([0-9]+)</b>','BREAK<b>\g<1></b>'), 'ben':(' <b>','BREAK <b>'), 'bhs':('([(]<b>[0-9]+</b>[)])','BREAK\g<1>'), 'bor':(' <br>',' BREAK'), 'bur':(';;','BREAK'), 'cae':(';',';BREAK'), 'ccs':(';',';BREAK'), 'gra':('<P1></P1>','BREAK'), 'gst':('<P></P>','BREAK'), 'ieg':('; ',';BREAK'), 'mci':('<b>','BREAK<b>'), 'mw72':('<i>--','BREAK<i>--'), 'mwe':('.--','BREAK--'), 'ap':('<lb></lb>[.]','<lb></lb>BREAK'), 'pui':('</F>','</F>BREAK'), 'shs':('([).]) ([0-9nmf]+[.])','\g<1>BREAK \g<2>'), 'snp':('<P></P>','BREAK<P></P>'), 'stc':(';',';BREAK'), 'wil':(' ([mfn]+)[.]','BREAK\g<1>.'), 'yat':('<i>','BREAK<i>'), 'ae':('<b>-','BREAK<b>-')}
 	if dictId in meaningseparator:
 		instr = meaningseparator[dictId][0]
 		outstr = meaningseparator[dictId][1]
 	inputfile = pathToDicts+'/'+dictId+'.xml'
-	licence = licencetext(pathToDicts+'/'+dictId+'header.xml').strip()
-	licence = licence.replace('\n','<BR>')
 	tree = etree.parse(inputfile)
 	hw = tree.xpath("/"+dictId+"/H1/h/key1")
 	key2s = tree.xpath("/"+dictId+"/H1/h/key2")
+	lnum = tree.xpath("/"+dictId+"/H1/tail/L")
 	entry =  tree.xpath("/"+dictId+"/H1/body")
 	if production == '0':
 		outputfile = codecs.open('output/'+dictId+'.babylon','w','utf-8')
@@ -70,20 +70,22 @@ if __name__=="__main__":
 		outputfile = codecs.open('production/'+dictId+'.babylon','w','utf-8')
 		
 	# Write licence text
-	outputfile.write('LICENCE\n')
-	outputfile.write(unicode(licence)+u'\n\n')
+	#outputfile.write('LICENCE.xml\n')
+	#outputfile.write(unicode(licence)+u'\n\n')
 
 	counter = 0
 	for x in xrange(len(hw)):
 		heading1 = etree.tostring(hw[x], method='text', encoding='utf-8')
 		key2 = etree.tostring(key2s[x], method='text', encoding='utf-8')
 		key2 = key2.decode('utf-8')
+		ln = etree.tostring(lnum[x], method='text', encoding='utf-8')
+		lnumEntryDict[ln] = etree.tostring(entry[x], method='html', encoding='utf-8')
+		
 		if counter % 1000 == 0:
 			print counter
 		counter += 1
 		if heading1 in hwnormlist and dictId.upper() in hwnormlist[heading1][1]:
 			possibleheadings = hwnormlist[heading1][0]
-			print possibleheadings
 		else:
 			possibleheadings = [heading1]
 		"""
@@ -94,8 +96,16 @@ if __name__=="__main__":
 			heading = '|'.join([transcoder.transcoder_processString(head,'slp1','deva') for head in possibleheadings])
 		else:
 			heading = heading1
+			
+		if '.' in ln:
+			parentLn = ln.split('.')[0]
+			html = lnumEntryDict[parentLn]
+		else:
+			html = lnumEntryDict[ln]
+		# OLD ONE STARTS
 		#text = etree.tostring(entry[x], method='text', encoding='utf-8')
-		html = etree.tostring(entry[x], method='html', encoding='utf-8')
+		#html = etree.tostring(entry[x], method='html', encoding='utf-8')
+		# OLD ONE ENDS
 		html = re.sub('\[Page[0-9+ abc.-]+\]','',html)
 		if dictId in ['mwe','skd','vcp']:
 			html = html.replace('<lb></lb>',' ')
@@ -125,11 +135,8 @@ if __name__=="__main__":
 		if dictId in ['wil']:
 			html = html.replace(u'²',u'\t')
 		if dictId in ['ap']:
-			html = html.replace(u'.²',u'BREAK\t') # Earlier version
+			html = html.replace(u'.²',u'BREAK\t')
 			html = html.replace(u'.³','BREAK\t\t')
-			html = re.sub(u'<div n="[?]"[^>]*>','BREAK',html) # New version of AP after https://github.com/sanskrit-lexicon/Cologne/issues/113
-			html = re.sub(u'<div n="2"[^>]*>','BREAK\t',html)
-			html = re.sub(u'<div n="3"[^>]*>','BREAK\t\t',html)
 		html = html.replace(u'<b><s>º',u'BREAK<b><s>º') # ap90
 		#print html.encode('utf-8')
 		
