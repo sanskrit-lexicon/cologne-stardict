@@ -6,5 +6,5 @@ dictList=(acc ae ap ap90 ben bhs bop bor bur cae ccs gra gst ieg inm krm mci md 
 for Val in "${dictList[@]}"
 do
 	echo 'Started' $Val 'handling'.
-	python make_babylon.py input/extracted/pywork $Val $1
+	python27 make_babylon.py input/extracted/pywork $Val $1
 done
