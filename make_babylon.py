@@ -112,23 +112,20 @@ if __name__=="__main__":
 			html = html.replace('<lb></lb>',' ')
 		else:
 			html = html.replace('<lb></lb>','')
-		if dictId in ['snp', 'stc']:
-			html = html.replace('<div n="P">', 'BREAK<div n="P">')
+		# If there are built in divs signifying breaks, add breaks there.
+		html = html.replace('<div n="P">', 'BREAK<div n="P">')
+		html = re.sub(' <gram','BREAK<gram',html)
+		html = re.sub('([^(])<divm','BREAK\g<1><divm',html)
+		html = re.sub('<div n="1"', 'BREAK<div n="1"', html)
+		html = re.sub('<div n="2"', 'BREAK\t<div n="2"', html)
+		html = re.sub('<div n="3"', 'BREAK\t\t<div n="3"', html)
+		html = re.sub('<div n="4"', 'BREAK\t\t\t<div n="4"', html)
 		if dictId in ['pd']:
 			html = html.replace('<br>','')
-		if dictId in ['pw','pwg', 'wil']:
-			html = re.sub(' <gram','BREAK<gram',html)
-			html = re.sub('([^(])<divm','BREAK\g<1><divm',html)
-			html = re.sub('<div n="1"', 'BREAK<div n="1"', html)
-			html = re.sub('<div n="2"', 'BREAK\t<div n="2"', html)
-			html = re.sub('<div n="3"', 'BREAK\t\t<div n="3"', html)
-			html = re.sub('<div n="4"', 'BREAK\t\t\t<div n="4"', html)
 		if dictId in ['sch']:
 			html = re.sub('\[Schµ[0-9]+\]','',html)
 			html = re.sub('€[0-9]+','',html)
 			html = html.replace(' -- ','BREAK -- ')
-		if dictId in ['acc']:
-			html = html.replace('<br>','BREAK\t')
 		html = html.replace('<b>--Comp.</b>','BREAK<b>--Comp.</b>BREAK') # ap90
 		if dictId in ['wil']:
 			html = html.replace('¦ ','BREAK')
@@ -139,8 +136,9 @@ if __name__=="__main__":
 		if dictId in ['wil']:
 			html = html.replace(u'²',u'\t')
 		if dictId in ['ap']:
-			html = html.replace(u'.²',u'BREAK\t')
-			html = html.replace(u'.³','BREAK\t\t')
+			html = html.replace(u'(-<i>',u'-(<i>')
+			html = html.replace(u'<i>','BREAK<i>')
+			html = html.replace('<b>','BREAK<b>')
 		html = html.replace(u'<b><s>º',u'BREAK<b><s>º') # ap90
 		if dictId in ['pd']:
 			html = html.replace('<b>','BREAK<b>')
