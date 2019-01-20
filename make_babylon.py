@@ -74,7 +74,7 @@ if __name__=="__main__":
 	#outputfile.write(unicode(licence)+u'\n\n')
 
 	counter = 0
-	for x in xrange(len(hw)):
+	for x in range(len(hw)):
 		heading1 = etree.tostring(hw[x], method='text', encoding='utf-8')
 		key2 = etree.tostring(key2s[x], method='text', encoding='utf-8')
 		key2 = key2.decode('utf-8')
@@ -82,16 +82,16 @@ if __name__=="__main__":
 		lnumEntryDict[ln] = etree.tostring(entry[x], method='html', encoding='utf-8')
 		
 		if counter % 1000 == 0:
-			print counter
+			print(counter)
 		counter += 1
 		if heading1 in hwnormlist and dictId.upper() in hwnormlist[heading1][1]:
 			possibleheadings = hwnormlist[heading1][0]
-			print possibleheadings
+			print(possibleheadings)
 		else:
 			possibleheadings = [heading1]
 		"""
 		if len(possibleheadings) > 1:
-			print possibleheadings
+			print(possibleheadings)
 		"""
 		if dictId not in ['ae','mwe','bor']:
 			heading = '|'.join([transcoder.transcoder_processString(head,'slp1','deva') for head in possibleheadings])
