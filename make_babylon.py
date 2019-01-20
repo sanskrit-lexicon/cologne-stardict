@@ -112,6 +112,8 @@ if __name__=="__main__":
 			html = html.replace('<lb></lb>',' ')
 		else:
 			html = html.replace('<lb></lb>','')
+		if dictId in ['snp']:
+			html = html.replace('<div n="P">', 'BREAK<div n="P">')
 		if dictId in ['pd']:
 			html = html.replace('<br>','')
 		if dictId in ['pw','pwg']:
