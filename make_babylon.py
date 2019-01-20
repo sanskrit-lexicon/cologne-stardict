@@ -227,7 +227,7 @@ if __name__=="__main__":
 		if dictId in ['ae']:
 			html = html.replace('- -','') # अंगीकार- -द्योतक
 		html = html.replace('BREAK','<BR>')
-		if dictId in ['pw','pwg']:
+		if dictId in ['pw','pwg','gra']:
 			html = transcoder.transcoder_processString(key2,'slp1','deva')+'<BR>'+html
 		html = html.replace('<BR><BR>','<BR>')
 		if production == '0':
