@@ -116,7 +116,7 @@ if __name__=="__main__":
 			html = html.replace('<div n="P">', 'BREAK<div n="P">')
 		if dictId in ['pd']:
 			html = html.replace('<br>','')
-		if dictId in ['pw','pwg']:
+		if dictId in ['pw','pwg', 'wil']:
 			html = re.sub(' <gram','BREAK<gram',html)
 			html = re.sub('([^(])<divm','BREAK\g<1><divm',html)
 			html = re.sub('<div n="1"', 'BREAK<div n="1"', html)
