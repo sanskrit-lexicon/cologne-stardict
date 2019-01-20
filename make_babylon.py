@@ -98,11 +98,7 @@ if __name__=="__main__":
 		else:
 			heading = heading1
 			
-		if '.' in ln:
-			parentLn = ln.split('.')[0]
-			html = lnumEntryDict[parentLn]
-		else:
-			html = lnumEntryDict[ln]
+		html = lnumEntryDict[ln]
 		# OLD ONE STARTS
 		#text = etree.tostring(entry[x], method='text', encoding='utf-8')
 		#html = etree.tostring(entry[x], method='html', encoding='utf-8')
