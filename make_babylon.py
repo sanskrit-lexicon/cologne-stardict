@@ -117,6 +117,10 @@ if __name__=="__main__":
 		if dictId in ['pw','pwg']:
 			html = re.sub(' <gram','BREAK<gram',html)
 			html = re.sub('([^(])<divm','BREAK\g<1><divm',html)
+			html = re.sub('<div n="1"', 'BREAK<div n="1"', html)
+			html = re.sub('<div n="2"', 'BREAK\t<div n="2"', html)
+			html = re.sub('<div n="3"', 'BREAK\t\t<div n="3"', html)
+			html = re.sub('<div n="4"', 'BREAK\t\t\t<div n="4"', html)
 		if dictId in ['sch']:
 			html = re.sub('\[Schµ[0-9]+\]','',html)
 			html = re.sub('€[0-9]+','',html)
@@ -136,6 +140,8 @@ if __name__=="__main__":
 			html = html.replace(u'.²',u'BREAK\t')
 			html = html.replace(u'.³','BREAK\t\t')
 		html = html.replace(u'<b><s>º',u'BREAK<b><s>º') # ap90
+		if dictId in ['pd']:
+			html = html.replace('<b>','BREAK<b>')
 		#print html.encode('utf-8')
 		
 		if dictId in meaningseparator and re.search(instr,html):
@@ -155,15 +161,6 @@ if __name__=="__main__":
 		if dictId in ['ae']:
 			html = re.sub('<i>-(.*)</i>','BREAK\t<i>\g<1></i>',html)
 			html = re.sub('<b>([0-9]+)</b>','BREAK\t\t<b>\g<1></b>',html)
-		if dictId in ['pd']:
-			html = re.sub(u'(¦[^<]*)<i>','\g<1>',html) # pd
-			italictext = re.findall('<i>([^<]*)</i>',html)
-			for ital in italictext:
-				rep = transcoder.transcoder_processString(ital,'as','slp1')
-				rep = rep.replace(u'ç',u'S')
-				rep = rep.replace(u'Ç',u'S')
-				rep = transcoder.transcoder_processString(rep,'slp1','deva')
-				html = html.replace('<i>'+ital+'</i>','<i>'+rep+'</i>')
 		if dictId in ['ben', 'bur', 'snp', 'stc', 'inm']:
 			italictext = re.findall('<i>([^<]*)</i>',html)
 			for ital in italictext:
@@ -226,7 +223,7 @@ if __name__=="__main__":
 		if dictId in ['mwe']:
 			html = html.replace(u'. — ', u'. BREAK — ')
 		html = html.replace('BREAK','<BR>')
-		if dictId in ['pw','pwg','gra']:
+		if dictId in ['gra']:
 			html = transcoder.transcoder_processString(key2,'slp1','deva')+'<BR>'+html
 		html = html.replace('<BR><BR>','<BR>')
 		if production == '0':
