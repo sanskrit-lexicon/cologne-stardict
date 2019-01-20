@@ -1,6 +1,6 @@
-data/*
-*.pyc
+input/zips/*
+input/extracted/*
 production/*
-log.txt
-input/*
 analyse/*
+log.txt
+*.pyc
