@@ -151,6 +151,8 @@ if __name__=="__main__":
 			html = html.replace(u'¤10',u'') # BEN usually has dIrga mentioned and hrasva being mentioned by breve.
 		if dictId in ['cae', 'ccs']:
 			html = html.replace(u'BREAK</s>',u'</s>BREAK') # https://github.com/sanskrit-lexicon/cologne-stardict/issues/3#issuecomment-455857610
+		if dictId in ['pwg']:
+			html = html.replace('^', '/')
 		sanskrittext = re.findall('<s>([^<]*)</s>',html)
 		html = re.sub(u'(<s>--[a-zA-Z]+</s>)',u'BREAK\g<1>',html) # ap90
 		for sans in sanskrittext:
