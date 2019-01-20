@@ -64,6 +64,7 @@ if __name__=="__main__":
 	key2s = tree.xpath("/"+dictId+"/H1/h/key2")
 	lnum = tree.xpath("/"+dictId+"/H1/tail/L")
 	entry =  tree.xpath("/"+dictId+"/H1/body")
+	
 	if production == '0':
 		outputfile = codecs.open('output/'+dictId+'.babylon','w','utf-8')
 	elif production == '1':
@@ -222,6 +223,8 @@ if __name__=="__main__":
 			html = re.sub('^[.]','',html)
 		if dictId in ['ae']:
 			html = html.replace('- -','') # अंगीकार- -द्योतक
+		if dictId in ['mwe']:
+			html = html.replace(u'. — ', u'. BREAK — ')
 		html = html.replace('BREAK','<BR>')
 		if dictId in ['pw','pwg','gra']:
 			html = transcoder.transcoder_processString(key2,'slp1','deva')+'<BR>'+html
