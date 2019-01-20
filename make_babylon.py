@@ -167,7 +167,7 @@ if __name__=="__main__":
 				rep = rep.replace(u'Ç',u'S')
 				rep = transcoder.transcoder_processString(rep,'slp1','deva')
 				html = html.replace('<i>'+ital+'</i>','<i>'+rep+'</i>')
-		if dictId in ['ben', 'bur', 'snp', 'stc']:
+		if dictId in ['ben', 'bur', 'snp', 'stc', 'inm']:
 			italictext = re.findall('<i>([^<]*)</i>',html)
 			for ital in italictext:
 				rep = ital.lower()
