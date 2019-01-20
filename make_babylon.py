@@ -167,44 +167,23 @@ if __name__=="__main__":
 				rep = rep.replace(u'Ç',u'S')
 				rep = transcoder.transcoder_processString(rep,'slp1','deva')
 				html = html.replace('<i>'+ital+'</i>','<i>'+rep+'</i>')
-		if dictId in ['bur']:
+		if dictId in ['ben', 'bur', 'snp', 'stc']:
 			italictext = re.findall('<i>([^<]*)</i>',html)
 			for ital in italictext:
-				rep = transcoder.transcoder_processString(ital,'roman','slp1')
-				rep = rep.replace(u'ç',u'S')
-				rep = rep.replace(u'Ç',u'S')
-				rep = transcoder.transcoder_processString(rep,'slp1','deva')
-				html = html.replace('<i>'+ital+'</i>','<i>'+rep+'</i>')
-		if dictId in ['snp','stc']:
-			italictext = re.findall('<i>([^<]*)</i>',html)
-			for ital in italictext:
-				rep = transcoder.transcoder_processString(ital,'as','slp1')
-				rep = rep.replace(u'ç',u'S')
-				rep = rep.replace(u'Ç',u'S')
+				rep = ital.lower()
+				rep = rep.replace('ch','c')
+				rep = rep.replace('sh','z')
+				rep = transcoder.transcoder_processString(rep,'roman','slp1')
 				rep = transcoder.transcoder_processString(rep,'slp1','deva')
 				html = html.replace('<i>'+ital+'</i>','<i>'+rep+'</i>')
 		if dictId in ['stc','vei']:
 			italictext = re.findall('<body><b>([^<]*)</b>',html)
 			for ital in italictext:
 				rep = ital.lower()
-				rep = transcoder.transcoder_processString(rep,'as','slp1')
-				rep = rep.replace(u'ç',u'S')
-				rep = rep.replace(u'Ç',u'S')
+				rep = transcoder.transcoder_processString(rep,'roman','slp1')
 				rep = transcoder.transcoder_processString(rep,'slp1','deva')
 				html = html.replace('<body><b>'+ital+'</b>','<body><b>'+rep+'</b>BREAK')
 				html = re.sub(u'<body><b>([^<]*)।</b>',u'<body><b>\g<1></b>',html) # vei
-		if dictId in ['ben']:
-			italictext = re.findall('<i>([^<]*)</i>',html)
-			for ital in italictext:
-				rep = ital.lower()
-				rep = rep.replace('ch','c')
-				rep = rep.replace('sh','z')
-				rep = transcoder.transcoder_processString(rep,'as','slp1')
-				rep = rep.replace(u'ç',u'S')
-				rep = rep.replace(u'Ç',u'S')
-				rep = transcoder.transcoder_processString(rep,'slp1','deva')
-				html = html.replace('<i>'+ital+'</i>','<i>'+rep+'</i>')
-				#html = re.sub('<i>([^<]*[-][,])</i>','BREAK<i>\g<1></i>',html)
 		if dictId in ['acc','ap90','ben','bhs','bur','cae','ccs','gra','gst','ieg','inm','mci','mw72','pd','pe','pgn','pui','pwg','vei']:
 			html = transcoder.transcoder_processString(html,'as','roman')
 			html = html.replace(u'ç',u'ś')
