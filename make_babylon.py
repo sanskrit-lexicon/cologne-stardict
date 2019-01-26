@@ -133,6 +133,8 @@ if __name__=="__main__":
 		html = re.sub('<div n="2"', 'BREAK\t<div n="2"', html)
 		html = re.sub('<div n="3"', 'BREAK\t\t<div n="3"', html)
 		html = re.sub('<div n="4"', 'BREAK\t\t\t<div n="4"', html)
+		if dictId in ['ccs']:
+			html = html.replace('<s>°', 'BREAK<s>°')
 		if dictId in ['pd']:
 			html = html.replace('<br>','')
 		if dictId in ['sch']:
