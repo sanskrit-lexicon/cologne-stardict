@@ -105,6 +105,8 @@ if __name__=="__main__":
 		#html = etree.tostring(entry[x], method='html', encoding='utf-8')
 		# OLD ONE ENDS
 		html = re.sub('\[Page[0-9+ abc.-]+\]','',html)
+		if dictId in ['ben']:
+			html = html.replace('-</i> <lb></lb><i>', '')
 		if dictId in ['mwe','skd','vcp']:
 			html = html.replace('<lb></lb>',' ')
 		elif dictId in ['ap']:
