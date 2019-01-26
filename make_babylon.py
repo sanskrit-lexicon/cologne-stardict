@@ -63,7 +63,8 @@ if __name__=="__main__":
 	'bor':('<div n="I">','BREAK'), 
 	'cae':(';',';BREAK'), 
 	'ccs':(';',';BREAK'), 
-	'gra':('<P1></P1>','BREAK'), 'gst':('<P></P>','BREAK'), 'ieg':('; ',';BREAK'), 'mci':('<b>','BREAK<b>'), 'mw72':('<i>--','BREAK<i>--'), 'mwe':('.--','BREAK--'), 'ap':('<lb></lb>[.]','<lb></lb>BREAK'), 'pui':('</F>','</F>BREAK'), 'shs':('([).]) ([0-9nmf]+[.])','\g<1>BREAK \g<2>'), 'snp':('<P></P>','BREAK<P></P>'), 'stc':(';',';BREAK'), 'wil':(' ([mfn]+)[.]','BREAK\g<1>.'), 'yat':('<i>','BREAK<i>'), 'ae':('<b>-','BREAK<b>-')}
+	'gra':('(<div n="[PH])','BREAK\g<1>'), 
+	'gst':('<P></P>','BREAK'), 'ieg':('; ',';BREAK'), 'mci':('<b>','BREAK<b>'), 'mw72':('<i>--','BREAK<i>--'), 'mwe':('.--','BREAK--'), 'ap':('<lb></lb>[.]','<lb></lb>BREAK'), 'pui':('</F>','</F>BREAK'), 'shs':('([).]) ([0-9nmf]+[.])','\g<1>BREAK \g<2>'), 'snp':('<P></P>','BREAK<P></P>'), 'stc':(';',';BREAK'), 'wil':(' ([mfn]+)[.]','BREAK\g<1>.'), 'yat':('<i>','BREAK<i>'), 'ae':('<b>-','BREAK<b>-')}
 	if dictId in meaningseparator:
 		instr = meaningseparator[dictId][0]
 		outstr = meaningseparator[dictId][1]
