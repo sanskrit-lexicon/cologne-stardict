@@ -60,7 +60,7 @@ if __name__=="__main__":
 	'ben':(' <b>','BREAK <b>'), 
 	'bhs':('([(]<b>[0-9]+</b>[)])','BREAK\g<1>'), 
 	'bop':(' ([0-9]+\))', 'BREAK\g<1>'), 
-	'bor':('<div n=\"[I1]\">','BREAK'), 
+	'bor':('<div n="I">','BREAK'), 
 	'cae':(';',';BREAK'), 
 	'ccs':(';',';BREAK'), 
 	'gra':('<P1></P1>','BREAK'), 'gst':('<P></P>','BREAK'), 'ieg':('; ',';BREAK'), 'mci':('<b>','BREAK<b>'), 'mw72':('<i>--','BREAK<i>--'), 'mwe':('.--','BREAK--'), 'ap':('<lb></lb>[.]','<lb></lb>BREAK'), 'pui':('</F>','</F>BREAK'), 'shs':('([).]) ([0-9nmf]+[.])','\g<1>BREAK \g<2>'), 'snp':('<P></P>','BREAK<P></P>'), 'stc':(';',';BREAK'), 'wil':(' ([mfn]+)[.]','BREAK\g<1>.'), 'yat':('<i>','BREAK<i>'), 'ae':('<b>-','BREAK<b>-')}
@@ -127,6 +127,8 @@ if __name__=="__main__":
 		html = html.replace('<div n="P">', 'BREAK<div n="P">')
 		html = re.sub(' <gram','BREAK<gram',html)
 		html = re.sub('([^(])<divm','BREAK\g<1><divm',html)
+		html = re.sub('<div n="I"','BREAK<div n="I"', html)
+		html = re.sub('<div n="p"','BREAK<div n="p"', html)
 		html = re.sub('<div n="1"', 'BREAK<div n="1"', html)
 		html = re.sub('<div n="2"', 'BREAK\t<div n="2"', html)
 		html = re.sub('<div n="3"', 'BREAK\t\t<div n="3"', html)
