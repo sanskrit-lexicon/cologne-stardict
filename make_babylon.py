@@ -145,6 +145,8 @@ if __name__=="__main__":
 			html = re.sub('\[Schµ[0-9]+\]','',html)
 			html = re.sub('€[0-9]+','',html)
 			html = html.replace(' -- ','BREAK -- ')
+		if dictId in ['krm']:
+			html = html.replace('<div n=', 'BREAK<div n=')
 		html = html.replace('<b>--Comp.</b>','BREAK<b>--Comp.</b>BREAK') # ap90
 		if dictId in ['wil']:
 			html = html.replace('¦ ','BREAK')
