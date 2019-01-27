@@ -125,6 +125,7 @@ if __name__=="__main__":
 		else:
 			html = html.replace('<lb></lb>','')
 		# If there are built in divs signifying breaks, add breaks there.
+		html = html.replace('<hom>', ' <hom>')
 		html = html.replace('<div n="P">', 'BREAK<div n="P">')
 		html = re.sub(' <gram','BREAK<gram',html)
 		html = re.sub('([^(])<divm','BREAK\g<1><divm',html)
@@ -181,7 +182,7 @@ if __name__=="__main__":
 		if dictId in ['ae']:
 			html = re.sub('<i>-(.*)</i>','BREAK\t<i>\g<1></i>',html)
 			html = re.sub('<b>([0-9]+)</b>','BREAK\t\t<b>\g<1></b>',html)
-		if dictId in ['ben', 'bur', 'snp', 'stc', 'inm']:
+		if dictId in ['ben', 'bur', 'snp', 'stc',]:
 			italictext = re.findall('<i>([^<]*)</i>',html)
 			for ital in italictext:
 				rep = ital.lower()
