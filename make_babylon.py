@@ -66,7 +66,8 @@ if __name__=="__main__":
 	'gra':('(<div n="[PH])','BREAK\g<1>'), 
 	'gst':('(<div n="P)','BREAK\g<1>'), 
 	'ieg':('; ',';BREAK'), 
-	'mci':('<b>','BREAK<b>'), 'mw72':('<i>--','BREAK<i>--'), 'mwe':('.--','BREAK--'), 'ap':('<lb></lb>[.]','<lb></lb>BREAK'), 'pui':('</F>','</F>BREAK'), 'shs':('([).]) ([0-9nmf]+[.])','\g<1>BREAK \g<2>'), 'snp':('<P></P>','BREAK<P></P>'), 'stc':(';',';BREAK'), 'wil':(' ([mfn]+)[.]','BREAK\g<1>.'), 'yat':('<i>','BREAK<i>'), 'ae':('<b>-','BREAK<b>-')}
+	'mci':('<b>','BREAK<b>'), 
+	'mw72':('\—','BREAK—'), 'mwe':('.--','BREAK--'), 'ap':('<lb></lb>[.]','<lb></lb>BREAK'), 'pui':('</F>','</F>BREAK'), 'shs':('([).]) ([0-9nmf]+[.])','\g<1>BREAK \g<2>'), 'snp':('<P></P>','BREAK<P></P>'), 'stc':(';',';BREAK'), 'wil':(' ([mfn]+)[.]','BREAK\g<1>.'), 'yat':('<i>','BREAK<i>'), 'ae':('<b>-','BREAK<b>-')}
 	if dictId in meaningseparator:
 		instr = meaningseparator[dictId][0]
 		outstr = meaningseparator[dictId][1]
@@ -167,8 +168,9 @@ if __name__=="__main__":
 		html = html.replace(u'<b><s>º',u'BREAK<b><s>º') # ap90
 		if dictId in ['pd']:
 			html = html.replace('<b>','BREAK<b>')
-		#print html.encode('utf-8')
-		
+		print html.encode('utf-8')
+		if dictId in ['mw72']:
+			html = html.replace(u'<i>—',u'BREAK<i>—')
 		if dictId in meaningseparator and re.search(instr,html):
 			html = re.sub(instr,outstr,html)
 		html = re.sub(u'[(](<b><s>--[a-zA-Z]+</s>)',u'BREAK\g<1>',html) # ap90
@@ -188,7 +190,7 @@ if __name__=="__main__":
 		if dictId in ['ae']:
 			html = re.sub('<i>-(.*)</i>','BREAK\t<i>\g<1></i>',html)
 			html = re.sub('<b>([0-9]+)</b>','BREAK\t\t<b>\g<1></b>',html)
-		if dictId in ['ben', 'bur', 'snp', 'stc', 'mci']:
+		if dictId in ['ben', 'bur', 'snp', 'stc', 'mci', 'mw72']:
 			italictext = re.findall('<i>([^<]*)</i>',html)
 			for ital in italictext:
 				rep = ital.lower()
