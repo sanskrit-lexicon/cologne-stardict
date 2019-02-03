@@ -73,10 +73,16 @@ if __name__=="__main__":
 		outstr = meaningseparator[dictId][1]
 	inputfile = pathToDicts+'/'+dictId+'.xml'
 	tree = etree.parse(inputfile)
+	"""
 	hw = tree.xpath("/"+dictId+"/H1/h/key1")
 	key2s = tree.xpath("/"+dictId+"/H1/h/key2")
 	lnum = tree.xpath("/"+dictId+"/H1/tail/L")
 	entry =  tree.xpath("/"+dictId+"/H1/body")
+	"""
+	hw = tree.xpath("/"+dictId+"/*/h/key1")
+	key2s = tree.xpath("/"+dictId+"/*/h/key2")
+	lnum = tree.xpath("/"+dictId+"/*/tail/L")
+	entry =  tree.xpath("/"+dictId+"/*/body")
 	
 	if production == '0':
 		outputfile = codecs.open('output/'+dictId+'.babylon','w','utf-8')
@@ -168,7 +174,7 @@ if __name__=="__main__":
 		html = html.replace(u'<b><s>º',u'BREAK<b><s>º') # ap90
 		if dictId in ['pd']:
 			html = html.replace('<b>','BREAK<b>')
-		print html.encode('utf-8')
+		# print html.encode('utf-8')
 		if dictId in ['mw72']:
 			html = html.replace(u'<i>—',u'BREAK<i>—')
 		if dictId in meaningseparator and re.search(instr,html):
