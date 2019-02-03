@@ -64,7 +64,9 @@ if __name__=="__main__":
 	'cae':(';',';BREAK'), 
 	'ccs':(';',';BREAK'), 
 	'gra':('(<div n="[PH])','BREAK\g<1>'), 
-	'gst':('(<div n="P)','BREAK\g<1>'), 'ieg':('; ',';BREAK'), 'mci':('<b>','BREAK<b>'), 'mw72':('<i>--','BREAK<i>--'), 'mwe':('.--','BREAK--'), 'ap':('<lb></lb>[.]','<lb></lb>BREAK'), 'pui':('</F>','</F>BREAK'), 'shs':('([).]) ([0-9nmf]+[.])','\g<1>BREAK \g<2>'), 'snp':('<P></P>','BREAK<P></P>'), 'stc':(';',';BREAK'), 'wil':(' ([mfn]+)[.]','BREAK\g<1>.'), 'yat':('<i>','BREAK<i>'), 'ae':('<b>-','BREAK<b>-')}
+	'gst':('(<div n="P)','BREAK\g<1>'), 
+	'ieg':('; ',';BREAK'), 
+	'mci':('<b>','BREAK<b>'), 'mw72':('<i>--','BREAK<i>--'), 'mwe':('.--','BREAK--'), 'ap':('<lb></lb>[.]','<lb></lb>BREAK'), 'pui':('</F>','</F>BREAK'), 'shs':('([).]) ([0-9nmf]+[.])','\g<1>BREAK \g<2>'), 'snp':('<P></P>','BREAK<P></P>'), 'stc':(';',';BREAK'), 'wil':(' ([mfn]+)[.]','BREAK\g<1>.'), 'yat':('<i>','BREAK<i>'), 'ae':('<b>-','BREAK<b>-')}
 	if dictId in meaningseparator:
 		instr = meaningseparator[dictId][0]
 		outstr = meaningseparator[dictId][1]
@@ -135,6 +137,8 @@ if __name__=="__main__":
 		html = re.sub('<div n="2"', 'BREAK\t<div n="2"', html)
 		html = re.sub('<div n="3"', 'BREAK\t\t<div n="3"', html)
 		html = re.sub('<div n="4"', 'BREAK\t\t\t<div n="4"', html)
+		html = html.replace('<div n="lb">', 'BREAK<div n="lb">')
+		html = html.replace('¦', 'BREAK')
 		if dictId in ['ccs']:
 			html = html.replace('<s>°', 'BREAK<s>°')
 		if dictId in ['gst']:
@@ -184,7 +188,7 @@ if __name__=="__main__":
 		if dictId in ['ae']:
 			html = re.sub('<i>-(.*)</i>','BREAK\t<i>\g<1></i>',html)
 			html = re.sub('<b>([0-9]+)</b>','BREAK\t\t<b>\g<1></b>',html)
-		if dictId in ['ben', 'bur', 'snp', 'stc',]:
+		if dictId in ['ben', 'bur', 'snp', 'stc', 'mci']:
 			italictext = re.findall('<i>([^<]*)</i>',html)
 			for ital in italictext:
 				rep = ital.lower()
@@ -201,6 +205,7 @@ if __name__=="__main__":
 				rep = transcoder.transcoder_processString(rep,'slp1','deva')
 				html = html.replace('<body><b>'+ital+'</b>','<body><b>'+rep+'</b>BREAK')
 				html = re.sub(u'<body><b>([^<]*)।</b>',u'<body><b>\g<1></b>',html) # vei
+		"""
 		if dictId in ['acc','ap90','ben','bhs','bur','cae','ccs','gra','gst','ieg','inm','mci','mw72','pd','pe','pgn','pui','pwg','vei']:
 			html = transcoder.transcoder_processString(html,'as','roman')
 			html = html.replace(u'ç',u'ś')
@@ -219,7 +224,7 @@ if __name__=="__main__":
 			html = html.replace('<s>(</s>','(')
 			html = html.replace('<s>) </s>',') ')
 			html = html.replace(u'ṛi',u'ṛ')
-			
+		"""	
 		if dictId in ['bur']:
 			html = html.replace(u'|',u'')
 		if dictId in ['stc']:
@@ -252,5 +257,6 @@ if __name__=="__main__":
 		if production == '0':
 			html = html.replace('<BR>','\n')
 		outputfile.write(heading+'\n')
+		html = html.lstrip('\n')
 		outputfile.write(html+'\n\n')
 	outputfile.close()
