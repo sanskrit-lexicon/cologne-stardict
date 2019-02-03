@@ -67,7 +67,8 @@ if __name__=="__main__":
 	'gst':('(<div n="P)','BREAK\g<1>'), 
 	'ieg':('; ',';BREAK'), 
 	'mci':('<b>','BREAK<b>'), 
-	'mw72':('\—','BREAK—'), 'mwe':('.--','BREAK--'), 'ap':('<lb></lb>[.]','<lb></lb>BREAK'), 'pui':('</F>','</F>BREAK'), 'shs':('([).]) ([0-9nmf]+[.])','\g<1>BREAK \g<2>'), 'snp':('<P></P>','BREAK<P></P>'), 'stc':(';',';BREAK'), 'wil':(' ([mfn]+)[.]','BREAK\g<1>.'), 'yat':('<i>','BREAK<i>'), 'ae':('<b>-','BREAK<b>-')}
+	'mw72':('\—','BREAK—'), 
+	'mwe':('.--','BREAK--'), 'ap':('<lb></lb>[.]','<lb></lb>BREAK'), 'pui':('</F>','</F>BREAK'), 'shs':('([).]) ([0-9nmf]+[.])','\g<1>BREAK \g<2>'), 'snp':('<P></P>','BREAK<P></P>'), 'stc':(';',';BREAK'), 'wil':(' ([mfn]+)[.]','BREAK\g<1>.'), 'yat':('<i>','BREAK<i>'), 'ae':('<b>-','BREAK<b>-')}
 	if dictId in meaningseparator:
 		instr = meaningseparator[dictId][0]
 		outstr = meaningseparator[dictId][1]
@@ -145,6 +146,7 @@ if __name__=="__main__":
 		html = re.sub('<div n="3"', 'BREAK\t\t<div n="3"', html)
 		html = re.sub('<div n="4"', 'BREAK\t\t\t<div n="4"', html)
 		html = html.replace('<div n="lb">', 'BREAK<div n="lb">')
+		html = html.replace('¦,', 'BREAK')
 		html = html.replace('¦', 'BREAK')
 		if dictId in ['ccs']:
 			html = html.replace('<s>°', 'BREAK<s>°')
