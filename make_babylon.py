@@ -155,7 +155,7 @@ if __name__=="__main__":
 		html = html.replace('¦', 'BREAK')
 		if dictId in ['ccs']:
 			html = html.replace('<s>°', 'BREAK<s>°')
-		if dictId in ['gst']:
+		if dictId in ['gst', 'vei']:
 			html = html.replace('<sup>', 'BREAK\t<sup>')
 		if dictId in ['pd']:
 			html = html.replace('<br>','')
