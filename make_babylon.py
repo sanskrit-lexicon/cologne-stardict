@@ -132,6 +132,8 @@ if __name__=="__main__":
 		elif dictId in ['ap']:
 			html = re.sub('<lb></lb>[.]<b>','BREAK<b>',html)
 			html = html.replace('<lb></lb>',' ')
+		elif dictId in ['sch']:
+			html = html.replace('<div>','BREAK<div>')
 		else:
 			html = html.replace('<lb></lb>','')
 		# If there are built in divs signifying breaks, add breaks there.
@@ -200,7 +202,7 @@ if __name__=="__main__":
 		if dictId in ['ae']:
 			html = re.sub('<i>-(.*)</i>','BREAK\t<i>\g<1></i>',html)
 			html = re.sub('<b>([0-9]+)</b>','BREAK\t\t<b>\g<1></b>',html)
-		if dictId in ['ben', 'bur', 'snp', 'stc', 'mci', 'mw72']:
+		if dictId in ['ben', 'bur', 'snp', 'stc', 'mci', 'mw72', 'sch']:
 			italictext = re.findall('<i>([^<]*)</i>',html)
 			for ital in italictext:
 				rep = ital.lower()
