@@ -4,3 +4,5 @@ production/*
 analyse/*
 log.txt
 *.pyc
+output/ap.babylon
+output/pd.babylon

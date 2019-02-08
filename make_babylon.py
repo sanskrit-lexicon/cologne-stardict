@@ -56,7 +56,7 @@ if __name__=="__main__":
 	lnumEntryDict = {}
 	meaningseparator = {'acc':('([ .])--','\g<1>BREAK --'), 
 	'md':(';',';BREAK'), 
-	'ap90':('<b>[-]{2}([0-9]+)</b>','BREAK<b>\g<1></b>'), 
+	'ap90':('<b>','BREAK<b>'), 
 	'ben':(' <b>','BREAK <b>'), 
 	'bhs':('([(]<b>[0-9]+</b>[)])','BREAK\g<1>'), 
 	'bop':(' ([0-9]+\))', 'BREAK\g<1>'), 
@@ -139,6 +139,7 @@ if __name__=="__main__":
 		# If there are built in divs signifying breaks, add breaks there.
 		html = html.replace('<hom>', ' <hom>')
 		html = html.replace('<div n="P">', 'BREAK<div n="P">')
+		html = html.replace('<div n="P1">', 'BREAK<div n="P1">')
 		html = html.replace('<div n="E">', 'BREAK<div n="E">')
 		html = re.sub(' <gram','BREAK<gram',html)
 		html = re.sub('([^(])<divm','BREAK\g<1><divm',html)
@@ -165,6 +166,8 @@ if __name__=="__main__":
 			html = html.replace(' -- ','BREAK -- ')
 		if dictId in ['krm']:
 			html = html.replace('<div n=', 'BREAK<div n=')
+		if dictId in ['ben']:
+			html = html.replace('-- Cf', 'BREAK-- Cf')
 		html = html.replace('<b>--Comp.</b>','BREAK<b>--Comp.</b>BREAK') # ap90
 		if dictId in ['wil']:
 			html = html.replace('¦ ','BREAK')
