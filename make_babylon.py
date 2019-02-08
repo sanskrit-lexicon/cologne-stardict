@@ -139,6 +139,7 @@ if __name__=="__main__":
 		# If there are built in divs signifying breaks, add breaks there.
 		html = html.replace('<hom>', ' <hom>')
 		html = html.replace('<div n="P">', 'BREAK<div n="P">')
+		html = html.replace('<div n="E">', 'BREAK<div n="E">')
 		html = re.sub(' <gram','BREAK<gram',html)
 		html = re.sub('([^(])<divm','BREAK\g<1><divm',html)
 		html = re.sub('<div n="I"','BREAK<div n="I"', html)
