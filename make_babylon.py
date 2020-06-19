@@ -1,12 +1,12 @@
 # This Python file uses the following encoding: utf-8
 """
 Usage:
-python make_babylon.py pathToDicts dictId [0/1]
+python make_babylon.py dictId [0/1]
 0 for viewing (\n line break), 1 for production (More HTML like line break)
 e.g.
-python make_babylon.py input/extracted/pywork md 1
+python make_babylon.py md 1
 """
-import re,codecs,sys
+import re, codecs, sys, os
 from lxml import etree
 import transcoder
 import datetime
@@ -41,38 +41,38 @@ def licencetext(dictId):
 	data = fin.read()
 	fin.close()
 	return data
-	
+
 if __name__=="__main__":
-	pathToDicts = sys.argv[1]
-	dictId = sys.argv[2]
-	production = sys.argv[3]
+	dictId = sys.argv[1]
+	production = sys.argv[2]
 	#dictList = ['acc','ae','ap','ap90','ben','bhs','bop','bor','bur','cae','ccs','gra','gst','ieg','inm','krm','mci','md','mw','mw72','mwe','pd','pe','pgn','pui','pw','pwg','sch','shs','skd','snp','stc','vcp','vei','wil','yat']
-	
+
 	#licence = licencetext(dictId).strip()
 	#licence = licence.replace('\n','<BR>')
-	
+
 	# Read a list of normalized headwords. See https://github.com/sanskrit-coders/stardict-sanskrit/issues/66.
 	hwnormlist = readhwnorm1c()
 	lnumEntryDict = {}
-	meaningseparator = {'acc':('([ .])--','\g<1>BREAK --'), 
-	'md':(';',';BREAK'), 
-	'ap90':('<b>','BREAK<b>'), 
-	'ben':(' <b>','BREAK <b>'), 
-	'bhs':('([(]<b>[0-9]+</b>[)])','BREAK\g<1>'), 
-	'bop':(' ([0-9]+\))', 'BREAK\g<1>'), 
-	'bor':('<div n="I">','BREAK'), 
-	'cae':(';',';BREAK'), 
-	'ccs':(';',';BREAK'), 
-	'gra':('(<div n="[PH])','BREAK\g<1>'), 
-	'gst':('(<div n="P)','BREAK\g<1>'), 
-	'ieg':('; ',';BREAK'), 
-	'mci':('<b>','BREAK<b>'), 
-	'mw72':('\—','BREAK—'), 
+	meaningseparator = {'acc':('([ .])--','\g<1>BREAK --'),
+	'md':(';',';BREAK'),
+	'ap90':('<b>','BREAK<b>'),
+	'ben':(' <b>','BREAK <b>'),
+	'bhs':('([(]<b>[0-9]+</b>[)])','BREAK\g<1>'),
+	'bop':(' ([0-9]+\))', 'BREAK\g<1>'),
+	'bor':('<div n="I">','BREAK'),
+	'cae':(';',';BREAK'),
+	'ccs':(';',';BREAK'),
+	'gra':('(<div n="[PH])','BREAK\g<1>'),
+	'gst':('(<div n="P)','BREAK\g<1>'),
+	'ieg':('; ',';BREAK'),
+	'mci':('<b>','BREAK<b>'),
+	'mw72':('\—','BREAK—'),
 	'mwe':('.--','BREAK--'), 'ap':('<lb></lb>[.]','<lb></lb>BREAK'), 'pui':('</F>','</F>BREAK'), 'shs':('([).]) ([0-9nmf]+[.])','\g<1>BREAK \g<2>'), 'snp':('<P></P>','BREAK<P></P>'), 'stc':(';',';BREAK'), 'wil':(' ([mfn]+)[.]','BREAK\g<1>.'), 'yat':('<i>','BREAK<i>'), 'ae':('<b>-','BREAK<b>-')}
 	if dictId in meaningseparator:
 		instr = meaningseparator[dictId][0]
 		outstr = meaningseparator[dictId][1]
-	inputfile = pathToDicts+'/'+dictId+'.xml'
+	# inputfile = pathToDicts+'/'+dictId+'.xml'
+	inputfile = os.path.join('..', dictId, 'pywork', dictId + '.xml')
 	tree = etree.parse(inputfile)
 	"""
 	hw = tree.xpath("/"+dictId+"/H1/h/key1")
@@ -84,12 +84,12 @@ if __name__=="__main__":
 	key2s = tree.xpath("/"+dictId+"/*/h/key2")
 	lnum = tree.xpath("/"+dictId+"/*/tail/L")
 	entry =  tree.xpath("/"+dictId+"/*/body")
-	
+
 	if production == '0':
 		outputfile = codecs.open('output/'+dictId+'.babylon','w','utf-8')
 	elif production == '1':
 		outputfile = codecs.open('production/'+dictId+'.babylon','w','utf-8')
-		
+
 	# Write licence text
 	#outputfile.write('LICENCE.xml\n')
 	#outputfile.write(unicode(licence)+u'\n\n')
@@ -101,13 +101,13 @@ if __name__=="__main__":
 		key2 = key2.decode('utf-8')
 		ln = etree.tostring(lnum[x], method='text', encoding='utf-8')
 		lnumEntryDict[ln] = etree.tostring(entry[x], method='html', encoding='utf-8')
-		
+
 		if counter % 1000 == 0:
 			print counter
 		counter += 1
 		if heading1 in hwnormlist and dictId.upper() in hwnormlist[heading1][1]:
 			possibleheadings = hwnormlist[heading1][0]
-			print possibleheadings 
+			print possibleheadings
 		else:
 			possibleheadings = [heading1]
 		"""
@@ -118,7 +118,7 @@ if __name__=="__main__":
 			heading = '|'.join([transcoder.transcoder_processString(head,'slp1','deva') for head in possibleheadings])
 		else:
 			heading = heading1
-			
+
 		html = lnumEntryDict[ln]
 		# OLD ONE STARTS
 		#text = etree.tostring(entry[x], method='text', encoding='utf-8')
@@ -242,7 +242,7 @@ if __name__=="__main__":
 			html = html.replace('<s>(</s>','(')
 			html = html.replace('<s>) </s>',') ')
 			html = html.replace(u'ṛi',u'ṛ')
-		"""	
+		"""
 		if dictId in ['bur']:
 			html = html.replace(u'|',u'')
 		if dictId in ['stc']:
