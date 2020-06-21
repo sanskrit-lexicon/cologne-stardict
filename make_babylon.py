@@ -113,16 +113,16 @@ if __name__ == "__main__":
         lnumEntryDict[ln] = etree.tostring(entry[x], method='html', encoding='utf-8')
 
         if counter % 1000 == 0:
-            print counter
+            print(counter)
         counter += 1
         if heading1 in hwnormlist and dictId.upper() in hwnormlist[heading1][1]:
             possibleheadings = hwnormlist[heading1][0]
-            print possibleheadings
+            print(possibleheadings)
         else:
             possibleheadings = [heading1]
         """
         if len(possibleheadings) > 1:
-            print possibleheadings
+            print(possibleheadings)
         """
         if dictId not in ['ae', 'mwe', 'bor']:
             heading = '|'.join([transcoder.transcoder_processString(head, 'slp1', 'deva') for head in possibleheadings])
@@ -144,8 +144,8 @@ if __name__ == "__main__":
             html = html.replace('<lb></lb>', '')
         # If there are built in divs signifying breaks, add breaks there.
         html = html.replace('<hom>', ' <hom>')
-        html = html.replace('  ', 'BREAK')
-        html = html.replace(' , ', 'BREAK')
+        # html = html.replace('  ', 'BREAK')
+        # html = html.replace(' , ', 'BREAK')
         html = html.replace('<div n="P">', 'BREAK<div n="P">')
         html = html.replace('<div n="P1">', 'BREAK<div n="P1">')
         html = html.replace('<div n="E">', 'BREAK<div n="E">')
@@ -192,7 +192,7 @@ if __name__ == "__main__":
         html = html.replace(u'<b><s>º', u'BREAK<b><s>º')  # ap90
         if dictId in ['pd']:
             html = html.replace('<b>', 'BREAK<b>')
-        # print html.encode('utf-8')
+        # print(html.encode('utf-8'))
         if dictId in ['mw72']:
             html = html.replace(u'<i>—', u'BREAK<i>—')
         if dictId in meaningseparator and re.search(instr, html):
