@@ -1,6 +1,6 @@
 cp production/ap90.babylon ../stardict-sanskrit/sa-head/en-entries/apte-1890/apte-1890.babylon
 cp production/acc.babylon ../stardict-sanskrit/sa-head/en-entries/aufrecht-catalogus-catalogorum/aufrecht-catalogus-catalogorum.babylon
-cp production/ben.babylon ../stardict-sanskrit/sa-head/en-entries/benfey/ben.babylon
+cp production/ben.babylon ../stardict-sanskrit/sa-head/en-entries/benfey/benfey.babylon
 cp production/cae.babylon ../stardict-sanskrit/sa-head/en-entries/capeller-sanskrit-english/capeller-sanskrit-english.babylon
 cp production/bhs.babylon ../stardict-sanskrit/sa-head/en-entries/edgerton-buddhist-hybrid/edgerton-buddhist-hybrid.babylon
 cp production/gst.babylon ../stardict-sanskrit/sa-head/en-entries/goldstucker/goldstucker.babylon
