@@ -117,13 +117,9 @@ if __name__ == "__main__":
         counter += 1
         if heading1 in hwnormlist and dictId.upper() in hwnormlist[heading1][1]:
             possibleheadings = hwnormlist[heading1][0]
-            print(possibleheadings)
+            # print(possibleheadings)
         else:
             possibleheadings = [heading1]
-        """
-        if len(possibleheadings) > 1:
-            print(possibleheadings)
-        """
         if dictId not in ['ae', 'mwe', 'bor']:
             heading = '|'.join([transcoder.transcoder_processString(head, 'slp1', 'deva') for head in possibleheadings])
         else:
@@ -192,7 +188,6 @@ if __name__ == "__main__":
         html = html.replace(u'<b><s>º', u'BREAK<b><s>º')  # ap90
         if dictId in ['pd']:
             html = html.replace('<b>', 'BREAK<b>')
-        # print(html.encode('utf-8'))
         if dictId in ['mw72']:
             html = html.replace(u'<i>—', u'BREAK<i>—')
         if dictId in meaningseparator and re.search(instr, html):
