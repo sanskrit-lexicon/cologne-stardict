@@ -1,6 +1,3 @@
-input/zips/*
-input/extracted/*
-production/*
 analyse/*
 log.txt
 *.pyc
