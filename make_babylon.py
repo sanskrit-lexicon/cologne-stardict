@@ -6,6 +6,7 @@ python make_babylon.py dictId [0/1]
 e.g.
 python make_babylon.py md 1
 """
+from __future__ import print_function
 import re
 import codecs
 import sys
@@ -43,7 +44,7 @@ def readhwnorm1c():
 
 
 def licencetext(dictId):
-    fin = codecs.open('../Cologne_localcopy/' + dictId + '/' + dictId + 'txt/' + dictId + 'header.xml', 'r', 'utf-8')
+    fin = codecs.open('../' + dictId + '/pywork/' + dictId + 'header.xml', 'r', 'utf-8')
     data = fin.read()
     fin.close()
     return data
@@ -86,7 +87,6 @@ if __name__ == "__main__":
     if dictId in meaningseparator:
         instr = meaningseparator[dictId][0]
         outstr = meaningseparator[dictId][1]
-    # inputfile = pathToDicts+'/'+dictId+'.xml'
     inputfile = os.path.join('..', dictId, 'pywork', dictId + '.xml')
     tree = etree.parse(inputfile)
 
