@@ -5,6 +5,7 @@ cp production/cae.babylon ../../indic-dict/stardict-sanskrit/sa-head/en-entries/
 cp production/bhs.babylon ../../indic-dict/stardict-sanskrit/sa-head/en-entries/edgerton-buddhist-hybrid/edgerton-buddhist-hybrid.babylon
 cp production/gst.babylon ../../indic-dict/stardict-sanskrit/sa-head/en-entries/goldstucker/goldstucker.babylon
 cp production/ieg.babylon ../../indic-dict/stardict-sanskrit/sa-head/en-entries/indian-epigraphical-glossary/indian-epigraphical-glossary.babylon
+cp production/lan.babylon ../../indic-dict/stardict-sanskrit/sa-head/en-entries/lanman/lanman.babylon
 cp production/md.babylon ../../indic-dict/stardict-sanskrit/sa-head/en-entries/macdonell/macdonell.babylon
 cp production/snp.babylon ../../indic-dict/stardict-sanskrit/sa-head/en-entries/Meulenbeld-Sanskrit-Names-of-Plants/Meulenbeld-Sanskrit-Names-of-Plants.babylon
 cp production/mw72.babylon ../../indic-dict/stardict-sanskrit/sa-head/en-entries/mw-1872/mw-1872.babylon
