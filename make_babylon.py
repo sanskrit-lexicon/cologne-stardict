@@ -89,8 +89,7 @@ if __name__ == "__main__":
         outstr = meaningseparator[dictId][1]
     inputfile = os.path.join('..', dictId, 'pywork', dictId + '.xml')
     tree = ET.parse(inputfile)
-    print(tree.findall("."))
-
+    
     hw = tree.findall("./*/h/key1")
     key2s = tree.findall("./*/h/key2")
     lnum = tree.findall("./*/tail/L")
