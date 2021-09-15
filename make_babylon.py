@@ -11,7 +11,7 @@ import re
 import codecs
 import sys
 import os
-from lxml import etree
+from xml.etree import ElementTree as ET
 import transcoder
 import datetime
 
@@ -88,12 +88,12 @@ if __name__ == "__main__":
         instr = meaningseparator[dictId][0]
         outstr = meaningseparator[dictId][1]
     inputfile = os.path.join('..', dictId, 'pywork', dictId + '.xml')
-    tree = etree.parse(inputfile)
-
-    hw = tree.xpath("/" + dictId + "/*/h/key1")
-    key2s = tree.xpath("/" + dictId + "/*/h/key2")
-    lnum = tree.xpath("/" + dictId + "/*/tail/L")
-    entry = tree.xpath("/" + dictId + "/*/body")
+    tree = ET.parse(inputfile)
+    
+    hw = tree.findall("./*/h/key1")
+    key2s = tree.findall("./*/h/key2")
+    lnum = tree.findall("./*/tail/L")
+    entry = tree.findall("./*/body")
 
     if production == '0':
         outputfile = codecs.open('output/' + dictId + '.babylon', 'w', 'utf-8')
@@ -106,11 +106,11 @@ if __name__ == "__main__":
 
     counter = 0
     for x in range(len(hw)):
-        heading1 = etree.tostring(hw[x], method='text', encoding='utf-8')
-        key2 = etree.tostring(key2s[x], method='text', encoding='utf-8')
+        heading1 = ET.tostring(hw[x], method='text', encoding='utf-8')
+        key2 = ET.tostring(key2s[x], method='text', encoding='utf-8')
         key2 = key2.decode('utf-8')
-        ln = etree.tostring(lnum[x], method='text', encoding='utf-8')
-        lnumEntryDict[ln] = etree.tostring(entry[x], method='html', encoding='utf-8')
+        ln = ET.tostring(lnum[x], method='text', encoding='utf-8')
+        lnumEntryDict[ln] = ET.tostring(entry[x], method='html', encoding='utf-8')
 
         if counter % 1000 == 0:
             print(counter)
