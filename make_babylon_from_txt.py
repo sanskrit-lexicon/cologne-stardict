@@ -40,9 +40,10 @@ if __name__ == "__main__":
                 meta = parseheadline(lin)
                 print(meta)
                 fout.write(meta['k1'] + '\n')
-            for (a, b) in params.regs[dictId]:
-                lin = re.sub(a, b, lin)
-            fout.write(lin)
+            else:
+                for (a, b) in params.regs[dictId]:
+                    lin = re.sub(a, b, lin)
+                fout.write(lin)
     fin.close()
     fout.close()
     exit()
