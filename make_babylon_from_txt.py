@@ -35,10 +35,13 @@ if __name__ == "__main__":
         if lin.startswith('<LEND>') and end1:
             end2 = True
             fout.write(lin)
-        if start and not end2:
+        if start and (not end2) and (not lin.startswith('<LEND>')):
             if lin.startswith('<L>'):
                 meta = parseheadline(lin)
                 print(meta)
+                fout.write(meta['k1'] + '\n')
+            for (a, b) in params.regs[dictId]:
+                lin = re.sub(a, b, lin)
             fout.write(lin)
     fin.close()
     fout.close()
