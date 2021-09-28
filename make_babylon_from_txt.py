@@ -41,7 +41,7 @@ if __name__ == "__main__":
             result = ''
         if lin.startswith('<LEND>'):
             end = True
-            result = re.sub('\n+', '\n', result)
+            result = re.sub('[ ]*[\n]+', '\n', result)
             result = re.sub('\n$', '', result)
             if production == '1':
                 result = result.replace('\n', '<BR>')
@@ -50,7 +50,7 @@ if __name__ == "__main__":
         if start and (not end):
             if lin.startswith('<L>'):
                 meta = parseheadline(lin)
-                # print(meta)
+                print(meta)
                 key1 = meta['k1']
                 l = meta['L']
                 if l in altlist:
@@ -58,12 +58,15 @@ if __name__ == "__main__":
                     althws = altlist[l]
                 else:
                     althws = []
-                if key1 in hwnormlist and (dictId.upper() in hwnormlist[key1][1]) and (dictId not in ['ae', 'mwe', 'bor']):
+                if key1 in hwnormlist and (dictId.upper() in hwnormlist[key1][1]):
                     possibleheadings = hwnormlist[key1][0]
                 else:
-                    possibleheadings = [sanscript.transliterate(key1, 'slp1', 'devanagari')]
+                    possibleheadings = [key1]
                 possibleheadings += althws
-                k1s = '|'.join([sanscript.transliterate(head, 'slp1', 'devanagari') for head in possibleheadings])
+                if dictId not in ['ae', 'mwe', 'bor']:
+                    k1s = '|'.join([sanscript.transliterate(head, 'slp1', 'devanagari') for head in possibleheadings])
+                else:
+                    k1s = '|'.join(possibleheadings)
                 fout.write(k1s + '\n')
             elif lin.startswith('[Page'):
                 pass
