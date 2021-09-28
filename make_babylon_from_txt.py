@@ -41,7 +41,8 @@ if __name__ == "__main__":
             result = ''
         if lin.startswith('<LEND>'):
             end = True
-            result = re.sub('[ ]*[\n]+', '\n', result)
+            result = re.sub('[ \t]*\n', '\n', result)
+            result = re.sub('[\n]+', '\n', result)
             result = re.sub('\n$', '', result)
             if production == '1':
                 result = result.replace('\n', '<BR>')
