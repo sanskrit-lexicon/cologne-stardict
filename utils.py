@@ -53,7 +53,10 @@ def read_hwextra(dictId):
     
 
 def devaconvert(line, dictId):
-    if dictId not in params.devaparams:
+    if dictId in ['armh', 'skd', 'vcp']:
+            line = sanscript.transliterate(line, 'slp1', 'devanagari')
+            print(line)
+    elif dictId not in params.devaparams:
         sanskrittexts = re.findall('{#(.*?)#}', line)
         for san in sanskrittexts:
             sanrep = sanscript.transliterate(san, 'slp1', 'devanagari')
