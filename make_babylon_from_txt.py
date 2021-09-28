@@ -43,6 +43,7 @@ if __name__ == "__main__":
             else:
                 for (a, b) in params.regs[dictId]:
                     lin = re.sub(a, b, lin)
+                    lin = utils.devaconvert(lin, dictId)
                 fout.write(lin)
     fin.close()
     fout.close()

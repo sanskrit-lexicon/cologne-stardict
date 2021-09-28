@@ -1,5 +1,8 @@
 import datetime
 import codecs
+import re
+from indic_transliteration import sanscript
+
 
 # Function to return timestamp
 def timestamp():
@@ -34,3 +37,11 @@ def licencetext(dictId):
     fin.close()
     return data
 
+
+def devaconvert(line, dictId):
+    sanskrittexts = re.findall('{%(.*?)%}', line)
+    for san in sanskrittexts:
+        sanrep = sanscript.transliterate(san, 'iast', 'devanagari')
+        line = line.replace('{%' + san + '%}', sanrep)
+    return line
+    
