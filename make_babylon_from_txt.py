@@ -24,6 +24,7 @@ if __name__ == "__main__":
     fin = codecs.open(inputfile, 'r', 'utf-8')
     outputfile = os.path.join('output', dictId + '.babylon')
     fout = codecs.open(outputfile, 'w', 'utf-8')
+    hwnormlist = utils.readhwnorm1c()
     start = False
     end = False
     for lin in fin:
@@ -36,9 +37,14 @@ if __name__ == "__main__":
         if start and (not end):
             if lin.startswith('<L>'):
                 meta = parseheadline(lin)
-                key1 = sanscript.transliterate(meta['k1'], 'slp1', 'devanagari')
                 print(meta)
-                fout.write(key1 + '\n')
+                key1 = meta['k1']
+                if key1 in hwnormlist and (dictId.upper() in hwnormlist[key1][1]) and (dictId not in ['ae', 'mwe', 'bor']):
+                    possibleheadings = hwnormlist[key1][0]
+                    k1s = '|'.join([sanscript.transliterate(head, 'slp1', 'devanagari') for head in possibleheadings])
+                else:
+                    k1s = sanscript.transliterate(key1, 'slp1', 'devanagari')
+                fout.write(k1s + '\n')
             elif lin.startswith('[Page'):
                 pass
             else:
