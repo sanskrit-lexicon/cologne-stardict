@@ -35,7 +35,6 @@ if __name__ == "__main__":
             end1 = True
         if lin.startswith('<LEND>') and end1:
             end2 = True
-            fout.write(lin)
         if start and (not end2) and (not lin.startswith('<LEND>')):
             if lin.startswith('<L>'):
                 meta = parseheadline(lin)
