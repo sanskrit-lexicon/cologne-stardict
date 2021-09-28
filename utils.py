@@ -65,11 +65,16 @@ def devaconvert(line, dictId):
         for (startreg, endreg, intran) in params.devaparams[dictId]:
             sanskrittexts = re.findall(startreg + '(.*?)' + endreg, line)
             for san in sanskrittexts:
-                sanrep = sanscript.transliterate(san, intran, 'devanagari')
-                line = line.replace('{%' + san + '%}', sanrep)
+                if intran == 'iast':
+                    san1 = san.lower()
+                else:
+                    san1 = san
+                sanrep = sanscript.transliterate(san1, intran, 'devanagari')
+                line = line.replace(startreg+ san + endreg, sanrep)
     line = line.replace('<div n="1"', '\n<div n="1"')
     line = line.replace('<div n="2"', '\n\t<div n="2"')
     line = line.replace('<div n="3"', '\n\t\t<div n="3"')
     line = line.replace('<div n="4"', '\n\t\t\t<div n="4"')
+    line = line.replace('--', '—')
     return line
     
