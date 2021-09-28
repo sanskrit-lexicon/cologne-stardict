@@ -75,6 +75,6 @@ def devaconvert(line, dictId):
     line = line.replace('<div n="2"', '\n\t<div n="2"')
     line = line.replace('<div n="3"', '\n\t\t<div n="3"')
     line = line.replace('<div n="4"', '\n\t\t\t<div n="4"')
-    line = line.replace('--', '—')
+    # line = line.replace('--', '—')
     return line
     
