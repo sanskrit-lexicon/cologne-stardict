@@ -22,7 +22,10 @@ if __name__ == "__main__":
     production = sys.argv[2]
     inputfile = os.path.join('..', 'csl-orig', 'v02', dictId, dictId + '.txt')
     fin = codecs.open(inputfile, 'r', 'utf-8')
-    outputfile = os.path.join('output', dictId + '.babylon')
+    if production == '0':
+        outputfile = os.path.join('output', dictId + '.babylon')
+    elif production == '1':
+        outputfile = os.path.join('production', dictId + '.babylon')
     fout = codecs.open(outputfile, 'w', 'utf-8')
     hwnormlist = utils.readhwnorm1c()
     start = False
@@ -31,8 +34,10 @@ if __name__ == "__main__":
         if lin.startswith('<L>'):
             start = True
             end = False
+            result = ''
         if lin.startswith('<LEND>'):
             end = True
+            fout.write(result)
             fout.write('\n')
         if start and (not end):
             if lin.startswith('<L>'):
@@ -44,7 +49,7 @@ if __name__ == "__main__":
                     k1s = '|'.join([sanscript.transliterate(head, 'slp1', 'devanagari') for head in possibleheadings])
                 else:
                     k1s = sanscript.transliterate(key1, 'slp1', 'devanagari')
-                fout.write(k1s + '\n')
+                result += k1s + '\n'
             elif lin.startswith('[Page'):
                 pass
             else:
@@ -54,7 +59,7 @@ if __name__ == "__main__":
                 lin = lin.replace('¦', '')
                 lin = re.sub('<.*?>', '', lin)
                 lin = utils.devaconvert(lin, dictId)
-                fout.write(lin)
+                result += lin
     fin.close()
     fout.close()
     exit()
