@@ -38,10 +38,11 @@ if __name__ == "__main__":
         if lin.startswith('<LEND>'):
             end = True
             result = re.sub('\n+', '\n', result)
+            result = re.sub('\n$', '', result)
             if production == '1':
                 result = result.replace('\n', '<BR>')
             fout.write(result)
-            fout.write('\n')
+            fout.write('\n\n')
         if start and (not end):
             if lin.startswith('<L>'):
                 meta = parseheadline(lin)
@@ -52,7 +53,7 @@ if __name__ == "__main__":
                     k1s = '|'.join([sanscript.transliterate(head, 'slp1', 'devanagari') for head in possibleheadings])
                 else:
                     k1s = sanscript.transliterate(key1, 'slp1', 'devanagari')
-                result += k1s + '\n'
+                fout.write(k1s + '\n')
             elif lin.startswith('[Page'):
                 pass
             else:
