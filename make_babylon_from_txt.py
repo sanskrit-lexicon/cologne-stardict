@@ -11,6 +11,7 @@ import re
 import codecs
 import sys
 import os
+from indic_transliteration import sanscript
 import utils
 import params
 from parseheadline import parseheadline
@@ -38,8 +39,9 @@ if __name__ == "__main__":
         if start and (not end2) and (not lin.startswith('<LEND>')):
             if lin.startswith('<L>'):
                 meta = parseheadline(lin)
+                key1 = sanscript.transliterate(meta['k1'], 'slp1', 'devanagari')
                 print(meta)
-                fout.write(meta['k1'] + '\n')
+                fout.write(key1 + '\n')
             else:
                 for (a, b) in params.regs[dictId]:
                     lin = re.sub(a, b, lin)
