@@ -25,17 +25,16 @@ if __name__ == "__main__":
     outputfile = os.path.join('output', dictId + '.babylon')
     fout = codecs.open(outputfile, 'w', 'utf-8')
     start = False
-    end1 = False
-    end2 = False
+    end = False
     lastentry = params.lastlnum[dictId]
     for lin in fin:
-        if lin.startswith('<L>1<pc>'):
+        if lin.startswith('<L>'):
             start = True
-        if lin.startswith('<L>' + lastentry + '<pc>'):
-            end1 = True
-        if lin.startswith('<LEND>') and end1:
-            end2 = True
-        if start and (not end2) and (not lin.startswith('<LEND>')):
+            end = False
+        if lin.startswith('<LEND>'):
+            end = True
+            fout.write('\n')
+        if start and (not end):
             if lin.startswith('<L>'):
                 meta = parseheadline(lin)
                 key1 = sanscript.transliterate(meta['k1'], 'slp1', 'devanagari')
