@@ -28,3 +28,5 @@ lastlnum = {'snp': '453',
 regs = {'snp': [('<div n="P"/>', ''), ('<div n="lb"/>', ''), ],
 }
 
+devaparams = {'snp': [('{%', '%}', 'iast')],
+}

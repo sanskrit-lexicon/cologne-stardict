@@ -43,11 +43,12 @@ if __name__ == "__main__":
             else:
                 for (a, b) in params.regs[dictId]:
                     lin = re.sub(a, b, lin)
-                    lin = utils.devaconvert(lin, dictId)
+                lin = utils.devaconvert(lin, dictId)
                 fout.write(lin)
     fin.close()
     fout.close()
     exit()
+
     # Read a list of normalized headwords. See https://github.com/sanskrit-coders/stardict-sanskrit/issues/66.
     hwnormlist = utils.readhwnorm1c()
     lnumEntryDict = {}
