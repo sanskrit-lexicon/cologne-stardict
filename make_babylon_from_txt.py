@@ -41,6 +41,8 @@ if __name__ == "__main__":
                 key1 = sanscript.transliterate(meta['k1'], 'slp1', 'devanagari')
                 print(meta)
                 fout.write(key1 + '\n')
+            elif lin.startswith('[Page'):
+                pass
             else:
                 for (a, b) in params.regs[dictId]:
                     lin = re.sub(a, b, lin)
