@@ -1,9 +1,11 @@
 import datetime
 import codecs
 import re
+import os
+from collections import defaultdict
 from indic_transliteration import sanscript
 import params
-
+from parseheadline import parseheadline
 
 # Function to return timestamp
 def timestamp():
@@ -38,6 +40,17 @@ def licencetext(dictId):
     fin.close()
     return data
 
+
+def read_hwextra(dictId):
+    filein = os.path.join('..', 'csl-orig', 'v02', dictId, dictId + '_hwextra.txt')
+    fin = codecs.open(filein, 'r', 'utf-8')
+    result = defaultdict(list)
+    for lin in fin:
+        meta = parseheadline(lin)
+        if 'LP' in meta:
+            result[meta['LP']].append(meta['k1'])
+    return result
+    
 
 def devaconvert(line, dictId):
     if dictId not in params.devaparams:

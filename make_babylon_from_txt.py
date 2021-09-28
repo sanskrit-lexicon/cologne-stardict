@@ -27,7 +27,11 @@ if __name__ == "__main__":
     elif production == '1':
         outputfile = os.path.join('production', dictId + '.babylon')
     fout = codecs.open(outputfile, 'w', 'utf-8')
+    print("Reading hwnorm1.")
     hwnormlist = utils.readhwnorm1c()
+    print("Reading hwextra.")
+    altlist = utils.read_hwextra(dictId)
+    # print(altlist)
     start = False
     end = False
     for lin in fin:
@@ -46,13 +50,20 @@ if __name__ == "__main__":
         if start and (not end):
             if lin.startswith('<L>'):
                 meta = parseheadline(lin)
-                print(meta)
+                # print(meta)
                 key1 = meta['k1']
+                l = meta['L']
+                if l in altlist:
+                    print(altlist[l])
+                    althws = altlist[l]
+                else:
+                    althws = []
                 if key1 in hwnormlist and (dictId.upper() in hwnormlist[key1][1]) and (dictId not in ['ae', 'mwe', 'bor']):
                     possibleheadings = hwnormlist[key1][0]
-                    k1s = '|'.join([sanscript.transliterate(head, 'slp1', 'devanagari') for head in possibleheadings])
                 else:
-                    k1s = sanscript.transliterate(key1, 'slp1', 'devanagari')
+                    possibleheadings = [sanscript.transliterate(key1, 'slp1', 'devanagari')]
+                possibleheadings += althws
+                k1s = '|'.join([sanscript.transliterate(head, 'slp1', 'devanagari') for head in possibleheadings])
                 fout.write(k1s + '\n')
             elif lin.startswith('[Page'):
                 pass
