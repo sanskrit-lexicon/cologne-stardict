@@ -40,10 +40,16 @@ def licencetext(dictId):
 
 
 def devaconvert(line, dictId):
-    for (startreg, endreg, intran) in params.devaparams[dictId]:
-        sanskrittexts = re.findall(startreg + '(.*?)' + endreg, line)
+    if dictId not in params.devaparams:
+        sanskrittexts = re.findall('{#(.*?)#}', line)
         for san in sanskrittexts:
-            sanrep = sanscript.transliterate(san, intran, 'devanagari')
+            sanrep = sanscript.transliterate(san, 'slp1', 'devanagari')
             line = line.replace('{%' + san + '%}', sanrep)
+    else:
+        for (startreg, endreg, intran) in params.devaparams[dictId]:
+            sanskrittexts = re.findall(startreg + '(.*?)' + endreg, line)
+            for san in sanskrittexts:
+                sanrep = sanscript.transliterate(san, intran, 'devanagari')
+                line = line.replace('{%' + san + '%}', sanrep)
     return line
     

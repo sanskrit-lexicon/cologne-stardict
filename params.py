@@ -22,10 +22,9 @@ meaningseparator = {'acc': ('([ .])--', r'\g<1>BREAK --'),
 'yat': ('<i>', 'BREAK<i>'),
 'ae': ('<b>-', 'BREAK<b>-')}
 
-lastlnum = {'snp': '453',
-}
 
 regs = {'snp': [('<div n="P"/>', ''), ('<div n="lb"/>', ''), ],
+'pgn': [('{%', ''), ('%}', ''), ],
 }
 
 devaparams = {'snp': [('{%', '%}', 'iast')],

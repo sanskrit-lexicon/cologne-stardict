@@ -26,7 +26,6 @@ if __name__ == "__main__":
     fout = codecs.open(outputfile, 'w', 'utf-8')
     start = False
     end = False
-    lastentry = params.lastlnum[dictId]
     for lin in fin:
         if lin.startswith('<L>'):
             start = True
@@ -43,8 +42,9 @@ if __name__ == "__main__":
             elif lin.startswith('[Page'):
                 pass
             else:
-                for (a, b) in params.regs[dictId]:
-                    lin = re.sub(a, b, lin)
+                if dictId in params.regs:
+                    for (a, b) in params.regs[dictId]:
+                        lin = re.sub(a, b, lin)
                 lin = lin.replace('¦', '')
                 lin = re.sub('<.*?>', '', lin)
                 lin = utils.devaconvert(lin, dictId)
