@@ -78,6 +78,7 @@ if __name__ == "__main__":
                 lin = lin.replace('¦', '')
                 lin = utils.devaconvert(lin, dictId)
                 lin = re.sub('<.*?>', '', lin)
+                lin = re.sub('[ ]+', ' ', lin)
                 result += lin
     fin.close()
     fout.close()
