@@ -76,8 +76,8 @@ if __name__ == "__main__":
                     for (a, b) in params.regs[dictId]:
                         lin = re.sub(a, b, lin)
                 lin = lin.replace('¦', '')
-                lin = re.sub('<.*?>', '', lin)
                 lin = utils.devaconvert(lin, dictId)
+                lin = re.sub('<.*?>', '', lin)
                 result += lin
     fin.close()
     fout.close()
