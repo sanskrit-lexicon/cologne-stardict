@@ -51,9 +51,10 @@ if __name__ == "__main__":
         if start and (not end):
             if lin.startswith('<L>'):
                 meta = parseheadline(lin)
-                print(meta)
                 key1 = meta['k1']
                 l = meta['L']
+                if int(l.split('.')[0]) % 1000 == 0:
+                    print(l)
                 if l in altlist:
                     print(altlist[l])
                     althws = altlist[l]
