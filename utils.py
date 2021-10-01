@@ -77,8 +77,9 @@ def devaconvert(line, dictId):
     # line = line.replace('--', '—')
     if dictId in ['pw', 'pwg']:
         line = re.sub('([^0-9 ])\^', '\g<1>॑', line)
-        line = re.sub('([^0-9 ])\/', '\g<1>꣫', line)
+        line = re.sub('([^0-9 ])/', '\g<1>꣫', line)
         line = line.replace("\\", "॒")
-    line = re.sub('([^0-9 ])\/', '\g<1>॑', line)
+    else:
+        line = re.sub('([^0-9 ])/', '\g<1>॑', line)
     return line
     
