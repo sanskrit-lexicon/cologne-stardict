@@ -56,7 +56,7 @@ if __name__ == "__main__":
                 if int(l.split('.')[0]) % 1000 == 0:
                     print(l)
                 if l in altlist:
-                    print(altlist[l])
+                    # print(altlist[l])
                     althws = altlist[l]
                 else:
                     althws = []
