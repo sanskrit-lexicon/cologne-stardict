@@ -52,6 +52,16 @@ def read_hwextra(dictId):
     return result
     
 
+def applyaccent(line, dictId):
+    if dictId in ['pw', 'pwg']:
+        line = re.sub('([^0-9 ])\^', '\g<1>॑', line)
+        line = re.sub('([^0-9 ])/', '\g<1>꣫', line)
+        line = line.replace("\\", "॒")
+    else:
+        line = re.sub('([^0-9 ])/', '\g<1>॑', line)
+    return line
+
+    
 def devaconvert(line, dictId):
     if dictId in ['armh', 'skd', 'vcp']:
             line = sanscript.transliterate(line, 'slp1', 'devanagari')
@@ -59,6 +69,7 @@ def devaconvert(line, dictId):
         sanskrittexts = re.findall('{#(.*?)#}', line)
         for san in sanskrittexts:
             sanrep = sanscript.transliterate(san, 'slp1', 'devanagari')
+            sanrep = applyaccent(sanrep, dictId)
             line = line.replace('{#' + san + '#}', sanrep)
     else:
         for (startreg, endreg, intran) in params.devaparams[dictId]:
@@ -69,17 +80,11 @@ def devaconvert(line, dictId):
                 else:
                     san1 = san
                 sanrep = sanscript.transliterate(san1, intran, 'devanagari')
+                sanrep = applyaccent(sanrep, dictId)
                 line = line.replace(startreg+ san + endreg, sanrep)
     line = line.replace('<div n="1"', '\n<div n="1"')
     line = line.replace('<div n="2"', '\n\t<div n="2"')
     line = line.replace('<div n="3"', '\n\t\t<div n="3"')
     line = line.replace('<div n="4"', '\n\t\t\t<div n="4"')
-    # line = line.replace('--', '—')
-    if dictId in ['pw', 'pwg']:
-        line = re.sub('([^0-9 ])\^', '\g<1>॑', line)
-        line = re.sub('([^0-9 ])/', '\g<1>꣫', line)
-        line = line.replace("\\", "॒")
-    else:
-        line = re.sub('([^0-9 ])/', '\g<1>॑', line)
     return line
     
