@@ -68,8 +68,8 @@ def devaconvert(line, dictId):
     elif dictId not in params.devaparams:
         sanskrittexts = re.findall('{#(.*?)#}', line)
         for san in sanskrittexts:
-            sanrep = sanscript.transliterate(san, 'slp1', 'devanagari')
-            sanrep = applyaccent(sanrep, dictId)
+            sanrep = applyaccent(san, dictId)
+            sanrep = sanscript.transliterate(sanrep, 'slp1', 'devanagari')
             line = line.replace('{#' + san + '#}', sanrep)
     else:
         for (startreg, endreg, intran) in params.devaparams[dictId]:
@@ -79,8 +79,8 @@ def devaconvert(line, dictId):
                     san1 = san.lower()
                 else:
                     san1 = san
-                sanrep = sanscript.transliterate(san1, intran, 'devanagari')
-                sanrep = applyaccent(sanrep, dictId)
+                sanrep = applyaccent(san1, dictId)
+                sanrep = sanscript.transliterate(sanrep, intran, 'devanagari')
                 line = line.replace(startreg+ san + endreg, sanrep)
     line = line.replace('<div n="1"', '\n<div n="1"')
     line = line.replace('<div n="2"', '\n\t<div n="2"')
