@@ -3,3 +3,5 @@ log.txt
 *.pyc
 output/ap.babylon
 output/pd.babylon
+production/ap.babylon
+production/pd.babylon
