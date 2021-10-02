@@ -27,6 +27,8 @@ if __name__ == "__main__":
     elif production == '1':
         outputfile = os.path.join('production', dictId + '.babylon')
     fout = codecs.open(outputfile, 'w', 'utf-8')
+    fout.write('\n#stripmethod=keep\n#sametypesequence=h\n\n')
+
     print("Reading hwnorm1.")
     hwnormlist = utils.readhwnorm1c()
     print("Reading hwextra.")
