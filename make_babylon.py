@@ -72,7 +72,7 @@ if __name__ == "__main__":
                     k1s = '|'.join(possibleheadings)
                 fout.write(k1s + '\n')
                 linkurl = utils.scanlink(dictId, pc)
-                fout.write('<a href="' + linkurl + '">' + pc + '</a>\n')
+                result += '<a href="' + linkurl + '">' + pc + '</a>\n'
             elif lin.startswith('[Page'):
                 pass
             else:
