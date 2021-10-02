@@ -61,7 +61,12 @@ def applyaccent(line, dictId):
         line = re.sub('([^0-9 ])/', '\g<1>॑', line)
     return line
 
-    
+
+def scanlink(dictId, pc):
+    url = 'https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=' + dictId.upper() + '&page=' + pc
+    return url
+
+
 def devaconvert(line, dictId):
     if dictId in ['armh', 'skd', 'vcp']:
             line = sanscript.transliterate(line, 'slp1', 'devanagari')

@@ -53,6 +53,7 @@ if __name__ == "__main__":
                 meta = parseheadline(lin)
                 key1 = meta['k1']
                 l = meta['L']
+                pc = meta['pc']
                 if int(l.split('.')[0]) % 1000 == 0:
                     print(l)
                 if l in altlist:
@@ -70,6 +71,8 @@ if __name__ == "__main__":
                 else:
                     k1s = '|'.join(possibleheadings)
                 fout.write(k1s + '\n')
+                linkurl = utils.scanlink(dictId, pc)
+                fout.write('<a href="' + linkurl + '">' + pc + '</a>\n')
             elif lin.startswith('[Page'):
                 pass
             else:
