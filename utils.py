@@ -67,6 +67,11 @@ def scanlink(dictId, pc):
     return url
 
 
+def correctionlink(dictId, lnum):
+    url = 'https://github.com/drdhaval2785/csl-lnum/blob/main/v02/' + dictId + '/' + lnum + '.txt'
+    return url
+
+
 def devaconvert(line, dictId):
     if dictId in ['armh', 'skd', 'vcp']:
             line = sanscript.transliterate(line, 'slp1', 'devanagari')

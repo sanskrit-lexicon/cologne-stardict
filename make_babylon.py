@@ -43,6 +43,10 @@ if __name__ == "__main__":
             result = ''
         if lin.startswith('<LEND>'):
             end = True
+            linkurl = utils.scanlink(dictId, pc)
+            result += '<a href="' + linkurl + '">Scan page : ' + pc + '</a>\n'
+            correctionurl = utils.correctionlink(dictId, l)
+            result += '<a href="' + correctionurl + '">Correction submission : ' + l + '</a>\n'
             result = re.sub('[ \t]*\n', '\n', result)
             result = re.sub('[\n]+', '\n', result)
             result = re.sub('\n$', '', result)
@@ -73,8 +77,6 @@ if __name__ == "__main__":
                 else:
                     k1s = '|'.join(possibleheadings)
                 fout.write(k1s + '\n')
-                linkurl = utils.scanlink(dictId, pc)
-                result += '<a href="' + linkurl + '">' + pc + '</a>\n'
             elif lin.startswith('[Page'):
                 pass
             else:
