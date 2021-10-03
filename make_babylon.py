@@ -44,9 +44,9 @@ if __name__ == "__main__":
         if lin.startswith('<LEND>'):
             end = True
             linkurl = utils.scanlink(dictId, pc)
-            result += '<a href="' + linkurl + '">Scan page : ' + pc + '</a>\n'
+            result += '<a href="' + linkurl + '" target="_blank">Scan page : ' + pc + '</a>\n'
             correctionurl = utils.correctionlink(dictId, l)
-            result += '<a href="' + correctionurl + '">Correction submission : ' + l + '</a>\n'
+            result += '<a href="' + correctionurl + '" target="_blank">Correction submission : ' + key1 + ', ' + l + '</a>\n'
             result = re.sub('[ \t]*\n', '\n', result)
             result = re.sub('[\n]+', '\n', result)
             result = re.sub('\n$', '', result)
