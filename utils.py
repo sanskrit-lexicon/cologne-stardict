@@ -68,7 +68,7 @@ def scanlink(dictId, pc):
 
 
 def correctionlink(dictId, lnum):
-    url = 'https://github.com/sanskrit-lexicon/csl-lnum/blob/main/v02/' + dictId + '/' + lnum + '.txt'
+    url = 'https://github.com/sanskrit-lexicon/csl-ldev/blob/main/v02/' + dictId + '/' + lnum + '.txt'
     return url
 
 
