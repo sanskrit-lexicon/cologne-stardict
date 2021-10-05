@@ -60,7 +60,7 @@ if __name__ == "__main__":
                 key1 = meta['k1']
                 l = meta['L']
                 pc = meta['pc']
-                if int(l.split('.')[0]) % 1000 == 0:
+                if int(l.split('.')[0]) % 10000 == 0:
                     print(l)
                 if l in altlist:
                     # print(altlist[l])
