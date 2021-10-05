@@ -9,4 +9,5 @@ for Val in "${dictList[@]}"
 do
 	echo 'Started' $Val 'handling'.
 	python3 make_babylon.py $Val $1
+	echo '' 
 done
