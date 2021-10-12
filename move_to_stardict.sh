@@ -9,6 +9,7 @@ cp production/lan.babylon ../../indic-dict/stardict-sanskrit/sa-head/en-entries/
 cp production/md.babylon ../../indic-dict/stardict-sanskrit/sa-head/en-entries/macdonell/macdonell.babylon
 cp production/snp.babylon ../../indic-dict/stardict-sanskrit/sa-head/en-entries/Meulenbeld-Sanskrit-Names-of-Plants/Meulenbeld-Sanskrit-Names-of-Plants.babylon
 cp production/mw72.babylon ../../indic-dict/stardict-sanskrit/sa-head/en-entries/mw-1872/mw-1872.babylon
+cp production/mw.babylon ../../indic-dict/stardict-sanskrit/sa-head/en-entries/mw-cologne/mw-cologne.babylon
 cp production/pgn.babylon ../../indic-dict/stardict-sanskrit/sa-head/en-entries/Personal-and-Geographical-Names-in-the-Gupta-Inscriptions/Personal-and-Geographical-Names-in-the-Gupta-Inscriptions.babylon
 cp production/shs.babylon ../../indic-dict/stardict-sanskrit/sa-head/en-entries/shabda-sAgara/shabda-sAgara.babylon
 cp production/vei.babylon ../../indic-dict/stardict-sanskrit/sa-head/en-entries/Vedic-Index-of-Names-and-Subjects/Vedic-Index-of-Names-and-Subjects.babylon
@@ -27,4 +28,5 @@ cp production/vcp.babylon ../../indic-dict/stardict-sanskrit/sa-head/sa-entries/
 cp production/armh.babylon ../../indic-dict/stardict-sanskrit/sa-head/sa-entries/abhidhAnaratnamAlA/abhidhAnaratnamAlA.babylon
 cp production/bor.babylon ../../indic-dict/stardict-sanskrit/en-head/borooah/borooah.babylon
 cp production/mwe.babylon ../../indic-dict/stardict-sanskrit/en-head/mw-english-sanskrit/mw-english-sanskrit.babylon
+cp production/ae.babylon ../../indic-dict/stardict-sanskrit/en-head/apte-english-sanskrit-cologne/apte-english-sanskrit-cologne.babylon
 
