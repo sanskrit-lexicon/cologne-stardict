@@ -11,7 +11,7 @@ import re
 import codecs
 import sys
 import os
-from indic_transliteration import sanscript
+from indic_transliteration.sanscript import transliterate, SchemeMap, SCHEMES
 import utils
 import params
 from parseheadline import parseheadline
@@ -28,6 +28,7 @@ if __name__ == "__main__":
         outputfile = os.path.join('production', dictId + '.babylon')
     fout = codecs.open(outputfile, 'w', 'utf-8')
     fout.write('\n#stripmethod=keep\n#sametypesequence=h\n\n')
+    scheme_map = SchemeMap(SCHEMES['slp1'], SCHEMES['devanagari'])
 
     print("Reading hwnorm1.")
     hwnormlist = utils.readhwnorm1c()
@@ -43,6 +44,7 @@ if __name__ == "__main__":
             result = ''
         if lin.startswith('<LEND>'):
             end = True
+            result = utils.devaconvert(result, dictId)
             linkurl = utils.scanlink(dictId, pc)
             result += '<a href="' + linkurl + '" target="_blank">Scan page : ' + pc + '</a>\n'
             correctionurl = utils.correctionlink(dictId, l)
@@ -73,7 +75,7 @@ if __name__ == "__main__":
                     possibleheadings = [key1]
                 possibleheadings += althws
                 if dictId not in ['ae', 'mwe', 'bor']:
-                    k1s = '|'.join([sanscript.transliterate(head, 'slp1', 'devanagari') for head in possibleheadings])
+                    k1s = '|'.join([transliterate(head, scheme_map=scheme_map) for head in possibleheadings])
                 else:
                     k1s = '|'.join(possibleheadings)
                 fout.write(k1s + '\n')
@@ -84,7 +86,6 @@ if __name__ == "__main__":
                     for (a, b) in params.regs[dictId]:
                         lin = re.sub(a, b, lin)
                 lin = lin.replace('¦', '')
-                lin = utils.devaconvert(lin, dictId)
                 lin = re.sub('<.*?>', '', lin)
                 lin = re.sub('[ ]+', ' ', lin)
                 result += lin

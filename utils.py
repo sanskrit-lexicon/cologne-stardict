@@ -3,10 +3,12 @@ import codecs
 import re
 import os
 from collections import defaultdict
-from indic_transliteration import sanscript
+from indic_transliteration.sanscript import transliterate, SchemeMap, SCHEMES
 import params
 from parseheadline import parseheadline
 
+slp1_map = SchemeMap(SCHEMES['slp1'], SCHEMES['devanagari'])
+iast_map = SchemeMap(SCHEMES['slp1'], SCHEMES['devanagari'])
 # Function to return timestamp
 def timestamp():
     return datetime.datetime.now()
@@ -74,12 +76,12 @@ def correctionlink(dictId, lnum):
 
 def devaconvert(line, dictId):
     if dictId in ['armh', 'skd', 'vcp']:
-            line = sanscript.transliterate(line, 'slp1', 'devanagari')
+            line = transliterate(line, scheme_map=slp1_map)
     elif dictId not in params.devaparams:
         sanskrittexts = re.findall('{#(.*?)#}', line)
         for san in sanskrittexts:
             sanrep = applyaccent(san, dictId)
-            sanrep = sanscript.transliterate(sanrep, 'slp1', 'devanagari')
+            sanrep = transliterate(sanrep, scheme_map=slp1_map)
             line = line.replace('{#' + san + '#}', sanrep)
     else:
         for (startreg, endreg, intran) in params.devaparams[dictId]:
@@ -90,7 +92,10 @@ def devaconvert(line, dictId):
                 else:
                     san1 = san
                 sanrep = applyaccent(san1, dictId)
-                sanrep = sanscript.transliterate(sanrep, intran, 'devanagari')
+                if intran == 'iast':
+                    sanrep = transliterate(sanrep, scheme_map=iast_map)
+                else:
+                    sanrep = transliterate(sanrep, scheme_map=slp1_map)
                 line = line.replace(startreg+ san + endreg, sanrep)
     line = line.replace('<div n="1"', '\n<div n="1"')
     line = line.replace('<div n="2"', '\n\t<div n="2"')
