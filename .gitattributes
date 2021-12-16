@@ -1,10 +1,2 @@
 production/mw.babylon filter=lfs diff=lfs merge=lfs -text
 output/mw.babylon filter=lfs diff=lfs merge=lfs -text
-production/pw.babylon filter=lfs diff=lfs merge=lfs -text
-production/pwg.babylon filter=lfs diff=lfs merge=lfs -text
-production/skd.babylon filter=lfs diff=lfs merge=lfs -text
-production/vcp.babylon filter=lfs diff=lfs merge=lfs -text
-output/pw.babylon filter=lfs diff=lfs merge=lfs -text
-output/pwg.babylon filter=lfs diff=lfs merge=lfs -text
-output/skd.babylon filter=lfs diff=lfs merge=lfs -text
-output/vcp.babylon filter=lfs diff=lfs merge=lfs -text
