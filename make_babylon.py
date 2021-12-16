@@ -34,10 +34,11 @@ if __name__ == "__main__":
     hwnormlist = utils.readhwnorm1c()
     print("Reading hwextra.")
     altlist = utils.read_hwextra(dictId)
-    # print(altlist)
     start = False
     end = False
-    for lin in fin:
+    data = fin.read()
+    lins = data.split('\n')
+    for lin in lins:
         if lin.startswith('<L>'):
             start = True
             end = False
@@ -45,6 +46,8 @@ if __name__ == "__main__":
         if lin.startswith('<LEND>'):
             end = True
             result = utils.devaconvert(result, dictId)
+            result = re.sub('<.*?>', '', result)
+            result = re.sub('[ ]+', ' ', result)
             linkurl = utils.scanlink(dictId, pc)
             result += '<a href="' + linkurl + '" target="_blank">Scan page : ' + pc + '</a>\n'
             correctionurl = utils.correctionlink(dictId, l)
@@ -86,8 +89,6 @@ if __name__ == "__main__":
                     for (a, b) in params.regs[dictId]:
                         lin = re.sub(a, b, lin)
                 lin = lin.replace('¦', '')
-                lin = re.sub('<.*?>', '', lin)
-                lin = re.sub('[ ]+', ' ', lin)
                 result += lin
     fin.close()
     fout.close()
