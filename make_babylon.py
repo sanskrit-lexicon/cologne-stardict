@@ -51,7 +51,7 @@ if __name__ == "__main__":
             result = re.sub('<.*?>', '', result)
             result = re.sub('[ ]+', ' ', result)
             linkurl = utils.scanlink(dictId, pc)
-            result += '\n<a href="' + linkurl + '" target="_blank">Scan page : ' + pc + '</a>\n'
+            result += '<a href="' + linkurl + '" target="_blank">Scan page : ' + pc + '</a>\n'
             correctionurl = utils.correctionlink(dictId, l)
             result += '<a href="' + correctionurl + '" target="_blank">Correction submission : ' + key1 + ', ' + l + '</a>\n'
             result = re.sub('[ \t]*\n', '\n', result)
@@ -91,6 +91,6 @@ if __name__ == "__main__":
                     for (a, b) in params.regs[dictId]:
                         lin = re.sub(a, b, lin)
                 lin = lin.replace('¦', '')
-                result += lin
+                result += lin + '\n'
     fin.close()
     fout.close()
