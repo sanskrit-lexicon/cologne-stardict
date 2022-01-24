@@ -51,7 +51,8 @@ if __name__ == "__main__":
             result = re.sub('<.*?>', '', result)
             result = re.sub('[ ]+', ' ', result)
             linkurl = utils.scanlink(dictId, pc)
-            result += '<a href="' + linkurl + '" target="_blank">Scan page : ' + pc + '</a>\n'
+            if dictId not in ['mw']:
+                result += '<a href="' + linkurl + '" target="_blank">Scan page : ' + pc + '</a>\n'
             correctionurl = utils.correctionlink(dictId, l)
             result += '<a href="' + correctionurl + '" target="_blank">Correction submission : ' + key1 + ', ' + l + '</a>\n'
             result = re.sub('[ \t]*\n', '\n', result)
