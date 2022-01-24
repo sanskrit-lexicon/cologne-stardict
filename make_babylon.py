@@ -15,6 +15,7 @@ from indic_transliteration.sanscript import transliterate, SchemeMap, SCHEMES
 import utils
 import params
 from parseheadline import parseheadline
+from dictdata import dictdata
 
 
 if __name__ == "__main__":
@@ -27,7 +28,8 @@ if __name__ == "__main__":
     elif production == '1':
         outputfile = os.path.join('production', dictId + '.babylon')
     fout = codecs.open(outputfile, 'w', 'utf-8')
-    fout.write('\n#stripmethod=keep\n#sametypesequence=h\n\n')
+    fout.write('\n#bookname=' + dictdata[dictId][0] + ' (' + dictdata[dictId][1] + ')\n')
+    fout.write('#stripmethod=keep\n#sametypesequence=h\n\n')
     scheme_map = SchemeMap(SCHEMES['slp1'], SCHEMES['devanagari'])
 
     print("Reading hwnorm1.")
@@ -49,7 +51,7 @@ if __name__ == "__main__":
             result = re.sub('<.*?>', '', result)
             result = re.sub('[ ]+', ' ', result)
             linkurl = utils.scanlink(dictId, pc)
-            result += '<a href="' + linkurl + '" target="_blank">Scan page : ' + pc + '</a>\n'
+            result += '\n<a href="' + linkurl + '" target="_blank">Scan page : ' + pc + '</a>\n'
             correctionurl = utils.correctionlink(dictId, l)
             result += '<a href="' + correctionurl + '" target="_blank">Correction submission : ' + key1 + ', ' + l + '</a>\n'
             result = re.sub('[ \t]*\n', '\n', result)
