@@ -8,7 +8,7 @@ import params
 from parseheadline import parseheadline
 
 slp1_map = SchemeMap(SCHEMES['slp1'], SCHEMES['devanagari'])
-iast_map = SchemeMap(SCHEMES['slp1'], SCHEMES['devanagari'])
+iast_map = SchemeMap(SCHEMES['iast'], SCHEMES['devanagari'])
 # Function to return timestamp
 def timestamp():
     return datetime.datetime.now()
