@@ -1,10 +1,10 @@
 # This Python file uses the following encoding: utf-8
 """
 Usage:
-python make_babylon_from_txt.py dictId [0/1]
+python3 make_babylon.py dictId [0/1]
 0 for viewing (\n line break), 1 for production (More HTML like line break)
 e.g.
-python make_babylon_from_txt.py md 1
+python3 make_babylon.py md 1
 """
 from __future__ import print_function
 import re
@@ -52,9 +52,9 @@ if __name__ == "__main__":
             result = re.sub('[ ]+', ' ', result)
             linkurl = utils.scanlink(dictId, pc)
             if dictId not in ['mw']:
-                result += '<a href="' + linkurl + '" target="_blank">Scan page : ' + pc + '</a>\n'
+                result += '<a href="' + linkurl + '" target="_blank">PDF : ' + pc + '</a>\n'
             correctionurl = utils.correctionlink(dictId, l)
-            result += '<a href="' + correctionurl + '" target="_blank">Correction submission : ' + key1 + ', ' + l + '</a>\n'
+            result += '<a href="' + correctionurl + '" target="_blank">Correction : ' + key1 + ', ' + l + '</a>\n'
             result = re.sub('[ \t]*\n', '\n', result)
             result = re.sub('[\n]+', '\n', result)
             result = re.sub('\n$', '', result)

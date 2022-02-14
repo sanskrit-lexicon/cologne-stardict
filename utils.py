@@ -65,12 +65,16 @@ def applyaccent(line, dictId):
 
 
 def scanlink(dictId, pc):
-    url = 'https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=' + dictId.upper() + '&page=' + pc
+	# https://github.com/sanskrit-lexicon/cologne-stardict/issues/33#issuecomment-1036415566
+	# https://yaahi.github.io/?cp=0001-a&d=MW72
+    url = 'https://yaahi.github.io/?cp=' + pc + '&d=' + dictId.upper()
     return url
 
 
 def correctionlink(dictId, lnum):
-    url = 'https://github.com/sanskrit-lexicon/csl-ldev/blob/main/v02/' + dictId + '/' + lnum + '.txt'
+	# https://github.com/sanskrit-lexicon/cologne-stardict/issues/33#issuecomment-1038606969
+	# https://yaahi.github.io/?d=mw&e=2
+    url = 'https://yaahi.github.io/?d=' + dictId + '&e=' + lnum
     return url
 
 
