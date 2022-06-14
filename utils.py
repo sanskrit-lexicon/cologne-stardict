@@ -7,7 +7,7 @@ from indic_transliteration.sanscript import transliterate, SchemeMap, SCHEMES
 import params
 from parseheadline import parseheadline
 
-slp1_map = SchemeMap(SCHEMES['slp1'], SCHEMES['devanagari'])
+slp1_map = SchemeMap(SCHEMES['slp1_accented'], SCHEMES['devanagari'])
 iast_map = SchemeMap(SCHEMES['iast'], SCHEMES['devanagari'])
 # Function to return timestamp
 def timestamp():
