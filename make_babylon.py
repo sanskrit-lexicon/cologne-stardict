@@ -57,6 +57,7 @@ if __name__ == "__main__":
             result = re.sub('[ \t]*\n', '\n', result)
             result = re.sub('[\n]+', '\n', result)
             result = re.sub('\n$', '', result)
+            result = re.sub('([(ं०१२३४५६७८९ ]+)꣡', '\g<1>/', result)
             if production == '1':
                 result = result.replace('\n', '<BR>')
             fout.write(result)
