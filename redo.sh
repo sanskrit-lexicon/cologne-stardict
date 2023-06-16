@@ -1,4 +1,9 @@
+echo "Update hwnorm1"
 cd ../hwnorm1
+git pull origin master
+
+echo "Update csl-orig"
+cd ../csl-orig
 git pull origin master
 
 cd ../cologne-stardict

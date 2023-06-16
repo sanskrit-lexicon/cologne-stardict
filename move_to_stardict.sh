@@ -15,6 +15,7 @@ cp production/shs.babylon ../../indic-dict/stardict-sanskrit/sa-head/en-entries/
 cp production/vei.babylon ../../indic-dict/stardict-sanskrit/sa-head/en-entries/Vedic-Index-of-Names-and-Subjects/Vedic-Index-of-Names-and-Subjects.babylon
 cp production/wil.babylon ../../indic-dict/stardict-sanskrit/sa-head/en-entries/wilson/wilson.babylon
 cp production/yat.babylon ../../indic-dict/stardict-sanskrit/sa-head/en-entries/yates/yates.babylon
+cp production/lrv.babylon ../../indic-dict/stardict-sanskrit/sa-head/en-entries/vaidya/vaidya.babylon
 cp production/bop.babylon ../../indic-dict/stardict-sanskrit/sa-head/other-entries/bopp/bopp.babylon
 cp production/bur.babylon ../../indic-dict/stardict-sanskrit/sa-head/french-entries/burnouf/burnouf.babylon
 cp production/stc.babylon ../../indic-dict/stardict-sanskrit/sa-head/french-entries/Stchoupak-Sanscrit-French/Stchoupak-Sanscrit-French.babylon
