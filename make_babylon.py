@@ -11,6 +11,7 @@ import re
 import codecs
 import sys
 import os
+import datetime
 from indic_transliteration.sanscript import transliterate, SchemeMap, SCHEMES
 import utils
 import params
@@ -29,7 +30,9 @@ if __name__ == "__main__":
         outputfile = os.path.join('production', dictId + '.babylon')
     fout = codecs.open(outputfile, 'w', 'utf-8')
     fout.write('\n#bookname=' + dictdata[dictId][0] + ' (' + dictdata[dictId][1] + ')\n')
-    fout.write('#stripmethod=keep\n#sametypesequence=h\n\n')
+    fout.write('#stripmethod=keep\n#sametypesequence=h\n')
+    current_date = datetime.date.today()
+    fout.write('#description=Data from https://www.sanskrit-lexicon.uni-koeln.de/ as on ' + str(current_date) + '\n\n')
     scheme_map = SchemeMap(SCHEMES['slp1'], SCHEMES['devanagari'])
 
     print("Reading hwnorm1.")
