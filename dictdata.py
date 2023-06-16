@@ -8,6 +8,7 @@ dictdata = {
 	'gst': ['goldstucker', 'sa-en'],
 	'ieg': ['indian-epigraphical-glossary', 'sa-en'],
 	'lan': ['lanman', 'sa-en'],
+	'lrv': ['L-R-Vaidya', 'sa-en'],
 	'md': ['macdonell', 'sa-en'],
 	'snp': ['Meulenbeld-Sanskrit-Names-of-Plants', 'sa-en'],
 	'mw72': ['mw-1872', 'sa-en'],
