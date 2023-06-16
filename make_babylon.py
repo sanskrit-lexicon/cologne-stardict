@@ -50,6 +50,9 @@ if __name__ == "__main__":
             result = ''
         if lin.startswith('<LEND>'):
             end = True
+            # Handle unnecessary replacement of ॐ.
+            # https://github.com/sanskrit-lexicon/cologne-stardict/issues/37
+            result = re.sub('(\W)oM(\W)', '\g<1>ॐ\g<2>', result)
             result = utils.devaconvert(result, dictId)
             result = re.sub('<sup>([0-9]+)</sup>', '^\g<1>', result)
             result = re.sub('<.*?>', '', result)
