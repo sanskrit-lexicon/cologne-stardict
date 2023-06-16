@@ -51,6 +51,7 @@ if __name__ == "__main__":
         if lin.startswith('<LEND>'):
             end = True
             result = utils.devaconvert(result, dictId)
+            result = re.sub('<sup>([0-9]+)</sup>', '^\g<1>', result)
             result = re.sub('<.*?>', '', result)
             result = re.sub('[ ]+', ' ', result)
             linkurl = utils.scanlink(dictId, pc)
