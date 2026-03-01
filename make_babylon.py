@@ -52,9 +52,9 @@ if __name__ == "__main__":
             end = True
             # Handle unnecessary replacement of ॐ.
             # https://github.com/sanskrit-lexicon/cologne-stardict/issues/37
-            result = re.sub('(\W)oM(\W)', '\g<1>ॐ\g<2>', result)
+            result = re.sub(r'(\W)oM(\W)', r'\g<1>ॐ\g<2>', result)
             result = utils.devaconvert(result, dictId)
-            result = re.sub('<sup>([0-9]+)</sup>', '^\g<1>', result)
+            result = re.sub('<sup>([0-9]+)</sup>', r'^\g<1>', result)
             result = re.sub('<.*?>', '', result)
             result = re.sub('[ ]+', ' ', result)
             linkurl = utils.scanlink(dictId, pc)
@@ -64,7 +64,7 @@ if __name__ == "__main__":
             result = re.sub('[ \t]*\n', '\n', result)
             result = re.sub('[\n]+', '\n', result)
             result = re.sub('\n$', '', result)
-            result = re.sub('([(ं०१२३४५६७८९ ]+)꣡', '\g<1>/', result)
+            result = re.sub(r'([(ं०१२३४५६७८९ ]+)꣡', r'\g<1>/', result)
             if production == '1':
                 result = result.replace('\n', '<BR>')
             fout.write(result)
