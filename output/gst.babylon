@@ -2,7 +2,11 @@
 #bookname=goldstucker (sa-en)
 #stripmethod=keep
 #sametypesequence=h
+<<<<<<< HEAD
 #description=Data from https://www.sanskrit-lexicon.uni-koeln.de/ as on 2026-02-28
+=======
+#description=Data from https://www.sanskrit-lexicon.uni-koeln.de/ as on 2024-01-17
+>>>>>>> refs/remotes/origin/master
 
 अ
 अ I. The letter ă, the first of the alphabet and the short
