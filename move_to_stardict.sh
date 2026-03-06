@@ -1,4 +1,5 @@
 cp production/ap90.babylon ../../indic-dict/stardict-sanskrit/sa-head/en-entries/apte-1890/apte-1890.babylon
+cp production/ap.babylon ../../indic-dict/stardict-sanskrit/sa-head/en-entries/apte-1957/apte-1957.babylon
 cp production/acc.babylon ../../indic-dict/stardict-sanskrit/sa-head/en-entries/aufrecht-catalogus-catalogorum/aufrecht-catalogus-catalogorum.babylon
 cp production/ben.babylon ../../indic-dict/stardict-sanskrit/sa-head/en-entries/benfey/benfey.babylon
 cp production/cae.babylon ../../indic-dict/stardict-sanskrit/sa-head/en-entries/capeller-sanskrit-english/capeller-sanskrit-english.babylon
@@ -17,6 +18,7 @@ cp production/wil.babylon ../../indic-dict/stardict-sanskrit/sa-head/en-entries/
 cp production/yat.babylon ../../indic-dict/stardict-sanskrit/sa-head/en-entries/yates/yates.babylon
 cp production/lrv.babylon ../../indic-dict/stardict-sanskrit/sa-head/en-entries/vaidya/vaidya.babylon
 cp production/bop.babylon ../../indic-dict/stardict-sanskrit/sa-head/other-entries/bopp/bopp.babylon
+cp production/fri.babylon ../../indic-dict/stardict-sanskrit/sa-head/other-entries/frish/frish.babylon
 cp production/bur.babylon ../../indic-dict/stardict-sanskrit/sa-head/french-entries/burnouf/burnouf.babylon
 cp production/stc.babylon ../../indic-dict/stardict-sanskrit/sa-head/french-entries/Stchoupak-Sanscrit-French/Stchoupak-Sanscrit-French.babylon
 cp production/pwg.babylon ../../indic-dict/stardict-sanskrit/sa-head/german-entries/Bohtlingk-and-Roth-Grosses-Petersburger-Worterbuch/Bohtlingk-and-Roth-Grosses-Petersburger-Worterbuch.babylon
