@@ -41,6 +41,7 @@ if __name__ == "__main__":
     altlist = utils.read_hwextra(dictId)
     start = False
     end = False
+    dict_lbody = {}
     data = fin.read()
     lins = data.split('\n')
     for lin in lins:
@@ -50,6 +51,20 @@ if __name__ == "__main__":
             result = ''
         if lin.startswith('<LEND>'):
             end = True
+
+            while '{{Lbody=' in result:
+                match = re.search(r'\{\{Lbody=(.*?)\}\}', result)
+                if not match:
+                    break
+                ref_l = match.group(1)
+                if ref_l in dict_lbody:
+                    result = result.replace(match.group(0), dict_lbody[ref_l])
+                else:
+                    print(f"Warning: Lbody reference {ref_l} not found for L={l}")
+                    break
+
+            dict_lbody[l] = result
+
             # Handle unnecessary replacement of ॐ.
             # https://github.com/sanskrit-lexicon/cologne-stardict/issues/37
             result = re.sub(r'(\W)oM(\W)', r'\g<1>ॐ\g<2>', result)
