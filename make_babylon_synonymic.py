@@ -73,8 +73,8 @@ def process_block(block_lines, dictId, production):
     if not headwords:
         return ""
         
+    hwline = "|".join(to_deva(w) for w in headwords)
     out_lines = []
-    out_lines.append("|".join(to_deva(w) for w in headwords))
     out_lines.extend(syns_lines)
     out_lines.extend(other_lines)
     if info_text:
@@ -90,7 +90,7 @@ def process_block(block_lines, dictId, production):
     result = "\n".join(out_lines)
     if production == '1':
         result = result.replace('\n', '<BR>')
-    return result + "\n\n"
+    return hwline + "\n" + result + "\n\n"
 
 
 if __name__ == "__main__":

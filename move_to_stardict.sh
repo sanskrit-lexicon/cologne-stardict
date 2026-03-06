@@ -32,5 +32,5 @@ cp production/mwe.babylon ../../indic-dict/stardict-sanskrit/en-head/mw-english-
 cp production/ae.babylon ../../indic-dict/stardict-sanskrit/en-head/apte-english-sanskrit-cologne/apte-english-sanskrit-cologne.babylon
 cp production/abch.babylon ../../indic-dict/stardict-sanskrit/sa-head/sa-entries/abhidhAnachintAmaNi/abhidhAnachintAmaNi.babylon
 cp production/acph.babylon ../../indic-dict/stardict-sanskrit/sa-head/sa-entries/abhidhAnachintAmaNiparishiShTa/abhidhAnachintAmaNiparishiShTa.babylon
-cp production/absh.babylon ../../indic-dict/stardict-sanskrit/sa-head/sa-entries/abhidhAnachintAmaNishilonCha/abhidhAnachintAmaNishilonCha.babylon
+cp production/acsj.babylon ../../indic-dict/stardict-sanskrit/sa-head/sa-entries/abhidhAnachintAmaNishilonCha/abhidhAnachintAmaNishilonCha.babylon
 
