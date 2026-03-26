@@ -34,6 +34,11 @@ def readhwnorm1c():
                     all_alternates.append(word)
             for d in base_dicts:
                 output[(baseword, d)] = all_alternates
+            for chunk in chunks[1:]:
+                alt_word = chunk.split(':')[0]
+                alt_dicts = chunk.split(':')[-1].split(',')
+                for d in alt_dicts:
+                    output[(alt_word, d)] = all_alternates
     return output
 
 

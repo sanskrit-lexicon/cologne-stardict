@@ -2,9 +2,9 @@
 #bookname=abhidhAnachintAmaNishiloNcha (sa-sa)
 #stripmethod=keep
 #sametypesequence=h
-#description=Data from https://www.sanskrit-lexicon.uni-koeln.de/ as on 2026-03-09
+#description=Data from https://www.sanskrit-lexicon.uni-koeln.de/ as on 2026-03-27
 
-सर्वीय|सम्भव
+सर्वीय|सम्भव|सर्व्वीय|सर्व्वीयः|संभव|संभवः|सम्भवः
 सर्वीय-पुं (१)
 सम्भव-पुं (४)
 अर्हं बीजं नमस्कृत्य गुरूणामुपदेशतः ।
@@ -14,7 +14,7 @@
 <a href="https://yaahi.github.io/?cp=1&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=1" target="_blank">Correction</a>
 
-मुनि|नेमिन्
+मुनि|नेमिन्|मुनिः
 मुनि-पुं (२१)
 नेमिन्-पुं (२३)
 श्रीसुव्रते मुनिरपि नेमौ नेमीत्यपीक्ष्यते ॥ २ ॥
@@ -53,7 +53,7 @@
 <a href="https://yaahi.github.io/?cp=1&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=6" target="_blank">Correction</a>
 
-तीर्थकृत्|भद्र|श्रवण
+तीर्थकृत्|भद्र|श्रवण|भद्रं|भद्रः|श्रवणं|श्रवणः
 तीर्थकृत्-पुं, भद्र-पुं (२३७)
 श्रवण-पुं (२९९)
 भद्रकृत् तीर्थकृद्भद्रः श्रमणः श्रवणोऽपि च (५) ।
@@ -61,14 +61,14 @@
 <a href="https://yaahi.github.io/?cp=1&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=7" target="_blank">Correction</a>
 
-भन्द्र|प्रशस्त
+भन्द्र|प्रशस्त|प्रशस्तं
 भन्द्र-क्ली, प्रशस्त-क्ली (३४०)
 भद्रे भन्द्रमपि प्राहुः प्रशस्तमपि कोविदाः ॥ ५ ॥
 देवाधिदेवकाण्डः
 <a href="https://yaahi.github.io/?cp=1&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=8" target="_blank">Correction</a>
 
-प्रव्रजन|अन्तिषद्
+प्रव्रजन|अन्तिषद्|प्रव्रजनं
 प्रव्रजन-क्ली (३२०)
 अन्तिषद्-पुं (३१४)
 प्रव्रजनं परिव्रज्या शिष्योऽन्तिषदपि स्मृतः ।
@@ -77,14 +77,14 @@
 <a href="https://yaahi.github.io/?cp=1&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=9" target="_blank">Correction</a>
 
-व्योमयान
+व्योमयान|व्योमयानं
 व्योमयान-पुंक्ली (३४३)
 व्योमयानमपि प्रोक्तं विमानं बुधपुङ्गवैः (७) ।
 देवकाण्डः
 <a href="https://yaahi.github.io/?cp=1&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=10" target="_blank">Correction</a>
 
-समुद्रनवनीत|पेयूष
+समुद्रनवनीत|पेयूष|समुद्रनवनीतं|पेयूषं|पेयूषः
 समुद्रनवनीत-क्ली, पेयूष-पुंक्ली (३४४)
 स्यात्समुद्रनवनीतं पेयूषमपि चामृतम् ॥ ७ ॥
 देवकाण्डः
@@ -98,21 +98,21 @@
 <a href="https://yaahi.github.io/?cp=1&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=12" target="_blank">Correction</a>
 
-द्योति|वृष्णि|पृष्णि
+द्योति|वृष्णि|पृष्णि|वृष्णिः|पृष्णिः
 द्योति-स्त्री, वृष्णि-पुंस्त्री, पृष्णि-पुंस्त्री (३८९)
 द्योतिस्तथा वृष्णिपृष्णी प्रोक्ता रश्म्यभिधायकाः ॥ ८ ॥
 देवकाण्डः
 <a href="https://yaahi.github.io/?cp=1&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=13" target="_blank">Correction</a>
 
-समुद्रनवनीत
+समुद्रनवनीत|समुद्रनवनीतं
 समुद्रनवनीत-क्ली (३९७)
 समुद्रनवनीतं च विदुश्चन्द्रमसं बुधाः (९) ।
 देवकाण्डः
 <a href="https://yaahi.github.io/?cp=1&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=14" target="_blank">Correction</a>
 
-चन्द्रिमा|इन्विका
+चन्द्रिमा|इन्विका|चंद्रिमा
 चन्द्रिमा-स्त्री (४००)
 इन्विका-स्त्रीब (४०८)
 चन्द्रिका चन्द्रिमाऽपि स्यादिल्वला इन्विका अपि ॥ ९ ॥
@@ -128,7 +128,7 @@
 <a href="https://yaahi.github.io/?cp=1&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=16" target="_blank">Correction</a>
 
-सौर|ग्रहकल्लोल|अभ्रपिशाच|नालिका
+सौर|ग्रहकल्लोल|अभ्रपिशाच|नालिका|सौरः|ग्रहकल्लोलः|अभ्रपिशाचः
 सौर-पुं (४५१)
 ग्रहकल्लोल-पुं, अभ्रपिशाच-पुं (४५२)
 नालिका-स्त्री (४८६)
@@ -138,7 +138,7 @@
 <a href="https://yaahi.github.io/?cp=1&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=17" target="_blank">Correction</a>
 
-यामवती|तुङ्गी|निःसम्पात
+यामवती|तुङ्गी|निःसम्पात|निःसंपात|निःसंपातः|निःसम्पातः
 यामवती-स्त्री, तुङ्गी-स्त्री (४९६)
 निःसम्पात-पुं (५०४)
 रात्रौ यामवती तुङ्गी निःसम्पातो निशीथवत् ॥ ११ ॥
@@ -154,7 +154,7 @@
 <a href="https://yaahi.github.io/?cp=1&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=19" target="_blank">Correction</a>
 
-अन्तरीक्ष|सांसृष्टिक
+अन्तरीक्ष|सांसृष्टिक|अंतरीक्षं|अन्तरीक्षं
 अन्तरीक्ष-क्ली (५५८)
 सांसृष्टिक-क्ली (६००१)
 खेऽन्तरीक्षं सांसृष्टिकमपि तत्कालजे फले ॥ १२ ॥
@@ -162,7 +162,7 @@
 <a href="https://yaahi.github.io/?cp=1&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=20" target="_blank">Correction</a>
 
-कालिका|वार्दल
+कालिका|वार्दल|वार्द्दल|वार्द्दलं|वार्द्दलः
 कालिका-स्त्री (५६०)
 वार्दल-क्ली (५६१)
 मेघमाला कालिकाऽपि वार्दलं चापि दुर्दिनम् (१३) ।
@@ -170,7 +170,7 @@
 <a href="https://yaahi.github.io/?cp=1&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=21" target="_blank">Correction</a>
 
-सूत्रामन्|शतार|शतधार
+सूत्रामन्|शतार|शतधार|शतारं|शतधारं
 सूत्रामन्-पुं (५९६)
 शतार-पुं, शतधार-पुं (६२६)
 सूत्रामापीन्द्रे शतारः शतधारोऽपि चाशनौ ॥ १३ ॥
@@ -178,7 +178,7 @@
 <a href="https://yaahi.github.io/?cp=1&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=22" target="_blank">Correction</a>
 
-स्वर्गवैद्यौ|हर्यक्ष
+स्वर्गवैद्यौ|हर्यक्ष|हर्य्यक्ष|हर्य्यक्षः
 स्वर्गवैद्यौ-पुंद्वि (६२९)
 हर्यक्ष-पुं (६४५)
 आश्चिनेयौ स्वर्गवैद्यौ हर्यक्षोऽपि धनाधिपः (१४) ।
@@ -186,14 +186,14 @@
 <a href="https://yaahi.github.io/?cp=1&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=23" target="_blank">Correction</a>
 
-अजगव|अजगाव|शङ्करधन्वन्
+अजगव|अजगाव|शङ्करधन्वन्|अजगवं|अजगावं|अजगावः
 अजगव-क्ली, अजगाव-क्ली, शङ्करधन्वन्-क्ली (६६७)
 अजगवमजगावमपि शङ्करधन्वनि ॥ १४ ॥
 देवकाण्डः
 <a href="https://yaahi.github.io/?cp=1&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=24" target="_blank">Correction</a>
 
-दाक्षायणी|ईश्वरी|नारायण|जलेशय
+दाक्षायणी|ईश्वरी|नारायण|जलेशय|नारायणः|जलेशयः
 दाक्षायणी-स्त्री, ईश्वरी-स्त्री (६७९)
 नारायण-पुं, जलेशय-पुं (६९२)
 गौर्यां दाक्षायणीश्वर्यौ नारायणे जलेशयः (१५) ।
@@ -209,7 +209,7 @@
 <a href="https://yaahi.github.io/?cp=1&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=26" target="_blank">Correction</a>
 
-कन्तु|सिद्धार्थ
+कन्तु|सिद्धार्थ|कंतु|कन्तुः|सिद्धार्थः
 कन्तु-पुं (७३३)
 सिद्धार्थ-पुं (७४४)
 कन्तुः कंदर्पे सिद्धार्थः सुगते परिकीर्तितः (१६) ।
@@ -217,14 +217,14 @@
 <a href="https://yaahi.github.io/?cp=1&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=27" target="_blank">Correction</a>
 
-प्रज्ञप्ति
+प्रज्ञप्ति|प्रज्ञप्तिः
 प्रज्ञप्ति-स्त्री (७८९)
 अङ्गे व्याख्याविवाहाभ्यां प्रज्ञप्तिरपि पञ्चमे ॥ १६ ॥
 देवकाण्डः
 <a href="https://yaahi.github.io/?cp=1&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=28" target="_blank">Correction</a>
 
-दृष्टिपात|अवन्ध्य
+दृष्टिपात|अवन्ध्य|अवंध्य
 दृष्टिपात-पुं (७८७)
 अवन्ध्य-क्ली (८०४)
 दृष्टिपातो द्वादशाङ्गे कल्याणेऽवन्ध्यमप्यथ (१७) ।
@@ -248,7 +248,7 @@
 <a href="https://yaahi.github.io/?cp=1&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=31" target="_blank">Correction</a>
 
-काल्या|समाधि
+काल्या|समाधि|समाधिः
 काल्या-स्त्री (८९३)
 समाधि-पुं (९०८)
 काल्यापि कल्या सन्धायां समाधिरपि कथ्यते ॥ १८ ॥
@@ -256,7 +256,7 @@
 <a href="https://yaahi.github.io/?cp=1&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=32" target="_blank">Correction</a>
 
-व्रीड|शूका|मन्दाक्ष्य|ऊहा
+व्रीड|शूका|मन्दाक्ष्य|ऊहा|व्रीडः
 व्रीड-पुं, शूका-स्त्री, मन्दाक्ष्य-क्ली (१०३०)
 ऊहा-स्त्री (१०६१)
 व्रीडः सूकामन्दाक्षं च ह्रियामूहापि चोहवत् (१९) ।
@@ -264,7 +264,7 @@
 <a href="https://yaahi.github.io/?cp=1&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=33" target="_blank">Correction</a>
 
-तन्द्रि|तन्द्री|अहम्प्रथमिका|केलिकिल
+तन्द्रि|तन्द्री|अहम्प्रथमिका|केलिकिल|तंद्रि|तंद्रिः|तन्द्रिः|तंद्री|अहंप्रथमिका|केलिकिलः
 तन्द्रि-स्त्री, तन्द्री-स्त्री (१०६३)
 अहम्प्रथमिका-स्त्री (१०४७)
 केलिकिल-पुं (१०७७)
@@ -274,21 +274,21 @@
 <a href="https://yaahi.github.io/?cp=1&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=34" target="_blank">Correction</a>
 
-मारिष
+मारिष|मारिषः
 मारिष-पुं (१०८४)
 मार्षवन्मारिषोऽपीति शिलोच्छो देवकाण्डगः ॥ २० ॥
 देवकाण्डः
 <a href="https://yaahi.github.io/?cp=1&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=35" target="_blank">Correction</a>
 
-स्तनप|क्षीरप
+स्तनप|क्षीरप|स्तनपः
 स्तनप-पुं, क्षीरप-पुं (११०४)
 स्तनंधये स्तनपश्च क्षीरपश्चाभिधीयते (२१) ।
 मर्त्यकाण्डः
 <a href="https://yaahi.github.io/?cp=2&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=36" target="_blank">Correction</a>
 
-यौवनिका|दशमीस्थ|जरत्तर
+यौवनिका|दशमीस्थ|जरत्तर|दशमीस्थः
 यौवनिका-स्त्री (११०७)
 दशमीस्थ-पुं, जरत्तर-पुं (११०८)
 तारुण्यं स्याद्यौवनिका दशमीस्थो जरत्तरः ॥ २१ ॥
@@ -296,7 +296,7 @@
 <a href="https://yaahi.github.io/?cp=2&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=37" target="_blank">Correction</a>
 
-कवि|कृतकृत्य|कृतिन्|कृतार्थ
+कवि|कृतकृत्य|कृतिन्|कृतार्थ|कविः|कृतकृत्यः|कृतार्थः
 कवि-पुं (१११२)
 कृतकृत्य-पुं, कृतिन्-पुं, कृतार्थ-पुं (१११३)
 कविताऽपि कविः स्यात्कृतकर्मणि कृतकृत्यकृतिकृतार्थाश्च (२२) ।
@@ -304,7 +304,7 @@
 <a href="https://yaahi.github.io/?cp=2&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=38" target="_blank">Correction</a>
 
-कुटिलाशय|कुचर|अनेडमूक|अन्ध|अनेडमूक|जड|अनेडमूक|शठ
+कुटिलाशय|कुचर|अनेडमूक|अन्ध|जड|शठ|कुचरः|अनेडमूकः|अंध|अन्धं|अन्धः|जडं|जडः|शठं|शठः
 कुटिलाशय-पुं, कुचर-पुं (११२७)
 अनेडमूक-पुं, अन्ध-पुं (६००२)
 अनेडमूक-पुं, जड-पुं (६००३)
@@ -314,14 +314,14 @@
 <a href="https://yaahi.github.io/?cp=2&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=39" target="_blank">Correction</a>
 
-वदान्य|प्रियंवद
+वदान्य|प्रियंवद|वदान्यः|प्रियंवदः
 वदान्य-पुं, प्रियंवद-पुं (६००५)
 वदान्यौ पृथगित्यन्ये दानशीलप्रियंवदौ (२३) ।
 मर्त्यकाण्डः
 <a href="https://yaahi.github.io/?cp=2&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=40" target="_blank">Correction</a>
 
-यथोद्गत|श्रीमत्
+यथोद्गत|श्रीमत्|श्रीमन्त्
 यथोद्गत-पुं (११४४)
 श्रीमत्-पुं (११५७)
 मूर्खे यथोद्गतोऽपीभ्ये श्रीमानपि बुधैः स्मृतः ॥ २३ ॥
@@ -329,7 +329,7 @@
 <a href="https://yaahi.github.io/?cp=2&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=41" target="_blank">Correction</a>
 
-विवधिक|वीवधिक|प्रतिचर
+विवधिक|वीवधिक|प्रतिचर|विवधिकः|वीवधिकः
 विवधिक-पुं, वीवधिक-पुं (११६८)
 प्रतिचर-पुं (११६१)
 विवधिकवीवधिकावपि वैवधिके प्रतिचरोऽपि भृत्ये स्यात् (२४) ।
@@ -337,14 +337,14 @@
 <a href="https://yaahi.github.io/?cp=2&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=42" target="_blank">Correction</a>
 
-सम्मार्जक|बहुधान्यार्जक
+सम्मार्जक|बहुधान्यार्जक|संमार्जक|संमार्जकः|सम्मार्ज्जकः
 सम्मार्जक-पुं, बहुधान्यार्जक-पुं (११६६)
 सम्मार्जको बहुकरे बहुधान्यार्जक इति प्राहुः ॥ २४ ॥
 मर्त्यकाण्डः
 <a href="https://yaahi.github.io/?cp=2&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=43" target="_blank">Correction</a>
 
-विहङ्गमा|और्ध्वदैहिक|शण्ठ
+विहङ्गमा|और्ध्वदैहिक|शण्ठ|शंठः
 विहङ्गमा-स्त्री (११७१)
 और्ध्वदैहिक-पुं (११८७)
 शण्ठ-पुं (११९३)
@@ -354,7 +354,7 @@
 <a href="https://yaahi.github.io/?cp=2&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=44" target="_blank">Correction</a>
 
-मायाविन्|मायिक|उपधा
+मायाविन्|मायिक|उपधा|मायिकं|मायिकः
 मायाविन्-पुं, मायिक-पुं (११९५)
 उपधा-स्त्री (११९७)
 मायाविमायिकौ धूर्ते कपटे तूपधा मता (२६) ।
@@ -362,7 +362,7 @@
 <a href="https://yaahi.github.io/?cp=2&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=45" target="_blank">Correction</a>
 
-चौर|स्तैन्य
+चौर|स्तैन्य|चौरः|स्तैन्यं|स्तैन्यः
 चौर-पुं (१२०४)
 स्तैन्य-क्ली (१२०६)
 चौरश्चोरोऽपि विज्ञेयः स्तेयं स्तैन्यमपीष्यते ॥ २६ ॥
@@ -370,7 +370,7 @@
 <a href="https://yaahi.github.io/?cp=2&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=46" target="_blank">Correction</a>
 
-प्रादेशन|क्षान्ति
+प्रादेशन|क्षान्ति|प्रादेशनं|क्षांति|क्षांतिः|क्षान्तिः
 प्रादेशन-क्ली (१२१४)
 क्षान्ति-स्त्री (१२२५)
 दाने प्रादेशनमपि क्षमा स्यात्क्षान्तिरित्यपि (२७) ।
@@ -378,7 +378,7 @@
 <a href="https://yaahi.github.io/?cp=2&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=47" target="_blank">Correction</a>
 
-कोपन|पिपासित
+कोपन|पिपासित|कोपनः|पिपासितः
 कोपन-पुं (१२२८)
 पिपासित-पुं (१२३२)
 क्रोधनः कोपनस्तृष्णक् पिपासितोऽपि कथ्यते ॥ २७ ॥
@@ -386,7 +386,7 @@
 <a href="https://yaahi.github.io/?cp=2&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=48" target="_blank">Correction</a>
 
-आशिर|मर्जिता
+आशिर|मर्जिता|आशिरः
 आशिर-पुं (१२३५)
 मर्जिता-स्त्री (१२६३)
 भक्षकः स्यादाशिरोऽपि मार्जिता चापि मर्जिता (२८) ।
@@ -394,7 +394,7 @@
 <a href="https://yaahi.github.io/?cp=2&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=49" target="_blank">Correction</a>
 
-पीयूष|कूचिका
+पीयूष|कूचिका|पीयूषं|पीयूषः
 पीयूष-क्ली (१२६७)
 कूचिका-स्त्री (१२६८)
 पेयूषमपि पीयूषं कूचिकापि च कूर्चिका ॥ २८ ॥
@@ -402,7 +402,7 @@
 <a href="https://yaahi.github.io/?cp=2&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=50" target="_blank">Correction</a>
 
-द्रप्स्य|विजिपिल
+द्रप्स्य|विजिपिल|द्रप्स्यं
 द्रप्स्य-क्ली (१२७१)
 विजिपिल-क्ली (१२९३)
 द्रप्से द्रप्स्यमपि प्रोक्तं विजिपिलं च पिच्छिले (२९) ।
@@ -410,7 +410,7 @@
 <a href="https://yaahi.github.io/?cp=2&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=51" target="_blank">Correction</a>
 
-त्रिकटुक|जमन|जवन
+त्रिकटुक|जमन|जवन|जमनं|जवनं|जवनः
 त्रिकटुक-क्ली (१३०७)
 जमन-क्ली, जवन-क्ली (१३१०)
 व्योषे त्रिकटुकं जग्धौ जमनं जवनं तथा ॥ २९ ॥
@@ -418,7 +418,7 @@
 <a href="https://yaahi.github.io/?cp=2&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=52" target="_blank">Correction</a>
 
-आघ्राण|पिशिताशिन्
+आघ्राण|पिशिताशिन्|आघ्राणं
 आघ्राण-पुं (१३१६)
 पिशिताशिन्-पुं (१३२२)
 आघ्राणोऽपि भवेत्तृप्तः शौष्कलः पिशिताशिनि (३०) ।
@@ -433,7 +433,7 @@
 <a href="https://yaahi.github.io/?cp=2&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=54" target="_blank">Correction</a>
 
-कमन|आक्षारित
+कमन|आक्षारित|कमनं|कमनः|आक्षारितं
 कमन-पुं (१३३७)
 आक्षारित-पुं (१३४२)
 कामुके कमनोऽपि स्यादाक्षारितोऽपि दूषिते (३१) ।
@@ -441,7 +441,7 @@
 <a href="https://yaahi.github.io/?cp=2&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=55" target="_blank">Correction</a>
 
-सांशयिक|जागरितृ
+सांशयिक|जागरितृ|सांशयिकः
 सांशयिक-पुं (१३६८)
 जागरितृ-पुं (१३६२)
 संशयालुः सांशयिके जागरिताऽपि जागरी ॥ ३१ ॥
@@ -449,7 +449,7 @@
 <a href="https://yaahi.github.io/?cp=2&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=56" target="_blank">Correction</a>
 
-अपचायित|तुन्दिभ|उदरिक|न्युब्ज|खलत
+अपचायित|तुन्दिभ|उदरिक|न्युब्ज|खलत|अपचायितः|तुंदिभ|तुन्दिभः|न्युब्जं|न्युब्जः
 अपचायित-पुं (१३७५)
 तुन्दिभ-पुं, उदरिक-पुं (१३८४)
 न्युब्ज-पुं (१३९५)
@@ -460,7 +460,7 @@
 <a href="https://yaahi.github.io/?cp=2&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=57" target="_blank">Correction</a>
 
-पामर|अतीसारकिन्
+पामर|अतीसारकिन्|पामरः
 पामर-पुं (१४१७)
 अतीसारकिन्-पुं (१४१८)
 पामरोऽपि कच्छुरोऽतीसारक्यप्यतिसारकी (३३) ।
@@ -468,7 +468,7 @@
 <a href="https://yaahi.github.io/?cp=2&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=58" target="_blank">Correction</a>
 
-कण्डूति|विस्फोट
+कण्डूति|विस्फोट|कंडूति|कंडूतिः|कण्डूतिः|विस्फोटः
 कण्डूति-स्त्री (१४३२)
 विस्फोट-पुं (१४३७)
 कण्डूतिरपि खर्जूः स्याद्विस्फोटः पिटके स्मृतः ॥ ३३ ॥
@@ -476,7 +476,7 @@
 <a href="https://yaahi.github.io/?cp=2&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=59" target="_blank">Correction</a>
 
-मण्डलक|गुदकील
+मण्डलक|गुदकील|मंडलकं|मण्डलकं|मण्डलकः|गुदकीलः
 मण्डलक-क्ली (१४४२)
 गुदकील-पुं (१४४८)
 कोठो मण्डलकमपि गुदकीलोऽपि चार्शसि (३४) ।
@@ -484,7 +484,7 @@
 <a href="https://yaahi.github.io/?cp=2&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=60" target="_blank">Correction</a>
 
-मेह|आयुर्वेदिक
+मेह|आयुर्वेदिक|मेहः
 मेह-पुं (१४५५)
 आयुर्वेदिक-पुं (१४६२)
 मेहः प्रमेहवदायुर्वेदिकोऽपि चिकित्सके ॥ ३४ ॥
@@ -492,7 +492,7 @@
 <a href="https://yaahi.github.io/?cp=2&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=61" target="_blank">Correction</a>
 
-आयुष्मत्|आक्षपाटलिक|पारिषद्य
+आयुष्मत्|आक्षपाटलिक|पारिषद्य|आयुष्मन्त्|पारिषद्यः
 आयुष्मत्-पुं (१४८२)
 आक्षपाटलिक-पुं (१४८५)
 पारिषद्य-पुं (१४८८)
@@ -502,7 +502,7 @@
 <a href="https://yaahi.github.io/?cp=2&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=62" target="_blank">Correction</a>
 
-नैमित्तिक|नैमित्त|मौहूर्त|लिखिता|मेला|कुलक
+नैमित्तिक|नैमित्त|मौहूर्त|लिखिता|मेला|कुलक|नैमित्तिकं|मौहूर्तः|मौहूर्त्त|मौहूर्त्तः|कुलकं|कुलकः
 नैमित्तिक-पुं, नैमित्त-पुं, मौहूर्त-पुं (१४९०)
 लिखिता-स्त्री (१४९३)
 मेला-स्त्री (१४९५)
@@ -513,14 +513,14 @@
 <a href="https://yaahi.github.io/?cp=2&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=63" target="_blank">Correction</a>
 
-शारिफलक
+शारिफलक|शारिफलकः
 शारिफलक-पुंक्ली (१५०२)
 अष्टापदे बुधैः शारिफलकोऽपि निगद्यते (३७) ।
 मर्त्यकाण्डः
 <a href="https://yaahi.github.io/?cp=2&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=64" target="_blank">Correction</a>
 
-मनोजव|प्रभविष्णु
+मनोजव|प्रभविष्णु|मनोजवः|प्रभविष्णुः
 मनोजव-पुं (१५०७)
 प्रभविष्णु-पुं (१५१८)
 मनोजवस्ताततुल्ये प्रभविष्णुरपि क्षमे ॥ ३७ ॥
@@ -528,7 +528,7 @@
 <a href="https://yaahi.github.io/?cp=2&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=65" target="_blank">Correction</a>
 
-जाङ्घाकर|अनुग
+जाङ्घाकर|अनुग|अनुगः
 जाङ्घाकर-पुं (१५२९)
 अनुग-पुं (१५३५)
 जाङ्घिके जाङ्घाकरोऽपि चानुगोऽप्यनुगामिनि (३८) ।
@@ -536,14 +536,14 @@
 <a href="https://yaahi.github.io/?cp=2&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=66" target="_blank">Correction</a>
 
-पर्येषणा|उपासना
+पर्येषणा|उपासना|पर्य्येषणा
 पर्येषणा-स्त्री, उपासना-स्त्री (१५३६)
 पर्येषणोपासनापि शुश्रूषायामधीयते ॥ ३८ ॥
 मर्त्यकाण्डः
 <a href="https://yaahi.github.io/?cp=2&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=67" target="_blank">Correction</a>
 
-आतिथ्य|अभिज|सन्तति
+आतिथ्य|अभिज|सन्तति|आतिथ्यं|आतिथ्यः|संतति|संततिः|सन्ततिः
 आतिथ्य-पुं (१५३९)
 अभिज-पुं (१५४९)
 सन्तति-स्त्री (१५५०)
@@ -560,7 +560,7 @@
 <a href="https://yaahi.github.io/?cp=2&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=69" target="_blank">Correction</a>
 
-स्ववासिनी|चरिण्टी|चिरिण्टी|चरण्टी|करात्ती|गेहिनी|सहधर्मिणी|सधर्मचारिणी|वधूटी
+स्ववासिनी|चरिण्टी|चिरिण्टी|चरण्टी|करात्ती|गेहिनी|सहधर्मिणी|सधर्मचारिणी|वधूटी|चिरिंटी|सहधर्म्मिणी|सधर्म्मचारिणी
 स्ववासिनी-स्त्री, चरिण्टी-स्त्री, चिरिण्टी-स्त्री, चरण्टी-स्त्री (१६००)
 करात्ती-स्त्री, गेहिनी-स्त्री, सहधर्मिणी-स्त्री, सधर्मचारिणी-स्त्री (१६०१)
 वधूटी-स्त्री (१६०४)
@@ -571,7 +571,7 @@
 <a href="https://yaahi.github.io/?cp=2&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=70" target="_blank">Correction</a>
 
-प्रेमवती|पाणिग्राह|परिणेतृ|उपयन्तृ|दाय
+प्रेमवती|पाणिग्राह|परिणेतृ|उपयन्तृ|दाय|उपयंतृ|दायः
 प्रेमवती-स्त्री (१६०८)
 पाणिग्राह-पुं, परिणेतृ-पुं, उपयन्तृ-पुं (१६०९)
 दाय-पुं (१६१६)
@@ -605,7 +605,7 @@
 <a href="https://yaahi.github.io/?cp=2&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=74" target="_blank">Correction</a>
 
-कुसुम|पशुधर्म
+कुसुम|पशुधर्म|कुसुमं|पशुधर्म्म
 कुसुम-क्ली (१६६९)
 पशुधर्म-पुं (१६७१)
 पुष्पे कुसुममप्युक्तं पशुधर्मोऽपि मोहने (४४) ।
@@ -613,7 +613,7 @@
 <a href="https://yaahi.github.io/?cp=2&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=75" target="_blank">Correction</a>
 
-सगर्भ|अग्रिम
+सगर्भ|अग्रिम|सगर्भः|अग्रिमः
 सगर्भ-पुं (१७०९)
 अग्रिम-पुं (१७१०)
 सहोदरे सगर्भोऽपि स्यादग्रजवदग्रिमः ॥ ४४ ॥
@@ -621,7 +621,7 @@
 <a href="https://yaahi.github.io/?cp=2&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=76" target="_blank">Correction</a>
 
-शण्ठ|शण्ढ|पण्डु|जनित्री
+शण्ठ|शण्ढ|पण्डु|जनित्री|शंठः|शंढ|शंढः|शण्ढः
 शण्ठ-पुं, शण्ढ-पुं, पण्डु-पुं (१७४१)
 जनित्री-स्त्री (१७२६)
 शण्ठः शण्ढः पण्डुरपि क्लीबो माता जनित्र्यपि (४५) ।
@@ -629,7 +629,7 @@
 <a href="https://yaahi.github.io/?cp=2&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=77" target="_blank">Correction</a>
 
-चिहुर|शब्दग्रह
+चिहुर|शब्दग्रह|शब्दग्रहः
 चिहुर-पुं (१७४९)
 शब्दग्रह-पुं (१७६३)
 चिहुरा अपि केशाः स्युः कर्णः शब्दग्रहोऽपि च ॥ ४५ ॥
@@ -637,7 +637,7 @@
 <a href="https://yaahi.github.io/?cp=2&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=78" target="_blank">Correction</a>
 
-विलोचन|सृक्विणी
+विलोचन|सृक्विणी|विलोचनं
 विलोचन-क्ली (१७६७)
 सृक्विणी-स्त्री (१७८३)
 नेत्रं विलोचनमपि सृक्वणीसृक्विणी अपि (४६) ।
@@ -653,7 +653,7 @@
 <a href="https://yaahi.github.io/?cp=2&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=80" target="_blank">Correction</a>
 
-कुर्पर|संहतल
+कुर्पर|संहतल|कुर्परः|संहतलः
 कुर्पर-पुं (१८१२)
 संहतल-पुं (१८३१)
 कूर्परे कुर्परः सिंहतलः संहतलोऽपि च (४७) ।
@@ -661,7 +661,7 @@
 <a href="https://yaahi.github.io/?cp=2&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=81" target="_blank">Correction</a>
 
-चलुक|आण्ड|पिलक
+चलुक|आण्ड|पिलक|चलुकः|आंड
 चलुक-पुं (१८३६)
 आण्ड-पुं, पिलक-पुं (१८७२)
 चलुकोऽपि चलुः मुष्के स्यादाण्डः पिलकोऽपि च ॥ ४७ ॥
@@ -669,7 +669,7 @@
 <a href="https://yaahi.github.io/?cp=2&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=82" target="_blank">Correction</a>
 
-पद्|पाद्|अङ्घ्रि|हड्ड
+पद्|पाद्|अङ्घ्रि|हड्ड|अंघ्रि|अङ्घ्रिः|हड्डं
 पद्-पुं, पाद्-पुं, अङ्घ्रि-पुं (१८८४)
 हड्ड-क्ली (१९१३)
 पत्पादङ्घ्रिश्च चरणे कीकसं हड्डमित्यपि (४८) ।
@@ -677,7 +677,7 @@
 <a href="https://yaahi.github.io/?cp=2&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=83" target="_blank">Correction</a>
 
-शकल|कशारुका
+शकल|कशारुका|शकलं|शकलः
 शकल-क्ली (१९१५)
 कशारुका-स्त्रीक्ली (१९१६)
 कपालं शकलमपि पृष्ठास्थनि कशारुका ॥ ४८ ॥
@@ -685,7 +685,7 @@
 <a href="https://yaahi.github.io/?cp=2&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=84" target="_blank">Correction</a>
 
-अस्थितेजस्|नाडि|नाटिका
+अस्थितेजस्|नाडि|नाटिका|नाडिः
 अस्थितेजस्-क्ली (१९२०)
 नाडि-स्त्री, नाटिका-स्त्री (१९२५)
 मज्जायामस्थितेजोऽपि नाडीषु नाडिनाटिकाः (४९) ।
@@ -693,7 +693,7 @@
 <a href="https://yaahi.github.io/?cp=2&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=85" target="_blank">Correction</a>
 
-शिङ्घाणक|सृणिका
+शिङ्घाणक|सृणिका|शिंघाणक|शिंघाणकं|शिंघाणकः|शिङ्घाणकः
 शिङ्घाणक-पुं (१९३२)
 सृणिका-स्त्री (१९३३)
 शिङ्घाणकोऽपि शिङ्घाणः सृणीका सृणिकापि च ॥ ४९ ॥
@@ -701,7 +701,7 @@
 <a href="https://yaahi.github.io/?cp=2&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=86" target="_blank">Correction</a>
 
-विश्|विष्|अशुचि|वेश
+विश्|विष्|अशुचि|वेश|वेशः
 विश्-स्त्री, विष्-स्त्री, अशुचि-क्ली (१९३६)
 वेश-पुं (१९३७)
 शान्तः षान्तश्च विड्गूथेऽशुचि वेशोऽपि वेषवत् (५०) ।
@@ -709,7 +709,7 @@
 <a href="https://yaahi.github.io/?cp=3&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=87" target="_blank">Correction</a>
 
-उच्छादन|आप्लाव
+उच्छादन|आप्लाव|उच्छादनं|आप्लावः
 उच्छादन-क्ली (१९३९)
 आप्लाव-पुं (१९४८)
 उत्सादनोच्छादने चाप्लवाप्लावौ तथा समौ ॥ ५० ॥
@@ -717,7 +717,7 @@
 <a href="https://yaahi.github.io/?cp=3&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=88" target="_blank">Correction</a>
 
-वंशक|कृमिजग्ध|वाल्हिक|सङ्कोच|पिशुन|वर्ण्य|असृज्
+वंशक|कृमिजग्ध|वाल्हिक|सङ्कोच|पिशुन|वर्ण्य|असृज्|वंशकं|वंशकः|कृमिजग्धं|संकोच|सङ्कोचं|संकोचः|सङ्कोचः|पिशुनं|पिशुनः
 वंशक-क्ली, कृमिजग्ध-क्ली (१९५२)
 वाल्हिक-क्ली, सङ्कोच-क्ली, पिशुन-क्ली, वर्ण्य-क्ली, असृज्-क्ली (१९६१)
 वंशकं कृमिजग्धं चागुरौ स्यादथ वाल्हिकम् ।
@@ -726,7 +726,7 @@
 <a href="https://yaahi.github.io/?cp=3&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=89" target="_blank">Correction</a>
 
-कालानुसार्य|यावन
+कालानुसार्य|यावन|कालानुसार्य्य|कालानुसार्य्यं|यावनः
 कालानुसार्य-क्ली (१९६४)
 यावन-पुं (१९६६)
 जापके कालानुसार्यं यावनोऽपि च सिल्हके (५२) ।
@@ -734,7 +734,7 @@
 <a href="https://yaahi.github.io/?cp=3&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=90" target="_blank">Correction</a>
 
-मकुट|चित्रक
+मकुट|चित्रक|मकुटं|चित्रकं|चित्रकः
 मकुट-पुं (१९७३)
 चित्रक-क्ली (१९८१)
 मकुटोऽपि च कोटीरे चित्रकं च विशेषके ॥ ५२ ॥
@@ -742,7 +742,7 @@
 <a href="https://yaahi.github.io/?cp=3&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=91" target="_blank">Correction</a>
 
-वतंस|पत्रवल्लरी|पत्रमञ्जरी
+वतंस|पत्रवल्लरी|पत्रमञ्जरी|वतंसः
 वतंस-पुं (१९८३)
 पत्रवल्लरी-स्त्री, पत्रमञ्जरी-स्त्री (१९८४)
 वतंसोऽप्यवतंसे स्यात्पत्त्रभङ्ग्यां तु पण्डितैः ।
@@ -751,7 +751,7 @@
 <a href="https://yaahi.github.io/?cp=3&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=92" target="_blank">Correction</a>
 
-कर्णान्दू|परिहार्य
+कर्णान्दू|परिहार्य|कर्णांदू|परिहार्य्य|परिहार्य्यः
 कर्णान्दू-स्त्री (१९८९)
 परिहार्य-पुं (२०१३)
 कर्णान्दूरपि कर्णान्दुः परिहार्योऽपि कङ्कणम् (५४) ।
@@ -759,7 +759,7 @@
 <a href="https://yaahi.github.io/?cp=3&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=93" target="_blank">Correction</a>
 
-कङ्कणी|आच्छादन
+कङ्कणी|आच्छादन|कंकणी|आच्छादनं|आछादन
 कङ्कणी-स्त्री (२०१८)
 आच्छादन-क्ली (२०२०)
 किङ्कणी कङ्कणी तुल्ये आच्छादाच्छादने समे ॥ ५४ ॥
@@ -767,7 +767,7 @@
 <a href="https://yaahi.github.io/?cp=3&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=94" target="_blank">Correction</a>
 
-कूर्पास|कक्षापुट
+कूर्पास|कक्षापुट|कूर्पासः|कूर्प्पास
 कूर्पास-पुं (२०४३)
 कक्षापुट-पुं (२०४७)
 कूर्पासोऽप्यङ्गिका कक्षापटे कक्षापुटोऽपि च (५५) ।
@@ -775,7 +775,7 @@
 <a href="https://yaahi.github.io/?cp=3&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=95" target="_blank">Correction</a>
 
-वर्णपरिस्तोम|आस्तरण|अवसक्थिका
+वर्णपरिस्तोम|आस्तरण|अवसक्थिका|आस्तरणं
 वर्णपरिस्तोम-पुं, आस्तरण-क्ली (२०५७)
 अवसक्थिका-स्त्री (२०६४)
 कुथे वर्णपरिस्तोम इत्यखण्डं जगुः परे ॥ ५५ ॥
@@ -784,7 +784,7 @@
 <a href="https://yaahi.github.io/?cp=3&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=96" target="_blank">Correction</a>
 
-यमनी|प्रस्तर
+यमनी|प्रस्तर|प्रस्तरः
 यमनी-स्त्री (२०५८)
 प्रस्तर-पुं (२०६२)
 यमन्यपि प्रतिसीरा स्रस्तरः प्रस्तरोऽपि च ॥ ५६ ॥
@@ -792,14 +792,14 @@
 <a href="https://yaahi.github.io/?cp=3&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=97" target="_blank">Correction</a>
 
-प्रतिग्रह|पतद्ग्राह
+प्रतिग्रह|पतद्ग्राह|प्रतिग्रहः
 प्रतिग्रह-पुं, पतद्ग्राह-पुं (२०६६)
 प्रतिग्रहपतद्ग्राहावपि स्यातां पतद्ग्रहे (५७) ।
 मर्त्यकाण्डः
 <a href="https://yaahi.github.io/?cp=3&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=98" target="_blank">Correction</a>
 
-मकुर|कसिपु
+मकुर|कसिपु|मकुरः|कसिपुः
 मकुर-पुं (२०६७)
 कसिपु-पुंक्ली (२०७०)
 मकुरोऽप्यात्मदर्शेऽथ कशिपुः कसिपुः समौ ॥ ५७ ॥
@@ -807,7 +807,7 @@
 <a href="https://yaahi.github.io/?cp=3&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=99" target="_blank">Correction</a>
 
-यावक|वीजन
+यावक|वीजन|यावकं|यावकः|वीजनं|वीजनः
 यावक-पुं (२०७३)
 वीजन-क्ली (२०७६)
 यावकालक्तकौ यावे तुल्ये व्यजनवीजने (५८) ।
@@ -815,14 +815,14 @@
 <a href="https://yaahi.github.io/?cp=3&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=100" target="_blank">Correction</a>
 
-गिरियक|गिरिक
+गिरियक|गिरिक|गिरियकः|गिरिकः
 गिरियक-पुं, गिरिक-पुं (२०८०)
 गिरीयको गिरिकोऽपि बालक्रीडनके मतौ ॥ ५८ ॥
 मर्त्यकाण्डः
 <a href="https://yaahi.github.io/?cp=3&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=101" target="_blank">Correction</a>
 
-गेण्डुक|मूर्धावसिक्त
+गेण्डुक|मूर्धावसिक्त|गेंडुक|गेंडुकः|गेण्डुकः
 गेण्डुक-पुं (२०८१)
 मूर्धावसिक्त-पुं (२०८२)
 गेण्डुकोऽपि गेन्दुको राट् मूर्धावसिक्त इत्यपि (५९) ।
@@ -830,7 +830,7 @@
 <a href="https://yaahi.github.io/?cp=3&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=102" target="_blank">Correction</a>
 
-सर्वदमन|रामचन्द्र|रामभद्र|हनूमत्
+सर्वदमन|रामचन्द्र|रामभद्र|हनूमत्|सर्व्वदमन|सर्व्वदमनः|रामचंद्र|रामचन्द्रः|रामभद्रः|हनूमन्त्
 सर्वदमन-पुं (२०८६)
 रामचन्द्र-पुं, रामभद्र-पुं (२१३८)
 हनूमत्-पुं (२१४२)
@@ -840,7 +840,7 @@
 <a href="https://yaahi.github.io/?cp=3&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=103" target="_blank">Correction</a>
 
-सुग्रीवाग्रज|बीभत्सु
+सुग्रीवाग्रज|बीभत्सु|बीभत्सुः
 सुग्रीवाग्रज-पुं (२१४०)
 बीभत्सु-पुं (२१४७)
 वालौ सुग्रीवाग्रजोऽपि पार्थे बीभत्सुरित्यपि ॥ ६० ॥
@@ -848,21 +848,21 @@
 <a href="https://yaahi.github.io/?cp=3&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=104" target="_blank">Correction</a>
 
-सालवाहन
+सालवाहन|सालवाहनः
 सालवाहन-पुं (२१५३)
 सातवाहनवत्सालवाहनोऽपि प्रकीर्तितः (६१) ।
 मर्त्यकाण्डः
 <a href="https://yaahi.github.io/?cp=3&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=105" target="_blank">Correction</a>
 
-परिजन|परिबर्हण
+परिजन|परिबर्हण|परिजनः|परिबर्हणं
 परिजन-पुं, परिबर्हण-क्ली (२१६८)
 परिच्छदे परिजनः परिबर्हणमित्यपि ॥ ६१ ॥
 मर्त्यकाण्डः
 <a href="https://yaahi.github.io/?cp=3&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=106" target="_blank">Correction</a>
 
-बुद्धिसहाय|वेत्रधर
+बुद्धिसहाय|वेत्रधर|बुद्धिसहायः|वेत्रधरः
 बुद्धिसहाय-पुं (२१७८)
 वेत्रधर-पुं (२१८३)
 मन्त्री बुद्धिसहायोऽपि वेत्री वेत्रधरोऽपि च (६२) ।
@@ -870,7 +870,7 @@
 <a href="https://yaahi.github.io/?cp=3&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=107" target="_blank">Correction</a>
 
-हेमाध्यक्ष|हैरिक|टङ्कपति
+हेमाध्यक्ष|हैरिक|टङ्कपति|हैरिकः
 हेमाध्यक्ष-पुं, हैरिक-पुं (२१८८)
 टङ्कपति-पुं (२१८९)
 हेमाध्यक्षे हैरिकोऽपि टङ्कपतिस्तु नैष्किके ॥ ६२ ॥
@@ -885,7 +885,7 @@
 <a href="https://yaahi.github.io/?cp=3&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=109" target="_blank">Correction</a>
 
-सहाय|साप्तपदीन|असुहृद्
+सहाय|साप्तपदीन|असुहृद्|सहायः|साप्तपदीनं
 सहाय-पुं, साप्तपदीन-पुं (२२०४)
 असुहृद्-पुं (२२०२)
 सहायसाप्तपदीनौ सख्यावसुहृदप्यरौ ॥ ६३ ॥
@@ -893,7 +893,7 @@
 <a href="https://yaahi.github.io/?cp=3&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=110" target="_blank">Correction</a>
 
-नीति|शिबिर
+नीति|शिबिर|नीतिः|शिबिरं
 नीति-स्त्री (२२५५)
 शिबिर-पुं (२२६२)
 नये नीतिरपि स्कन्धावारेऽपि शिबिरो मतः (६४) ।
@@ -901,14 +901,14 @@
 <a href="https://yaahi.github.io/?cp=3&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=111" target="_blank">Correction</a>
 
-जयन्ती|पटाका
+जयन्ती|पटाका|जयंती
 जयन्ती-स्त्री, पटाका-स्त्री (२२७७)
 जयन्त्यपि वैजयन्त्यां पटाकापि प्रकीर्तिता ॥ ६४ ॥
 मर्त्यकाण्डः
 <a href="https://yaahi.github.io/?cp=3&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=112" target="_blank">Correction</a>
 
-ध्वज|पताकादण्ड|झम्पान
+ध्वज|पताकादण्ड|झम्पान|ध्वजः
 ध्वज-पुं, पताकादण्ड-पुं (६००६)
 झम्पान-क्ली (२३०५)
 ध्वजः पताकादण्डोऽपि झम्पानं याप्ययानवत् (६५) ।
@@ -916,7 +916,7 @@
 <a href="https://yaahi.github.io/?cp=3&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=113" target="_blank">Correction</a>
 
-सादिन्|सव्येष्ठ|कवचित
+सादिन्|सव्येष्ठ|कवचित|सव्येष्ठः
 सादिन्-पुं, सव्येष्ठ-पुं (२३०९)
 कवचित-पुं (२३२३)
 सादी सव्येष्ठोऽपि सूते कवचितोऽपि वर्मिते ॥ ६५ ॥
@@ -924,21 +924,21 @@
 <a href="https://yaahi.github.io/?cp=3&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=114" target="_blank">Correction</a>
 
-दंशन|त्वक्त्र|तनुत्राण
+दंशन|त्वक्त्र|तनुत्राण|दंशनं|तनुत्राणं
 दंशन-क्ली, त्वक्त्र-क्ली, तनुत्राण-क्ली (२३२४)
 कवचे दंशनं त्वक्त्रं तनुत्राणमपि स्मृतम् (६६) ।
 मर्त्यकाण्डः
 <a href="https://yaahi.github.io/?cp=3&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=115" target="_blank">Correction</a>
 
-अधियाङ्ग|धियाङ्ग
+अधियाङ्ग|धियाङ्ग|अधियांग
 अधियाङ्ग-क्ली, धियाङ्ग-क्ली (२३२६)
 अधियाङ्गं धियाङ्गं चाधिकाङ्गवदुदाहृतम् ॥ ६६ ॥
 मर्त्यकाण्डः
 <a href="https://yaahi.github.io/?cp=3&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=116" target="_blank">Correction</a>
 
-खोल|निषङ्गिन्
+खोल|निषङ्गिन्|खोलः|निषंगिन्
 खोल-क्ली (२३२७)
 निषङ्गिन्-पुं (२३३८)
 शिरस्कं खोलमप्याहुः स्यान्निषङ्ग्यपि तूणिनि (६७) ।
@@ -946,7 +946,7 @@
 <a href="https://yaahi.github.io/?cp=3&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=117" target="_blank">Correction</a>
 
-धनू|धनु|शरासन
+धनू|धनु|शरासन|धनुः|शरासनं
 धनू-स्त्री, धनु-पुंक्ली, शरासन-क्ली (२३५०)
 चापे धनूधनुशरासनान्यपि विदुर्बुधाः ॥ ६७ ॥
 मर्त्यकाण्डः
@@ -961,7 +961,7 @@
 <a href="https://yaahi.github.io/?cp=3&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=119" target="_blank">Correction</a>
 
-तरवालिका|पलिघ
+तरवालिका|पलिघ|पलिघः
 तरवालिका-स्त्री (२३८४)
 पलिघ-पुं (२३८९)
 ईल्यां तरवालिकाऽपि परिघः पलिघः समौ ॥ ६८ ॥
@@ -969,7 +969,7 @@
 <a href="https://yaahi.github.io/?cp=3&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=120" target="_blank">Correction</a>
 
-ऊर्जस्विन्|ऊर्जस्वत्|मङ्ख|बोधकर|अर्थिक
+ऊर्जस्विन्|ऊर्जस्वत्|मङ्ख|बोधकर|अर्थिक|ऊर्जस्वन्त्|ऊर्ज्जस्वत्|मंख|मंखः|मङ्खः|बोधकरः|अर्थिकः
 ऊर्जस्विन्-पुं, ऊर्जस्वत्-पुं (२४०९)
 मङ्ख-पुं, बोधकर-पुं, अर्थिक-पुं (२४१७)
 ऊर्जस्व्यूर्जस्वान्मगधो मङ्खो बोधकरोऽर्थिकः (६९) ।
@@ -977,14 +977,14 @@
 <a href="https://yaahi.github.io/?cp=3&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=121" target="_blank">Correction</a>
 
-सौखशायनिक|सौख्यशय्यिक
+सौखशायनिक|सौख्यशय्यिक|सौखशायनिकः
 सौखशायनिक-पुं, सौख्यशय्यिक-पुं (२४१४)
 सौखशायनिकः सौख्यशय्यिको सौखसुप्तिकः ॥ ६९ ॥
 मर्त्यकाण्डः
 <a href="https://yaahi.github.io/?cp=3&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=122" target="_blank">Correction</a>
 
-संस्फेट|सम्फेट|द्रविण|ऊर्ज्
+संस्फेट|सम्फेट|द्रविण|ऊर्ज्|संस्फेटः|संफेट|संफेटः|द्रविणं
 संस्फेट-पुं, सम्फेट-पुं (२४२२)
 द्रविण-क्ली, ऊर्ज्-पुं (२४२१)
 रणे संस्फेटसम्फेटौ बले द्रविणमूर्क्तथा (७०) ।
@@ -992,7 +992,7 @@
 <a href="https://yaahi.github.io/?cp=3&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=123" target="_blank">Correction</a>
 
-अवस्कन्द|नशन
+अवस्कन्द|नशन|अवस्कंदः|अवस्कन्दः
 अवस्कन्द-पुं (२४२८)
 नशन-क्ली (२४३४)
 अवस्कन्दोऽपि धाट्यां स्यान्नशनं च पलायने ॥ ७० ॥
@@ -1000,7 +1000,7 @@
 <a href="https://yaahi.github.io/?cp=3&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=124" target="_blank">Correction</a>
 
-चारक|तपस्विन्
+चारक|तपस्विन्|चारकः
 चारक-पुं (२४४५)
 तपस्विन्-पुं (२४६०)
 चारकोऽपि भवेद्गुप्तौ तापसे तु तपस्व्यपि (७१) ।
@@ -1017,7 +1017,7 @@
 <a href="https://yaahi.github.io/?cp=3&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=126" target="_blank">Correction</a>
 
-शमन|दधिषाय्य
+शमन|दधिषाय्य|शमनं|शमनः|दधिषाय्यः
 शमन-क्ली (२५२३)
 दधिषाय्य-क्ली (२५३१)
 शसने शमनं चाथ दधिषाय्यं पृषातके (७२) ।
@@ -1025,7 +1025,7 @@
 <a href="https://yaahi.github.io/?cp=3&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=127" target="_blank">Correction</a>
 
-अग्न्याहित|उपवस्त्र|औपवस्त|ब्रह्मसूत्र|पवित्र|मैत्रावरुणि|आदिकवि|पर्शुराम
+अग्न्याहित|उपवस्त्र|औपवस्त|ब्रह्मसूत्र|पवित्र|मैत्रावरुणि|आदिकवि|पर्शुराम|औपवस्तं|ब्रह्मसूत्रं|पवित्रं|पवित्रः|मैत्रावरुणिः|आदिकविः|पर्शुरामः
 अग्न्याहित-पुं (२५४२)
 उपवस्त्र-क्ली, औपवस्त-क्ली (२५६४)
 ब्रह्मसूत्र-क्ली, पवित्र-क्ली (२५७१)
@@ -1039,7 +1039,7 @@
 <a href="https://yaahi.github.io/?cp=3&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=128" target="_blank">Correction</a>
 
-योगीश|दाक्षीपुत्र
+योगीश|दाक्षीपुत्र|दाक्षीपुत्त्रः
 योगीश-पुं (२५८४)
 दाक्षीपुत्र-पुं (२५८५)
 योगीशो याज्ञवल्क्योऽपि दाक्षीपुत्रोऽपि पाणिनौ ॥ ७४ ॥
@@ -1047,7 +1047,7 @@
 <a href="https://yaahi.github.io/?cp=3&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=129" target="_blank">Correction</a>
 
-स्फौटायन|कात्य
+स्फौटायन|कात्य|कात्यः
 स्फौटायन-पुं (२५८९)
 कात्य-पुं (२५८७)
 स्फोटायनः स्फौटायनः कात्यो वररुचौ तथा (७५) ।
@@ -1055,7 +1055,7 @@
 <a href="https://yaahi.github.io/?cp=3&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=130" target="_blank">Correction</a>
 
-कारेणव|चाणक्य
+कारेणव|चाणक्य|चाणक्यः
 कारेणव-पुं (२५९०)
 चाणक्य-पुं (२५९१)
 कारेणवः पालकाप्ये चाणक्यश्चणकात्मजे ॥ ७५ ॥
@@ -1063,7 +1063,7 @@
 <a href="https://yaahi.github.io/?cp=3&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=131" target="_blank">Correction</a>
 
-कणाद|जैन|अनेकान्तवादिन्
+कणाद|जैन|अनेकान्तवादिन्|कणादः|जैनः
 कणाद-पुं (२६१८)
 जैन-पुं, अनेकान्तवादिन्-पुं (२६१९)
 वैशेषिके कणादोऽपि जैनोऽनेकान्तवाद्यपि (७६) ।
@@ -1071,7 +1071,7 @@
 <a href="https://yaahi.github.io/?cp=3&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=132" target="_blank">Correction</a>
 
-लोकायतिक|प्रसृत
+लोकायतिक|प्रसृत|लोकायतिकः|प्रसृतं|प्रसृतः
 लोकायतिक-पुं (२६१९)
 प्रसृत-क्ली (२६३१)
 चार्वाके लोकायतिकः कृषिः प्रसृतमित्यपि ॥ ७६ ॥
@@ -1079,7 +1079,7 @@
 <a href="https://yaahi.github.io/?cp=3&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=133" target="_blank">Correction</a>
 
-न्यासार्पण|परिदान|प्रापणिक
+न्यासार्पण|परिदान|प्रापणिक|परिदानं|प्रापणिकः
 न्यासार्पण-क्ली, परिदान-क्ली (२६४४)
 प्रापणिक-पुं (२६३६)
 न्यासार्पणे परिदानं वणिक्प्रापणिकः स्मृतः (७७) ।
@@ -1087,7 +1087,7 @@
 <a href="https://yaahi.github.io/?cp=3&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=134" target="_blank">Correction</a>
 
-नियुत|प्रवहण
+नियुत|प्रवहण|नियुतं|प्रवहणं
 नियुत-क्ली (२६५७)
 प्रवहण-क्ली (२६७३)
 लक्षे च नियुतं पोते स्मृतं प्रवहणं बुधैः ॥ ७७ ॥
@@ -1095,7 +1095,7 @@
 <a href="https://yaahi.github.io/?cp=3&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=135" target="_blank">Correction</a>
 
-कर्ण|गवेश्वर
+कर्ण|गवेश्वर|कर्णः|कर्ण्ण
 कर्ण-पुं (२६८४)
 गवेश्वर-पुं (२७२२)
 कर्णोऽप्यरित्रे दुर्गस्य गवेश्वरोऽपि गोमति (७८) ।
@@ -1103,7 +1103,7 @@
 <a href="https://yaahi.github.io/?cp=3&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=136" target="_blank">Correction</a>
 
-क्षेत्रजीव|कोटीश
+क्षेत्रजीव|कोटीश|क्षेत्रजीवः|कोटीशः
 क्षेत्रजीव-पुं (२७२६)
 कोटीश-पुं (२७३९)
 कर्षके क्षेत्रजीवोऽपि कोटीशो लोष्टभेदनः ॥ ७८ ॥
@@ -1111,7 +1111,7 @@
 <a href="https://yaahi.github.io/?cp=3&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=137" target="_blank">Correction</a>
 
-मार्द्वीक|अनुतर्ष
+मार्द्वीक|अनुतर्ष|अनुतर्षः
 मार्द्वीक-क्ली (२७६१)
 अनुतर्ष-पुं (२७६८)
 मार्द्वीकमपि मद्येऽनुतर्षोऽपि चषके स्मृतः (७९) ।
@@ -1119,7 +1119,7 @@
 <a href="https://yaahi.github.io/?cp=3&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=138" target="_blank">Correction</a>
 
-तन्तुवाय|वेम
+तन्तुवाय|वेम|तंतुवाय|तन्तुवायः|वेमः
 तन्तुवाय-पुं (२७९२)
 वेम-पुं (२७९५)
 कुविन्दे तन्तुरवायोऽपि वेमा वेमोऽपि कीर्त्यते ॥ ७९ ॥
@@ -1127,7 +1127,7 @@
 <a href="https://yaahi.github.io/?cp=3&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=139" target="_blank">Correction</a>
 
-धावक|पादत्राण
+धावक|पादत्राण|धावकः|पादत्राणं
 धावक-पुं (२७९७)
 पादत्राण-क्ली (२७९९)
 रजको धावकोऽप्युक्तः पादत्राणं च पादुका (८०) ।
@@ -1135,7 +1135,7 @@
 <a href="https://yaahi.github.io/?cp=3&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=140" target="_blank">Correction</a>
 
-तैलिक|तिलन्तुद|रथकार
+तैलिक|तिलन्तुद|रथकार|तैलिकः|तिलंतुदः|रथकारः
 तैलिक-पुं, तिलन्तुद-पुं (२८०५)
 रथकार-पुं (२८०७)
 तैलिकस्तिलन्तुदोऽपि रथकारोऽपि वर्धकिः ॥ ८० ॥
@@ -1143,7 +1143,7 @@
 <a href="https://yaahi.github.io/?cp=3&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=141" target="_blank">Correction</a>
 
-चित्रकार|लिखक|लेपक
+चित्रकार|लिखक|लेपक|चित्रकारः|लिखकः|लेपकः
 चित्रकार-पुं, लिखक-पुं (२८२१)
 लेपक-पुं (२८२४)
 चित्रकारो लिखकश्च लेप्यकृल्लेपकोऽपि च (८१) ।
@@ -1151,7 +1151,7 @@
 <a href="https://yaahi.github.io/?cp=3&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=142" target="_blank">Correction</a>
 
-विनोद|खट्टिक
+विनोद|खट्टिक|विनोदः|खट्टिकः
 विनोद-पुं (२८३७)
 खट्टिक-पुं (२८४८)
 कुतूहले विनोदोऽपि सौनिकः खट्टिकोऽपि च ॥ ८१ ॥
@@ -1159,7 +1159,7 @@
 <a href="https://yaahi.github.io/?cp=3&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=143" target="_blank">Correction</a>
 
-पाशयन्त्र|चाण्डाल|पुक्कस
+पाशयन्त्र|चाण्डाल|पुक्कस|चांडाल|चांडालः|चाण्डालः|पुक्कसः
 पाशयन्त्र-क्ली (२८५३)
 चाण्डाल-पुं, पुक्कस-पुं (२८५५)
 कूटयन्त्रे पाशयन्त्रं समौ चाण्डालपुक्कसौ ।
@@ -1176,7 +1176,7 @@
 <a href="https://yaahi.github.io/?cp=4&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=145" target="_blank">Correction</a>
 
-माणिबन्ध|माणिमन्त|वसु
+माणिबन्ध|माणिमन्त|वसु|माणिबंध|माणिबंधं|माणिबन्धं|वसुः
 माणिबन्ध-क्ली, माणिमन्त-क्ली (२८७८)
 वसु-क्ली (२८७९)
 माणिबन्धं माणिमन्तं सैन्धवे वसुके वसु ॥ ८३ ॥
@@ -1184,7 +1184,7 @@
 <a href="https://yaahi.github.io/?cp=4&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=146" target="_blank">Correction</a>
 
-टङ्कन|उपावर्तन
+टङ्कन|उपावर्तन|टंकन|टंकनं|उपावर्तनं|उपावर्त्तन
 टङ्कन-पुं (२८८४)
 उपावर्तन-क्ली (२८९३)
 टङ्कनष्टङ्कण उपावर्तनं चापि नीवृति (८४) ।
@@ -1192,7 +1192,7 @@
 <a href="https://yaahi.github.io/?cp=4&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=147" target="_blank">Correction</a>
 
-जाङ्गल|मालक
+जाङ्गल|मालक|जांगल|जाङ्गलं|जाङ्गलः|मालकं|मालकः
 जाङ्गल-पुं (२९०६)
 मालक-पुंक्ली (२९३९)
 जङ्गलः स्याज्जाङ्गलोऽपि मालवन्मालको मतः ॥ ८४ ॥
@@ -1200,7 +1200,7 @@
 <a href="https://yaahi.github.io/?cp=4&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=148" target="_blank">Correction</a>
 
-पट्टन|कुण्डिनापुर|कुण्डिनपुर|पण्यवीथिका
+पट्टन|कुण्डिनापुर|कुण्डिनपुर|पण्यवीथिका|पट्टनं
 पट्टन-क्ली (२९७०)
 कुण्डिनापुर-क्ली, कुण्डिनपुर-क्ली (२९८९)
 पण्यवीथिका-स्त्री (३०१२)
@@ -1210,7 +1210,7 @@
 <a href="https://yaahi.github.io/?cp=4&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=149" target="_blank">Correction</a>
 
-सन्धि|धाम
+सन्धि|धाम|संधि|संधिः|सन्धिः
 सन्धि-पुं (३००७)
 धाम-क्ली (३०१८)
 सुरुङ्गायां सन्धिरपि गृहे धाममपि स्मृतम् (८६) ।
@@ -1218,7 +1218,7 @@
 <a href="https://yaahi.github.io/?cp=4&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=150" target="_blank">Correction</a>
 
-उपकर्या|प्रसादन
+उपकर्या|प्रसादन|प्रसादनं
 उपकर्या-स्त्री (३०२२)
 प्रसादन-पुं (३०२४)
 उपकार्योपकर्याऽपि प्रासादे च प्रसादनः ॥ ८६ ॥
@@ -1226,7 +1226,7 @@
 <a href="https://yaahi.github.io/?cp=4&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=151" target="_blank">Correction</a>
 
-शान्तीगृह|अङ्गण
+शान्तीगृह|अङ्गण|अंगण|अंगणं|अङ्गणं
 शान्तीगृह-क्ली (३०३७)
 अङ्गण-क्ली (३०६३)
 शान्तीगृहं शान्तिगृहे प्राङ्गणं त्वङ्गणं मतम् (८७) ।
@@ -1234,7 +1234,7 @@
 <a href="https://yaahi.github.io/?cp=4&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=152" target="_blank">Correction</a>
 
-कवाट|खटक्किका
+कवाट|खटक्किका|कवाटः
 कवाट-पुंक्ली (३०७१)
 खटक्किका-स्त्री (३०७२)
 कपाटवत्कवाटोऽपि पक्षद्वारे खटक्किका ॥ ८७ ॥
@@ -1242,7 +1242,7 @@
 <a href="https://yaahi.github.io/?cp=4&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=153" target="_blank">Correction</a>
 
-कुशूल|पुट
+कुशूल|पुट|कुशूलः|पुटं|पुटः
 कुशूल-पुं (३०८९)
 पुट-पुं (३०९८)
 कुशूलवत्कुसूलोऽपि समुद्गे तु पुटो मतः (८८) ।
@@ -1250,7 +1250,7 @@
 <a href="https://yaahi.github.io/?cp=4&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=154" target="_blank">Correction</a>
 
-पेटक|पेडा
+पेटक|पेडा|पेटकं|पेटकः
 पेटक-पुंक्ली, पेडा-स्त्री (३०९९)
 पेटायां स्यात्पेटकोऽपि पेडाऽपि कृतिनां मते ॥ ८८ ॥
 तिर्यक्काण्डः
@@ -1265,7 +1265,7 @@
 <a href="https://yaahi.github.io/?cp=4&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=156" target="_blank">Correction</a>
 
-पिटक|अन्ती|अन्तिन्
+पिटक|अन्ती|अन्तिन्|पिटकं|पिटकः|अंती
 पिटक-पुंक्ली (३१०७)
 अन्ती-स्त्री, अन्तिन्-पुं (३११०)
 कण्डोलके पिटकोऽपि चुल्ल्यामन्तीति कथ्यते ॥ ८९ ॥
@@ -1273,7 +1273,7 @@
 <a href="https://yaahi.github.io/?cp=4&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=157" target="_blank">Correction</a>
 
-खज|खजाक|कटक
+खज|खजाक|कटक|खजः|खजाकः|कटकं|कटकः
 खज-पुं, खजाक-पुं (३१२३)
 कटक-पुं (३१२४)
 खजः खजाकोऽपि मथि विष्कम्भः कटकोऽस्य तु (९०) ।
@@ -1281,7 +1281,7 @@
 <a href="https://yaahi.github.io/?cp=4&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=158" target="_blank">Correction</a>
 
-अग|क्रौञ्च
+अग|क्रौञ्च|अगः|क्रौंच|क्रौंचः|क्रौञ्चः
 अग-पुं (३१३५)
 क्रौञ्च-पुं (३१४१)
 अगोऽपि पर्वते कौञ्जः क्रोञ्चवन्मन्यते बुधैः ॥ ९० ॥
@@ -1289,7 +1289,7 @@
 <a href="https://yaahi.github.io/?cp=4&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=159" target="_blank">Correction</a>
 
-कक्खटी|औदुम्बर
+कक्खटी|औदुम्बर|औदुंबर
 कक्खटी-स्त्री (३१६७)
 औदुम्बर-क्ली (३१७२)
 कक्खट्यपि खटिन्यां स्यात्ताम्रमौदुम्बरं विदुः (९१) ।
@@ -1297,7 +1297,7 @@
 <a href="https://yaahi.github.io/?cp=4&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=160" target="_blank">Correction</a>
 
-शातकौम्भ|चपल
+शातकौम्भ|चपल|शातकौंभ|शातकौंभं|शातकौम्भं|चपलं|चपलः
 शातकौम्भ-क्ली (३१७६)
 चपल-पुं (३१८८)
 शातकौम्भमपि स्वर्णे पारदश्चपलोऽपि च ॥ ९१ ॥
@@ -1312,7 +1312,7 @@
 <a href="https://yaahi.github.io/?cp=4&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=162" target="_blank">Correction</a>
 
-वैष्णव|गोपित्त
+वैष्णव|गोपित्त|वैष्णवं|वैष्णवः
 वैष्णव-पुं (३१९६)
 गोपित्त-क्ली (३२०२)
 माक्षिके वैष्णवोऽपि स्याद्गोपित्तं हरितालवत् ॥ ९२ ॥
@@ -1327,7 +1327,7 @@
 <a href="https://yaahi.github.io/?cp=4&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=164" target="_blank">Correction</a>
 
-शृङ्गार|हिङ्गुलु
+शृङ्गार|हिङ्गुलु|शृंगार|शृङ्गारं|शृंगारः|शृङ्गारः|हिंगुलु|हिङ्गुलुः
 शृङ्गार-क्ली (३२०४)
 हिङ्गुलु-पुं (३२०५)
 शृङ्गारमपि सिन्दूरे कुरुविन्दे तु हिङ्गुलुः ॥ ९३ ॥
@@ -1335,7 +1335,7 @@
 <a href="https://yaahi.github.io/?cp=4&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=165" target="_blank">Correction</a>
 
-गोपरस|माणिक्य
+गोपरस|माणिक्य|गोपरसः|माणिक्यं
 गोपरस-पुं (३२०९)
 माणिक्य-क्ली (३२१०)
 बोलो गोपरसोऽप्युक्तो रत्नं माणिक्यमित्यपि (९४) ।
@@ -1343,7 +1343,7 @@
 <a href="https://yaahi.github.io/?cp=4&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=166" target="_blank">Correction</a>
 
-शोणरत्न|वैराट्ट
+शोणरत्न|वैराट्ट|शोणरत्नं
 शोणरत्न-पुंक्ली (३२१३)
 वैराट्ट-पुं (३२१६)
 पद्मरागे शोणरत्नं वैराट्टो राजपट्टवत् ॥ ९४ ॥
@@ -1351,7 +1351,7 @@
 <a href="https://yaahi.github.io/?cp=4&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=167" target="_blank">Correction</a>
 
-महानील|कबन्ध
+महानील|कबन्ध|महानीलः|कबंध|कबंधं|कबन्धं|कबंधः|कबन्धः
 महानील-क्ली (३१२४)
 कबन्ध-क्ली (३२२२)
 नीलमणौ महानीलं कबन्धमपि वारिणि (९५) ।
@@ -1366,7 +1366,7 @@
 <a href="https://yaahi.github.io/?cp=4&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=169" target="_blank">Correction</a>
 
-अकूवार|मकरालय
+अकूवार|मकरालय|मकरालयः
 अकूवार-पुं, मकरालय-पुं (३२३०)
 अकूवारोऽपि जलधौ मकरालय इत्यपि (९६) ।
 तिर्यक्काण्डः
@@ -1397,7 +1397,7 @@
 <a href="https://yaahi.github.io/?cp=4&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=173" target="_blank">Correction</a>
 
-चक्र|चिक्खल्ल
+चक्र|चिक्खल्ल|चक्रं|चक्रः
 चक्र-क्ली (३२७१)
 चिक्खल्ल-पुं (३२७९)
 चक्राण्यपि पुटभेदाः पङ्के चिक्खल्ल इत्यपि (९८) ।
@@ -1405,14 +1405,14 @@
 <a href="https://yaahi.github.io/?cp=4&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=174" target="_blank">Correction</a>
 
-उद्घातन|उद्घाटन
+उद्घातन|उद्घाटन|उद्घाटनं
 उद्घातन-क्ली, उद्घाटन-क्ली (३२८९)
 उद्घातनमुद्घाटनं घटीयन्त्रं प्रकीर्तितम् ॥ ९८ ॥
 तिर्यक्काण्डः
 <a href="https://yaahi.github.io/?cp=4&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=175" target="_blank">Correction</a>
 
-तडाक|तटाक|तल्ल
+तडाक|तटाक|तल्ल|तडाकः|तटाकं|तटाकः|तल्लं|तल्लः
 तडाक-पुं, तटाक-पुं (३२९३)
 तल्ल-पुं (३२९४)
 सरस्तडाकस्तटाकोऽप्यथ तल्लश्च पल्वले (९९) ।
@@ -1420,7 +1420,7 @@
 <a href="https://yaahi.github.io/?cp=4&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=176" target="_blank">Correction</a>
 
-आशयाश|शुष्मन्|बर्हिस्|बर्हिरुत्थ|दमूनस्|क्षणप्रभा|गन्धवाह|सदागति|चरणप|त्वचा|गुलुञ्छु|लुम्बि|माकन्द|रसाल
+आशयाश|शुष्मन्|बर्हिस्|बर्हिरुत्थ|दमूनस्|क्षणप्रभा|गन्धवाह|सदागति|चरणप|त्वचा|गुलुञ्छु|लुम्बि|माकन्द|रसाल|आशयाशः|गंधवाह|गन्धवाहः|सदागतिः|माकंद|माकंदः|माकन्दः|रसालं|रसालः
 आशयाश-पुं, शुष्मन्-पुं, बर्हिस्-पुं, बर्हिरुत्थ-पुं, दमूनस्-पुं (३३००)
 क्षणप्रभा-स्त्री (३३१६)
 गन्धवाह-पुं, सदागति-पुं (३३१७)
@@ -1436,14 +1436,14 @@
 <a href="https://yaahi.github.io/?cp=4&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=177" target="_blank">Correction</a>
 
-कुरुण्ट|कुरुण्डक
+कुरुण्ट|कुरुण्डक|कुरुंट|कुरुंटः|कुरुण्टः
 कुरुण्ट-पुं, कुरुण्डक-पुं (३३९५)
 किङ्किराते कुरुण्टकुरुण्डकावपि स्मृतौ ॥ १०१ ॥
 तिर्यक्काण्डः
 <a href="https://yaahi.github.io/?cp=4&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=178" target="_blank">Correction</a>
 
-कर्कन्धू|अटरूषक
+कर्कन्धू|अटरूषक|कर्कंधू
 कर्कन्धू-स्त्री (३४०२)
 अटरूषक-पुं (३४११)
 कर्कन्धूरपि कर्कन्धौ ह्रस्वादिश्चाटरूषकः (१०२) ।
@@ -1451,7 +1451,7 @@
 <a href="https://yaahi.github.io/?cp=4&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=179" target="_blank">Correction</a>
 
-स्नुहि|स्नुहा|प्रियाल
+स्नुहि|स्नुहा|प्रियाल|स्नुहिः|प्रियालः
 स्नुहि-स्त्री, स्नुहा-स्त्री (३४१३)
 प्रियाल-पुं (३४१९)
 वज्रे स्नुहिः स्नुहाऽपि स्यात्पियालोऽपि प्रियालवत् ॥ १०२ ॥
@@ -1459,7 +1459,7 @@
 <a href="https://yaahi.github.io/?cp=4&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=180" target="_blank">Correction</a>
 
-नार्यङ्ग|विभेदक
+नार्यङ्ग|विभेदक|नार्यंग|नार्यंगः|नार्यङ्गः|नार्य्यङ्ग|नार्य्यङ्गः
 नार्यङ्ग-पुं (३४२१)
 विभेदक-पुं (३४३२)
 नार्यङ्गोऽपि च नारङ्गेऽक्षे विभेदक इत्यपि (१०३) ।
@@ -1467,7 +1467,7 @@
 <a href="https://yaahi.github.io/?cp=4&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=181" target="_blank">Correction</a>
 
-तापिच्छ|निर्गुण्ठी
+तापिच्छ|निर्गुण्ठी|तापिच्छः
 तापिच्छ-पुं (३४३५)
 निर्गुण्ठी-स्त्री (३४३७)
 भवेत्तमालस्तापिच्छो निर्गुण्ठी सिन्दुवारवत् ॥ १०३ ॥
@@ -1475,7 +1475,7 @@
 <a href="https://yaahi.github.io/?cp=4&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=182" target="_blank">Correction</a>
 
-जवा|मातुलिङ्ग
+जवा|मातुलिङ्ग|मातुलिंग|मातुलिंगः|मातुलिङ्गः
 जवा-स्त्री (३४३९)
 मातुलिङ्ग-पुं (३४४९)
 जपा जवा मातुलिङ्गो मातुलुङ्गोऽपि कीर्तितः (१०४) ।
@@ -1483,7 +1483,7 @@
 <a href="https://yaahi.github.io/?cp=4&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=183" target="_blank">Correction</a>
 
-धुत्तूर|त्वक्सार
+धुत्तूर|त्वक्सार|त्वक्सारः
 धुत्तूर-पुं (३४५४)
 त्वक्सार-पुं (३४६१)
 धत्तूर इव धुत्तूरो वंशस्त्वक्सार इत्यपि ॥ १०४ ॥
@@ -1491,7 +1491,7 @@
 <a href="https://yaahi.github.io/?cp=4&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=184" target="_blank">Correction</a>
 
-केश|सलिल
+केश|सलिल|केशः|सलिलं
 केश-क्ली, सलिल-क्ली (३४७६)
 ह्रीबेरं केशसलिलपर्यायैः स्मर्यते बुधैः (१०५) ।
 तिर्यक्काण्डः
@@ -1513,7 +1513,7 @@
 <a href="https://yaahi.github.io/?cp=4&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=187" target="_blank">Correction</a>
 
-जलनीली|सातीन
+जलनीली|सातीन|सातीनः
 जलनीली-स्त्री (३४९६)
 सातीन-पुं (३५०७)
 शेपालं च जलनीली सातीनोऽपि सतीनवत् ॥ १०६ ॥
@@ -1521,7 +1521,7 @@
 <a href="https://yaahi.github.io/?cp=4&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=188" target="_blank">Correction</a>
 
-कुल्मास|गवीधुका
+कुल्मास|गवीधुका|कुल्मासं
 कुल्मास-पुं (३५२०)
 गवीधुका-स्त्री (३५३३)
 कुल्मासवत्कुल्माषोऽपि गवेधुका गवीधुका (१०७) ।
@@ -1537,7 +1537,7 @@
 <a href="https://yaahi.github.io/?cp=4&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=190" target="_blank">Correction</a>
 
-हालाहल|हाल|मुस्तक
+हालाहल|हाल|मुस्तक|हालाहलं|हालाहलः|हालः|मुस्तकः
 हालाहल-पुंक्ली, हाल-पुंक्ली (३५९५)
 मुस्तक-पुंक्ली (३५८४)
 हालाहलं तथा हालं मुस्तायां मुस्तकोऽपि च (१०८) ।
@@ -1545,7 +1545,7 @@
 <a href="https://yaahi.github.io/?cp=4&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=191" target="_blank">Correction</a>
 
-क्रिमि|किञ्चुलुक
+क्रिमि|किञ्चुलुक|क्रिमिः|किञ्चुलुकः
 क्रिमि-पुं (३६६२)
 किञ्चुलुक-पुं (३६४२)
 कृमिः क्रिमिरपि गण्डूपदः किञ्चुलुकोऽपि च ॥ १०८ ॥
@@ -1553,7 +1553,7 @@
 <a href="https://yaahi.github.io/?cp=4&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=192" target="_blank">Correction</a>
 
-शाम्बूक|द्रुत
+शाम्बूक|द्रुत|शांबूक|शांबूकः|शाम्बूकः|द्रुतं|द्रुतः
 शाम्बूक-पुं (३६४८)
 द्रुत-पुं (३६६४)
 शम्बूका अपि शाम्बूका वृश्चिको द्रुत इत्यपि (१०९) ।
@@ -1561,7 +1561,7 @@
 <a href="https://yaahi.github.io/?cp=4&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=193" target="_blank">Correction</a>
 
-भसल|मधुकर|अलिन्|पिक्क|करि
+भसल|मधुकर|अलिन्|पिक्क|करि|मधुकरः|पिक्कः
 भसल-पुंस्त्री, मधुकर-पुंस्त्री, अलिन्-पुंस्त्री (३६६६)
 पिक्क-पुं (३६९०)
 करि-पुं (३६८०)
@@ -1570,7 +1570,7 @@
 <a href="https://yaahi.github.io/?cp=4&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=194" target="_blank">Correction</a>
 
-व्याड|औपवाह्य|अवरा
+व्याड|औपवाह्य|अवरा|व्याडः
 व्याड-पुं (३६९६)
 औपवाह्य-पुं (३७००)
 अवरा-स्त्रीक्ली (३७२६)
@@ -1579,7 +1579,7 @@
 <a href="https://yaahi.github.io/?cp=4&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=195" target="_blank">Correction</a>
 
-निगल|अन्दू|कक्षा|वाल्हिक|वाल्हीक|वल्ग|वागा|खलिन
+निगल|अन्दू|कक्षा|वाल्हिक|वाल्हीक|वल्ग|वागा|खलिन|निगलः|खलिनं|खलिनः
 निगल-पुं, अन्दू-पुं (३७२८)
 कक्षा-स्त्री (३७३८)
 वाल्हिक-पुं, वाल्हीक-पुं (३७५०)
@@ -1591,7 +1591,7 @@
 <a href="https://yaahi.github.io/?cp=4&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=196" target="_blank">Correction</a>
 
-मयु|ऊष्ट्र|शण्ड|इत्वर
+मयु|ऊष्ट्र|शण्ड|इत्वर|मयुः|शंड|शण्डं|शंडः|शण्डः|इत्वरः
 मयु-पुं, ऊष्ट्र-पुं (३८०६)
 शण्ड-पुं, इत्वर-पुं (३८१७)
 मयुरुष्ट्रे गोपतौ तु शण्ड इत्वर इत्यपि ॥ १११ ॥
@@ -1599,7 +1599,7 @@
 <a href="https://yaahi.github.io/?cp=4&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=197" target="_blank">Correction</a>
 
-स्थूरिन्|ककुद्|कुकुद
+स्थूरिन्|ककुद्|कुकुद|कुकुदः
 स्थूरिन्-पुं (३८२७)
 ककुद्-पुंक्ली, कुकुद-क्ली (३८३१)
 स्थौरी स्थूर्यपि ककुदे ककुत्कुकुदमित्यपि (११२) ।
@@ -1615,7 +1615,7 @@
 <a href="https://yaahi.github.io/?cp=4&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=199" target="_blank">Correction</a>
 
-पवित्र|शुभ|भषक
+पवित्र|शुभ|भषक|पवित्रं|पवित्रः|शुभं|शुभः|भषकः
 पवित्र-क्ली (३८६२)
 शुभ-पुं (३८७०)
 भषक-पुं (३८७७)
@@ -1632,7 +1632,7 @@
 <a href="https://yaahi.github.io/?cp=4&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=201" target="_blank">Correction</a>
 
-पारिन्द्र|अष्टापद
+पारिन्द्र|अष्टापद|पारिंद्र|पारिंद्रः|पारिन्द्रः|अष्टापदं|अष्टापदः
 पारिन्द्र-पुं (३८८४)
 अष्टापद-पुं (३८८७)
 पारिन्द्र इव पारिन्द्रः शरभेऽष्टापदोऽपि च (११४) ।
@@ -1640,7 +1640,7 @@
 <a href="https://yaahi.github.io/?cp=4&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=202" target="_blank">Correction</a>
 
-शृगाल|प्रवग
+शृगाल|प्रवग|शृगालः|प्रवगः
 शृगाल-पुं (३८९२)
 प्रवग-पुं (३८९७)
 सृगालवच्छृगालोऽपि प्लवगः प्रवगोऽपि च ॥ ११४ ॥
@@ -1648,7 +1648,7 @@
 <a href="https://yaahi.github.io/?cp=4&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=203" target="_blank">Correction</a>
 
-वानायु|उन्दर
+वानायु|उन्दर|वानायुः
 वानायु-पुं (३८९८)
 उन्दर-पुं (३९२८)
 वानायुरपि वातायुरुन्दरोऽपि च मूषके (११५) ।
@@ -1656,7 +1656,7 @@
 <a href="https://yaahi.github.io/?cp=4&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=204" target="_blank">Correction</a>
 
-वनबिडाल|गोकर्ण
+वनबिडाल|गोकर्ण|गोकर्णः
 वनबिडाल-पुं (३९३१)
 गोकर्ण-पुं (३९३४)
 ह्रीकुर्वनबिडालोऽपि गोकर्णोऽपि भुजङ्गमे ॥ ११५ ॥
@@ -1664,7 +1664,7 @@
 <a href="https://yaahi.github.io/?cp=4&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=205" target="_blank">Correction</a>
 
-अलीगर्द|एककुण्डल
+अलीगर्द|एककुण्डल|अलीगर्दः|एककुण्डलः
 अलीगर्द-पुं (३९३७)
 एककुण्डल-पुं (३९४३)
 जलव्यालेऽलीगर्दोऽपि शेषः स्यादेककुण्डलः (११६) ।
@@ -1680,7 +1680,7 @@
 <a href="https://yaahi.github.io/?cp=5&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=207" target="_blank">Correction</a>
 
-पतत्रि|पिञ्छ
+पतत्रि|पिञ्छ|पतत्रिः
 पतत्रि-पुं (३९६८)
 पिञ्छ-क्ली (३९७०)
 विहगे पतत्रिरपि पिच्छं पिञ्छमपि स्मृतम् (११७) ।
@@ -1688,7 +1688,7 @@
 <a href="https://yaahi.github.io/?cp=5&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=208" target="_blank">Correction</a>
 
-परपुष्ट|अन्यभृत|बर्हिन्
+परपुष्ट|अन्यभृत|बर्हिन्|परपुष्टः|अन्यभृतः
 परपुष्ट-पुं, अन्यभृत-पुं (३९७९)
 बर्हिन्-पुं (३९७५)
 परपुष्टान्यभृतौ च पिके बर्हिणि बर्हिणः ॥ ११७ ॥
@@ -1696,7 +1696,7 @@
 <a href="https://yaahi.github.io/?cp=5&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=209" target="_blank">Correction</a>
 
-बलिपुष्ट|द्रोण
+बलिपुष्ट|द्रोण|बलिपुष्टः|द्रोणः
 बलिपुष्ट-पुं (३९८०)
 द्रोण-पुं (३९८२)
 वायसे बलिपुष्टोऽपि द्रोणोऽपि द्रोणकाकवत् (११८) ।
@@ -1704,7 +1704,7 @@
 <a href="https://yaahi.github.io/?cp=5&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=210" target="_blank">Correction</a>
 
-लक्ष्मणी|क्रौञ्ची|क्रुञ्चा|दिवि|किकि|किकिदीवि|टिटिभ
+लक्ष्मणी|क्रौञ्ची|क्रुञ्चा|दिवि|किकि|किकिदीवि|टिटिभ|दिविः|किकिः|टिटिभः
 लक्ष्मणी-स्त्री (३९९४)
 क्रौञ्ची-स्त्री, क्रुञ्चा-स्त्री (६००८)
 दिवि-पुं, किकि-स्त्री, किकिदीवि-पुं (३९९६)
@@ -1715,7 +1715,7 @@
 <a href="https://yaahi.github.io/?cp=5&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=211" target="_blank">Correction</a>
 
-कुलिङ्ग|कालकण्ठ|दात्योह|बकेरुका|बिसकण्ठिका
+कुलिङ्ग|कालकण्ठ|दात्योह|बकेरुका|बिसकण्ठिका|कुलिंग|कुलिंगः|कुलिङ्गः|कालकंठ|कालकण्ठः|बिसकंठिका
 कुलिङ्ग-पुं (४०००)
 कालकण्ठ-पुं, दात्योह-पुं (४००३)
 बकेरुका-स्त्री, बिसकण्ठिका-स्त्री (४००६)
@@ -1733,7 +1733,7 @@
 <a href="https://yaahi.github.io/?cp=5&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=213" target="_blank">Correction</a>
 
-पारावत|मच्छ|वरुणपाश|शङ्कुमुख
+पारावत|मच्छ|वरुणपाश|शङ्कुमुख|पारावतः|मच्छः
 पारावत-पुं (४०२२)
 मच्छ-पुं (४०४३)
 वरुणपाश-पुं (४०५२)
@@ -1744,14 +1744,14 @@
 <a href="https://yaahi.github.io/?cp=5&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=214" target="_blank">Correction</a>
 
-उहार
+उहार|उहारः
 उहार-पुं (४०५५)
 उहारः कूर्म इत्येष तिर्यक्काण्डः शिलोञ्छितः (१२२) ।
 तिर्यक्काण्डः
 <a href="https://yaahi.github.io/?cp=5&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=215" target="_blank">Correction</a>
 
-नैरयिक|तल|रसा
+नैरयिक|तल|रसा|नैरयिकः|तलं|तलः
 नैरयिक-पुं (४०६८)
 तल-क्ली, रसा-स्त्री (४०८१)
 नारकास्तु नैरयिकाः पाताले तु तलं रसा ॥ १२२ ॥
@@ -1760,7 +1760,7 @@
 <a href="https://yaahi.github.io/?cp=5&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=216" target="_blank">Correction</a>
 
-जीव|प्राणिन्|जन्म
+जीव|प्राणिन्|जन्म|जीवः|जन्मं
 जीव-पुं (४०८७)
 प्राणिन्-पुं (४०८८)
 जन्म-पुं (४०८९)
@@ -1769,7 +1769,7 @@
 <a href="https://yaahi.github.io/?cp=5&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=217" target="_blank">Correction</a>
 
-जीवातु|आयु
+जीवातु|आयु|जीवातुः|आयुः
 जीवातु-पुंक्ली (४०९०)
 आयु-पुं (४०९५)
 जीवातुर्जीवितेऽथायुः पुंस्युदन्तोऽपि चायुषि (१२४) ।
@@ -1777,7 +1777,7 @@
 <a href="https://yaahi.github.io/?cp=5&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=218" target="_blank">Correction</a>
 
-विकल्प|अनिन्द्रिय
+विकल्प|अनिन्द्रिय|विकल्पः|अनिंद्रियं
 विकल्प-पुं (४०९७)
 अनिन्द्रिय-क्ली (४०९६)
 संकल्पे स्याद्विकल्पोऽपि मनोऽनिन्द्रियमप्यथ ॥ १२४ ॥
@@ -1785,7 +1785,7 @@
 <a href="https://yaahi.github.io/?cp=5&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=219" target="_blank">Correction</a>
 
-शर्म|बाध|चर्च
+शर्म|बाध|चर्च|शर्म्म|बाधः|चर्चः|चर्च्च
 शर्म-पुंक्ली (४०९८)
 बाध-पुं (४०९९)
 चर्च-पुं (४१०५)
@@ -1794,7 +1794,7 @@
 <a href="https://yaahi.github.io/?cp=5&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=220" target="_blank">Correction</a>
 
-विप्रतीसार|अर्थ
+विप्रतीसार|अर्थ|विप्रतीसारः|अर्थः
 विप्रतीसार-पुं (४११८)
 अर्थ-पुं (४१३७)
 विप्रतीसारोऽनुशयेऽथार्था अपीन्द्रियार्थवत् ॥ १२५ ॥
@@ -1802,7 +1802,7 @@
 <a href="https://yaahi.github.io/?cp=5&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=221" target="_blank">Correction</a>
 
-सुषीम|खक्खट|जरुट|अम्ब्ल|राव
+सुषीम|खक्खट|जरुट|अम्ब्ल|राव|सुषीमः|खक्खटः|अम्ब्लः|रावः
 सुषीम-पुं (४१३८)
 खक्खट-पुं, जरुट-पुं (४१४१)
 अम्ब्ल-पुं (४१४४)
@@ -1813,7 +1813,7 @@
 <a href="https://yaahi.github.io/?cp=5&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=222" target="_blank">Correction</a>
 
-निषाद|गर्जा|मद्र
+निषाद|गर्जा|मद्र|निषादः|मद्रः
 निषाद-पुं (४१७६)
 गर्जा-स्त्री (४१९३)
 मद्र-पुं (४२०८)
@@ -1822,7 +1822,7 @@
 <a href="https://yaahi.github.io/?cp=5&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=223" target="_blank">Correction</a>
 
-आकर|जकुट|कनिष्ठ|विग्रह|निःशेष|अनून|खण्डल
+आकर|जकुट|कनिष्ठ|विग्रह|निःशेष|अनून|खण्डल|आकरः|जकुटं|जकुटः|कनिष्ठः|विग्रहः|निःशेषं|अनूनं|खंडल|खंडलं|खंडलः|खण्डलः
 आकर-पुं (४२१४)
 जकुट-पुं (४२७४)
 कनिष्ठ-क्ली (४२८५)
@@ -1836,7 +1836,7 @@
 <a href="https://yaahi.github.io/?cp=5&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=224" target="_blank">Correction</a>
 
-कल्मष|याव्य|रेपस्
+कल्मष|याव्य|रेपस्|कल्मषं|कल्मषः|याव्यं
 कल्मष-क्ली (४३००)
 याव्य-क्ली, रेपस्-क्ली (४३२२)
 मलीमसे कल्मषं च निकृष्टे याव्यरेपसी (१२९) ।
@@ -1844,7 +1844,7 @@
 <a href="https://yaahi.github.io/?cp=5&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=225" target="_blank">Correction</a>
 
-लडह|रमणीय|सदातन|शाश्वतिक|नेदीयस्
+लडह|रमणीय|सदातन|शाश्वतिक|नेदीयस्|लडहः|रमणीयं
 लडह-क्ली, रमणीय-क्ली (४३२४)
 सदातन-क्ली, शाश्वतिक-क्ली (४३४०)
 नेदीयस्-क्ली (४३३७)
@@ -1854,7 +1854,7 @@
 <a href="https://yaahi.github.io/?cp=5&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=226" target="_blank">Correction</a>
 
-अवगण|प्राञ्च्
+अवगण|प्राञ्च्|प्रांच्
 अवगण-पुं (४३५०)
 प्राञ्च्-पुं (४३५२)
 एकाकिन्यवगणोऽपि प्रागप्यादौ प्रकीर्तितम् ॥ १३० ॥
@@ -1862,7 +1862,7 @@
 <a href="https://yaahi.github.io/?cp=5&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=227" target="_blank">Correction</a>
 
-मध्यन्दिन|निरर्गल
+मध्यन्दिन|निरर्गल|मध्यंदिन|मध्यन्दिनः|निरर्गलः
 मध्यन्दिन-क्ली (४३५४)
 निरर्गल-क्ली (४३६६)
 मध्यमे मध्यन्दिनं च निरर्गलमनर्गले (१३१) ।
@@ -1870,14 +1870,14 @@
 <a href="https://yaahi.github.io/?cp=5&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=228" target="_blank">Correction</a>
 
-बहुरूप|पृथग्रूप|नानाविध
+बहुरूप|पृथग्रूप|नानाविध|बहुरूपः|नानाविधः
 बहुरूप-पुं, पृथग्रूप-पुं, नानाविध-पुं (४३७३)
 बहुरूपपृथग्रूपनानाविधाः पृथग्विधे ॥ १३१ ॥
 सामान्यकाण्डः
 <a href="https://yaahi.github.io/?cp=5&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=229" target="_blank">Correction</a>
 
-झम्प|छादित|अपिहित
+झम्प|छादित|अपिहित|झंप|झंपः|झम्पः|छादितः
 झम्प-पुं (४३७५)
 छादित-क्ली, अपिहित-क्ली (४३८१)
 झम्पा झम्पोऽप्यथ छन्ने छादितापिहिते अपि (१३२) ।
@@ -1885,7 +1885,7 @@
 <a href="https://yaahi.github.io/?cp=5&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=230" target="_blank">Correction</a>
 
-प्रादुष्कृत|असूक्षण|अवमानना|अवगणना
+प्रादुष्कृत|असूक्षण|अवमानना|अवगणना|असूक्षणं
 प्रादुष्कृत-क्ली (४३८९)
 असूक्षण-क्ली, अवमानना-स्त्री, अवगणना-स्त्री (४३९२)
 प्रकाशिते प्रादुष्कृतमवज्ञायामसूक्षणम् ॥ १३२ ॥
@@ -1894,7 +1894,7 @@
 <a href="https://yaahi.github.io/?cp=5&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=231" target="_blank">Correction</a>
 
-अन्दोलन|उदस्त
+अन्दोलन|उदस्त|अंदोलनं
 अन्दोलन-क्ली (४३९५)
 उदस्त-क्ली (४३९८)
 अन्दोलनमपि प्रेङ्खाऽथोदस्तमप्युदञ्चितम् ॥ १३३ ॥
@@ -1902,7 +1902,7 @@
 <a href="https://yaahi.github.io/?cp=5&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=232" target="_blank">Correction</a>
 
-भिद्|चोदित|कक्षीकृत|स्वीकृत|छात
+भिद्|चोदित|कक्षीकृत|स्वीकृत|छात|छातः
 भिद्-स्त्री (४४२२)
 चोदित-क्ली (४३९९)
 कक्षीकृत-क्ली, स्वीकृत-क्ली (४४२३)
@@ -1913,7 +1913,7 @@
 <a href="https://yaahi.github.io/?cp=5&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=233" target="_blank">Correction</a>
 
-विन्न|प्रस्मृत
+विन्न|प्रस्मृत|विन्नः
 विन्न-क्ली (४४२५)
 प्रस्मृत-क्ली (४४३८)
 प्राप्ते विन्नं विस्मृतं च भवेत्प्रस्मृतमित्यपि (१३५) ।
@@ -1921,7 +1921,7 @@
 <a href="https://yaahi.github.io/?cp=5&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=234" target="_blank">Correction</a>
 
-अटाटा|अट्या|आनुपूर्व्य
+अटाटा|अट्या|आनुपूर्व्य|आनुपूर्व्यं
 अटाटा-स्त्री, अट्या-स्त्री (४४५७)
 आनुपूर्व्य-क्ली (४४६५)
 अटाटाऽट्या पर्यटनमानुपूर्व्यमनुक्रमे ॥ १३५ ॥
@@ -1929,7 +1929,7 @@
 <a href="https://yaahi.github.io/?cp=5&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=235" target="_blank">Correction</a>
 
-परीरम्भ|उद्घात
+परीरम्भ|उद्घात|परीरंभ|परीरंभः|परीरम्भः|उद्घातः
 परीरम्भ-पुं (४४७१)
 उद्घात-पुं (४४७८)
 परीरम्भोऽपि संश्लेषे स्यादुद्घातोऽप्युपक्रमे (१३६) ।
@@ -1937,7 +1937,7 @@
 <a href="https://yaahi.github.io/?cp=5&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=236" target="_blank">Correction</a>
 
-जात|सङ्घर्ष|विकार|विकृति|समर्पण
+जात|सङ्घर्ष|विकार|विकृति|समर्पण|जातं|संघर्ष|संघर्षः|सङ्घर्षः|विकारः|विकृतिः|समर्पणं|समर्प्पण
 जात-क्ली (४४९२)
 सङ्घर्ष-पुं (४४९५)
 विकार-पुं, विकृति-स्त्री (४५०८)
@@ -1948,7 +1948,7 @@
 <a href="https://yaahi.github.io/?cp=5&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=237" target="_blank">Correction</a>
 
-समुपजोषम्|सर्वदा|सनत्|सनात्
+समुपजोषम्|सर्वदा|सनत्|सनात्|सर्व्वदा
 समुपजोषम्-अ (४५४४)
 सर्वदा-अ, सनत्-अ, सनात्-अ (४५५०)
 दिष्ट्या समुपजोषं सर्वदा सदा सनत् सनात् ॥ १३७ ॥
@@ -1956,7 +1956,7 @@
 <a href="https://yaahi.github.io/?cp=5&d=ACSJ" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=acsj&e=238" target="_blank">Correction</a>
 
-सु|अति|येन|तेन
+सु|अति|येन|तेन|तेनः
 सु-अ, अति-अ (४५६४)
 येन-अ, तेन-अ (४५७२)
 निर्भरे च स्वती हेतौ येन तेन च कीर्तितौ (१३८) ।

@@ -2,9 +2,9 @@
 #bookname=Personal-and-Geographical-Names-in-the-Gupta-Inscriptions (sa-en)
 #stripmethod=keep
 #sametypesequence=h
-#description=Data from https://www.sanskrit-lexicon.uni-koeln.de/ as on 2026-03-09
+#description=Data from https://www.sanskrit-lexicon.uni-koeln.de/ as on 2026-03-27
 
-गुप्त
+गुप्त|गुप्तं
 1. Gupta: (No. 1, L. 28; No. 21, L. 4; No. 22, L. 1; No. 47,
 L. 1; No. 49, L. 1; No. 50, L. 1; No. 51, L. 2, L. 4;
 No. 53, L. 1):
@@ -13,7 +13,7 @@ his name.
 <a href="https://yaahi.github.io/?cp=020&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=1" target="_blank">Correction</a>
 
-घटोत्कच
+घटोत्कच|घटोत्कचः
 2. Ghaṭotkaca: (No. 1, L. 28; No. 47, L. 1; No. 53, LL. 1-2;
 No. 46, L. 1; No. 49, L. 1; No. 50, L. 1; No 40, L. 3;
 No. 21, L. 4:
@@ -43,7 +43,7 @@ might have become his famous name.
 <a href="https://yaahi.github.io/?cp=020&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=2" target="_blank">Correction</a>
 
-चन्द्रगुप्त
+चन्द्रगुप्त|चन्द्रगुप्तः
 3. Candragupta I: (No. 47, L. 2; No. 53, L. 2; No. 40, L. 3;
 No. 21, L. 5; No. 1, L. 28; No. 30, L. 1):
 While his two predecessors are each given the title of
@@ -112,7 +112,7 @@ these are also supported by numismatic evidence.^68
 <a href="https://yaahi.github.io/?cp=021&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=4" target="_blank">Correction</a>
 
-चन्द्रगुप्त
+चन्द्रगुप्त|चन्द्रगुप्तः
 5. Candragupta II: (No. 30, L. 1, L. 2; No. 32, L. 2; No.
 47, L. 4; No. 3, L. 1; No. 7, L. 1; No. 6, L. 1; No. 7,
 L. 10; No. 46, L. 3; No. 53, L. 4; No. 42, L. 1; No. 47,
@@ -325,7 +325,7 @@ been given the title of Mahārājādhirāja.
 <a href="https://yaahi.github.io/?cp=027&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=13" target="_blank">Correction</a>
 
-विष्णुगुप्त
+विष्णुगुप्त|विष्णुगुप्तः
 14. Viṣṇugupta (No. 38, L. 4):
 Viṣṇugupta is mentioned here as a Paramabhāgavata and
 Mahārājādhirāja. He was the son and successor of Kumāra-
@@ -523,7 +523,7 @@ several names of the Solar deity.
 <a href="https://yaahi.github.io/?cp=031&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=23" target="_blank">Correction</a>
 
-गणपति
+गणपति|गणपतिः
 1. Gaṇapati (No. 1, L. 13):
 One of the kings said to have been uprooted by Samudragupta
 in northern India. The name violates the laws laid down by
@@ -541,7 +541,7 @@ ruled at Mathurā.^2
 <a href="https://yaahi.github.io/?cp=038&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=25" target="_blank">Correction</a>
 
-चन्द्रवर्मन्|चन्द्रवर्म्मन्
+चन्द्रवर्म्मन्|चन्द्रवर्मन्
 1. Candravarmman: (No. 1, L. 21):
 One of the kings of Āryyāvartta defeated by Samudragupta.
 The first part is Candra and second is ‘Varmma’ which is a
@@ -614,7 +614,7 @@ of Pṛthviṣeṇa I.
 <a href="https://yaahi.github.io/?cp=039&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=31" target="_blank">Correction</a>
 
-उग्रसेन
+उग्रसेन|उग्रसेनः
 3. Ugrasena (No. 1, L. 20):
 He is mentioned as a ruler of Pālakka during the reign of
 Samudragupta. Ugra meaning ‘powerful mighty or terrible’, is
@@ -624,7 +624,7 @@ asya, i.e. ‘having mighty army’.
 <a href="https://yaahi.github.io/?cp=040&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=32" target="_blank">Correction</a>
 
-प्रभाकर
+प्रभाकर|प्रभाकरः
 1. Prabhākara (No. 32, L. 8):
 He is described as a king (bhūmipati) and a destroyer of the
 enemies of the Gupta dynasty. He was the overlord of Datta-
@@ -784,7 +784,7 @@ is also mentioned in the Purāṇas.
 <a href="https://yaahi.github.io/?cp=042&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=45" target="_blank">Correction</a>
 
-देवराज
+देवराज|देवराजः
 1. Devarāja (No. 5, L. 7):
 Fleet fills up the lacuna^30 and takes Devarāja to be the
 name of an officer of Candragupta II.^31 But D.C. Sircar
@@ -882,7 +882,7 @@ king Bhānugupta. He was the founder of the Lakṣa lineage.
 <a href="https://yaahi.github.io/?cp=045&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=52" target="_blank">Correction</a>
 
-बलवर्मन्|बलवर्म्मन्
+बलवर्म्मन्|बलवर्मन्
 1. Balavarmman (No. 1, L. 21):
 One of the kings of Āryyāvartta said to have been forcefully
 uprooted by Samudragupta. The first part of the name is Bala
@@ -893,7 +893,7 @@ It is a name based on quality.
 <a href="https://yaahi.github.io/?cp=045&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=53" target="_blank">Correction</a>
 
-बन्धुवर्मन्|बन्धुवर्म्मन्
+बन्धुवर्म्मन्|बन्धुवर्मन्
 2. Bandhuvarmman (No. 17, L. 15, L. 16):
 Bandhuvarmman was the son of Viśvavarman. He was probably
 a feudatory chief, ruling at Dasapura, Mandasor in Western
@@ -924,7 +924,7 @@ god Śiva.
 <a href="https://yaahi.github.io/?cp=045&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=55" target="_blank">Correction</a>
 
-हस्तिवर्मन्|हस्तिवर्म्मन्
+हस्तिवर्म्मन्|हस्तिवर्मन्
 4. Hastivarmman (No. 1, L. 2):
 A king of Veṅgī in the time of Samudragupta and included in
 the list of the Dakṣiṇāpatha kings defeated by the latter. He
@@ -935,7 +935,7 @@ denotes fatness and valour.
 <a href="https://yaahi.github.io/?cp=045&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=56" target="_blank">Correction</a>
 
-विश्ववर्मन्|विश्ववर्म्मन्
+विश्ववर्म्मन्|विश्ववर्मन्
 5. Viśvavarmman (No. 17, L. 14):
 A ruler (Goptṛ) in the time of Kumāragupta I. Literally the
 name may mean ‘a protector of the world’. There is a second
@@ -945,7 +945,7 @@ is also the name of Viṣṇu-kṛṣṇa.
 <a href="https://yaahi.github.io/?cp=046&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=57" target="_blank">Correction</a>
 
-अच्युत
+अच्युत|अच्युतः
 1. Acyuta (No. 1, L. 13):
 It is the same as Acyutanandin mentioned in line 21.^46 It is
 the abbreviated form of the full name Acyutanandin where
@@ -968,7 +968,7 @@ mean the same.^50
 <a href="https://yaahi.github.io/?cp=046&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=59" target="_blank">Correction</a>
 
-दमन
+दमन|दमनं|दमनः
 3. Damana (No. 1, L. 19):
 A ruler of Eraṇḍapalla who was one of the Dakṣiṇāpatha kings
 conquered by Samudragupta. We get this name in the Mahā-
@@ -978,7 +978,7 @@ bhārata and the Purāṇas. Literally the word daman means
 <a href="https://yaahi.github.io/?cp=046&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=60" target="_blank">Correction</a>
 
-धनञ्जय
+धनञ्जय|धनंजय|धनंजयः|धनञ्जयः
 4. Dhanañjaya (No. 1, L. 20):
 A ruler of Kusthalapura and one of the Dakṣiṇāpatha kings
 defeated by Samudragupta. The name has some connection
@@ -989,7 +989,7 @@ acquires wealth’.
 <a href="https://yaahi.github.io/?cp=046&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=61" target="_blank">Correction</a>
 
-कुबेर
+कुबेर|कुबेरः
 5. Kubera (No. 1, L. 20):
 Ruler of Devarāṣṭra mentioned in the list of the kings of
 Dakṣiṇāpatha who were defeated by Samudragupta. According
@@ -1001,7 +1001,7 @@ Gṛhya-sūtras.^53
 <a href="https://yaahi.github.io/?cp=047&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=62" target="_blank">Correction</a>
 
-माधव
+माधव|माधवः
 6. Mādhava (No. 19, L. 3):
 Father of Goparāja, the feudatory of Bhānugupta; born of
 Lakṣa lineage. It is the name of Lord Kṛṣṇa given to this king
@@ -1039,7 +1039,7 @@ family title.
 <a href="https://yaahi.github.io/?cp=047&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=65" target="_blank">Correction</a>
 
-हरिषेण
+हरिषेण|हरिषेणः
 2. Hariṣeṇa (No. 1, L. 32):
 He is given several titles indicating offices held of a Khādya-
 ṭapākika,^58 a Sāndhivigrahika, a Kumārāmātya and a Mahāda-
@@ -1056,7 +1056,7 @@ their side by foregoing the Yādava army to the Kauravas.
 <a href="https://yaahi.github.io/?cp=048&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=66" target="_blank">Correction</a>
 
-वीरसेन
+वीरसेन|वीरसेनं|वीरसेनः
 3. Vīrasena (No. 6, L. 4):
 Hailing from Pāṭaliputra he was Candragupta II's minister
 for peace and war by hereditary right^60 and accompanied the
@@ -1108,7 +1108,7 @@ popular expression for Lord Kṛṣṇa.
 <a href="https://yaahi.github.io/?cp=049&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=70" target="_blank">Correction</a>
 
-हरिषेण
+हरिषेण|हरिषेणः
 4. Hariṣeṇa (No. 1, L. 32):
 He has been mentioned as a mahādaṇḍanāyaka in the Allaha-
 bad Pillar Inscription of Samudragupta. His name has already
@@ -1140,7 +1140,7 @@ name literally means ‘protected by the god of the wind’.
 <a href="https://yaahi.github.io/?cp=049&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=73" target="_blank">Correction</a>
 
-ब्रह्मदत्त
+ब्रह्मदत्त|ब्रह्मदत्तः
 1. Brahmadatta (No. 33, L. 2):
 An Uparika-mahārāja ruling over the Puṇḍravardhana-bhukti
 in the reign of Budhagupta. The name would literally mean,
@@ -1170,7 +1170,7 @@ grace of Kirāta’.
 <a href="https://yaahi.github.io/?cp=050&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=76" target="_blank">Correction</a>
 
-जयदत्त
+जयदत्त|जयदत्तः
 4. Jayadatta (No. 33, L. 3):
 It is the name of an Uparika-mahārāja in the reign of Budha-
 gupta. Jaya is the name of Arjuna (son of Pāṇḍu).^74 The
@@ -1249,7 +1249,7 @@ smṛtis the surname dāsa should be used for śūdras.^82
 <a href="https://yaahi.github.io/?cp=051&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=84" target="_blank">Correction</a>
 
-भामह
+भामह|भामहः
 2. Bhāmaha (No. 52, L. 17):
 He has been mentioned as a bhogika in this inscription. It was
 also the name of the author of the Alaṃkāra-śāstra and of the
@@ -1259,7 +1259,7 @@ splendour or brightness’.
 <a href="https://yaahi.github.io/?cp=051&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=85" target="_blank">Correction</a>
 
-चन्द्रगुप्त
+चन्द्रगुप्त|चन्द्रगुप्तः
 3. Candragupta (No. 40, L. 12):
 He is mentioned as a kumāra.^84 This name has already been
 explained among the names of the Gupta kings.
@@ -1364,7 +1364,7 @@ the goddess of wealth’.
 <a href="https://yaahi.github.io/?cp=056&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=96" target="_blank">Correction</a>
 
-वर्ग|वर्ग्ग
+वर्ग्ग|वर्ग|वर्गः
 7. Vargga, Vargga-grāmika (No. 46, L. 12, L. 15):
 He was the middle son of Hari-śreṣṭhin. In L. 12 he is men-
 tioned only as Vargga and in L. 15 as Vargga-grāmika. While
@@ -1405,7 +1405,7 @@ much in ancient Pali works.^11 It is a vaiśya name-ending.
 <a href="https://yaahi.github.io/?cp=057&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=100" target="_blank">Correction</a>
 
-भीम
+भीम|भीमं|भीमः
  Bhīma (No. 43, LL. 3; 17, 19, 25):
 It is a name based on the Epic tradition. Bhīma was the name
 of one of the five Pāṇḍavas in the Mahābhārata and literally
@@ -1443,7 +1443,7 @@ ending in the Pāṇinian period. It is a kṣatriya name-ending.
 <a href="https://yaahi.github.io/?cp=058&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=104" target="_blank">Correction</a>
 
-देवदत्त
+देवदत्त|देवदत्तः
 1. Devadatta (No. 43, L. 3):
 The first part of the name is deva and the second is datta, the
 whole meaning ‘given by the gods’. This name was very popu-
@@ -1459,7 +1459,7 @@ meaning ‘one who is a servant of Lord Kṛṣṇa’.
 <a href="https://yaahi.github.io/?cp=058&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=106" target="_blank">Correction</a>
 
-लक्ष्मण
+लक्ष्मण|लक्ष्मणं|लक्ष्मणः
 3. Lakṣmaṇa (No. 43, L. 3):
 It is a name based on the Epic tradition. Lakṣmaṇa was the
 younger brother of Rāma and his name literally means ‘endowed
@@ -1678,7 +1678,7 @@ as the family deity.^39
 <a href="https://yaahi.github.io/?cp=062&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=129" target="_blank">Correction</a>
 
-विरोचन
+विरोचन|विरोचनः
 2. Virocana (No. 28, L. 10):
 It is the name of the god Sun, literally meaning ‘illumina-
 ting’.^40 It is thus a case of the name of a god directly given
@@ -1694,7 +1694,7 @@ name quite frequently in ancient period.^42
 <a href="https://yaahi.github.io/?cp=062&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=131" target="_blank">Correction</a>
 
-गण्ड
+गण्ड|गंड|गंडः|गण्डः
 1. Gaṇḍa (No. 43, L. 4):
 According to lexicographers Gaṇḍa means ‘the chief; best,
 excellent’^43 and thus can signify a hero. The term is also used
@@ -1734,7 +1734,7 @@ and deva means ‘god’, the whole thus meaning ‘god Kārttikeya’.
 <a href="https://yaahi.github.io/?cp=063&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=135" target="_blank">Correction</a>
 
-प्रजापति
+प्रजापति|प्रजापतिः
 5. Prajāpati (No. 43, L. 4):
 Prajāpati means ‘lord of creatures’. It was originally applied
 to the supreme god and later on to Viṣṇu, Śiva and Brahmā.^49
@@ -1772,7 +1772,7 @@ has fame in the city’.
 <a href="https://yaahi.github.io/?cp=063&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=139" target="_blank">Correction</a>
 
-देवकीर्ति|देवकीर्त्ति
+देवकीर्त्ति|देवकीर्ति
 1. (De) vakīrtti (No. 29, L. 4):
 The first part is ‘Deva’ which means ‘god’ and the second part
 is kīrtti, meaning ‘fame’. The whole expression means ‘having
@@ -1780,7 +1780,7 @@ fame like that of the gods’.
 <a href="https://yaahi.github.io/?cp=063&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=140" target="_blank">Correction</a>
 
-देवशर्मन्|देवशर्म्मन्
+देवशर्म्मन्|देवशर्मन्
 2. Devaśarmman (No. 29, L. 5):
 The first part of the word ‘Deva’ means ‘god’ and the second
 part ‘śarmman’ is a name-ending added to the name of
@@ -1788,7 +1788,7 @@ brāhmaṇas as prescribed by the Dharmaśāstras.
 <a href="https://yaahi.github.io/?cp=063&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=141" target="_blank">Correction</a>
 
-गोपाल
+गोपाल|गोपालः
 3. Gopāla (No. 29, L. 5):
 Literally meaning one who tends or protects cows, is a synonym
 for Lord Kṛṣṇa. In this case also the name is against the rules
@@ -1803,7 +1803,7 @@ Literally it means ‘belonging to an assembly or society’.^52
 <a href="https://yaahi.github.io/?cp=064&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=143" target="_blank">Correction</a>
 
-काल
+काल|कालं|कालः
 5. Kāla (No. 29, L. 4):
 Kāla means time and as destroying all things, signifies death
 or time of death (often personified and represented with the
@@ -1837,14 +1837,14 @@ the word ‘kṣema’ in ancient Sanskrit literature.^59
 <a href="https://yaahi.github.io/?cp=064&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=146" target="_blank">Correction</a>
 
-पिङ्गल
+पिङ्गल|पिंगल|पिङ्गलं|पिङ्गलः
 8. Piṅgala (No. 29, L. 4):
 It is a one-word name based on colour and means ‘reddish-
 brown’, ‘yellow’ or ‘gold-coloured’.^60
 <a href="https://yaahi.github.io/?cp=064&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=147" target="_blank">Correction</a>
 
-राम
+राम|रामं|रामः
 9. Rāma (No. 29, L. 6):
 It is another one-word name. Here the name of Lord Rāma,
 the Epic hero, has been given directly to a person against the
@@ -1903,7 +1903,7 @@ on rhetoric.^67
 <a href="https://yaahi.github.io/?cp=065&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=153" target="_blank">Correction</a>
 
-वर्गपाल|वर्ग्गपाल
+वर्ग्गपाल|वर्गपाल
 15. Varggapāla (No. 29, L. 4):
 The first part is Vargga which means ‘a separate division,
 group, company, family, party’, literally meaning ‘one who
@@ -1920,7 +1920,7 @@ rally meaning ‘blessed by (god) Viṣṇu’.
 <a href="https://yaahi.github.io/?cp=065&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=155" target="_blank">Correction</a>
 
-विष्णु
+विष्णु|विष्णुः
 17...Viṣṇu (No. 29, L. 5):
 The first part is lost and the second part is viṣṇu. Viṣṇu was
 probably the family-god of this person.
@@ -1947,7 +1947,7 @@ plained among the names of Commanders
 <a href="https://yaahi.github.io/?cp=066&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=158" target="_blank">Correction</a>
 
-हरिषेण
+हरिषेण|हरिषेणः
 3. Hariṣeṇa^71 (No. 1, L. 32):
 The draft of the Allahabad Pillar Inscription of Samudragupta
 which is termed as a ‘kāvya’ was composed by Hariṣeṇa.^72
@@ -2008,7 +2008,7 @@ is bhaṭṭi which is a variation of bhaṭṭa. Bhaṭṭi is formed from
 <a href="https://yaahi.github.io/?cp=067&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=164" target="_blank">Correction</a>
 
-जीवन्त
+जीवन्त|जीवंत|जीवन्तः
 1. Jīvanta (No. 16, L. 8):
 He was the head of the guild of oilmen of Indrapura. Jīvanta
 is a one-word name. Literally it means ‘long-lived’,^81 which
@@ -2041,7 +2041,7 @@ Yakhila (Yakṣadatta), Saṃghila (Saṃghadatta).^85
 <a href="https://yaahi.github.io/?cp=067&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=167" target="_blank">Correction</a>
 
-विष्णु
+विष्णु|विष्णुः
 4. ...Viṣṇu (No. 29, L. 7):
 It is the name of some officer whose name appears to have the
 ending Viṣṇu who may have been his family-deity. The first
@@ -2128,7 +2128,7 @@ show devotion towards a particular deity.
 <a href="https://yaahi.github.io/?cp=072&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=177" target="_blank">Correction</a>
 
-जयदत्त
+जयदत्त|जयदत्तः
 2. Jayadatta (No. 43, L. 11):
 Jaya is the name of an attendant of Viṣṇu,^10 and datta means
 ‘given’. The whole will literally mean ‘given by Jaya’. It is a
@@ -2171,7 +2171,7 @@ name will literally mean ‘an auspicious god’.
 <a href="https://yaahi.github.io/?cp=073&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=182" target="_blank">Correction</a>
 
-हरिदेव
+हरिदेव|हरिदेवः
 3. Harideva (No. 30, L. 5):
 Hari is generally applied to Viṣṇu-Kṛṣṇa (in this sense thought
 by some to be derived from § hṛ ‘to take away or remove evil
@@ -2187,7 +2187,7 @@ find several authors with this name.^20
 <a href="https://yaahi.github.io/?cp=073&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=184" target="_blank">Correction</a>
 
-नरदेव
+नरदेव|नरदेवः
 5. Naradeva (No. 43, L. 11):
 It would literally mean ‘the god of men’ i.e. a king’. It has also
 been the name of an author.^21
@@ -2335,7 +2335,7 @@ names with the first part ‘Gupta’, e.g., Guptanātha, Gupte-
 <a href="https://yaahi.github.io/?cp=075&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=201" target="_blank">Correction</a>
 
-हरिशर्मन्|हरिशर्म्मन्
+हरिशर्म्मन्|हरिशर्मन्
 3. Hariśarmman (No. 43, L. 7):
 Hari means lord Viṣṇu or Kṛṣṇa. We have also such names
 as Viṣṇuśarman and Śivaśarman where the first part is
@@ -2375,7 +2375,7 @@ by causing increase in descent (by his birth)’.
 <a href="https://yaahi.github.io/?cp=076&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=205" target="_blank">Correction</a>
 
-लक्ष्मणशर्मन्|लक्ष्मणशर्म्मन्
+लक्ष्मणशर्म्मन्|लक्ष्मणशर्मन्
 7. Lakṣmaṇaśarmman (No. 43, L. 8):
 The name is based on Lakṣmaṇa, the younger brother of deity
 Rāma. The word Śarman here has the significance of a sur-
@@ -2418,7 +2418,7 @@ Literally it would mean ‘one who is white-coloured’.
 <a href="https://yaahi.github.io/?cp=077&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=210" target="_blank">Correction</a>
 
-सुशर्मन्|सुशर्म्मन्
+सुशर्म्मन्|सुशर्मन्
 12. Suśarmman (No. 43, L. 7):
 ‘Su’ is generally prefixed before names. It means ‘good or ex-
 cellent’. The whole will literally signify ‘one who is good’.
@@ -2547,21 +2547,21 @@ Yaśas means fame or glory. The whole would literally mean
 <a href="https://yaahi.github.io/?cp=078&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=225" target="_blank">Correction</a>
 
-अच्युत
+अच्युत|अच्युतः
 1. Acyuta (No. 43, L. 11):
 Acyuta literally meaning ‘not fallen’, i.e. permanent, solid,
 firm, imperishable is the name of Lord Viṣṇu or Kṛṣṇa.^57
 <a href="https://yaahi.github.io/?cp=070&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=225.1" target="_blank">Correction</a>
 
-भास्कर
+भास्कर|भास्करं|भास्करः
 2. Bhāskara (No 44, L. 3; L. 9; L. 14; L. 16):
 Literally meaning ‘one who produces the rays of light’.
 Bhāskara is the name of God Sun.^58
 <a href="https://yaahi.github.io/?cp=079&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=226" target="_blank">Correction</a>
 
-भव
+भव|भवं|भवः
 3. Bhava (No. 43, L. 11):
 Literally meaning ‘coming into existence’, Bhava is the name
 of Lord Śiva. It also means ‘the world’.^59
@@ -2586,14 +2586,14 @@ Madhya Pradesh where the inhabitants are called Bundelas.
 <a href="https://yaahi.github.io/?cp=079&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=229" target="_blank">Correction</a>
 
-गोपाल
+गोपाल|गोपालः
 6. Gopāla (No. 43, L. 12):
 Gopāla literally meaning ‘the protector or foster of the cows’
 is the name of Lord Viṣṇu or Kṛṣṇa
 <a href="https://yaahi.github.io/?cp=079&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=230" target="_blank">Correction</a>
 
-गुह
+गुह|गुहः
 7. Guha (No. 43, L. 10):
 Guha is the name of Skanda or Kārttikeya, Lord Śiva, Lord
 Viṣṇu.^63 According to Monier Williams, it is a name belonging
@@ -2602,14 +2602,14 @@ whether Guha was a writers’ caste in the Gupta period.
 <a href="https://yaahi.github.io/?cp=079&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=231" target="_blank">Correction</a>
 
-हरि
+हरि|हरिः
 8. Hari (No. 43, L. 7):
 Hari is the name of Lord Viṣṇu or Kṛṣṇa. It is to be derived
 from § hṛ, ‘to take away or remove evil or sin’.^65
 <a href="https://yaahi.github.io/?cp=079&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=232" target="_blank">Correction</a>
 
-कालक
+कालक|कालकं|कालकः
 9. Kālaka (No. 43, L. 11):
 It means dark-blue or black.^66. It as a name based on
 colour.^67 We have several cases of names with the word
@@ -2650,7 +2650,7 @@ Mahīdāsa, Mahīdatta, Prthivīkumāra, etc.
 <a href="https://yaahi.github.io/?cp=080&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=236" target="_blank">Correction</a>
 
-नाभक
+नाभक|नाभकः
 13. Nābhaka (No. 33, L. 4, L. 8):
 The name is formed with the addition of suffix ‘ka’ to nābha
 or nābhi meaning navel.^74 Literally it means ‘navel born’.
@@ -2660,14 +2660,14 @@ sprung from the navel of Viṣṇu.
 <a href="https://yaahi.github.io/?cp=080&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=237" target="_blank">Correction</a>
 
-पुरन्दर|पुरंदर
+पुरंदर|पुरन्दर|पुरन्दरं|पुरंदरः|पुरन्दरः
 14. Puraṃdara (No. 43, L. 9):
 Literally meaning ‘destroyer of strongholds’, Puraṃdara is the
 name of Indra, the lord of the gods.^75
 <a href="https://yaahi.github.io/?cp=080&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=238" target="_blank">Correction</a>
 
-शङ्कर|शंकर
+शंकर|शङ्कर|शङ्करः
 15. Śaṃkara (No. 43, L. 9):
 Literally meaning ‘causing prosperity’, Saṃkara is the name
 of Lord Śiva.^76.
@@ -2705,7 +2705,7 @@ added. We have similar names such as ‘Kedāranātha’ meaning
 <a href="https://yaahi.github.io/?cp=081&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=242" target="_blank">Correction</a>
 
-विश्व
+विश्व|विश्वं|विश्वः
 19. Viśva (No. 43, L. 9):
 Formed from the § viś to pervade, it means all-pervading or
 all containing, omnipresent. It is applied to Viṣṇu or Kṛṣṇa.^86
@@ -2761,7 +2761,7 @@ the attainment of the glory of god Kārttikeya is reflected here.
 <a href="https://yaahi.github.io/?cp=082&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=248" target="_blank">Correction</a>
 
-महासेन
+महासेन|महासेनः
 6. Mahāsena (No. 43, L. 7):
 Mahāsena seems to have been used for Kārttikeya. Literally
 meaning having a great army or the commander of a large
@@ -2812,7 +2812,7 @@ the surname of kṣatriyas.
 <a href="https://yaahi.github.io/?cp=082&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=254" target="_blank">Correction</a>
 
-कपिल
+कपिल|कपिलः
 4. Kapila (No. 33, L. 8):
 He is described as a merchant but he also acted as a scribe.
 The name is based on colour and is probably to be connected
@@ -2915,7 +2915,7 @@ ing to Vājasaneyacaraṇa and versed in the four Vedas.
 <a href="https://yaahi.github.io/?cp=088&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=264" target="_blank">Correction</a>
 
-नागशर्मन्|नागशर्म्मन्
+नागशर्म्मन्|नागशर्मन्
 1. Nāgaśarmman (No. 29, L. 3):
 The first part is Nāga based on the Nāga or serpent-demon.
 The second part śarmman (or śarman) is a brāhmaṇa surname.
@@ -2931,7 +2931,7 @@ a brāhmaṇa surname. Nātha is the name of several authors.^5
 <a href="https://yaahi.github.io/?cp=088&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=266" target="_blank">Correction</a>
 
-शिवशर्मन्|शिवशर्म्मन्
+शिवशर्म्मन्|शिवशर्मन्
 3. Śivaśarmman (No. 29, L. 3):
 The first part is the name of god Siva and the second is
 śarmman.
@@ -2974,7 +2974,7 @@ amṛtam devo'sya. He was an inhabitant of Ayodhyā.
 <a href="https://yaahi.github.io/?cp=089&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=270" target="_blank">Correction</a>
 
-देव
+देव|देवं|देवः
 2. Deva (No. 16, L. 5):
 It is an abbreviated name without any surname. Literally it
 means ‘god, heavenly, divine’ (also said of terrestrial things of
@@ -3062,7 +3062,7 @@ Indrapura.
 <a href="https://yaahi.github.io/?cp=091&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=274" target="_blank">Correction</a>
 
-कर्पटिक|कर्प्पटिक
+कर्प्पटिक|कर्पटिक|कर्पटिकः
 6. Karppaṭika^25 (No. 34, L. 6):
 The inscription records the purchase of land measuring one
 kulyavāpa by a brāhmaṇa, named Karppatika, for the purpose
@@ -3073,7 +3073,7 @@ Both the meanings may be applied here.
 <a href="https://yaahi.github.io/?cp=091&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=275" target="_blank">Correction</a>
 
-त्रैविद्य
+त्रैविद्य|त्रैविद्यं|त्रैविद्यः
 7. Traividya (No. 40, L. 8; L. 9):
 His real name which occurs in L. 6 of the inscription was
 ‘Jayabhaṭṭisvāmin’. He was also known as Traividya The term
@@ -3094,7 +3094,7 @@ to be built.
 <a href="https://yaahi.github.io/?cp=091&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=277" target="_blank">Correction</a>
 
-भद्र
+भद्र|भद्रं|भद्रः
 2. Bhadra (No. 22, L. 4):
 It is the name of a Jaina Ācārya. Literally it means ‘blessed,
 auspicious, fortunate, prosperous, happy’. Bhadra is also the
@@ -3191,7 +3191,7 @@ Māheśvara cult and has been mentioned as Bhagavān Kapila.
 <a href="https://yaahi.github.io/?cp=093&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=286" target="_blank">Correction</a>
 
-कुशिक
+कुशिक|कुशिकः
 11. Kuśika (No. 41, L. 5):
 He is described as one of the pupils of Lakulin (Nakulin in
 the Vāyu Purāṇa), an incarnation of Maheśvara.^38 It is an
@@ -3202,7 +3202,7 @@ bhagavān prefixed to it.
 <a href="https://yaahi.github.io/?cp=093&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=287" target="_blank">Correction</a>
 
-मद्र
+मद्र|मद्रः
 12. Madra (No. 15, L. 8):
 He was a follower of Jaina cult full of affection for brāhmaṇas
 and religious preceptors and ascetics and set up five stone
@@ -3217,7 +3217,7 @@ Literally it means ‘joy’.^42
 <a href="https://yaahi.github.io/?cp=093&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=288" target="_blank">Correction</a>
 
-पराशर
+पराशर|पराशरः
 13. Parāśara (No. 41, L. 6):
 He is mentioned as an ācārya of the Māheśvara cult. The epi-
 thet ‘Bhāgavan’ has been prefixed to his name. Literally
@@ -3227,7 +3227,7 @@ Vṛkṣāyurveda and Dharmaśāstra.
 <a href="https://yaahi.github.io/?cp=093&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=289" target="_blank">Correction</a>
 
-पार्श्व
+पार्श्व|पार्श्वं|पार्श्वः
 14. Pārśva (No. 22, L. 3):
 The name has its origins in Pārśva or Pārśvanātha; the best of
 the Jinas. It is the name of the 23rd Arhat of the present
@@ -3244,7 +3244,7 @@ the names of two deities Rudra and Soma.
 <a href="https://yaahi.github.io/?cp=094&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=291" target="_blank">Correction</a>
 
-शङ्कर|शंकर
+शंकर|शङ्कर|शङ्करः
 16. Śaṃkara (No. 22, L. 6):
 It is the name of a Jaina monk^46, who installed an image
 of Pārśvanātha. Literally meaning ‘causing prosperity’, it is
@@ -3311,7 +3311,7 @@ parison, i.e., very high or perfect’. Upamita was one of the
 <a href="https://yaahi.github.io/?cp=095&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=297" target="_blank">Correction</a>
 
-बलि
+बलि|बलिः
 1. Bali (No. 14, L. 2):
 The reference to Bali comes in connection with the praise of
 Lord Viṣṇu.^57 Literally meaning ‘one who is powerful or
@@ -3330,7 +3330,7 @@ as early as in the Viṣṇusūkta of the Ṛgveda.^60
 <a href="https://yaahi.github.io/?cp=096&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=298" target="_blank">Correction</a>
 
-बुद्ध
+बुद्ध|बुद्धः
 2. Buddha (No. 23, LL. 6-7):
 He has been given the epithet ‘The Divine’ (Bhagavān Buddha).
 He is mentioned in connection with a Buddhist temple. Literally
@@ -3350,7 +3350,7 @@ and was called the Buddha or the enlightened.^62
 <a href="https://yaahi.github.io/?cp=096&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=299" target="_blank">Correction</a>
 
-कृष्ण
+कृष्ण|कृष्णं|कृष्णः
 3. Kṛṣṇa (No. 13, L. 13):
 It is a name based on colour, meaning black-dark, dark-blue.
 “Vasudeva, a descendant of Yadu and Yayāti, had by his
@@ -3364,7 +3364,7 @@ Kaṃsa had returned to his mother Devakī.^64
 <a href="https://yaahi.github.io/?cp=097&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=300" target="_blank">Correction</a>
 
-पार्थ
+पार्थ|पार्थः
 4. Pārtha (No. 17, L. 14; No. 19, L. 5):
 In No. 17, king Viśvavarman is compared with Pārtha in
 (heroic) deeds of war. In No. 19 Bhānugupta is described as
@@ -3375,7 +3375,7 @@ and father of Abhimanyu.^65
 <a href="https://yaahi.github.io/?cp=097&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=301" target="_blank">Correction</a>
 
-पृथु
+पृथु|पृथुः
 5. Pṛthu (No. 2, LL. 7-8):
 Samudragupta is stated to have surpassed the kings like
 Pṛthu and Rāghava in giving gold. Literally Pṛthu means
@@ -3395,7 +3395,7 @@ vas, and Siddhas playing on different musical instruments.^68
 <a href="https://yaahi.github.io/?cp=097&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=302" target="_blank">Correction</a>
 
-राघव
+राघव|राघवः
 6. Rāghava (No. 2, L. 8):
 Samudragupta is mentioned to have surpassed the kings like
 Pṛthu and Rāghava in giving gold.^69 Rāghava literally means
@@ -3405,7 +3405,7 @@ it refers to Rāma and Lakṣmaṇa.^71
 <a href="https://yaahi.github.io/?cp=097&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=303" target="_blank">Correction</a>
 
-सगर
+सगर|सगरः
 7. Sagara (No. 36, L. 12; No. 37, L. 21):
 He is mentioned in these inscriptions as a donor of lands.^72
 Literally Sagara means ‘containing poison or poisonous’
@@ -3421,7 +3421,7 @@ remains; this was finally accomplished by Bhagīratha.^73
 <a href="https://yaahi.github.io/?cp=098&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=304" target="_blank">Correction</a>
 
-व्यास
+व्यास|व्यासः
 8. Vyāsa (No. 28, L. 21; No. 29, L. 14; No. 36, L. 15; No.
 43, L. 30; No. 44, L. 21; No. 52, LL. 11-12):
 Vyāsa has been mentioned as Bhagavān (venerable) Vyāsa in
@@ -3447,7 +3447,7 @@ being born on an island (dvīpa).’
 <a href="https://yaahi.github.io/?cp=098&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=305" target="_blank">Correction</a>
 
-युधिष्ठिर
+युधिष्ठिर|युधिष्ठिरः
 9. Yudhiṣṭhira (No. 28, L. 24; No. 29, L. 16; No. 35, L. 12;
 No. 36, L. 17; No. 43, L. 33; No. 44, L. 24; No. 52,
 L. 14):
@@ -3561,7 +3561,7 @@ is considered a mark of beauty.^17
 <a href="https://yaahi.github.io/?cp=104&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=313" target="_blank">Correction</a>
 
-आभीर
+आभीर|आभीरः
 1. Ābhīra (No. 1, L. 22):
 They were one of the tribes subdued by Samudragupta.
 Ābhīras lived to the north of the Rajaputana desert. We may
@@ -3818,7 +3818,7 @@ has been used for Buddha in one of our inscriptions^106
 <a href="https://yaahi.github.io/?cp=129&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=317" target="_blank">Correction</a>
 
-हूण
+हूण|हूणः
 5. Hūṇa (No. 13, L. 15):
 They are mentioned in the Bhītarī Stone Pillar Inscription
 of Skandagupta in which Skandagupta (A.D. 455 — 467) is
@@ -4446,7 +4446,7 @@ Dharmapāla in the 9th century A.D.^291
 <a href="https://yaahi.github.io/?cp=143&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=324" target="_blank">Correction</a>
 
-मालव
+मालव|मालवः
 12. Mālava (No. 1, L. 22; No. 17, L. 19; No. 32, L. 11):
 We know Mālava as a tribe which was subjugated along with
 some other tribes by Samudragupta (No. 1). No. 17 refers to the
@@ -4564,7 +4564,7 @@ also in Gujarat, Madhya Pradesh and Uttar Pradesh.^331
 <a href="https://yaahi.github.io/?cp=146&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=325" target="_blank">Correction</a>
 
-म्लेच्छ
+म्लेच्छ|म्लेच्छं|म्लेच्छः|म्लेछ
 13. Mleccha (No. 14, L. 4):
 According to Sircar^332 Fleet conjectures the reading to be
 Mleccha. The last few letters in line 4 after ‘ni’ are not legible.
@@ -4936,7 +4936,7 @@ Sanskrit ‘sādhu’.^433
 <a href="https://yaahi.github.io/?cp=158&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=331" target="_blank">Correction</a>
 
-सैंहलक
+सैंहलक|सैंहलकः
 19. Saiṃhalaka (No. 1, L. 23):
 Inhabitants of Siṃhala or Ceylon. They are mentioned along
 with the Daivaputras, Ṣāhis, Ṣāhānuṣāhis, Śakas and Muruṇḍas,
@@ -5066,7 +5066,7 @@ kingdom of Siṃhapura mentioned by Hiuen Tsang.
 <a href="https://yaahi.github.io/?cp=158&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=332" target="_blank">Correction</a>
 
-शक
+शक|शकः
 20. Śaka (No. 1, L. 23):
 One of the tribes which is said to have paid homage to
 Samudragupta. As we have already discussed in connexion
@@ -5277,7 +5277,7 @@ culture.
 <a href="https://yaahi.github.io/?cp=166&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=334" target="_blank">Correction</a>
 
-वाह्लिक
+वाह्लिक|वाह्लिकं|वाह्लिकः
 22. Vāhlika (No. 20, L. 2):
 The Meharaulī Pillar Inscription (No. 20) describes the dig-
 vijaya of a king named Candra (i. e. Candragupta II) in the
@@ -5445,7 +5445,7 @@ Muhammadan power.^580
 <a href="https://yaahi.github.io/?cp=170&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=337" target="_blank">Correction</a>
 
-यौधेय
+यौधेय|यौधेयः
 23. Yaudheya (No. 1, L. 22):
 The Yaudheyas are included among the tribes subjugated by
 Samudragupta. In his time, they seem to have occupied north-
@@ -5626,7 +5626,7 @@ of the Yūpa
 <a href="https://yaahi.github.io/?cp=171&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=338" target="_blank">Correction</a>
 
-राष्ट्र
+राष्ट्र|राष्ट्रं
  Rāṣṭra^1 (from §rāj):
 It is the oldest and biggest territorial term. In the Ṛgveda^2
 and later Saṃhitās,^3 it denotes ‘kingdom’ or ‘royal territory’.
@@ -5697,7 +5697,7 @@ country of the Nāgas’.
 <a href="https://yaahi.github.io/?cp=210&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=340" target="_blank">Correction</a>
 
-सुराष्ट्र
+सुराष्ट्र|सुराष्ट्रः
 3. Surāṣṭra (No. 14, L. 8, L. 9):
 In L. 8 Surāṣṭra is used in plural^25 while in L. 9 it is an adjective
 of avani (land).^26 In this inscription great importance has been
@@ -5735,7 +5735,7 @@ Place-names ending in Bhukti
 <a href="https://yaahi.github.io/?cp=210&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=341" target="_blank">Correction</a>
 
-भुक्ति
+भुक्ति|भुक्तिः
  Bhukti (from §bhuj)
 Literally it means ‘enjoyment’ or possession.^43 Bhukti
 denoted an administrative division smaller than a modern
@@ -5806,7 +5806,7 @@ Place-names ending in Viṣaya
 <a href="https://yaahi.github.io/?cp=211&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=342" target="_blank">Correction</a>
 
-विषय
+विषय|विषयः
  Viṣaya
 According to Monier Williams it means a dominion, king-
 dom, territory, region, district, country, or abode and in plural
@@ -5916,7 +5916,7 @@ Khusaspāra. Banerji gives the reading ‘Mahā-khuṣāpāra.^106
 <a href="https://yaahi.github.io/?cp=215&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=345" target="_blank">Correction</a>
 
-कोटिवर्ष
+कोटिवर्ष|कोटिवर्षं
 3. Koṭivarṣa (No. 34, L. 3; No. 35, L. 3; No. 36, L. 3; No. 37, L. 3):
 It has been described as a viṣaya under Puṇḍravardhana-bhukti.
 This reference clearly shows that the size of a viṣaya was small-
@@ -6013,7 +6013,7 @@ sometimes also written as Krimi.^138
 <a href="https://yaahi.github.io/?cp=217&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=347" target="_blank">Correction</a>
 
-लाट
+लाट|लाटः
 5. Lāṭa^139 (No. 17, L. 3)
 The district or viṣaya of Lāṭa is here described as “pleasing
 with choice trees that are bowed down by the weight of (their)
@@ -6056,7 +6056,7 @@ Place-names ending in Maṇḍala
 <a href="https://yaahi.github.io/?cp=219&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=349" target="_blank">Correction</a>
 
-मण्डल
+मण्डल|मंडल|मण्डलं|मण्डलः
  Maṇḍala
 Maṇḍala is a territorial unit which is found in the inscriptions
 of many dynasties of the early medieval period. Originally it
@@ -6097,7 +6097,7 @@ Place-names with the suffix Pradeśa
 <a href="https://yaahi.github.io/?cp=219&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=352" target="_blank">Correction</a>
 
-प्रदेश
+प्रदेश|प्रदेशः
  Pradeśa
 Fleet translates it as ‘place’^161 but the term has a speci-
 fic use as an administrative division. Here it connotes a divi-
@@ -6157,7 +6157,7 @@ Place-names ending in Deśa
 <a href="https://yaahi.github.io/?cp=220&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=354" target="_blank">Correction</a>
 
-देश
+देश|देशः
  Deśa
 It means a province, country, kingdom.^178 Sometimes it is
 used as a technical territorial term. But its exact meaning
@@ -6175,7 +6175,7 @@ Upaniṣad and Sūtra period denoting therein the meaning
 <a href="https://yaahi.github.io/?cp=221&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=355" target="_blank">Correction</a>
 
-म्लेच्छदेश
+म्लेच्छदेश|म्लेच्छदेशः
 1. Mleccha-deśa (No. 14, L. 4):
 There is a mention of the Mleccha countries in the Junāgaṛh
 Rock Inscription of Skandagupta (No. 14). But the record
@@ -6191,7 +6191,7 @@ Place-names ending in Rājya
 <a href="https://yaahi.github.io/?cp=221&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=357" target="_blank">Correction</a>
 
-राज्य
+राज्य|राज्यं
  Rājya
 Rājya means a kingdom, country, realm (= rāṣṭra).^183
 In the Vedic period the term ‘Rājya’ regularly denoted
@@ -6216,7 +6216,7 @@ Place-names ending in Vīthi
 <a href="https://yaahi.github.io/?cp=222&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=359" target="_blank">Correction</a>
 
-वीथि
+वीथि|वीथिः
  Vīthi
 It is spelt both as vīthi and vīthī and means a row,
 line, road, way or street.^188 But in the inscription it has been
@@ -6237,7 +6237,7 @@ Place-names with the suffix Patha
 <a href="https://yaahi.github.io/?cp=222&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=361" target="_blank">Correction</a>
 
-पथ
+पथ|पथः
  Patha (footpath)
 ‘Patha’ in Zend. The sanskrit spelling (th) is loaned from
 Iran. Greek relatives are patos (path) and pontos (mariners'
@@ -6392,7 +6392,7 @@ It is the name of Indrapura. See Indrapura.
 <a href="https://yaahi.github.io/?cp=226&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=367" target="_blank">Correction</a>
 
-दशपुर
+दशपुर|दशपुरं
 (3) Daśapura (No. 17, L. 4, L. 16):
 In this inscription L. 4 refers to the migration of a guild of silk-
 weavers from Lāṭa viṣaya (Central and Southern Gujarat) to
@@ -6720,7 +6720,7 @@ Place-names ending in the Suffix Nagara
 <a href="https://yaahi.github.io/?cp=233&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=374" target="_blank">Correction</a>
 
-नगर
+नगर|नगरं
  Nagara:
 Nagara means a town, a city.^335 we find the term being
 used by Pāṇini (IV. 2. 142).^336 The word Nāgaraka (or
@@ -6777,7 +6777,7 @@ ed as ‘nauyoga’ or harbour.
 <a href="https://yaahi.github.io/?cp=235&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=377" target="_blank">Correction</a>
 
-चूडामणि
+चूडामणि|चूडामणिः
 1. Cūḍāmaṇi^346 (No. 52, L. 28):
 Literally meaning ‘a jewel worn by men and women on the top
 of the head’ it denotes ‘the best or most excellent’.^347 Com-
@@ -6805,7 +6805,7 @@ Place-names ending in Kaṭaka
 <a href="https://yaahi.github.io/?cp=235&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=380" target="_blank">Correction</a>
 
-कटक
+कटक|कटकं|कटकः
  Kaṭaka:
 It is formed from the root §kaṭ to surround, to encompass,
 to cover and means a ‘royal camp’.^350
@@ -6821,7 +6821,7 @@ Place-names ending in Vāsaka
 <a href="https://yaahi.github.io/?cp=235&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=381" target="_blank">Correction</a>
 
-वासक
+वासक|वासकः
  Vāsaka:
 It means an abode or inhabitation.^353 An inhabitation can be
 big or small. In referring to a big inhabitation it denotes a city.
@@ -6926,7 +6926,7 @@ will literally mean ‘an inhabitation of God’.
 <a href="https://yaahi.github.io/?cp=238&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=385" target="_blank">Correction</a>
 
-वन
+वन|वनं
  Place-names ending in Vana
 We find some place-names with the suffix denoting forest, for
 example Vindhyāṭavī, and Vṛndāvana. In our inscriptions we
@@ -6979,7 +6979,7 @@ Place-names ending in Grāma
 <a href="https://yaahi.github.io/?cp=239&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=389" target="_blank">Correction</a>
 
-ग्राम
+ग्राम|ग्रामः
  Grāma:
 It means an inhabited place, village, hamlet.^383 It seems
 that firstly the word grāma denoted the collective inhabi-
@@ -7156,7 +7156,7 @@ named after a person named Jambūdeva.^423
 <a href="https://yaahi.github.io/?cp=242&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=399" target="_blank">Correction</a>
 
-ककुभ
+ककुभ|ककुभः
 10. Kakubha (No. 15, L. 5):
 Inscription No. 15 informs us that five stone images of Ādikar-
 tṛis or Tīrthaṃkaras were set up by Madra at the village of
@@ -7375,7 +7375,7 @@ Place-names ending in Pārśvika
 <a href="https://yaahi.github.io/?cp=246&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=415" target="_blank">Correction</a>
 
-पार्श्विक
+पार्श्विक|पार्श्विकं|पार्श्विकः
  Pārśvika
 It means belonging to the side.^471 This suffix signifies the
 geographical situation of the locality with reference to another
@@ -7396,7 +7396,7 @@ Place-names ending in Pāṭaka
 <a href="https://yaahi.github.io/?cp=247&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=417" target="_blank">Correction</a>
 
-पाटक
+पाटक|पाटकः
  Pāṭaka
 Literally meaning ‘a splitter or divider’ it means the
 half or any part, or a kind of village.^473 Pāṭaka is also the
@@ -7436,7 +7436,7 @@ Place-names ending in Vihāra
 <a href="https://yaahi.github.io/?cp=247&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=421" target="_blank">Correction</a>
 
-विहार
+विहार|विहारः
  Vihāra
 Literally vihāra means ‘a place of recreation or pleasure-
 ground’. With Buddhists or Jains it means a monastery
@@ -7462,7 +7462,7 @@ Place-names ending in Kṣetra
 <a href="https://yaahi.github.io/?cp=248&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=423" target="_blank">Correction</a>
 
-क्षेत्र
+क्षेत्र|क्षेत्रं
  Kṣetra
 Originally meaning an agricultural field, in which sense its
 use survives, kṣetra came to be used as a place-name suffix
@@ -7758,7 +7758,7 @@ district where we still find a place called Doboka.^538
 <a href="https://yaahi.github.io/?cp=253&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=446" target="_blank">Correction</a>
 
-कामरूप
+कामरूप|कामरूपः
 3. Kāmarūpa (No. I, L. 22):
 It has been mentioned as one of the frontier states which were
 subordinate to Samudragupta and whose emperors paid him
@@ -7802,7 +7802,7 @@ the beginning of the 19th century.^553
 <a href="https://yaahi.github.io/?cp=253&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=447" target="_blank">Correction</a>
 
-काञ्ची
+काञ्ची|कांची
 4. Kāñcī (No. I, L. 19):
 The earliest epigraphic mention of Kāñcī is to be found in this
 inscription. The inscription refers to Viṣṇugopa of Kāñcī as
@@ -7911,7 +7911,7 @@ is believed to get emancipation.^595
 <a href="https://yaahi.github.io/?cp=256&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=449" target="_blank">Correction</a>
 
-कोसल
+कोसल|कोसलः
 6. Kosala (No. 1, L. 19):
 It is spelt both ways with the dental as well as with the palatal
 sibilant. It is included in the list of the Dakṣiṇāpatha kingdoms
@@ -7970,7 +7970,7 @@ accepted view is to identify it with Kothoor in Ganjam.
 <a href="https://yaahi.github.io/?cp=258&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=451" target="_blank">Correction</a>
 
-कुराल
+कुराल|कुरालः
 8. Kurāla (No. I, L. 19):
 It has been mentioned as one of the kingdoms of Dakṣiṇāpatha
 subdued by Samudragupta. Its ruler was Maṇṭarāja. Fleet
@@ -7993,7 +7993,7 @@ the Oriyas.
 <a href="https://yaahi.github.io/?cp=258&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=452" target="_blank">Correction</a>
 
-नेपाल
+नेपाल|नेपालः
 9. Nepāla (No. I, L. 22):
 It is mentioned as one of the border states which accepted the
 subordination of Samudragupta. Some take it to refer to
@@ -8040,7 +8040,7 @@ perhaps situated to the west of Kāñcī on the Eastern Ghāṭs.^638
 <a href="https://yaahi.github.io/?cp=259&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=454" target="_blank">Correction</a>
 
-प्रत्यन्त
+प्रत्यन्त|प्रत्यंत|प्रत्यन्तः
 11. Pratyanta (No. 1, L. 22):
 It is mentioned in Inscription No. 1 that the kings of frontier
 (or border) states ‘Samataṭa, Ḍavāka, Kāmarūpa, Nepāla and
@@ -8183,7 +8183,7 @@ have been in the form of rivulets or streams or hillocks.
 <a href="https://yaahi.github.io/?cp=262&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=463" target="_blank">Correction</a>
 
-आर्यावर्त|आर्यावर्त्त
+आर्यावर्त्त|आर्यावर्त|आर्य्यावर्त्त|आर्य्यावर्त्तः
 1. Āryāvartta (No. 1, L. 12):
 Samudragupta is stated to have violently exterminated many
 kings of Āryāvarta such as Rudradeva, Matila, Nāgadatta,
@@ -8294,7 +8294,7 @@ Bhilsa, and full of ancient monuments.^709
 <a href="https://yaahi.github.io/?cp=265&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=465" target="_blank">Correction</a>
 
-उत्तरकुरु
+उत्तरकुरु|उत्तरकुरुः
 3. Uttara Kuru (No. 22, L. 7):
 A person named Śaṃkara is described in the inscription as
 born in the region of the north, the best of countries, which
@@ -8310,7 +8310,7 @@ only a mythical or legendary existence.
 <a href="https://yaahi.github.io/?cp=265&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=466" target="_blank">Correction</a>
 
-वङ्ग
+वङ्ग|वंग|वङ्गं|वङ्गः
 4. Vaṅga (No. 20, L. I):
 In this inscription, king Candra, “on whose arm fame was
 inscribed by the sword, when in battle in Vaṅga countries, is
@@ -8379,7 +8379,7 @@ Brahmaputra.^744
 <a href="https://yaahi.github.io/?cp=266&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=467" target="_blank">Correction</a>
 
-गङ्गा
+गङ्गा|गंगा
 1. Gaṅgā (No. 1, L. 31, No. 13, L. 16):
 In Inscription No. 1 Samudragupta's fame has been compared
 with the pale yellow water of the river Gaṅgā, which travelling
@@ -8432,7 +8432,7 @@ Viṣaya mentioned in the Nālandā plate of Dharmapāladeva.^17
 <a href="https://yaahi.github.io/?cp=294&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=470" target="_blank">Correction</a>
 
-कालिन्दी
+कालिन्दी|कालिंदी
 4. Kālindī (No. 18 L. 3):
 According to the inscription in the reign of Budhagupta, his
 feudatory, Mahārāja Suraśmicandra was governing the country
@@ -8447,7 +8447,7 @@ of Māga.^22
 <a href="https://yaahi.github.io/?cp=294&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=471" target="_blank">Correction</a>
 
-नर्मदा
+नर्मदा|नर्म्मदा
 5. Narmadā (No. 18, L. 3):
 The above-mentioned inscription describes reign of Mahārāja
 Suraśmicandra, a feudatory of Budhagupta, as governing over
@@ -8524,7 +8524,7 @@ gold.^49
 <a href="https://yaahi.github.io/?cp=295&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=475" target="_blank">Correction</a>
 
-सिन्धु
+सिन्धु|सिंधु|सिंधुः|सिन्धुः
 9. Sindhu (No. 20, L. 2):
 The river is mentioned in connexion with the description of
 the victories of king Candra who is said to have conquered the
@@ -8561,7 +8561,7 @@ and not the tributaries individually as suggested by Vogel.
 <a href="https://yaahi.github.io/?cp=296&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=476" target="_blank">Correction</a>
 
-सुदर्शन
+सुदर्शन|सुदर्शनं|सुदर्शनः
 10. Sudarśana (No. 14, L. 15: L. 17):
 It is the name of a lake situated at some distance from
 Girinagara as mentioned in the Junāgaṛh Rock Inscription of
@@ -8632,7 +8632,7 @@ it is supposed to be the habitat of Śiva and Pārvatī.^83
 <a href="https://yaahi.github.io/?cp=298&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=480" target="_blank">Correction</a>
 
-रैवतक
+रैवतक|रैवतकं|रैवतकः
 2. Raivataka (No. 14, L. 16) (the same as Ūrajayat see
 Ūrjayat):
 Raivataka is also mentioned in the Ādi-Parvan of the Mahā-
@@ -8653,7 +8653,7 @@ one at the mountain Raivataka.
 <a href="https://yaahi.github.io/?cp=298&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=481" target="_blank">Correction</a>
 
-सुमेरु
+सुमेरु|सुमेरुः
 3. Sumeru (No. 17, L. 13, No. 32, L. 15):
 In No. 17 the mountain Sumeru is described as one of the
 breasts of the earth (the other being Kailāśa) and the Gupta
@@ -8680,7 +8680,7 @@ pericarp.^100
 <a href="https://yaahi.github.io/?cp=298&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=482" target="_blank">Correction</a>
 
-ऊर्जयत्
+ऊर्जयत्|ऊर्जयन्त्
 4. Ūrjayat (No. 14, L. 16):
 The poet here draws a picture: the lake Sudarśana looked
 like the sea^101 and the rivers Palāśinī, (Suvarṇasikatā), etc.,
@@ -8714,7 +8714,7 @@ meaning of Ūrjayat is strong, powerful, eminent.^113
 <a href="https://yaahi.github.io/?cp=299&d=PGN" target="_blank">PDF</a>
 <a href="https://yaahi.github.io/?d=pgn&e=483" target="_blank">Correction</a>
 
-विष्णुपद
+विष्णुपद|विष्णुपदं
 5. Viṣṇupada (No. 20, L. 6):
 We know from the inscription that a lofty standard of the
 divine Viṣṇu was set up on the hill called Viṣṇupada.^114 Liter-

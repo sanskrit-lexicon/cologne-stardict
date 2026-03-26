@@ -90,8 +90,8 @@ def process_block(block_lines, dictId, production, hwnormlist):
     for w in headwords:
         if (w, dictId.upper()) in hwnormlist:
             alts = hwnormlist[(w, dictId.upper())]
-            for a in alts[1:]:
-                if a not in seen_slp1:
+            for a in alts:
+                if a != w and a not in seen_slp1:
                     hwline_parts.append(convert_word(a))
                     seen_slp1.add(a)
     hwline = "|".join(hwline_parts)

@@ -98,7 +98,11 @@ if __name__ == "__main__":
                 else:
                     althws = []
                 if (key1, dictId.upper()) in hwnormlist:
-                    possibleheadings = hwnormlist[(key1, dictId.upper())]
+                    alts = hwnormlist[(key1, dictId.upper())]
+                    possibleheadings = [key1]
+                    for a in alts:
+                        if a != key1 and a not in possibleheadings:
+                            possibleheadings.append(a)
                 else:
                     possibleheadings = [key1]
                 seen = set(possibleheadings)
