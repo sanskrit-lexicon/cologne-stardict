@@ -15,7 +15,7 @@ def timestamp():
 
 
 # Function to read normalized headwords (hwnorm1c.txt) into a dict
-# Returns a dict with headword as key and the list of associated headwords as value.
+# Returns a dict with (headword, dict_code) as key and list of all alternate headwords as value.
 def readhwnorm1c():
     fin = codecs.open('input/hwnorm1c.txt', 'r', 'utf-8')
     lines = fin.readlines()
@@ -23,16 +23,17 @@ def readhwnorm1c():
     for line in lines:
         line = line.strip()
         chunks = line.split(';')
-        words = []
         if len(chunks) > 1:
             baseword = chunks[0].split(':')[0]
+            base_dicts = chunks[0].split(':')[-1].split(',')
+            all_alternates = [baseword]
             for chunk in chunks[1:]:
                 worddictsep = chunk.split(':')
                 word = worddictsep[0]
-                dicts = worddictsep[-1].split(',')
-                if not baseword == word:
-                    result = [baseword, word]
-                    output[word] = (result, dicts)
+                if word != baseword:
+                    all_alternates.append(word)
+            for d in base_dicts:
+                output[(baseword, d)] = all_alternates
     return output
 
 

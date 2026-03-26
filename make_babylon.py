@@ -97,8 +97,8 @@ if __name__ == "__main__":
                     althws = altlist[l]
                 else:
                     althws = []
-                if key1 in hwnormlist and (dictId.upper() in hwnormlist[key1][1]):
-                    possibleheadings = hwnormlist[key1][0]
+                if (key1, dictId.upper()) in hwnormlist:
+                    possibleheadings = hwnormlist[(key1, dictId.upper())]
                 else:
                     possibleheadings = [key1]
                 possibleheadings += althws
