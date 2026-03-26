@@ -15,7 +15,8 @@ def timestamp():
 
 
 # Function to read normalized headwords (hwnorm1c.txt) into a dict
-# Returns a dict with (headword, dict_code) as key and list of all alternate headwords as value.
+# Returns a dict with (headword, dict_code) as key and list of alternate headwords as value.
+# For each baseword, includes all alternates from all chunks for dictionaries that have the baseword.
 def readhwnorm1c():
     fin = codecs.open('input/hwnorm1c.txt', 'r', 'utf-8')
     lines = fin.readlines()
@@ -28,8 +29,7 @@ def readhwnorm1c():
             base_dicts = chunks[0].split(':')[-1].split(',')
             all_alternates = [baseword]
             for chunk in chunks[1:]:
-                worddictsep = chunk.split(':')
-                word = worddictsep[0]
+                word = chunk.split(':')[0]
                 if word != baseword:
                     all_alternates.append(word)
             for d in base_dicts:
@@ -57,11 +57,11 @@ def read_hwextra(dictId):
 
 def applyaccent(line, dictId):
     if dictId in ['pw', 'pwg']:
-        line = re.sub('([^0-9 ])\^', '\g<1>॑', line)
-        line = re.sub('([^0-9 ])/', '\g<1>꣫', line)
+        line = re.sub(r'([^0-9 ])\^', r'\g<1>॑', line)
+        line = re.sub(r'([^0-9 ])/', r'\g<1>꣫', line)
         line = line.replace("\\", "॒")
     else:
-        line = re.sub('([^0-9 ])/', '\g<1>॑', line)
+        line = re.sub(r'([^0-9 ])/', r'\g<1>॑', line)
     return line
 
 
