@@ -18,6 +18,9 @@ import params
 from parseheadline import parseheadline
 from dictdata import dictdata
 
+print("Reading hwnorm1.")
+hwnormlist = utils.readhwnorm1c()
+
 scheme_map = SchemeMap(SCHEMES['slp1'], SCHEMES['devanagari'])
 
 def to_deva(text):
@@ -25,7 +28,7 @@ def to_deva(text):
     deva_text = deva_text.translate(str.maketrans('0123456789', '०१२३४५६७८९'))
     return deva_text
 
-def process_block(block_lines, dictId, production):
+def process_block(block_lines, dictId, production, hwnormlist):
     headwords = []
     syns_lines = []
     other_lines = []
@@ -73,7 +76,25 @@ def process_block(block_lines, dictId, production):
     if not headwords:
         return ""
         
-    hwline = "|".join(to_deva(w) for w in headwords)
+    def convert_word(w):
+        if dictId not in ['ae', 'mwe', 'bor']:
+            return to_deva(w)
+        return w
+    
+    hwline_parts = []
+    seen_slp1 = set()
+    for w in headwords:
+        if w not in seen_slp1:
+            hwline_parts.append(convert_word(w))
+            seen_slp1.add(w)
+    for w in headwords:
+        if (w, dictId.upper()) in hwnormlist:
+            alts = hwnormlist[(w, dictId.upper())]
+            for a in alts[1:]:
+                if a not in seen_slp1:
+                    hwline_parts.append(convert_word(a))
+                    seen_slp1.add(a)
+    hwline = "|".join(hwline_parts)
     out_lines = []
     out_lines.extend(syns_lines)
     out_lines.extend(other_lines)
@@ -121,7 +142,7 @@ if __name__ == "__main__":
         elif lin.startswith('<LEND>'):
             in_entry = False
             current_block.append(lin)
-            result = process_block(current_block, dictId, production)
+            result = process_block(current_block, dictId, production, hwnormlist)
             if result:
                 fout.write(result)
             current_block = []

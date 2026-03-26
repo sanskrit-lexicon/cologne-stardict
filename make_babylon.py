@@ -101,7 +101,11 @@ if __name__ == "__main__":
                     possibleheadings = hwnormlist[(key1, dictId.upper())]
                 else:
                     possibleheadings = [key1]
-                possibleheadings += althws
+                seen = set(possibleheadings)
+                for a in althws:
+                    if a not in seen:
+                        possibleheadings.append(a)
+                        seen.add(a)
                 if dictId not in ['ae', 'mwe', 'bor']:
                     k1s = '|'.join([transliterate(head, scheme_map=scheme_map) for head in possibleheadings])
                 else:

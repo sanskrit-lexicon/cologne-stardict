@@ -3,3 +3,4 @@ log.txt
 *.pyc
 output/pd.babylon
 production/pd.babylon
+.DS_Store
