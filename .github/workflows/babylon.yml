@@ -14,10 +14,6 @@ jobs:
         sudo apt update
         sudo apt install -y stardict-tools
     
-    - name: Generate production dictionary
-      run: |
-        python3 make_babylon.py snp 1
-    
     - name: Test babylon file
       run: |
         babylon production/snp.babylon stardict/
