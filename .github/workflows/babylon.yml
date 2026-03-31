@@ -7,7 +7,11 @@ jobs:
     runs-on: ubuntu-latest
     
     steps:
-    - uses: actions/checkout@v3
+    - uses: actions/checkout@v4
+      with:
+        sparse-checkout: |
+          production/snp.babylon
+        sparse-checkout-cone-mode: false
     
     - name: Install stardict-tools
       run: |
@@ -16,7 +20,7 @@ jobs:
     
     - name: Test babylon file
       run: |
-        babylon production/snp.babylon stardict/
+        /usr/lib/stardict-tools/babylon production/snp.babylon stardict/
     
     - name: Show stardict folder contents
       run: |
