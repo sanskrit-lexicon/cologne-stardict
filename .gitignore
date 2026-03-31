@@ -4,3 +4,4 @@ log.txt
 output/pd.babylon
 production/pd.babylon
 .DS_Store
+stardict/*
