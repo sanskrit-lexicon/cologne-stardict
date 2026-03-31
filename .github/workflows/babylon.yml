@@ -7,15 +7,13 @@ jobs:
     runs-on: ubuntu-latest
     
     steps:
-    - uses: actions/checkout@v4
-      with:
-        sparse-checkout: |
-          production/snp.babylon
-        sparse-checkout-cone-mode: false
+    - name: Download babylon file
+      run: |
+        mkdir -p production stardict
+        curl -o production/snp.babylon https://raw.githubusercontent.com/sanskrit-lexicon/cologne-stardict/refs/heads/master/production/snp.babylon
     
     - name: Install stardict-tools
       run: |
-        sudo apt update
         sudo apt install -y stardict-tools
     
     - name: Test babylon file
