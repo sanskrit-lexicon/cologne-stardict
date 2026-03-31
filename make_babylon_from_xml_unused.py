@@ -8,7 +8,6 @@ python make_babylon.py md 1
 """
 from __future__ import print_function
 import re
-import codecs
 import sys
 import os
 from xml.etree import ElementTree as ET
@@ -24,7 +23,7 @@ def timestamp():
 # Function to read normalized headwords (hwnorm1c.txt) into a dict
 # Returns a dict with headword as key and the list of associated headwords as value.
 def readhwnorm1c():
-    fin = codecs.open('input/hwnorm1c.txt', 'r', 'utf-8')
+    fin = open('input/hwnorm1c.txt', 'r', encoding='utf-8')
     lines = fin.readlines()
     output = {}
     for line in lines:
@@ -44,7 +43,7 @@ def readhwnorm1c():
 
 
 def licencetext(dictId):
-    fin = codecs.open('../' + dictId + '/pywork/' + dictId + 'header.xml', 'r', 'utf-8')
+    fin = open('../' + dictId + '/pywork/' + dictId + 'header.xml', 'r', encoding='utf-8')
     data = fin.read()
     fin.close()
     return data
@@ -96,9 +95,9 @@ if __name__ == "__main__":
     entry = tree.findall("./*/body")
 
     if production == '0':
-        outputfile = codecs.open('output/' + dictId + '.babylon', 'w', 'utf-8')
+        outputfile = open('output/' + dictId + '.babylon', 'w', encoding='utf-8')
     elif production == '1':
-        outputfile = codecs.open('production/' + dictId + '.babylon', 'w', 'utf-8')
+        outputfile = open('production/' + dictId + '.babylon', 'w', encoding='utf-8')
 
     # Write licence text
     # outputfile.write('LICENCE.xml\n')

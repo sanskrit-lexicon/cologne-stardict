@@ -8,7 +8,6 @@ python3 make_babylon.py md 1
 """
 from __future__ import print_function
 import re
-import codecs
 import sys
 import os
 import datetime
@@ -23,12 +22,12 @@ if __name__ == "__main__":
     dictId = sys.argv[1]
     production = sys.argv[2]
     inputfile = os.path.join('..', 'csl-orig', 'v02', dictId, dictId + '.txt')
-    fin = codecs.open(inputfile, 'r', 'utf-8')
+    fin = open(inputfile, 'r', encoding='utf-8')
     if production == '0':
         outputfile = os.path.join('output', dictId + '.babylon')
     elif production == '1':
         outputfile = os.path.join('production', dictId + '.babylon')
-    fout = codecs.open(outputfile, 'w', 'utf-8')
+    fout = open(outputfile, 'w', encoding='utf-8')
     fout.write('\n#bookname=' + dictdata[dictId][0] + ' (' + dictdata[dictId][1] + ')\n')
     fout.write('#stripmethod=keep\n#sametypesequence=h\n')
     current_date = datetime.date.today()

@@ -1,5 +1,4 @@
 import datetime
-import codecs
 import re
 import os
 from collections import defaultdict
@@ -18,7 +17,7 @@ def timestamp():
 # Returns a dict with (headword, dict_code) as key and list of alternate headwords as value.
 # For each baseword, includes all alternates from all chunks for dictionaries that have the baseword.
 def readhwnorm1c():
-    fin = codecs.open('input/hwnorm1c.txt', 'r', 'utf-8')
+    fin = open('input/hwnorm1c.txt', 'r', encoding='utf-8')
     lines = fin.readlines()
     output = {}
     for line in lines:
@@ -43,7 +42,7 @@ def readhwnorm1c():
 
 
 def licencetext(dictId):
-    fin = codecs.open('../' + dictId + '/pywork/' + dictId + 'header.xml', 'r', 'utf-8')
+    fin = open('../' + dictId + '/pywork/' + dictId + 'header.xml', 'r', encoding='utf-8')
     data = fin.read()
     fin.close()
     return data
@@ -51,7 +50,7 @@ def licencetext(dictId):
 
 def read_hwextra(dictId):
     filein = os.path.join('..', 'csl-orig', 'v02', dictId, dictId + '_hwextra.txt')
-    fin = codecs.open(filein, 'r', 'utf-8')
+    fin = open(filein, 'r', encoding='utf-8')
     result = defaultdict(list)
     for lin in fin:
         meta = parseheadline(lin)
