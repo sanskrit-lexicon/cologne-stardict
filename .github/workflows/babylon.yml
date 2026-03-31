@@ -14,11 +14,11 @@ jobs:
     
     - name: Install pyglossary
       run: |
-        pip install pyglossary
+        pip install pyglossary lxml
     
     - name: Convert babylon to stardict
       run: |
-        pyglossary --read-format=Babylon production/snp.babylon stardict/snp.ifo
+        pyglossary --read-format=BGL production/snp.babylon stardict/snp.ifo
     
     - name: Show stardict folder contents
       run: |
