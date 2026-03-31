@@ -12,13 +12,13 @@ jobs:
         mkdir -p production stardict
         curl -o production/snp.babylon https://raw.githubusercontent.com/sanskrit-lexicon/cologne-stardict/refs/heads/master/production/snp.babylon
     
-    - name: Install stardict-tools
+    - name: Install pyglossary
       run: |
-        sudo apt install -y stardict-tools
+        pip install pyglossary
     
-    - name: Test babylon file
+    - name: Convert babylon to stardict
       run: |
-        /usr/lib/stardict-tools/babylon production/snp.babylon stardict/
+        pyglossary production/snp.babylon stardict/snp.ifo
     
     - name: Show stardict folder contents
       run: |
