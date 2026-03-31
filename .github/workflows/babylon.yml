@@ -23,3 +23,5 @@ jobs:
     - name: Show stardict folder contents
       run: |
         ls -la stardict/
+        cat stardict/stardict.ifo
+        
