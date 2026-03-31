@@ -10,7 +10,7 @@ jobs:
     - name: Download babylon file
       run: |
         mkdir -p production stardict
-        curl -o production/snp.babylon https://raw.githubusercontent.com/sanskrit-lexicon/cologne-stardict/refs/heads/master/production/snp.babylon
+        curl -o production/snp.bgl https://raw.githubusercontent.com/sanskrit-lexicon/cologne-stardict/refs/heads/master/production/snp.babylon
     
     - name: Install pyglossary
       run: |
@@ -18,7 +18,7 @@ jobs:
     
     - name: Convert babylon to stardict
       run: |
-        pyglossary --read-format=BGL production/snp.babylon stardict/snp.ifo
+        pyglossary production/snp.bgl stardict/snp.ifo
     
     - name: Show stardict folder contents
       run: |
