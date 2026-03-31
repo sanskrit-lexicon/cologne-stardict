@@ -72,16 +72,16 @@ def applyaccent(line, dictId):
 
 def scanlink(dictId, pc):
 	# https://github.com/sanskrit-lexicon/cologne-stardict/issues/33#issuecomment-1036415566
-	# https://yaahi.github.io/?cp=0001-a&d=MW72
-    url = 'https://yaahi.github.io/?cp=' + pc + '&d=' + dictId.upper()
-    return url
+	# https://dub.sh/cslp?dict=MW72&page=0001-a
+     url = 'https://dub.sh/cslp?dict=' + dictId.upper() + '&page=' + pc
+     return url
 
 
 def correctionlink(dictId, lnum):
 	# https://github.com/sanskrit-lexicon/cologne-stardict/issues/33#issuecomment-1038606969
-	# https://yaahi.github.io/?d=mw&e=2
-    url = 'https://yaahi.github.io/?d=' + dictId + '&e=' + lnum
-    return url
+	# https://dub.sh/cslc?dict=SNP
+     url = 'https://dub.sh/cslc?dict=' + dictId
+     return url
 
 
 def devaconvert(line, dictId):
