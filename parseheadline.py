@@ -8,14 +8,14 @@
 from __future__ import print_function
 import sys
 import re
-# Make code python2, python3 compatible.
 if sys.version_info[0] > 2:
     xrange = range
 
+HEADLINE_SPLIT_PATTERN = re.compile('[<]([^>]*)[>]([^<]*)')
+
 def parseheadline(headline):
-	"""<L>16850<pc>292-3<k1>visarga<k2>visarga<h>1<e>2"""
 	headline = headline.strip()
-	splits = re.split('[<]([^>]*)[>]([^<]*)',headline)
+	splits = HEADLINE_SPLIT_PATTERN.split(headline)
         #print(splits)
 	result = {}
 	for i in xrange(len(splits)):

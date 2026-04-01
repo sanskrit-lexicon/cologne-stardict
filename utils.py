@@ -2,20 +2,99 @@ import datetime
 import re
 import os
 from collections import defaultdict
-from indic_transliteration.sanscript import transliterate, SchemeMap, SCHEMES
+from functools import lru_cache
+from indic_transliteration.sanscript import transliterate, SchemeMap, SCHEMES, _get_scheme_map
 import params
 from parseheadline import parseheadline
 
 slp1_map = SchemeMap(SCHEMES['slp1_accented'], SCHEMES['devanagari'])
 iast_map = SchemeMap(SCHEMES['iast'], SCHEMES['devanagari'])
-# Function to return timestamp
-def timestamp():
-    return datetime.datetime.now()
+
+ACCENT_CARET_PATTERN = re.compile(r'([^0-9 ])\^')
+ACCENT_SLASH_PATTERN = re.compile(r'([^0-9 ])/')
+BACKSLASH_PATTERN = re.compile(r'\\')
+
+DEVANAGARI_TEXT_PATTERN = re.compile(r'{#(.*?)#}')
+DEVANAGARI_PATTERN_CACHE = {}
+
+devaconvert_cache = {}
+_slp1_transliterate_cache = {}
+_iast_transliterate_cache = {}
 
 
-# Function to read normalized headwords (hwnorm1c.txt) into a dict
-# Returns a dict with (headword, dict_code) as key and list of alternate headwords as value.
-# For each baseword, includes all alternates from all chunks for dictionaries that have the baseword.
+def _cached_transliterate(text, scheme_map):
+    if scheme_map is slp1_map:
+        if text not in _slp1_transliterate_cache:
+            _slp1_transliterate_cache[text] = transliterate(text, scheme_map=slp1_map)
+        return _slp1_transliterate_cache[text]
+    elif scheme_map is iast_map:
+        if text not in _iast_transliterate_cache:
+            _iast_transliterate_cache[text] = transliterate(text, scheme_map=iast_map)
+        return _iast_transliterate_cache[text]
+    return transliterate(text, scheme_map=scheme_map)
+
+
+def applyaccent(line, dictId):
+    if dictId in ['pw', 'pwg']:
+        line = ACCENT_CARET_PATTERN.sub(r'\g<1>॑', line)
+        line = ACCENT_SLASH_PATTERN.sub(r'\g<1>꣫', line)
+        line = BACKSLASH_PATTERN.sub("॒", line)
+    else:
+        line = ACCENT_SLASH_PATTERN.sub(r'\g<1>॑', line)
+    return line
+
+
+def scanlink(dictId, pc):
+    url = 'https://dub.sh/cslp?dict=' + dictId.upper() + '&page=' + pc
+    return url
+
+
+def correctionlink(dictId, lnum):
+    url = 'https://dub.sh/cslc?dict=' + dictId
+    return url
+
+
+def devaconvert(line, dictId):
+    cache_key = (line, dictId)
+    if cache_key in devaconvert_cache:
+        return devaconvert_cache[cache_key]
+    
+    result = line
+    
+    if dictId in ['armh', 'skd', 'vcp']:
+        result = _cached_transliterate(result, slp1_map)
+    elif dictId not in params.devaparams:
+        sanskrittexts = DEVANAGARI_TEXT_PATTERN.findall(result)
+        for san in sanskrittexts:
+            sanrep = applyaccent(san, dictId)
+            sanrep = _cached_transliterate(sanrep, slp1_map)
+            result = result.replace('{#' + san + '#}', sanrep)
+    else:
+        for (startreg, endreg, intran) in params.devaparams[dictId]:
+            if (startreg, endreg) not in DEVANAGARI_PATTERN_CACHE:
+                DEVANAGARI_PATTERN_CACHE[(startreg, endreg)] = re.compile(startreg + '(.*?)' + endreg)
+            pattern = DEVANAGARI_PATTERN_CACHE[(startreg, endreg)]
+            sanskrittexts = pattern.findall(result)
+            for san in sanskrittexts:
+                if intran == 'iast':
+                    san1 = san.lower()
+                else:
+                    san1 = san
+                sanrep = applyaccent(san1, dictId)
+                if intran == 'iast':
+                    sanrep = _cached_transliterate(sanrep, iast_map)
+                else:
+                    sanrep = _cached_transliterate(sanrep, slp1_map)
+                result = result.replace(startreg+ san + endreg, sanrep)
+    result = result.replace('<div n="1"', '\n<div n="1"')
+    result = result.replace('<div n="2"', '\n\t<div n="2"')
+    result = result.replace('<div n="3"', '\n\t\t<div n="3"')
+    result = result.replace('<div n="4"', '\n\t\t\t<div n="4"')
+    
+    devaconvert_cache[cache_key] = result
+    return result
+
+
 def readhwnorm1c():
     fin = open('input/hwnorm1c.txt', 'r', encoding='utf-8')
     lines = fin.readlines()
@@ -38,14 +117,8 @@ def readhwnorm1c():
                 alt_dicts = chunk.split(':')[-1].split(',')
                 for d in alt_dicts:
                     output[(alt_word, d)] = all_alternates
-    return output
-
-
-def licencetext(dictId):
-    fin = open('../' + dictId + '/pywork/' + dictId + 'header.xml', 'r', encoding='utf-8')
-    data = fin.read()
     fin.close()
-    return data
+    return output
 
 
 def read_hwextra(dictId):
@@ -56,59 +129,5 @@ def read_hwextra(dictId):
         meta = parseheadline(lin)
         if 'LP' in meta:
             result[meta['LP']].append(meta['k1'])
+    fin.close()
     return result
-    
-
-def applyaccent(line, dictId):
-    if dictId in ['pw', 'pwg']:
-        line = re.sub(r'([^0-9 ])\^', r'\g<1>॑', line)
-        line = re.sub(r'([^0-9 ])/', r'\g<1>꣫', line)
-        line = line.replace("\\", "॒")
-    else:
-        line = re.sub(r'([^0-9 ])/', r'\g<1>॑', line)
-    return line
-
-
-def scanlink(dictId, pc):
-	# https://github.com/sanskrit-lexicon/cologne-stardict/issues/33#issuecomment-1036415566
-	# https://dub.sh/cslp?dict=MW72&page=0001-a
-     url = 'https://dub.sh/cslp?dict=' + dictId.upper() + '&page=' + pc
-     return url
-
-
-def correctionlink(dictId, lnum):
-	# https://github.com/sanskrit-lexicon/cologne-stardict/issues/33#issuecomment-1038606969
-	# https://dub.sh/cslc?dict=SNP
-     url = 'https://dub.sh/cslc?dict=' + dictId
-     return url
-
-
-def devaconvert(line, dictId):
-    if dictId in ['armh', 'skd', 'vcp']:
-            line = transliterate(line, scheme_map=slp1_map)
-    elif dictId not in params.devaparams:
-        sanskrittexts = re.findall('{#(.*?)#}', line)
-        for san in sanskrittexts:
-            sanrep = applyaccent(san, dictId)
-            sanrep = transliterate(sanrep, scheme_map=slp1_map)
-            line = line.replace('{#' + san + '#}', sanrep)
-    else:
-        for (startreg, endreg, intran) in params.devaparams[dictId]:
-            sanskrittexts = re.findall(startreg + '(.*?)' + endreg, line)
-            for san in sanskrittexts:
-                if intran == 'iast':
-                    san1 = san.lower()
-                else:
-                    san1 = san
-                sanrep = applyaccent(san1, dictId)
-                if intran == 'iast':
-                    sanrep = transliterate(sanrep, scheme_map=iast_map)
-                else:
-                    sanrep = transliterate(sanrep, scheme_map=slp1_map)
-                line = line.replace(startreg+ san + endreg, sanrep)
-    line = line.replace('<div n="1"', '\n<div n="1"')
-    line = line.replace('<div n="2"', '\n\t<div n="2"')
-    line = line.replace('<div n="3"', '\n\t\t<div n="3"')
-    line = line.replace('<div n="4"', '\n\t\t\t<div n="4"')
-    return line
-    
