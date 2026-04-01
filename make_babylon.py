@@ -80,11 +80,11 @@ if __name__ == "__main__":
             result = re.sub('\n$', '', result)
             result = re.sub(r'([(ं०१२३४५६७८९ ]+)꣡', r'\g<1>/', result)
             # https://github.com/indic-dict/stardict-sanskrit/issues/193
+            result = result.replace('{%', '<i>')
+            result = result.replace('%}', '</i>')
             if dictId == 'ap':
                 result = result.replace('∙²', '—')
                 result = result.replace('∙³', '——')
-                result = result.replace('{%', '')
-                result = result.replace('%}', '')
             if production == '1':
                 result = result.replace('\n', '<BR>')
             fout.write(result)
