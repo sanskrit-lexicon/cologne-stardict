@@ -113,7 +113,6 @@ def _devaconvert_normal(line, dictId):
     result = result.replace('<div n="3"', '\n\t\t<div n="3"')
     result = result.replace('<div n="4"', '\n\t\t\t<div n="4"')
     
-    devaconvert_cache[cache_key] = result
     return result
 
 
