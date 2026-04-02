@@ -188,11 +188,11 @@ def _process_entry(entry, dictId, hwnormlist, altlist, dict_lbody):
             break
     
     result = re.sub(r'(\W)oM(\W)', r'\g<1>ॐ\g<2>', result)
-    result = re.sub(r'\[Page([^\]]+)(?:\+[^\]]*)?\]', lambda m: f'\x01PAGEXXX{m.group(1)}PAGEXXX', result)
+    result = re.sub(r'\[Page([^+]+)(?:\+([^\]]*))?\]', lambda m: f'\x01PAGEXXX{m.group(1)}{"+" + m.group(2) if m.group(2) else ""}PAGEXXX', result)
     result = utils.devaconvert(result, dictId)
     result = re.sub('<sup>([0-9]+)</sup>', r'^\g<1>', result)
     result = re.sub('<.*?>', '', result)
-    result = re.sub(r'\x01PAGEXXX([^\x01PAGEXXX]+)PAGEXXX', lambda m: f'[<a href="https://dub.sh/cslp?dict={dictId.upper()}&page={m.group(1)}" target="_blank">Page{m.group(1)}</a>]', result)
+    result = re.sub(r'\x01PAGEXXX([^+\x01PAGEXXX]+)(\+[^\x01PAGEXXX]+)?PAGEXXX', lambda m: f'[<a href="https://dub.sh/cslp?dict={dictId.upper()}&page={m.group(1)}" target="_blank">Page{m.group(1)}{m.group(2) or ""}</a>]', result)
     result = re.sub('[ ]+', ' ', result)
     linkurl = utils.scanlink(dictId, pc)
     result += '<a href="' + linkurl + '" target="_blank">PDF</a>\n'
