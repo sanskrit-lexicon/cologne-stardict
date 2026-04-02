@@ -62,10 +62,30 @@ def devaconvert(line, dictId):
     result = line
     
     if dictId in ['armh', 'skd', 'vcp']:
-        result = result.replace('|', '\x00')
-        result = _cached_transliterate(result, slp1_map)
-        result = result.replace('\x00', '|')
-    elif dictId not in params.devaparams:
+        result = devaconvert_protect_pages(line, dictId)
+    else:
+        result = _devaconvert_normal(line, dictId)
+    
+    devaconvert_cache[cache_key] = result
+    return result
+
+
+def devaconvert_protect_pages(line, dictId):
+    page_pattern = re.compile(r'(\[Page[^\]]+?(?:\+[^\]]*)?\])')
+    parts = page_pattern.split(line)
+    result_parts = []
+    for i, part in enumerate(parts):
+        if i % 2 == 0:
+            part = part.replace('|', '\x00')
+            part = _cached_transliterate(part, slp1_map)
+            part = part.replace('\x00', '|')
+        result_parts.append(part)
+    return ''.join(result_parts)
+
+
+def _devaconvert_normal(line, dictId):
+    result = line
+    if dictId not in params.devaparams:
         sanskrittexts = DEVANAGARI_TEXT_PATTERN.findall(result)
         for san in sanskrittexts:
             sanrep = applyaccent(san, dictId)
