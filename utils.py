@@ -62,7 +62,9 @@ def devaconvert(line, dictId):
     result = line
     
     if dictId in ['armh', 'skd', 'vcp']:
+        result = result.replace('|', '\x00')
         result = _cached_transliterate(result, slp1_map)
+        result = result.replace('\x00', '|')
     elif dictId not in params.devaparams:
         sanskrittexts = DEVANAGARI_TEXT_PATTERN.findall(result)
         for san in sanskrittexts:
