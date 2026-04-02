@@ -24,7 +24,8 @@ from dictdata import dictdata
 def log(msg, start_time=None):
     now = time.time()
     if start_time:
-        print(f"[{datetime.datetime.now().strftime('%H:%M:%S')}] {msg} ({time.strftime('%Mm %Ss', time.gmtime(now - start_time))})")
+        ms = f"{now * 1000:.0f}"[-3:]
+        print(f"[{datetime.datetime.now().strftime('%H:%M:%S')}.{ms}] {msg}")
     else:
         print(f"[{datetime.datetime.now().strftime('%H:%M:%S')}] {msg}")
 
@@ -267,11 +268,11 @@ def main(dictId, production):
     with multiprocessing.Pool(processes=num_cores) as pool:
         worker_fn = partial(_worker_extract_lbody, dictId=dictId)
         partial_lbodies = pool.map(worker_fn, chunks)
-    log(f"Collected {len(dict_lbody)} Lbody entries.", t2)
     
     dict_lbody = {}
     for p in partial_lbodies:
         dict_lbody.update(p)
+    log(f"Collected {len(dict_lbody)} Lbody entries.", t2)
     
     t3 = time.time()
     log("Pass 2: Processing entries (parallel).", t3)
@@ -292,7 +293,7 @@ def main(dictId, production):
             fout.write('\n\n')
     
     fout.close()
-    print("Done.")
+    log(f"Done. Total time: {time.time() - t0:.2f}s", t0)
 
 
 if __name__ == "__main__":
