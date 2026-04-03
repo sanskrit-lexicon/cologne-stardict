@@ -292,10 +292,10 @@ def main(dictId, production):
                 headword = parts[0]
                 definition = parts[1].replace('\n', '<BR>') if len(parts) > 1 else ''
                 fout.write(headword + '\n')
-                fout.write(definition + '\n')
+                fout.write(definition)
             else:
                 fout.write(result)
-            fout.write('\n')
+            fout.write('\n\n')
     
     fout.close()
     log(f"Done. Total time: {time.time() - t0:.2f}s", t0)
