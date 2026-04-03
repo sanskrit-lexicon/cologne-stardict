@@ -288,9 +288,14 @@ def main(dictId, production):
     for _, outputs in results:
         for result in outputs:
             if production == '1':
-                result = result.replace('\n', '<BR>')
-            fout.write(result)
-            fout.write('\n\n')
+                parts = result.split('\n', 1)
+                headword = parts[0]
+                definition = parts[1].replace('\n', '<BR>') if len(parts) > 1 else ''
+                fout.write(headword + '\n')
+                fout.write(definition + '\n')
+            else:
+                fout.write(result)
+            fout.write('\n')
     
     fout.close()
     log(f"Done. Total time: {time.time() - t0:.2f}s", t0)
