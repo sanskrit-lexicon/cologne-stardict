@@ -2,9 +2,9 @@
 #bookname=Personal-and-Geographical-Names-in-the-Gupta-Inscriptions (sa-en)
 #stripmethod=keep
 #sametypesequence=h
-#description=Data from https://www.sanskrit-lexicon.uni-koeln.de/ as on 2026-04-02
+#description=Data from https://www.sanskrit-lexicon.uni-koeln.de/ as on 2026-04-25
 
-गुप्त|गुप्तं
+गुप्त|गुप्तं|गुप्तः
 1. Gupta: (No. 1, L. 28; No. 21, L. 4; No. 22, L. 1; No. 47,
 L. 1; No. 49, L. 1; No. 50, L. 1; No. 51, L. 2, L. 4;
 No. 53, L. 1):
@@ -1882,7 +1882,7 @@ second part is dropped or is not given at all by the parents.
 <a href="https://dub.sh/cslp?dict=PGN&page=064" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=pgn" target="_blank">Correction</a>
 
-रामक
+रामक|रामकः
 10. Rāmaka (No. 29, L. 5):
 It is also an abbreviated name possibly from Rāma-datta (Cf.
 Pāṇini V. 3. 82) with the addition of the suffix ‘ka’. In the Agni
@@ -2706,7 +2706,7 @@ name of Indra, the lord of the gods.^75
 <a href="https://dub.sh/cslp?dict=PGN&page=080" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=pgn" target="_blank">Correction</a>
 
-शंकर|शङ्कर|शङ्करः
+शंकर|शङ्कर|शंकरः|शङ्करः
 15. Śaṃkara (No. 43, L. 9):
 Literally meaning ‘causing prosperity’, Saṃkara is the name
 of Lord Śiva.^76.
@@ -3292,7 +3292,7 @@ the names of two deities Rudra and Soma.
 <a href="https://dub.sh/cslp?dict=PGN&page=094" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=pgn" target="_blank">Correction</a>
 
-शंकर|शङ्कर|शङ्करः
+शंकर|शङ्कर|शंकरः|शङ्करः
 16. Śaṃkara (No. 22, L. 6):
 It is the name of a Jaina monk^46, who installed an image
 of Pārśvanātha. Literally meaning ‘causing prosperity’, it is
@@ -5730,7 +5730,7 @@ of the Yūpa
 <a href="https://dub.sh/cslp?dict=PGN&page=171" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=pgn" target="_blank">Correction</a>
 
-राष्ट्र|राष्ट्रं
+राष्ट्र|राष्ट्रं|राष्ट्रः
  Rāṣṭra^1 (from §rāj):
 It is the oldest and biggest territorial term. In the Ṛgveda^2
 and later Saṃhitās,^3 it denotes ‘kingdom’ or ‘royal territory’.
