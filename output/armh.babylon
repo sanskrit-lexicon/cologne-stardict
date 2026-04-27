@@ -2,7 +2,7 @@
 #bookname=abhidhAnaratnamAlA (sa-sa)
 #stripmethod=keep
 #sametypesequence=h
-#description=Data from https://www.sanskrit-lexicon.uni-koeln.de/ as on 2026-04-02
+#description=Data from https://www.sanskrit-lexicon.uni-koeln.de/ as on 2026-04-27
 
 स्वर्
 स्वर्;
@@ -202,7 +202,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0001" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-निर्जर|निर्जरं|निर्ज्जर|निर्ज्जरः
+निर्जर|निर्जरं|निर्जरः|निर्ज्जर|निर्ज्जरः
 निर्जर;
 आदित्यास्त्रिदशाः सुराः सुमनसः स्वर्गौकसो देवता,
 गीर्वाणा ऋभवोऽमराश्च मरुतो वृन्दारका निर्जराः ।
@@ -476,7 +476,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0002" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-शम्भु|शंभु|शम्भुः
+शम्भु|शंभु|शंभुः|शम्भुः
 शम्भु;
 ब्रह्मा स्रष्टा परमेष्ठी धाता पद्मभूः सुरज्येष्ठः ।
 वेधा विधिर्विरिञ्चो हिरण्यगर्भः शतानन्दः ॥ ६ ॥
@@ -856,7 +856,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0003" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-शङ्कर|शंकर|शङ्करः
+शङ्कर|शंकर|शंकरः|शङ्करः
 शङ्कर;
 ईशानः शशिशेखरः पशुपतिः शूली शिवः शङ्करः,
 शर्वः शम्भुरुमापतिश्च गिरिशः श्रीकण्ठ उग्रो हरः ।
@@ -888,7 +888,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0003" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-शम्भु|शंभु|शम्भुः
+शम्भु|शंभु|शंभुः|शम्भुः
 शम्भु;
 ईशानः शशिशेखरः पशुपतिः शूली शिवः शङ्करः,
 शर्वः शम्भुरुमापतिश्च गिरिशः श्रीकण्ठ उग्रो हरः ।
@@ -3049,7 +3049,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0004" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-शम्भु|शंभु|शम्भुः
+शम्भु|शंभु|शंभुः|शम्भुः
 शम्भु;
 विष्णुः कृष्णः केशवो मञ्जुकेशी,
 श्रीवत्साङ्कः श्रीपतिः पीतवासाः ।
@@ -3256,7 +3256,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0004" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-शार्ङ्ग|शार्ंग|शार्ङ्गं
+शार्ङ्ग|शार्ंग|शार्ङ्गं|शार्ङ्गः
 शार्ङ्ग;
 चक्रं सुदर्शनं चापं शार्ङ्गं कौमोदकी गदा ।
 खड्गोऽस्य नन्दकः शङ्खः पाञ्चजन्यः प्रकीर्तितः ॥ २६ ॥
@@ -3469,7 +3469,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0004" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-सङ्कर्षण|संकर्षण|संकर्षणं|सङ्कर्षणं|सङ्कर्षणः
+सङ्कर्षण|संकर्षण|संकर्षणं|सङ्कर्षणं|संकर्षणः|सङ्कर्षणः
 सङ्कर्षण;
 बलदेवो बलभद्रो मुशली नीलाम्बरः प्रलम्बघ्नः ।
 सीरी च सात्वतः स्यात्तालध्वज एककुण्डलोऽनन्तः ॥ २८ ॥
@@ -5169,7 +5169,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0006" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-उपसूर्यक|उपसूर्यकं|उपसूर्य्यक|उपसूर्य्यकं
+उपसूर्यक|उपसूर्यकं|उपसूर्यकः|उपसूर्य्यक|उपसूर्य्यकं
 उपसूर्यक;
 परिधिः परिवेषः स्यान्मण्डलं चोपसूर्यकम् ।
 १।१।१।४१
@@ -5730,7 +5730,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0007" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-धिष्ण्य|धिष्ण्यं
+धिष्ण्य|धिष्ण्यं|धिष्ण्यः
 धिष्ण्य;
 उशना शुक्रः काव्यो दैत्यगुरुर्भार्गवः कविर्धिष्ण्यः ।
 १।१।१।४८
@@ -5932,7 +5932,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0007" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-धिष्ण्य|धिष्ण्यं
+धिष्ण्य|धिष्ण्यं|धिष्ण्यः
 धिष्ण्य;
 भं नक्षत्रं तारकं तारका च,
 ज्योतिस्तारा धिष्ण्यमृक्षं तथोडु ।
@@ -6663,7 +6663,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0008" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-भिदुर|भिदुरं
+भिदुर|भिदुरं|भिदुरः
 भिदुर;
 पविरशनिः शतधारं वज्रं कुलिशं च भवति दम्भोलिः ।
 गौर्भिदुरं व्याधामः स्वरुरिन्द्रप्रहरणं तथा शम्बः ॥ ५६ ॥
@@ -7703,7 +7703,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0009" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-उद्द्योत
+उद्द्योत|उद्द्योतः
 उद्द्योत;
 स्मृतः प्रकाश आलोक उद्द्योतश्च समास्त्रयः ।
 १।१।१।६६
@@ -7984,7 +7984,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0009" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-और्व|और्व्व|और्व्वं|और्व्वः
+और्व|और्वः|और्व्व|और्व्वं|और्व्वः
 और्व;
 और्वः समुद्रवह्निः स्याद्वाडवो वडवामुखः ॥ ७० ॥
 १।१।१।७०
@@ -9450,7 +9450,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0011" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-भय|भयं
+भय|भयं|भयः
 भय;
 रतिर्हासश्च शोकश्च क्रोधोत्साहौ भयं तथा ।
 जुगुप्साविस्मयशमाः स्थायिभावाः प्रकीर्तिताः ॥ ९१ ॥
@@ -9498,7 +9498,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0012" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-हास्य|हास्यं
+हास्य|हास्यं|हास्यः
 हास्य;
 शृङ्गारहास्यकरुणा रौद्रवीरभयानकाः ।
 बीभत्साद्भुतशान्ताश्च नव नाट्ये रसाः स्मृताः ॥ ९२ ॥
@@ -9584,7 +9584,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0012" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-वाद्य|वाद्यं
+वाद्य|वाद्यं|वाद्यः
 वाद्य;
 गीतं गानमिति प्रोक्तं वाद्यमातोद्यमिष्यते ।
 १।१।१।९३
@@ -9876,7 +9876,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0013" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-आर्य|आर्य्य|आर्य्यः
+आर्य|आर्यः|आर्य्य|आर्य्यः
 आर्य;
 आवुकस्तु पिता ज्ञेय आर्यो मारिष उच्यते ॥ ९९ ॥
 १।१।१।९९
@@ -10232,7 +10232,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0013" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-सार्वभौम|सार्व्वभौम|सार्व्वभौमः
+सार्वभौम|सार्वभौमः|सार्व्वभौम|सार्व्वभौमः
 सार्वभौम;
 ऐरावतः पुण्डरीकः कुमुदाञ्जनवामनाः ।
 पुष्पदन्तः सार्वभौमः सुप्रतीकश्च दिग्गजाः ॥ १०४ ॥
@@ -10714,7 +10714,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0014" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-तमिस्र|तमिस्रं
+तमिस्र|तमिस्रं|तमिस्रः
 तमिस्र;
 अवतमसमन्धतमसं संतमसं ध्वान्तमन्धकारं च ।
 तिमिरं तमस्तमिस्रां तमिस्रमिच्छन्ति भूछायाम् ॥ ११० ॥
@@ -11452,7 +11452,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0015" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-कल्याण|कल्याणं
+कल्याण|कल्याणं|कल्याणः
 कल्याण;
 श्वः श्रेयसं स्यात्कल्याणं श्वोवसीयं शिवं शुभम् ।
 भविकं भावुकं श्रेयो भव्यं भद्रं च मङ्गलम् ॥ १२२ ॥
@@ -11580,7 +11580,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0015" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-सम्मद|संमद|सम्मदः
+सम्मद|संमद|संमदः|सम्मदः
 सम्मद;
 प्रमोदप्रमदौ हर्षः प्रीतिरुत्कर्ष उद्धवः ।
 सम्मदो मुत्तथानन्दः शर्म जोषं च शं सुखम् ॥ १२३ ॥
@@ -11794,14 +11794,14 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0016" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-दैव|दैवं
+दैव|दैवं|दैवः
 दैव;
 इष्टानिष्टफलं प्राज्ञैः स्मृतं दैवमयानयम् ।
 १।१।१।१२६
 <a href="https://dub.sh/cslp?dict=ARMH&page=0016" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-अयानय|अयानयं
+अयानय|अयानयं|अयानयः
 अयानय;
 इष्टानिष्टफलं प्राज्ञैः स्मृतं दैवमयानयम् ।
 १।१।१।१२६
@@ -12043,7 +12043,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0016" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-प्रसादन|प्रसादनं
+प्रसादन|प्रसादनं|प्रसादनः
 प्रसादन;
 वरिवस्या परिचर्या शुश्रूषोपासना परीष्टिः स्यात् ।
 सेवा भक्तिरुपास्तिः प्रसादनाराधनोपचाराश्च ॥ १२९ ॥
@@ -12897,7 +12897,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0017" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-अबद्ध|अबद्धं
+अबद्ध|अबद्धं|अबद्धः
 अबद्ध;
 ख्यातं म्लिष्टमविस्पष्टमबद्धं वियुतार्थकम् ॥ १४१ ॥
 १।१।१।१४१
@@ -13233,7 +13233,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0018" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-कौलीन|कौलीनं
+कौलीन|कौलीनं|कौलीनः
 कौलीन;
 अनादिवार्त्ता ह्यैतिह्यं किंवदन्ती जनश्रुतिः ।
 कौलीनं जनवादः स्याद्विगानं वचनीयता ॥ १४७ ॥
@@ -13434,7 +13434,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0018" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-मर्मर|मर्म्मर|मर्म्मरः
+मर्मर|मर्मरः|मर्म्मर|मर्म्मरः
 मर्मर;
 मर्मरः शुष्कपर्णानां विस्फारो धनुषां ध्वनिः ।
 १।१।१।१५१
@@ -14487,7 +14487,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0021" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-अहार्य|अहार्य्य|अहार्य्यं|अहार्य्यः
+अहार्य|अहार्यः|अहार्य्य|अहार्य्यं|अहार्य्यः
 अहार्य;
 अचलशिलोच्चयशैलक्षितिधरगिरिगोत्रपर्वताहार्याः ।
 नगशिखरिसानुमन्तो धराद्रिकुध्राश्च तुल्यार्थाः ॥ १६५ ॥
@@ -14781,7 +14781,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0021" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-गैरिक|गैरिकं
+गैरिक|गैरिकं|गैरिकः
 गैरिक;
 उच्यते गैरिकं धातुस्ताम्रं शुल्वमुदुम्बरम् ।
 २।१।१।१७०
@@ -14823,7 +14823,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0021" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-कांस्य|कांस्यं
+कांस्य|कांस्यं|कांस्यः
 कांस्य;
 आरकूटः स्मृतो रीतिः कांस्यं सौराष्ट्रकं तथा ॥ १७० ॥
 २।१।१।१७०
@@ -15024,7 +15024,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0022" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-रुक्म|रुक्मं
+रुक्म|रुक्मं|रुक्मः
 रुक्म;
 हेम स्वर्णं जातरूपं सुवर्णं,
 भर्मं रुक्मं हाटकं शातकुम्भम् ।
@@ -15072,7 +15072,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0022" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-गैरिक|गैरिकं
+गैरिक|गैरिकं|गैरिकः
 गैरिक;
 हेम स्वर्णं जातरूपं सुवर्णं,
 भर्मं रुक्मं हाटकं शातकुम्भम् ।
@@ -15120,7 +15120,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0022" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-कल्याण|कल्याणं
+कल्याण|कल्याणं|कल्याणः
 कल्याण;
 हेम स्वर्णं जातरूपं सुवर्णं,
 भर्मं रुक्मं हाटकं शातकुम्भम् ।
@@ -15240,7 +15240,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0022" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-कर्बुर|कर्ब्बुरं|कर्ब्बुरः
+कर्बुर|कर्बुरः|कर्ब्बुरं|कर्ब्बुरः
 कर्बुर;
 हेम स्वर्णं जातरूपं सुवर्णं,
 भर्मं रुक्मं हाटकं शातकुम्भम् ।
@@ -16058,14 +16058,14 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0023" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-कुसुम|कुसुमं
+कुसुम|कुसुमं|कुसुमः
 कुसुम;
 पुष्पं प्रसवः कुसुमं प्रसूनकं सुमनसः समाख्याताः ।
 २।१।१।१८६
 <a href="https://dub.sh/cslp?dict=ARMH&page=0023" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-प्रसूनक|प्रसूनकं
+प्रसूनक|प्रसूनकं|प्रसूनकः
 प्रसूनक;
 पुष्पं प्रसवः कुसुमं प्रसूनकं सुमनसः समाख्याताः ।
 २।१।१।१८६
@@ -17924,7 +17924,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0027" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-दान|दानं
+दान|दानं|दानः
 दान;
 दानं मदो विषाणौ च दशनौ स्कन्ध आसनम् ।
 २।१।१।२१७
@@ -18113,7 +18113,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0027" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-परिणत|परिणतं
+परिणत|परिणतं|परिणतः
 परिणत;
 तिर्यग्दन्तप्रहारस्तु गजः परिणतो मतः ॥ २२० ॥
 २।१।१।२२०
@@ -18316,7 +18316,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0027" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-औपवाह्य
+औपवाह्य|औपवाह्यः
 औपवाह्य;
 औपवाह्यो राजवाह्यः सन्नाह्यः समरोचितः ॥ २२४ ॥
 २।१।१।२२४
@@ -21156,7 +21156,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0032" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-धुर्य|धुर्य्य|धुर्य्यः
+धुर्य|धुर्यः|धुर्य्य|धुर्य्यः
 धुर्य;
 धुरं वहति यो धुर्यो धौरेयः स च कथ्यते ॥ २६५ ॥
 २।१।१।२६५
@@ -21644,7 +21644,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0033" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-गोमय|गोमयं
+गोमय|गोमयं|गोमयः
 गोमय;
 गव्यं गोसम्भवं सर्वं करीषं गोमयं स्मृतम् ॥ २७३ ॥
 २।१।१।२७३
@@ -21756,7 +21756,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0033" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-द्रप्स
+द्रप्स|द्रप्सः
 द्रप्स;
 द्रप्सं दध्यघनं स्यात्सर्पिर्घृतमाज्यमाघारः ॥ २७५ ॥
 २।१।१।२७५
@@ -21875,7 +21875,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0033" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-सन्दान|संदान|संदानं|सन्दानं|सन्दानः
+सन्दान|संदान|संदानं|सन्दानं|संदानः|सन्दानः
 सन्दान;
 सन्दानं दामनी दाम पशूनां बन्धनं मतम् ।
 २।१।१।२७७
@@ -22489,7 +22489,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0035" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-अरर|अररं
+अरर|अररं|अररः
 अरर;
 वप्रं शालं प्राकारमाहुरररं कपाटं च ॥ २८८ ॥
 २।१।१।२८८
@@ -22630,7 +22630,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0035" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-गृह|गृहं
+गृह|गृहं|गृहः
 गृह;
 आवासावसथं गृहं च भवनं स्थानं निशान्तं कुलं,
 संस्त्यायो निलयो निकाय्यमुटजं गेहं कुटं मन्दिरम् ।
@@ -22641,7 +22641,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0035" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-भवन|भवनं
+भवन|भवनं|भवनः
 भवन;
 आवासावसथं गृहं च भवनं स्थानं निशान्तं कुलं,
 संस्त्यायो निलयो निकाय्यमुटजं गेहं कुटं मन्दिरम् ।
@@ -22762,7 +22762,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0035" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-धिष्ण्य|धिष्ण्यं
+धिष्ण्य|धिष्ण्यं|धिष्ण्यः
 धिष्ण्य;
 आवासावसथं गृहं च भवनं स्थानं निशान्तं कुलं,
 संस्त्यायो निलयो निकाय्यमुटजं गेहं कुटं मन्दिरम् ।
@@ -23054,7 +23054,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0035" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-महानस|महानसं
+महानस|महानसं|महानसः
 महानस;
 पाकस्थानं रसवती कथ्यते तन्महानसम् ।
 २।१।१।२९५
@@ -23496,7 +23496,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0036" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-वर्धमान|वर्द्धमानः
+वर्धमान|वर्द्धमानः|वर्धमानः
 वर्धमान;
 स्वस्तिको वर्धमानश्च नन्द्यावर्तादयस्तथा ।
 विच्छन्दकविशेषाः स्युरमी भूपतिवेश्मनाम् ॥ ३०५ ॥
@@ -24082,7 +24082,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0038" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-वर्धमान|वर्द्धमानः
+वर्धमान|वर्द्धमानः|वर्धमानः
 वर्धमान;
 शालाजिरो वर्धमानः शरावः स्मर्यते बुधैः ॥ ३१५ ॥
 २।१।१।३१५
@@ -24560,7 +24560,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0038" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-उख्य|उख्यं
+उख्य|उख्यं|उख्यः
 उख्य;
 उख्यमुखासंसिद्धं शूले शूल्यं भटित्रं च ॥ ३२३ ॥
 २।१।१।३२३
@@ -24702,7 +24702,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0039" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-भोजन|भोजनं
+भोजन|भोजनं|भोजनः
 भोजन;
 वल्भनमभ्यवहारः प्रत्यवसानं च जेमनं जग्धिः ।
 खादनमशनं भक्षणमाहारो भोजनं स्वदनम् ॥ ३२५ ॥
@@ -25719,7 +25719,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0040" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-कुशल|कुशलं
+कुशल|कुशलं|कुशलः
 कुशल;
 चतुरः स्यात्क्षेत्रज्ञः कृतहस्तः कृतमुखश्च कृतकर्मा ।
 दक्षः कुशलोऽभिज्ञो निष्णातः शिक्षितः प्रवीणश्च ॥ ३३५ ॥
@@ -25895,7 +25895,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0040" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-अपकृष्ट|अपकृष्टं
+अपकृष्ट|अपकृष्टं|अपकृष्टः
 अपकृष्ट;
 अर्वाणमणकमपसदमवममवद्यं निकृष्टमपकृष्टम् ।
 अधमं चेलं काण्डं खेटं पापं च रेफसं प्राहुः ॥ ३३७ ॥
@@ -25935,7 +25935,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0040" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-पाप|पापं
+पाप|पापं|पापः
 पाप;
 अर्वाणमणकमपसदमवममवद्यं निकृष्टमपकृष्टम् ।
 अधमं चेलं काण्डं खेटं पापं च रेफसं प्राहुः ॥ ३३७ ॥
@@ -26193,7 +26193,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0040" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-कठिन|कठिनं
+कठिन|कठिनं|कठिनः
 कठिन;
 कठोरः कठिनः क्रूरः कक्खटः कर्कशो दृढः ।
 २।१।१।३४२
@@ -26263,7 +26263,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0041" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-अर्य|अर्य्य|अर्य्यः
+अर्य|अर्यः|अर्य्य|अर्य्यः
 अर्य;
 अर्यः परिवृढः स्वामी प्रभुर्नेता च नायकः ।
 अधिभूरधिपः प्रोक्तो ह्यधीशोऽधिपतिस्तथा ॥ ३४३ ॥
@@ -26722,7 +26722,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0041" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-वर्वर|वर्व्वर|वर्व्वरं|वर्व्वरः
+वर्वर|वर्वरः|वर्व्वर|वर्व्वरं|वर्व्वरः
 वर्वर;
 इतरप्राकृतपामरपृथग्जना वर्वराश्च तुल्यार्थाः ॥ ३४८ ॥
 २।१।१।३४८
@@ -26769,7 +26769,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0041" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-धूर्त|धूर्त्त|धूर्त्तं|धूर्त्तः
+धूर्त|धूर्तः|धूर्त्त|धूर्त्तं|धूर्त्तः
 धूर्त;
 दाण्डाजिनिकः कुहकः कार्पटिको जालिकश्च कौसृतिकः ।
 धूर्तो व्यंसक उक्तो मायावी मायिको मायी ॥ ३४९ ॥
@@ -26984,7 +26984,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0042" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-लालस
+लालस|लालसः
 लालस;
 लोलुभं लोलुपं लोलं लालसं लम्पटं विदुः ।
 २।१।१।३५३
@@ -27868,7 +27868,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0043" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-असंमत|असम्मत|असम्मतः
+असंमत|असम्मत|असंमतः|असम्मतः
 असंमत;
 भवेदक्षिगतो द्वेष्यः प्रणाय्योऽसंमतो मतः ॥ ३६६ ॥
 २।१।१।३६६
@@ -27994,7 +27994,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0043" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-कर्मठ|कर्म्मठ|कर्म्मठः
+कर्मठ|कर्मठः|कर्म्मठ|कर्म्मठः
 कर्मठ;
 प्रेष्यः प्रोक्तः परिस्कन्दः कर्मशूरश्च कर्मठः ॥ ३६९ ॥
 २।१।१।३६९
@@ -28127,7 +28127,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0044" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-आर्य|आर्य्य|आर्य्यः
+आर्य|आर्यः|आर्य्य|आर्य्यः
 आर्य;
 साधुः सज्जन आर्यः स्याद्गृहमेधी गृहाधिपः ॥ ३७२ ॥
 २।१।१।३७२
@@ -28276,7 +28276,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0044" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-दुर्मुख|दुर्म्मुख|दुर्म्मुखः
+दुर्मुख|दुर्मुखः|दुर्म्मुख|दुर्म्मुखः
 दुर्मुख;
 अज्ञो मातृमुखः प्रोक्तो दुर्मुखो मुखरः स्मृतः ॥ ३७७ ॥
 २।१।१।३७७
@@ -29393,7 +29393,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0046" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-ब्रह्मचर्य|ब्रह्मचर्यं|ब्रह्मचर्य्य|ब्रह्मचर्य्यं
+ब्रह्मचर्य|ब्रह्मचर्यं|ब्रह्मचर्यः|ब्रह्मचर्य्य|ब्रह्मचर्य्यं
 ब्रह्मचर्य;
 ब्रह्मचर्यं बुधाः प्राहुः समस्तेन्द्रियसंयमम् ॥ ३९७ ॥
 २।१।१।३९७
@@ -29641,7 +29641,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0047" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-मौहूर्तिक|मौहूर्त्तिक|मौहूर्त्तिकः
+मौहूर्तिक|मौहूर्तिकः|मौहूर्त्तिक|मौहूर्त्तिकः
 मौहूर्तिक;
 सांवत्सरो ज्योतिषिको ज्ञानी मौहूर्तिकस्तथा ।
 कार्तान्तिकस्तु दैवज्ञ आदेशी गणकः स्मृतः ॥ ४०३ ॥
@@ -30376,7 +30376,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0048" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-हुत|हुतं
+हुत|हुतं|हुतः
 हुत;
 हुतं वषट्कृतं ज्ञेयं यज्ञान्तोऽवभृथः स्मृतः ॥ ४१७ ॥
 २।१।१।४१७
@@ -30490,7 +30490,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0048" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-दान|दानं
+दान|दानं|दानः
 दान;
 विश्राणनं विहापितमंहतिरपवर्जनं वितरणं च ।
 निर्वपणं च स्पर्शनमुत्सर्गः स्यात्प्रदेशनं दानम् ॥ ४१९ ॥
@@ -30617,7 +30617,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0049" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-मूर्धाभिषिक्त|मूर्द्धाभिषिक्तः
+मूर्धाभिषिक्त|मूर्द्धाभिषिक्तः|मूर्धाभिषिक्तः
 मूर्धाभिषिक्त;
 राजा राजन्यो राट् प्रजापतिः क्षत्रियो नृपः क्षत्त्रम् ।
 मूर्धाभिषिक्तभूपतिपार्थिवनरदेवलोकपालाः स्युः ॥ ४२१ ॥
@@ -30671,7 +30671,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0049" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-सार्वभौम|सार्व्वभौम|सार्व्वभौमः
+सार्वभौम|सार्वभौमः|सार्व्वभौम|सार्व्वभौमः
 सार्वभौम;
 चक्रवर्ती सार्वभौमो मध्यमो मण्डलेश्वरः ॥ ४२२ ॥
 २।१।१।४२२
@@ -31638,7 +31638,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0050" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-इन्द्रायुध|इन्द्रायुधं
+इन्द्रायुध|इन्द्रायुधं|इन्द्रायुधः
 इन्द्रायुध;
 मल्लिकाक्षः सितैर्नेत्रैः कृष्णैरिन्द्रायुधो मतः ।
 २।१।१।४३८
@@ -31715,7 +31715,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0050" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-दुर्विनीत|दुर्व्विनीत|दुर्व्विनीतः
+दुर्विनीत|दुर्विनीतः|दुर्व्विनीत|दुर्व्विनीतः
 दुर्विनीत;
 शूलको दुर्विनीतोऽश्वः पोतः प्रोक्तः किशोरकः ।
 २।१।१।४४०
@@ -32135,7 +32135,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0051" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-साम्परायिक|सांपरायिक|साम्परायिकं
+साम्परायिक|सांपरायिक|साम्परायिकं|सांपरायिकः
 साम्परायिक;
 देवतार्थो देवरथो युद्धार्थः साम्परायिकः ।
 २।१।१।४४६
@@ -32184,7 +32184,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0051" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-कूबर
+कूबर|कूबरः
 कूबर;
 चक्रं रथाङ्गमाख्यातं कूवरं च युगन्धरम् ।
 २।१।१।४४७
@@ -32345,7 +32345,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0052" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-यान|यानं
+यान|यानं|यानः
 यान;
 वाहनं धोरणं युग्यं यानं पत्त्रमिति स्मृतम् ॥ ४४९ ॥
 २।१।१।४४९
@@ -34110,7 +34110,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0054" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-अर्धचन्द्र|अर्द्धचन्द्रः
+अर्धचन्द्र|अर्द्धचन्द्रः|अर्धचन्द्रः
 अर्धचन्द्र;
 अर्धचन्द्रक्षुरप्रादि धाराग्रं मुखमुच्यते ।
 २।१।१।४६९
@@ -35586,7 +35586,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0056" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-भिन्दु|भिंदु
+भिन्दु|भिंदु|भिन्दुः
 भिन्दु;
 राका भवेज्जातरजास्तु कन्या,
 नश्यत्प्रसूतिः कथिता च भिन्दुः ॥ ४८८ ॥
@@ -36808,7 +36808,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0058" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-पूर्वज|पूर्व्वज|पूर्व्वजः
+पूर्वज|पूर्वजः|पूर्व्वज|पूर्व्वजः
 पूर्वज;
 अग्रजः पूर्वजो ज्येष्ठः कनिष्ठोऽवरजोऽनुजः ।
 २।१।१।५०६
@@ -37575,7 +37575,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0059" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-तुन्द|तुंद|तुंदं|तुन्दं
+तुन्द|तुंद|तुंदं|तुन्दं|तुन्दः
 तुन्द;
 ऊरुः सक्थि पिचण्डं जठरोदरतुन्दकुक्षिगर्भाः स्युः ॥ ५१५ ॥
 २।१।१।५१५
@@ -37673,7 +37673,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0059" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-कन्धरा
+कन्धरा|कंधरा
 कन्धरा;
 ग्रीवा धमनिर्मन्या शिरोधरा कन्धरा गलः कण्ठः ॥ ५१६ ॥
 २।१।१।५१६
@@ -37778,7 +37778,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0059" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-तुण्ड|तुंड|तुंडं|तुण्डं
+तुण्ड|तुंड|तुंडं|तुण्डं|तुण्डः
 तुण्ड;
 तुण्डं वदनं वक्त्रं लपनं मुखमास्यमाननं च समम् ॥ ५१८ ॥
 २।१।१।५१८
@@ -38002,7 +38002,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0060" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-घ्राण|घ्राणं
+घ्राण|घ्राणं|घ्राणः
 घ्राण;
 सिङ्घिनी नासिका नासा घ्राणं घोणा च कथ्यते ।
 २।१।१।५२१
@@ -38779,7 +38779,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0061" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-मानस|मानसं
+मानस|मानसं|मानसः
 मानस;
 चेतश्चित्तं मनः स्वान्तं हृदयं मानसं समम् ।
 २।१।१।५३४
@@ -38849,7 +38849,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0061" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-इन्द्रिय|इंद्रिय|इन्द्रियं
+इन्द्रिय|इंद्रिय|इन्द्रियं|इन्द्रियः
 इन्द्रिय;
 खमक्षमिन्द्रियं स्रोतो हृषीकं करणं स्मृतम् ॥ ५३५ ॥
 २।१।१।५३५
@@ -39004,7 +39004,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0061" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-मण्डन|मंडन|मण्डनं
+मण्डन|मंडन|मण्डनं|मण्डनः
 मण्डन;
 आकल्पो मण्डनं वेषः प्रतिकर्म प्रसाधनम् ।
 भूषणं स्यादलङ्कारो नेपथ्याभरणे तथा ॥ ५३९ ॥
@@ -39028,7 +39028,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0061" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-प्रसाधन|प्रसाधनं
+प्रसाधन|प्रसाधनं|प्रसाधनः
 प्रसाधन;
 आकल्पो मण्डनं वेषः प्रतिकर्म प्रसाधनम् ।
 भूषणं स्यादलङ्कारो नेपथ्याभरणे तथा ॥ ५३९ ॥
@@ -39222,7 +39222,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0062" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-जागुड|जागुडं
+जागुड|जागुडं|जागुडः
 जागुड;
 कुङ्कुमं घुसृणं वर्णं प्रोक्तं लोहितचन्दनम् ।
 काश्मीरजं च विद्वद्भिः कालेयं जागुडं स्मृतम् ॥ ५४३ ॥
@@ -39851,7 +39851,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0063" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-जतु
+जतु|जतुः
 जतु;
 जतुयावकलाक्षाऽलक्तकाः समाः सिक्थकं मधूच्छिष्टम् ।
 २।१।१।५५५
@@ -39998,7 +39998,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0063" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-परिहार्य|परिहार्य्य|परिहार्य्यः
+परिहार्य|परिहार्यः|परिहार्य्य|परिहार्य्यः
 परिहार्य;
 आवापः परिहार्यः स्यात्कटको वलयं तथा ॥ ५५७ ॥
 २।१।१।५५७
@@ -40647,7 +40647,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0064" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-आर्य|आर्य्य|आर्य्यः
+आर्य|आर्यः|आर्य्य|आर्य्यः
 आर्य;
 आर्या भूमिस्पृशो वैश्या ऊख्याश्च विशः स्मृताः ।
 २।१।१।५७०
@@ -40815,7 +40815,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0065" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-कुसीद|कुसीदं
+कुसीद|कुसीदं|कुसीदः
 कुसीद;
 वृद्धिः कलान्तरं प्रोक्तं कुसीदं वृद्धिजीवनम् ॥ ५७२ ॥
 २।१।१।५७२
@@ -40955,7 +40955,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0065" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-लाङ्गल|लांगल|लांगलं|लाङ्गलं
+लाङ्गल|लांगल|लांगलं|लाङ्गलं|लाङ्गलः
 लाङ्गल;
 हलं स्याल्लाङ्गलं सीरः फालः कुशिक उच्यते ।
 २।१।१।५७५
@@ -41221,7 +41221,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0065" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-नाल|नालं
+नाल|नालं|नालः
 नाल;
 नालं काण्डं क्षुपो गुच्छो व्रीहिः स्तम्बकरिः स्मृतः ॥ ५७९ ॥
 २।१।१।५७९
@@ -41697,7 +41697,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0066" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-नाडिन्धम|नाडिंधम|नाडिन्धमः
+नाडिन्धम|नाडिंधम|नाडिंधमः|नाडिन्धमः
 नाडिन्धम;
 नाडिन्धमः कलादः सुवर्णकारश्च मुष्टिको ज्ञेयः ।
 २।१।१।५८८
@@ -43399,7 +43399,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0069" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-विश्वभेषज|विश्वभेषजं
+विश्वभेषज|विश्वभेषजं|विश्वभेषजः
 विश्वभेषज;
 शुण्ठी नागरमुक्ता महौषधं विश्वभेषजं विश्वा ।
 २।१।१।६१५
@@ -43770,7 +43770,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0070" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-माक्षिक|माक्षिकं
+माक्षिक|माक्षिकं|माक्षिकः
 माक्षिक;
 सारघं माक्षिकं क्षौद्रं मधु पुष्परसस्तथा ॥ ६२१ ॥
 २।१।१।६२१
@@ -43965,7 +43965,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0071" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-विवर|विवरं
+विवर|विवरं|विवरः
 विवर;
 निम्नमगाधो गर्तः श्वभ्रं शुषिरं वपा बिलं विवरम् ।
 अन्तरमवटुच्छिद्रं निर्व्यथनं रन्ध्ररोककुहरदराः ॥ ६२४ ॥
@@ -44180,7 +44180,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0071" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-अघ|अघं
+अघ|अघं|अघः
 अघ;
 वृजिनं दुरितं दुष्कृतमघमंहः किल्विषं तमः कल्कम् ।
 एनः कल्मषमशुभं पापं स्यात्पातकं पाप्मा ॥ ६२७ ॥
@@ -44244,7 +44244,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0071" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-पाप|पापं
+पाप|पापं|पापः
 पाप;
 वृजिनं दुरितं दुष्कृतमघमंहः किल्विषं तमः कल्कम् ।
 एनः कल्मषमशुभं पापं स्यात्पातकं पाप्मा ॥ ६२७ ॥
@@ -44268,7 +44268,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0071" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-निधन|निधनं
+निधन|निधनं|निधनः
 निधन;
 निधनं नाशो मृत्युर्मरणं पञ्चत्वमत्ययः कालः ।
 संस्था स्याद्दिष्टान्तो निमीलनं दीर्घनिद्रा च ॥ ६२८ ॥
@@ -44449,7 +44449,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0072" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-ईर्म|ईर्म्म
+ईर्म|ईर्मः|ईर्म्म
 ईर्म;
 कबन्धः कथ्यते रुण्डः क्षतमीर्ममरुर्व्रणः ।
 ३।१।१।६३०
@@ -44988,14 +44988,14 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0072" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-बीज|बीजं
+बीज|बीजं|बीजः
 बीज;
 शुक्रं वीर्यं बलं बीजमिन्द्रियं रेत उच्यते ।
 ३।१।१।६३८
 <a href="https://dub.sh/cslp?dict=ARMH&page=0072" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-इन्द्रिय|इंद्रिय|इन्द्रियं
+इन्द्रिय|इंद्रिय|इन्द्रियं|इन्द्रियः
 इन्द्रिय;
 शुक्रं वीर्यं बलं बीजमिन्द्रियं रेत उच्यते ।
 ३।१।१।६३८
@@ -46308,7 +46308,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0074" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-अकूपार
+अकूपार|अकूपारः
 अकूपार;
 रत्नाकरः सरस्वानुदधिरुदन्वान्सरित्पतिरकूपारः ।
 पारावारस्तोयनिधिरर्णवजलराशिसागरसमुद्राः ॥ ६५२ ॥
@@ -46591,7 +46591,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0075" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-जलचर
+जलचर|जलचरः
 जलचर;
 वैसारिणो विसारः पृथुरोमा जलचरो झषो मत्स्यः ।
 तिमिरनिमिषश्च मीनः शकली शल्की च विज्ञेयः ॥ ६५७ ॥
@@ -47394,7 +47394,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0076" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-अपार|अपारं
+अपार|अपारं|अपारः
 अपार;
 अर्वाक्कूलमपारं स्यात्परं पारमिति स्मृतम् ॥ ६६७ ॥
 ३।१।१।६६७
@@ -47688,7 +47688,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0076" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-अरित्र|अरित्रं
+अरित्र|अरित्रं|अरित्रः
 अरित्र;
 अरित्रं कोटिपात्रं स्यात्पुलिन्दो मङ्ग उच्यते ॥ ६७२ ॥
 ३।१।१।६७२
@@ -48178,7 +48178,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0077" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-महोत्पल|महोत्पलं
+महोत्पल|महोत्पलं|महोत्पलः
 महोत्पल;
 सहस्रपत्त्रं शत्रपत्त्रमम्बुजं
 कुशेशयं तामरसं सरोरुहम् ।
@@ -48244,7 +48244,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0077" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-अरविन्द|अरविंदं|अरविन्दं
+अरविन्द|अरविंदं|अरविन्दं|अरविन्दः
 अरविन्द;
 सहस्रपत्त्रं शत्रपत्त्रमम्बुजं
 कुशेशयं तामरसं सरोरुहम् ।
@@ -48266,7 +48266,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0077" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-पङ्कज|पंकज|पङ्कजं
+पङ्कज|पंकज|पङ्कजं|पङ्कजः
 पङ्कज;
 सहस्रपत्त्रं शत्रपत्त्रमम्बुजं
 कुशेशयं तामरसं सरोरुहम् ।
@@ -49046,7 +49046,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0079" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-जात|जातं
+जात|जातं|जातः
 जात;
 निकरनिकायनिवहविसरव्रजपुञ्जसमूहसञ्चयाः,
 समुदयसार्थयूथनिकुरम्बकदम्बकपूगराशयः ।
@@ -49134,7 +49134,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0079" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-दभ्र|दभ्रं
+दभ्र|दभ्रं|दभ्रः
 दभ्र;
 सूक्ष्मलेशलवश्लक्ष्णक्षुद्रदभ्रकणाणवः ।
 किञ्चिन्मात्रतनुस्तोकह्रस्वाल्पत्रुटयः समाः ॥ ६८८ ॥
@@ -49166,7 +49166,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0079" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-मात्र|मात्रं
+मात्र|मात्रं|मात्रः
 मात्र;
 सूक्ष्मलेशलवश्लक्ष्णक्षुद्रदभ्रकणाणवः ।
 किञ्चिन्मात्रतनुस्तोकह्रस्वाल्पत्रुटयः समाः ॥ ६८८ ॥
@@ -49198,7 +49198,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0079" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-अल्प|अल्पं
+अल्प|अल्पं|अल्पः
 अल्प;
 सूक्ष्मलेशलवश्लक्ष्णक्षुद्रदभ्रकणाणवः ।
 किञ्चिन्मात्रतनुस्तोकह्रस्वाल्पत्रुटयः समाः ॥ ६८८ ॥
@@ -49270,7 +49270,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0080" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-वर्य|वर्य्य|वर्य्यं|वर्य्यः
+वर्य|वर्यः|वर्य्य|वर्य्यं|वर्य्यः
 वर्य;
 प्राग्र्यं प्राग्रहरं प्रवेकमपरं वर्यं वरेण्यं वरं,
 श्रेष्ठं प्रेष्ठमनुत्तमं च मधुरं मञ्जु प्रियं मञ्जुलम् ।
@@ -49898,7 +49898,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0080" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-समर्याद|समर्य्याद|समर्य्यादः
+समर्याद|समर्यादः|समर्य्याद|समर्य्यादः
 समर्याद;
 समीपं सनीडं समर्यादमारात्,
 सदेशं सवेशं ससीमोपकण्ठम् ।
@@ -50018,7 +50018,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0080" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-अन्तिक|अंतिक|अन्तिकं
+अन्तिक|अंतिक|अन्तिकं|अन्तिकः
 अन्तिक;
 समीपं सनीडं समर्यादमारात्,
 सदेशं सवेशं ससीमोपकण्ठम् ।
@@ -50236,7 +50236,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0080" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-प्रचल
+प्रचल|प्रचलः
 प्रचल;
 लोलं चपलं चटुलं प्रचलं तरलं परिप्लवमधीरम् ।
 पारिप्लवं च धीराश्चलाचलं चञ्चलं च कथयन्ति ॥ ६९५ ॥
@@ -50252,7 +50252,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0080" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-परिप्लव|परिप्लवं
+परिप्लव|परिप्लवं|परिप्लवः
 परिप्लव;
 लोलं चपलं चटुलं प्रचलं तरलं परिप्लवमधीरम् ।
 पारिप्लवं च धीराश्चलाचलं चञ्चलं च कथयन्ति ॥ ६९५ ॥
@@ -50268,7 +50268,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0080" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-पारिप्लव|पारिप्लवं
+पारिप्लव|पारिप्लवं|पारिप्लवः
 पारिप्लव;
 लोलं चपलं चटुलं प्रचलं तरलं परिप्लवमधीरम् ।
 पारिप्लवं च धीराश्चलाचलं चञ्चलं च कथयन्ति ॥ ६९५ ॥
@@ -50284,7 +50284,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0080" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-चञ्चल|चंचल|चञ्चलं
+चञ्चल|चंचल|चञ्चलं|चञ्चलः
 चञ्चल;
 लोलं चपलं चटुलं प्रचलं तरलं परिप्लवमधीरम् ।
 पारिप्लवं च धीराश्चलाचलं चञ्चलं च कथयन्ति ॥ ६९५ ॥
@@ -50750,14 +50750,14 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0081" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-यमल|यमलं
+यमल|यमलं|यमलः
 यमल;
 युग्मं युगं च युगलं द्वन्द्वं द्वितयं यमं यमलम् ।
 ४।१।१।७००
 <a href="https://dub.sh/cslp?dict=ARMH&page=0081" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-मिथुन|मिथुनं
+मिथुन|मिथुनं|मिथुनः
 मिथुन;
 स्त्रीपुंसयोस्तु युग्मं मिथुनं परिकथ्यते सद्भिः ॥ ७०० ॥
 ४।१।१।७००
@@ -50788,7 +50788,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0081" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-प्रचुर|प्रचुरं
+प्रचुर|प्रचुरं|प्रचुरः
 प्रचुर;
 प्राज्यं भूरि प्रभूतं च प्रचुरं बहुलं बहु ।
 पुरुजं पुष्कलं पुष्टमदभ्रमभिधीयते ॥ ७०१ ॥
@@ -50828,7 +50828,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0081" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-पुष्ट|पुष्टं
+पुष्ट|पुष्टं|पुष्टः
 पुष्ट;
 प्राज्यं भूरि प्रभूतं च प्रचुरं बहुलं बहु ।
 पुरुजं पुष्कलं पुष्टमदभ्रमभिधीयते ॥ ७०१ ॥
@@ -51108,7 +51108,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0081" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-सख्य|सख्यं
+सख्य|सख्यं|सख्यः
 सख्य;
 सख्यं साप्तपदीनं सौहार्दं सौहृदं तथा स्नेहः ।
 मैत्री प्रीतिरजर्यं सभाजनं सङ्गतं प्रोक्तम् ॥ ७०६ ॥
@@ -51209,7 +51209,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0082" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-पूर्व|पूर्व्व|पूर्व्वः
+पूर्व|पूर्वः|पूर्व्व|पूर्व्वः
 पूर्व;
 आदिरग्रं पुरा पूर्वं प्रथमं प्राक् पुरः स्मृतम् ।
 ४।१।१।७०७
@@ -51288,7 +51288,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0082" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-एकान्त|एकान्तं
+एकान्त|एकान्तं|एकान्तः
 एकान्त;
 रहः प्रच्छन्नमेकान्तं निःशलाकमुपह्वरम् ।
 उपांशु विजनं प्रोक्तं रहस्यं गुह्यमुच्यते ॥ ७०८ ॥
@@ -51344,7 +51344,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0082" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-कैतव|कैतवं
+कैतव|कैतवं|कैतवः
 कैतव;
 कैतवं कपटं कूटं व्याजच्छद्मोपधिच्छलम् ।
 मिषं निभं च निर्दिष्टं व्यपदेशश्च सूरिभिः ॥ ७०९ ॥
@@ -51588,7 +51588,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0082" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-निवृत|निवृतं
+निवृत|निवृतं|निवृतः
 निवृत;
 निवृतं वेष्टितमुक्तं परिवृत्तं वलयितं परिक्षिप्तम् ।
 ४।१।१।७१२
@@ -51683,7 +51683,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0082" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-सर्व|सर्व्व|सर्व्वः
+सर्व|सर्वः|सर्व्व|सर्व्वः
 सर्व;
 कृत्स्नं समग्रं सकलं समस्तं,
 सर्वं च विश्वं निखिलाखिले च ।
@@ -51723,7 +51723,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0082" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-अर्ध|अर्द्धं|अर्द्धः
+अर्ध|अर्द्धं|अर्द्धः|अर्धः
 अर्ध;
 खण्डार्धनेमाः शकलं च भित्तं,
 सामीत्यसम्पूर्णसमानसंज्ञाः ॥ ७१३ ॥
@@ -52088,7 +52088,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0083" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-प्रकाम|प्रकामं
+प्रकाम|प्रकामं|प्रकामः
 प्रकाम;
 कामं प्रकामं पर्याप्तं नितान्तं भृशमुच्यते ॥ ७१८ ॥
 ४।१।१।७१८
@@ -52451,7 +52451,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0083" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-पौरुष|पौरुषं
+पौरुष|पौरुषं|पौरुषः
 पौरुष;
 प्राणः स्थाम बलं द्युम्नमोजः शुष्म तरः सहः ।
 प्रतापः पौरुषं तेजो विक्रमः स्यात्पराक्रमः ॥ ७२३ ॥
@@ -52567,7 +52567,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0083" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-भय|भयं
+भय|भयं|भयः
 भय;
 आतङ्को भयमाशङ्का दरस्त्रासश्च साध्वसम् ।
 ४।१।१।७२५
@@ -52847,7 +52847,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0084" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-वर्धन|वर्द्धनं|वर्द्धनः
+वर्धन|वर्द्धनं|वर्द्धनः|वर्धनः
 वर्धन;
 कल्पनं कर्तनं प्रोक्तं वर्धनं छेदनं तथा ।
 ४।१।१।७२९
@@ -52994,7 +52994,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0084" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-अनुपद|अनुपदं
+अनुपद|अनुपदं|अनुपदः
 अनुपद;
 उत्पिञ्जलमाकुलकं स्यादनुपदमन्वगन्वक्षम् ॥ ७३१ ॥
 ४।१।१।७३१
@@ -53587,7 +53587,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0085" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-किर्मीर|किर्म्मीर|किर्म्मीरः
+किर्मीर|किर्मीरः|किर्म्मीर|किर्म्मीरः
 किर्मीर;
 चित्रकिर्मीरकल्माषशबलोन्मिश्रकर्बुराः ।
 ४।१।१।७४१
@@ -53615,7 +53615,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0085" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-कर्बुर|कर्ब्बुरं|कर्ब्बुरः
+कर्बुर|कर्बुरः|कर्ब्बुरं|कर्ब्बुरः
 कर्बुर;
 चित्रकिर्मीरकल्माषशबलोन्मिश्रकर्बुराः ।
 ४।१।१।७४१
@@ -54219,14 +54219,14 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0086" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-प्रांशु
+प्रांशु|प्रांशुः
 प्रांशु;
 प्रांशूच्चमुन्नतं तुङ्गमुदग्रं दीर्घमायतम् ।
 ४।१।१।७५१
 <a href="https://dub.sh/cslp?dict=ARMH&page=0086" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-उच्च|उच्चं
+उच्च|उच्चं|उच्चः
 उच्च;
 प्रांशूच्चमुन्नतं तुङ्गमुदग्रं दीर्घमायतम् ।
 ४।१।१।७५१
@@ -54394,7 +54394,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0086" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-वर्तुल|वर्त्तुल|वर्त्तुलं|वर्त्तुलः
+वर्तुल|वर्तुलः|वर्त्तुल|वर्त्तुलं|वर्त्तुलः
 वर्तुल;
 निस्तलं वर्तुलं वृत्तं स्थपुटं विषमोन्नतम् ॥ ७५३ ॥
 ४।१।१।७५३
@@ -55521,7 +55521,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0088" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-फाण्ट|फांट|फाण्टं
+फाण्ट|फांट|फाण्टं|फाण्टः
 फाण्ट;
 अनायासार्थकं फाण्टमन्तर्गडु निरर्थकम् ।
 ४।१।१।७७४
@@ -57256,7 +57256,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0093" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-पाप|पापं
+पाप|पापं|पापः
 पाप;
 रिष्टं पापाशुभयोररिष्टमशुभेऽपि निर्दिष्टम् ॥ ८०४ ॥
 ५।१।१।८०४
@@ -57298,7 +57298,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0093" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-पौरुष|पौरुषं
+पौरुष|पौरुषं|पौरुषः
 पौरुष;
 व्यासेऽपि विग्रहः स्यान्मानविशेषेऽपि पौरुषव्यामौ ।
 ५।१।१।८०५
@@ -57967,7 +57967,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0094" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-आर्य|आर्य्य|आर्य्यः
+आर्य|आर्यः|आर्य्य|आर्य्यः
 आर्य;
 आर्यः स्यात्सौविदल्लेऽपि व्रीहावप्यणुरिष्यते ।
 ५।१।१।८१४
@@ -58303,7 +58303,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0094" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-क्लीब
+क्लीब|क्लीबः
 क्लीब;
 क्लीवो विक्रमहीनेऽपि समयेऽपि कटः स्मृतः ।
 ५।१।१।८२०
@@ -58632,14 +58632,14 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0095" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-कठिन|कठिनं
+कठिन|कठिनं|कठिनः
 कठिन;
 जठरः कठिनेऽप्युक्तः प्राज्ञैः परिणतेऽपि च ॥ ८२५ ॥
 ५।१।१।८२५
 <a href="https://dub.sh/cslp?dict=ARMH&page=0095" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-परिणत|परिणतं
+परिणत|परिणतं|परिणतः
 परिणत;
 जठरः कठिनेऽप्युक्तः प्राज्ञैः परिणतेऽपि च ॥ ८२५ ॥
 ५।१।१।८२५
@@ -58695,7 +58695,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0095" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-कृच्छ्र|कृच्छ्रं|कृछ्र
+कृच्छ्र|कृच्छ्रं|कृच्छ्रः|कृछ्र
 कृच्छ्र;
 अत्ययशब्दः प्राज्ञैः कृच्छ्रे चातिक्रमे च निर्दिष्टः ॥ ८२६ ॥
 ५।१।१।८२६
@@ -58730,7 +58730,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0095" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-सम्बाध|संबाध|सम्बाधः
+सम्बाध|संबाध|संबाधः|सम्बाधः
 सम्बाध;
 उदरे जले कृपीटं सम्बाधः सङ्कटे भगेऽप्युक्तः ।
 ५।१।१।८२७
@@ -59514,7 +59514,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0096" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-सम्बन्ध|संबन्ध|संबंध|सम्बन्धः
+सम्बन्ध|संबन्ध|संबंध|संबन्धः|सम्बन्धः
 सम्बन्ध;
 मैथुनं कथ्यते सद्भिः सम्बन्धग्राम्यधर्मयोः ॥ ८३८ ॥
 ५।१।१।८३८
@@ -60351,7 +60351,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0097" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-अव्यापार
+अव्यापार|अव्यापारः
 अव्यापार;
 कालविशेषेऽवसरेऽव्यापारे पारतन्त्र्ये च ।
 मध्ये तथोत्सवे च क्षणशब्दः कथ्यते सद्भिः ॥ ८५१ ॥
@@ -60603,7 +60603,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0098" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-ललाम|ललामं
+ललाम|ललामं|ललामः
 ललाम;
 भूषायां लाङ्गूले प्रधानशृङ्गप्रभावपुण्ड्रेषु ।
 ध्वजलक्ष्मतुरङ्गेषु च नवसु ललामं प्रचक्षते प्राज्ञाः ॥ ८५५ ॥
@@ -60891,7 +60891,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0098" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-तीर्थ|तीर्थं
+तीर्थ|तीर्थं|तीर्थः
 तीर्थ;
 द्विरदकराग्रे पद्मे खड्गफले व्योम्नि वाद्यभाण्डमुखे ।
 अगदे जले च तीर्थे पुष्करमष्टासु निर्दिष्टम् ॥ ८५८ ॥
@@ -61099,7 +61099,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0098" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-तीर्थ|तीर्थं
+तीर्थ|तीर्थं|तीर्थः
 तीर्थ;
 योनौ जलावतारे च मन्त्राद्यष्टादशस्वपि ।
 पुण्यक्षेत्रे तथा पात्रे तीर्थ स्याद्दर्शनेषु च ॥ ८६२ ॥
@@ -61211,7 +61211,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0099" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-पौर|पौरं
+पौर|पौरं|पौरः
 पौर;
 सत्त्वादीनां साम्यावस्थां प्रकृतिं वदन्ति तत्त्वज्ञाः ।
 पौरामात्यादीनि च कारणकारुस्वरूपाणि ॥ ८६४ ॥
@@ -61693,7 +61693,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0099" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-प्रकाशन
+प्रकाशन|प्रकाशनः
 प्रकाशन;
 उत्साहनसूचनयोः प्रकाशने गन्धनं प्रोक्तम् ॥ ८७० ॥
 ५।१।१।८७०
@@ -62204,7 +62204,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0100" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-सामीप्य|सामीप्यं
+सामीप्य|सामीप्यं|सामीप्यः
 सामीप्य;
 समयानिकषाशब्दौ सामीप्ये कीर्तितौ बुधैः ।
 ५।१।१।८७९
@@ -62218,7 +62218,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0100" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-सामीप्य|सामीप्यं
+सामीप्य|सामीप्यं|सामीप्यः
 सामीप्य;
 समयानिकषाशब्दौ सामीप्ये कीर्तितौ बुधैः ।
 ५।१।१।८७९
@@ -62344,7 +62344,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0100" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-वर्तमान|वर्त्तमान|वर्त्तमानः
+वर्तमान|वर्तमानः|वर्त्तमान|वर्त्तमानः
 वर्तमान;
 वर्तमाने च युक्ते च साम्प्रतं सम्प्रचक्षते ॥ ८८० ॥
 ५।१।१।८८०
@@ -62750,7 +62750,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0101" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-अन्तिक|अंतिक|अन्तिकं
+अन्तिक|अंतिक|अन्तिकं|अन्तिकः
 अन्तिक;
 असंशये भवेदद्धा सहार्थान्तिकयोरमा ॥ ८८५ ॥
 ५।१।१।८८५
@@ -62771,7 +62771,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0101" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-कल्याण|कल्याणं
+कल्याण|कल्याणं|कल्याणः
 कल्याण;
 अथानन्तरकल्याणसम्प्रश्नादिषु कथ्यते ।
 ५।१।१।८८६

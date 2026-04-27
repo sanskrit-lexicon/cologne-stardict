@@ -2,7 +2,7 @@
 #bookname=frish (sa-ru)
 #stripmethod=keep
 #sametypesequence=h
-#description=Data from https://www.sanskrit-lexicon.uni-koeln.de/ as on 2026-04-08
+#description=Data from https://www.sanskrit-lexicon.uni-koeln.de/ as on 2026-04-27
 
 अ|अं|अः
 I a- pron., cf. a-tas, a-tra &c.
@@ -149,7 +149,7 @@ akrodha m.
 <a href="https://dub.sh/cslp?dict=FRI&page=011" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-अक्रोधन
+अक्रोधन|अक्रोधनः
 akrodhana
 1 nehněvající se
 2 не сердящийся
@@ -250,7 +250,7 @@ akṣita
 <a href="https://dub.sh/cslp?dict=FRI&page=012" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-अक्षोभ्य
+अक्षोभ्य|अक्षोभ्यः
 akṣobhya
 1 nepohnutelný
 2 недвижимый
@@ -306,7 +306,7 @@ agāra n.
 <a href="https://dub.sh/cslp?dict=FRI&page=012" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-अगुण
+अगुण|अगुणः
 aguṇa
 1 bez attributů, bez předností; m. vada, chyba
 2 без атрибутов, без преимуществ; m. недостаток, ошибка
@@ -412,7 +412,7 @@ agriya, agrya
 <a href="https://dub.sh/cslp?dict=FRI&page=012" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-अघ|अघं
+अघ|अघं|अघः
 agha
 1 zlý, špatný, hříšný; n. zlo, škoda, hřích
 2 злой, плохой, грешный; n. зло, вред, грех
@@ -585,7 +585,7 @@ acintayant
 <a href="https://dub.sh/cslp?dict=FRI&page=013" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-अचिन्त्य|अचिंत्य
+अचिन्त्य|अचिंत्य|अचिन्त्यः
 acintya
 1 nepochopitelný
 2 непонятный
@@ -705,7 +705,7 @@ ajāvika n.
 <a href="https://dub.sh/cslp?dict=FRI&page=014" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-अजाश्व
+अजाश्व|अजाश्वः
 ajāśva
 1 užívající koz jako koní
 2 пользующийся козами как лошадьми
@@ -739,7 +739,7 @@ ajya absol. ≺ añj, q. v.
 <a href="https://dub.sh/cslp?dict=FRI&page=014" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-अज्र
+अज्र|अज्रः
 ajra m.
 1 rovina, niva
 2 равнина, нива
@@ -1114,7 +1114,7 @@ atimūrkha
 <a href="https://dub.sh/cslp?dict=FRI&page=015" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-अतिरात्र
+अतिरात्र|अतिरात्रः
 atirātra
 1 trvající přes noc
 2 продолжающийся всю ночь
@@ -1154,7 +1154,7 @@ atisaṃtuṣṭa
 <a href="https://dub.sh/cslp?dict=FRI&page=015" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-अतिसर्व|अतिसर्व्व
+अतिसर्व|अतिसर्वः|अतिसर्व्व
 atisarva
 1 stojící nad vším (všemi); nadbytečně úplný
 2 стоящий над всем (всеми); излишне полный
@@ -1274,7 +1274,7 @@ atyetavai ved. inf.
 <a href="https://dub.sh/cslp?dict=FRI&page=016" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-अत्र
+अत्र|अत्रः
 atra, atrā adv.
 1 zde, sem; tu, tehdy, v tom případě nebo ohledu
 2 здесь, сюда; тут, тогда, в том случае или отношении
@@ -1484,7 +1484,7 @@ adṛṣṭa
 <a href="https://dub.sh/cslp?dict=FRI&page=017" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-अदोष
+अदोष|अदोषः
 adoṣa
 1 nevinný, beztrestný; m. nevina, beztrestnost
 2 невинный, безнаказный; m. невинность, безнаказность
@@ -2033,7 +2033,7 @@ anarghya
 <a href="https://dub.sh/cslp?dict=FRI&page=019" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-अनर्थ
+अनर्थ|अनर्थः
 anartha m.
 1 neprospěch, škoda
 2 неполезность, вред
@@ -2153,7 +2153,7 @@ anādṛtya absol.
 <a href="https://dub.sh/cslp?dict=FRI&page=020" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-अनामय|अनामयं
+अनामय|अनामयं|अनामयः
 anāmaya
 1 prost choroby; n. zdraví
 2 избавленный от болезни; n. здоровье
@@ -2169,7 +2169,7 @@ anāyaka
 <a href="https://dub.sh/cslp?dict=FRI&page=020" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-अनार्य|अनार्य्य|अनार्य्यः
+अनार्य|अनार्यः|अनार्य्य|अनार्य्यः
 anārya
 1 nízkého rodu, neárijský, nečestný
 2 низкого рода, неарийский, нечестный
@@ -2281,7 +2281,7 @@ anukampin
 <a href="https://dub.sh/cslp?dict=FRI&page=020" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-अनुकर
+अनुकर|अनुकरः
 anukara
 1 napodobující
 2 подражающий
@@ -2377,7 +2377,7 @@ anuttama
 <a href="https://dub.sh/cslp?dict=FRI&page=021" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-अनुत्साह
+अनुत्साह|अनुत्साहः
 anutsāha m.
 1 nepevnost, slabost
 2 непрочность, слабость
@@ -2481,7 +2481,7 @@ anubhūta (pp. ≺ bhū)
 <a href="https://dub.sh/cslp?dict=FRI&page=021" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-अनुमत
+अनुमत|अनुमतः
 anumata (pp. ≺ man) n.
 1 souhlas, dovolení
 2 согласие, разрешение
@@ -2577,7 +2577,7 @@ anuvṛtti f.
 <a href="https://dub.sh/cslp?dict=FRI&page=022" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-अनुव्रत
+अनुव्रत|अनुव्रतः
 anuvrata
 1 poslušný, oddaný
 2 послушный, преданный
@@ -2678,7 +2678,7 @@ aneka
 <a href="https://dub.sh/cslp?dict=FRI&page=022" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-अनेकार्थ
+अनेकार्थ|अनेकार्थः
 anekārtha
 1 (slovo) mající víc než jeden význam
 2 (слово) с больше чем одним значением
@@ -2702,7 +2702,7 @@ antatas adv.
 <a href="https://dub.sh/cslp?dict=FRI&page=022" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-अन्तःस्थ
+अन्तःस्थ|अन्तःस्थः
 antaḥstha, antastha
 1 stojící uprostřed
 2 стоящий по середине
@@ -2875,7 +2875,7 @@ anti adv.
 <a href="https://dub.sh/cslp?dict=FRI&page=023" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-अन्तिक|अंतिक|अन्तिकं
+अन्तिक|अंतिक|अन्तिकं|अन्तिकः
 antika n.
 1 blízkost
 2 близость
@@ -3163,7 +3163,7 @@ apakarṣaṇa n.
 <a href="https://dub.sh/cslp?dict=FRI&page=025" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-अपकृष्ट|अपकृष्टं
+अपकृष्ट|अपकृष्टं|अपकृष्टः
 apakṛṣṭa (pp. ≺ I karṣ)
 1 stažený, nízký) bídný
 2 стянутый, низкий, бедный
@@ -3488,7 +3488,7 @@ apūpa m.
 <a href="https://dub.sh/cslp?dict=FRI&page=026" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-अपूर्व|अपूर्व्व|अपूर्व्वं
+अपूर्व|अपूर्वः|अपूर्व्व|अपूर्व्वं
 apūrva
 1 nebývalý, mimořádný, nový
 2 небывалый, чрезвычайный, новый
@@ -3672,7 +3672,7 @@ aprārthanīya
 <a href="https://dub.sh/cslp?dict=FRI&page=027" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-अप्रिय|अप्रियं
+अप्रिय|अप्रियं|अप्रियः
 apriya
 1 nemilý, nepříjemný
 2 немилый, неприятный
@@ -3752,7 +3752,7 @@ abhagna (pp. ≺ bhañj)
 <a href="https://dub.sh/cslp?dict=FRI&page=027" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-अभय|अभयं
+अभय|अभयं|अभयः
 abhaya
 1 neznající strach, bezpečný; n. klid, jistota
 2 не знающий страха, безопасный; n. покой, уверенность
@@ -4000,7 +4000,7 @@ abhimānavant
 <a href="https://dub.sh/cslp?dict=FRI&page=028" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-अभिमुख|अभिमुखं
+अभिमुख|अभिमुखं|अभिमुखः
 abhimukha (f. -ī, -ā)
 1 s tváří obrácenou k něčemu, mířící, obírající se něčím
 2 с лицом обращенным к чему-нибудь, направляющийся, занимающийся чем-нибудь
@@ -4442,7 +4442,7 @@ amānava
 <a href="https://dub.sh/cslp?dict=FRI&page=030" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-अमानुष
+अमानुष|अमानुषः
 amānuṣa (f. -ī)
 1 nadpřirozený, nebeský
 2 сверхъестественный, небесный
@@ -4727,7 +4727,7 @@ arājaka
 <a href="https://dub.sh/cslp?dict=FRI&page=032" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-अराय
+अराय|अरायः
 arāya m.
 1 druh zlých duchů
 2 вид злых духов
@@ -4993,7 +4993,7 @@ arthin
 <a href="https://dub.sh/cslp?dict=FRI&page=033" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-अर्ध|अर्द्धं|अर्द्धः
+अर्ध|अर्द्धं|अर्द्धः|अर्धः
 ardha
 1 poloviční; m., n. polovice
 2 половинный; m., n. половина
@@ -5190,7 +5190,7 @@ alaukika (f. -ī)
 <a href="https://dub.sh/cslp?dict=FRI&page=034" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-अल्प|अल्पं
+अल्प|अल्पं|अल्पः
 alpa
 1 malý, drobný, bezvýznamný
 2 малый, мелкий, незначительный, неважный
@@ -5773,7 +5773,7 @@ aśita
 <a href="https://dub.sh/cslp?dict=FRI&page=037" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-अशिव
+अशिव|अशिवः
 aśiva
 1 nemilostivý, krutý, zlý
 2 немилостивый, суровый, злой
@@ -5805,7 +5805,7 @@ aśūnya
 <a href="https://dub.sh/cslp?dict=FRI&page=037" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-अशेष|अशेषं
+अशेष|अशेषं|अशेषः
 aśeṣa
 1 beze zbytku, úplný, všechen
 2 без остатка, полный, весь
@@ -5986,7 +5986,7 @@ I √as asti
 <a href="https://dub.sh/cslp?dict=FRI&page=038" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-अस्ति
+अस्ति|अस्तिः
  +asti (cauro gṛhītaḥ)
 1 (zloděj byl) náhodou (chycen)
 2 (вор был) случайно (пойман)
@@ -6050,7 +6050,7 @@ asaṃtoṣa m.
 <a href="https://dub.sh/cslp?dict=FRI&page=038" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-असंभव|असम्भव
+असंभव|असम्भव|असंभवः
 asaṃbhava m.
 1 neexistence, nevhodnost
 2 несуществование, неуместность
@@ -6090,7 +6090,7 @@ asakta (pp. ≺ sañj)
 <a href="https://dub.sh/cslp?dict=FRI&page=038" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-असत्य
+असत्य|असत्यः
 asatya
 1 nepravdivý, lživý; n. nepravda
 2 неправдивый, лживый; n. неправда
@@ -6550,7 +6550,7 @@ II ā pcl., adv.
 <a href="https://dub.sh/cslp?dict=FRI&page=040" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-आकम्पित
+आकम्पित|आकंपित|आकम्पितं
 ākampitá (pp. ≺ kamp)
 1 chvějící se
 2 дрожащий
@@ -6710,7 +6710,7 @@ II ā pcl., adv.
 <a href="https://dub.sh/cslp?dict=FRI&page=041" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-आघृणि
+आघृणि|आघृणिः
 āghṛṇi
 1 sálající
 2 пылающий
@@ -6790,7 +6790,7 @@ II ā pcl., adv.
 <a href="https://dub.sh/cslp?dict=FRI&page=041" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-आञ्जन|आंजन
+आञ्जन|आंजन|आञ्जनः
 āñjana
 1 antimonový
 2 сурьмяной
@@ -6806,7 +6806,7 @@ II ā pcl., adv.
 <a href="https://dub.sh/cslp?dict=FRI&page=041" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-आण्डज
+आण्डज|आण्डजः
 āṇḍaja
 1 rodící se nebo zrozený z vejce; m. pták
 2 рождающийся или рожденный из яйца; m. птица
@@ -7067,7 +7067,7 @@ II āditya
 <a href="https://dub.sh/cslp?dict=FRI&page=043" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-आध्र
+आध्र|आध्रः
 ādhra
 1 chudý, nuzný
 2 бедный, нуждающийся
@@ -7469,7 +7469,7 @@ II āpastamba m. (-ī f.)
 <a href="https://dub.sh/cslp?dict=FRI&page=045" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-आरण्य
+आरण्य|आरण्यः
 āraṇya
 1 lesní, divoký
 2 лесной, дикий
@@ -7525,7 +7525,7 @@ II āpastamba m. (-ī f.)
 <a href="https://dub.sh/cslp?dict=FRI&page=045" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-आरुणि
+आरुणि|आरुणिः
 āruṇi m. patr.
 1 potomek Aniṇův; jméno Uddālaka, syna Aruṇova
 2 потомок Аруны; имя Уддалаки, сына Аруны
@@ -7612,7 +7612,7 @@ II āpastamba m. (-ī f.)
 <a href="https://dub.sh/cslp?dict=FRI&page=045" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-आर्य|आर्य्य|आर्य्यः
+आर्य|आर्यः|आर्य्य|आर्य्यः
 ārya (f. āryā, ārī)
 1 svoḥodný, ctihodný, vznešený; m. Ārya, příslušník prvých tří varṇů
 2 свободный, достопочтенный, возвышенный; m. Ариа, член первых трех варн
@@ -7636,7 +7636,7 @@ II āpastamba m. (-ī f.)
 <a href="https://dub.sh/cslp?dict=FRI&page=045" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-आर्यमिश्र|आर्य्यमिश्र|आर्य्यमिश्रः
+आर्यमिश्र|आर्यमिश्रः|आर्य्यमिश्र|आर्य्यमिश्रः
 āryamiśra
 1 ctihodný
 2 достопочтенный
@@ -7833,7 +7833,7 @@ II āpastamba m. (-ī f.)
 <a href="https://dub.sh/cslp?dict=FRI&page=046" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-आश
+आश|आशः
 āśa (-°) m.
 1 jídlo
 2 пища
@@ -7966,7 +7966,7 @@ deham āśrita
 <a href="https://dub.sh/cslp?dict=FRI&page=047" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-आश्वीन|आश्वीनं
+आश्वीन|आश्वीनं|आश्वीनः
 āśvīna n.
 1 dráha jezdce za den
 2 путь, который всадник проедет в течении дня
@@ -8094,7 +8094,7 @@ II √ās āste
 <a href="https://dub.sh/cslp?dict=FRI&page=047" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-आस्वाद
+आस्वाद|आस्वादः
 āsvāda m.
 1 ochutnávání, chuť
 2 распробывание, вкус
@@ -8543,7 +8543,7 @@ itara (f. itarā, n. itaram, itarat)
 <a href="https://dub.sh/cslp?dict=FRI&page=050" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-इतरेतर
+इतरेतर|इतरेतरं
 itara—itara
 1 jeden — druhý
 2 один — другой
@@ -8727,7 +8727,7 @@ indrāṇī f.
 <a href="https://dub.sh/cslp?dict=FRI&page=051" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-इन्द्रिय|इंद्रिय|इन्द्रियं
+इन्द्रिय|इंद्रिय|इन्द्रियं|इन्द्रियः
 indriya n.
 1 síla, projev síly, smysl, smyslový orgán
 2 сила, выражение силы, смысл, орган чувств
@@ -9072,7 +9072,7 @@ caus. īkṣayati
 <a href="https://dub.sh/cslp?dict=FRI&page=053" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-ईदृक्ष
+ईदृक्ष|ईदृक्षः
 Īdṛkṣa, īdṛś, īdṛśa (f. -ī)
 1 takového vzhledu, takový
 2 такого вида, такой
@@ -9346,7 +9346,7 @@ ucita (pp. ≺ uc)
 <a href="https://dub.sh/cslp?dict=FRI&page=055" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-उच्च|उच्चं
+उच्च|उच्चं|उच्चः
 ucca
 1 vysoký, hlasitý, silný
 2 высокий, звучный, сильный
@@ -9606,7 +9606,7 @@ uttarasūkta n.
 <a href="https://dub.sh/cslp?dict=FRI&page=056" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-उत्तारण
+उत्तारण|उत्तारणः
 uttāraṇa n.
 1 převezení (přes řeku)
 2 переправа (через реку)
@@ -9944,7 +9944,7 @@ udgrāham absol.
 <a href="https://dub.sh/cslp?dict=FRI&page=058" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-उद्दण्ड|उद्दंड
+उद्दण्ड|उद्दंड|उद्दण्डः
 uddaṇḍa
 1 se vztyčeným stonkem nebo holí; vysoký
 2 с поднятой ножкой цветка или палкой; высокий
@@ -10013,7 +10013,7 @@ uddhāra m.
 <a href="https://dub.sh/cslp?dict=FRI&page=058" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-उद्भिज्ज|उद्भिज्जं
+उद्भिज्ज|उद्भिज्जं|उद्भिज्जः
 udbhijja
 1 vyrážející ze země (o rostlině)
 2 растущий из земли (о растении)
@@ -10194,7 +10194,7 @@ upakrānta (pp. ≺ kram)
 <a href="https://dub.sh/cslp?dict=FRI&page=059" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-उपक्षय
+उपक्षय|उपक्षयः
 upakṣaya m.
 1 ztráta, výdej
 2 потеря, выдача
@@ -11139,7 +11139,7 @@ II ✓ūh ūhati, pp. ūḍha, ūhita
 <a href="https://dub.sh/cslp?dict=FRI&page=064" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-एक|एकं
+एक|एकं|एकः
 eka num.
 1 jeden, jednotlivý, jediný, jedinečný, vynikající
 2 один, отдельный, единственный, тот же самый, уникальный, выдающийся
@@ -11291,7 +11291,7 @@ II ekādaśa (f. -ī) num. ord.
 <a href="https://dub.sh/cslp?dict=FRI&page=065" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-एकान्त|एकान्तं
+एकान्त|एकान्तं|एकान्तः
 ekānta m.
 1 samota, výlučnost, jednota
 2 одиночество, исключительность, единство
@@ -11395,7 +11395,7 @@ enas n.
 <a href="https://dub.sh/cslp?dict=FRI&page=065" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-एव|एवं
+एव|एवं|एवः
 eva, evā pcl. empl.
 1 tak, věru, jen
 2 так, право, только
@@ -11451,7 +11451,7 @@ ehi 2. sg. imperat. act. ≺ ā-i
 <a href="https://dub.sh/cslp?dict=FRI&page=065" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-ऐड
+ऐड|ऐडः
 aiḍa, aila m.
 1 syn Iḍin
 2 сын Иды
@@ -11704,7 +11704,7 @@ kaṭerakagrāma m.
 <a href="https://dub.sh/cslp?dict=FRI&page=067" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-कठिन|कठिनं
+कठिन|कठिनं|कठिनः
 kaṭhina
 1 tvrdý, krutý
 2 твердый, жестокий
@@ -12850,7 +12850,7 @@ kalpana n., kalpanā f.
 <a href="https://dub.sh/cslp?dict=FRI&page=073" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-कल्याण|कल्याणं
+कल्याण|कल्याणं|कल्याणः
 kalyāṇa (f. -ī)
 1 krásný, milý, dobrý, příznivý, vynikající; f. krasavice; n. štěstí, zdar, ctnost
 2 красивый, милый, хороший, благоприятный, выдающийся; f. красавица; n. счастье, удача, добродетель
@@ -14092,7 +14092,7 @@ kuvyasana n.
 <a href="https://dub.sh/cslp?dict=FRI&page=079" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-कुशल|कुशलं
+कुशल|कुशलं|कुशलः
 kuśala
 1 správný, vhodný, vzkvétající, zdravý, obratný; n. schopnost, zdraví, štěstí
 2 правильный, подходящий, процветающий, здоровый, ловкий; n. способность, здоровье, счастье
@@ -14113,7 +14113,7 @@ kuśūla m.
 <a href="https://dub.sh/cslp?dict=FRI&page=080" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-कुसुम|कुसुमं
+कुसुम|कुसुमं|कुसुमः
 kusuma n.
 1 květ, květina
 2 цвет, цветок
@@ -14227,7 +14227,7 @@ kūla n.
 <a href="https://dub.sh/cslp?dict=FRI&page=080" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-कृच्छ्र|कृच्छ्रं|कृछ्र
+कृच्छ्र|कृच्छ्रं|कृच्छ्रः|कृछ्र
 kṛcchra
 1 obtížný, strastný, špatný; n. obtíž, strast, nebezpečí
 2 затруднительный, горестный, плохой; n. затруднение, горе, опасность
@@ -14291,7 +14291,7 @@ kṛtaniścaya
 <a href="https://dub.sh/cslp?dict=FRI&page=080" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-कृताङ्क|कृतांक
+कृताङ्क|कृतांक|कृताङ्कः
 kṛtāṅka
 1 poznamenaný
 2 отмеченный
@@ -14501,7 +14501,7 @@ keṭaraka m. (?)
 <a href="https://dub.sh/cslp?dict=FRI&page=081" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-केत
+केत|केतः
 keta m.
 1 přání, záměr, znamení
 2 желание, умысел, знак
@@ -14719,7 +14719,7 @@ kauṃteya v. kaunteya
 <a href="https://dub.sh/cslp?dict=FRI&page=082" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-कौटिल्य|कौटिल्यं
+कौटिल्य|कौटिल्यं|कौटिल्यः
 kauṭilya n.
 1 křivost, prolhanost; m., n. pr.
 2 искривленность, лживость; m., n. pr.
@@ -15174,7 +15174,7 @@ klama m.
 <a href="https://dub.sh/cslp?dict=FRI&page=085" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-क्लीब
+क्लीब|क्लीबः
 klība
 1 nemužný, impotentní, zbabělý; m. eunuch; n. neutrum
 2 немужественный, импотентный, трусливый; m. евнух; n. средний род
@@ -16573,7 +16573,7 @@ gādha
 <a href="https://dub.sh/cslp?dict=FRI&page=092" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-गान्धर्व|गांधर्व|गान्धर्व्वं|गान्धर्व्वः
+गान्धर्व|गांधर्व|गान्धर्वः|गान्धर्व्वं|गान्धर्व्वः
 gāndharva (f. -ī)
 1 gandharvský; m. sňatek bez obřadů; zpěvák; pl. jméno lidu; n. zpěv, hudba
 2 гандхарвский; m. бракосочетание без обряда; певец; pl. имя народа; n. пение, музыка
@@ -16851,7 +16851,7 @@ gṛbhāy grbhāyati
 <a href="https://dub.sh/cslp?dict=FRI&page=093" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-गृह|गृहं
+गृह|गृहं|गृहः
 gṛha m.
 1 sluha; m., n. dům, obydlí, chrám; m. pl. obyvatelé domu, rodina, žena
 2 слуга; m., n. дом, жилище, храм; m. pl. обитатели дома, семья, жена
@@ -16944,7 +16944,7 @@ gehastha m., v. gṛhastha
 <a href="https://dub.sh/cslp?dict=FRI&page=094" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-गैरिक|गैरिकं
+गैरिक|गैरिकं|गैरिकः
 gairika n.
 1 rudka
 2 цветная глина
@@ -17475,7 +17475,7 @@ grāhin* (-°)
 <a href="https://dub.sh/cslp?dict=FRI&page=098" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-ग्राह्य
+ग्राह्य|ग्राह्यः
 grāhya*
 1 mající býti vzat nebo přijat
 2 тот, который должен быть взятым или принятым
@@ -17910,7 +17910,7 @@ cañcutva n.
 <a href="https://dub.sh/cslp?dict=FRI&page=101" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-चण
+चण|चणः
 caṇa v. cañcu; caṇatva n., v. cañcutva
 <a href="https://dub.sh/cslp?dict=FRI&page=101" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
@@ -19404,7 +19404,7 @@ jaḍa
 <a href="https://dub.sh/cslp?dict=FRI&page=108" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-जतु
+जतु|जतुः
 jatu n.
 1 lak, guma
 2 лак, резина
@@ -19420,7 +19420,7 @@ jatu n.
 <a href="https://dub.sh/cslp?dict=FRI&page=108" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-जात|जातं
+जात|जातं|जातः
  +pp. jāta
 1 zrozený
 2 рожденный
@@ -19492,7 +19492,7 @@ janakatanayā f.
 <a href="https://dub.sh/cslp?dict=FRI&page=109" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-जनन|जननं
+जनन|जननं|जननः
 janana (f. -ī)
 1 plodící, působící; m. otec; f. matka; n. zrození, život
 2 зарождающий, вызывающий; m. отец; f. мать; n. рождение, жизнь
@@ -19867,7 +19867,7 @@ jājṛmbhamāṇa p. pr. intens. ≺ jṛmbh, q. v.
 <a href="https://dub.sh/cslp?dict=FRI&page=111" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-जात|जातं
+जात|जातं|जातः
 I jāta (pp. ≺ jan)
 1 zrozený, vzrostlý, vzniklý, způsobený, přihodivší se, změnivší se, žijící; m. syn
 2 рожденный, выросший, возникший, вызванный, случившийся, изменившийся, живущий; m. сын
@@ -19875,7 +19875,7 @@ I jāta (pp. ≺ jan)
 <a href="https://dub.sh/cslp?dict=FRI&page=111" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-जात|जातं
+जात|जातं|जातः
 II jāta n.
 1 bytost, původ, rod, druh, souhrn
 2 существо, происхождение, род, вид, итог
@@ -20889,7 +20889,7 @@ tadīya
 <a href="https://dub.sh/cslp?dict=FRI&page=116" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-तद्गत
+तद्गत|तद्गतः
 tadgata
 1 na něho (na ni atd.) upjatý (o mysli)
 2 на него (на неё и т. д.) сосредоточенный (о мысли)
@@ -20897,7 +20897,7 @@ tadgata
 <a href="https://dub.sh/cslp?dict=FRI&page=116" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-तद्धित
+तद्धित|तद्धितः
 taddhita n.
 1 suffix tvořící substantiva od jiných substantiv; jméno takto tvořené
 2 суффикс, образующий имя существительное от других имен существительных; имя, таким способом образованное
@@ -21653,7 +21653,7 @@ tithi m., f.
 <a href="https://dub.sh/cslp?dict=FRI&page=120" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-जन्मतिथि
+जन्मतिथि|जन्मतिथिः
  +janmatithi m., f.
 1 den narozenl
 2 день рождения
@@ -21759,7 +21759,7 @@ tīrṇa (pp. ≺ tar)
 <a href="https://dub.sh/cslp?dict=FRI&page=120" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-तीर्थ|तीर्थं
+तीर्थ|तीर्थं|तीर्थः
 tīrtha n.
 1 brod, cesta, koupaliště, poutní místo, vhodné místo nebo čas, ctihodná osoba
 2 брод, путь, купальня, паломническое место, подходящее место или время, почтенное лицо
@@ -22089,7 +22089,7 @@ tejas n.
 <a href="https://dub.sh/cslp?dict=FRI&page=122" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-तैत्तिरीय
+तैत्तिरीय|तैत्तिरीयः
 taittirīya m. pl.
 1 žáci Tittirovi
 2 ученики Титтири
@@ -23201,7 +23201,7 @@ daśaratha m., n. pr.; lit.:
 <a href="https://dub.sh/cslp?dict=FRI&page=128" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-दशरात्र
+दशरात्र|दशरात्रः
 daśarātra
 1 desítidenní; m., n. obřad trvající deset dní; deset dní
 2 десятидневный; m., n. обряд, продолжающийся десять дней; десять дней
@@ -23475,7 +23475,7 @@ dātavya
 <a href="https://dub.sh/cslp?dict=FRI&page=129" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-दान|दानं
+दान|दानं|दानः
 I dāna n.
 1 dání, dar, věnování, štědrost, povolení, provdání,
 2 дача, подарок, посвящение, щедрость, разрешение, выдача замуж
@@ -23483,7 +23483,7 @@ I dāna n.
 <a href="https://dub.sh/cslp?dict=FRI&page=129" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-दान|दानं
+दान|दानं|दानः
 II dāna n.
 1 šťáva na spáncích slona v době říje
 2 сок на висках слона в период течки
@@ -24462,7 +24462,7 @@ durmati
 <a href="https://dub.sh/cslp?dict=FRI&page=134" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-दुर्योधन|दुर्य्योधन|दुर्य्योधनः
+दुर्योधन|दुर्योधनः|दुर्य्योधन|दुर्य्योधनः
 duryodhana m., n. pr.; lit.
 1 "nepřemožitelný"
 2 "непобедимый"
@@ -25071,7 +25071,7 @@ daitya m.
 <a href="https://dub.sh/cslp?dict=FRI&page=136" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-दैव|दैवं
+दैव|दैवं|दैवः
 daiva (f. -ī)
 1 patřící bohum, týkající se bohů, božský, nebeský, královský, poslaný osudem; n. osud
 2 принадлежащий богам, касающийся богов, божественный, небесный, королевский, ниспосланный судьбой; n. судьба
@@ -25095,7 +25095,7 @@ daivāsura (f. -ī)
 <a href="https://dub.sh/cslp?dict=FRI&page=137" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-दोरक
+दोरक|दोरकं|दोरकः
 dorака n.
 1 provaz
 2 веревка
@@ -25342,7 +25342,7 @@ drupada n.
 <a href="https://dub.sh/cslp?dict=FRI&page=138" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-द्रुम
+द्रुम|द्रुमः
 druma m.
 1 strom
 2 дерево
@@ -26316,7 +26316,7 @@ dhik interj.
 <a href="https://dub.sh/cslp?dict=FRI&page=143" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-धिष्ण्य|धिष्ण्यं
+धिष्ण्य|धिष्ण्यं|धिष्ण्यः
 dhiṣṇya
 1 velebný, svatý; zbožný
 2 величественный, святой; набожный
@@ -26433,7 +26433,7 @@ dhūmādi
 <a href="https://dub.sh/cslp?dict=FRI&page=144" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-धूर्त|धूर्त्त|धूर्त्तं|धूर्त्तः
+धूर्त|धूर्तः|धूर्त्त|धूर्त्तं|धूर्त्तः
 dhūrta
 1 chytrý, prohnaný; m. šibal
 2 хитрый; m. ловкач
@@ -27176,7 +27176,7 @@ narendra, nareśvara m., v. narapati
 <a href="https://dub.sh/cslp?dict=FRI&page=147" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-नर्य|नर्य्य
+नर्य|नर्यः|नर्य्य
 narya
 1 lidský, mužský, mužný
 2 человеческий, мужской, мужественный
@@ -27404,7 +27404,7 @@ nāṭaka m.
 <a href="https://dub.sh/cslp?dict=FRI&page=148" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-नाट्य|नाट्यं
+नाट्य|नाट्यं|नाट्यः
 nāṭya n.
 1 tanec, dramatickě umění
 2 танец, драматическое искусство
@@ -27588,7 +27588,7 @@ nārī f.
 <a href="https://dub.sh/cslp?dict=FRI&page=149" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-नाल|नालं
+नाल|नालं|नालः
 nāla m., n.
 1 lodyha, trubice
 2 стебель, трубка
@@ -27781,7 +27781,7 @@ nikara m.
 <a href="https://dub.sh/cslp?dict=FRI&page=150" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-निकाम|निकामं
+निकाम|निकामं|निकामः
 nikāma m.
 1 přání, tužba
 2 желание, мечта
@@ -27938,7 +27938,7 @@ nidrā f.
 <a href="https://dub.sh/cslp?dict=FRI&page=151" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-निधन|निधनं
+निधन|निधनं|निधनः
 nidhana m.
 1 usazení, sídlo; konec, smrt
 2 поселение, место жительства; конец, смерть
@@ -28146,7 +28146,7 @@ niraya m.
 <a href="https://dub.sh/cslp?dict=FRI&page=152" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-निरर्थ
+निरर्थ|निरर्थः
 nirartha
 1 neužitečný, marný, nesmyslný
 2 бесполезный, напрасный, бессмысленный
@@ -28167,7 +28167,7 @@ niraśva
 <a href="https://dub.sh/cslp?dict=FRI&page=152" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-निराक्रन्द
+निराक्रन्द|निराक्रन्दः
 nirākranda
 1 nemající pomoc, bez ochránce
 2 без помощи, без охранителя
@@ -28623,7 +28623,7 @@ niṣaṇṇa (pp. ≺ sad)
 <a href="https://dub.sh/cslp?dict=FRI&page=154" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-निषूदन|निषूदनं
+निषूदन|निषूदनं|निषूदनः
 niṣūdana
 1 niíčcí, ničitel; n. záhuba
 2 уничтожающий, разоритель; n. гибель
@@ -28876,7 +28876,7 @@ pass. nīyate
 <a href="https://dub.sh/cslp?dict=FRI&page=156" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-नीच
+नीच|नीचः
 nīса
 1 nízký, snížený, hluboký (o hlase), nízký sociálně a mravně
 2 низкий, пониженный, глубокий (о голосе), низкий социально и нравственно
@@ -29057,7 +29057,7 @@ nṛpādāra m.
 <a href="https://dub.sh/cslp?dict=FRI&page=157" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-नृम्ण
+नृम्ण|नृम्णः
 nṛmṇa n.
 1 mužnost, odvaha, síla
 2 мужество, храбрость, сила
@@ -29368,7 +29368,7 @@ pañca num.
 <a href="https://dub.sh/cslp?dict=FRI&page=158" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-पञ्चक|पंचक|पञ्चकं
+पञ्चक|पंचक|पञ्चकं|पञ्चकः
 pañcaka
 1 složený z pěti; m., n. pětice, pět
 2 состоящий из пяти; m., n. пятерка, пять
@@ -29927,7 +29927,7 @@ II pad m.
 <a href="https://dub.sh/cslp?dict=FRI&page=162" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-पद|पदं
+पद|पदं|पदः
 pada n. (m.)
 1 krok, stopa, místo, sídlo, bydliště, postavení, důstojnost, hodnost, záležitost, věc, stopa jako míra, ěást, čtvrtina strofy, slovo
 2 шаг, след, место, место жительства, жилище, положение, достоинство, должность, дело, вещь, стопа (в качестве меры), часть, четверть строфы, слово
@@ -30179,7 +30179,7 @@ III√par pṛṇoti; ā, vyā, pp. āpṛta, vyāpṛta
 <a href="https://dub.sh/cslp?dict=FRI&page=163" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-परंतप|परन्तप|परन्तपः
+परंतप|परन्तप|परंतपः|परन्तपः
 paraṃtapa
 1 sužující nepřítele
 2 мучащий врага
@@ -30187,7 +30187,7 @@ paraṃtapa
 <a href="https://dub.sh/cslp?dict=FRI&page=163" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-परंपर|परम्पर|परम्परः
+परंपर|परम्पर|परंपरः|परम्परः
 paraṃpara
 1 jeden za druhým, následující
 2 один за другим, следующий
@@ -30272,7 +30272,7 @@ parameśvara m.
 <a href="https://dub.sh/cslp?dict=FRI&page=164" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-परम्पर|परंपर|परम्परः
+परम्पर|परंपर|परंपरः|परम्परः
 parampara v. paraṃpara
 1 jeden za druhým, následující
 2 один за другим, следующий
@@ -30464,7 +30464,7 @@ parārghya
 <a href="https://dub.sh/cslp?dict=FRI&page=165" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-परार्थ
+परार्थ|परार्थः
 parārtha m.
 1 nejvyšší nebo cizí záležitost nebo prospěch; dobro jiných
 2 высшее или чужое дело или польза; благо других
@@ -30616,7 +30616,7 @@ parijñāna n.
 <a href="https://dub.sh/cslp?dict=FRI&page=166" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-परिणत|परिणतं
+परिणत|परिणतं|परिणतः
 pariṇata (pp. ≺ nam)
 1 skloněný, starý, dozrálý, strávený, přetvořený
 2 склоненный, старый, созревший, переваренный, преобразованный
@@ -30725,7 +30725,7 @@ paribhū
 <a href="https://dub.sh/cslp?dict=FRI&page=166" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-परिमण्डल|परिमंडल|परिमण्डलं
+परिमण्डल|परिमंडल|परिमण्डलं|परिमण्डलः
 parimaṇḍala
 1 kulatý, okrouhlý; n. kruh
 2 круглый, округлый; n. круг
@@ -30946,7 +30946,7 @@ parokta (pp. ≺ vac)
 <a href="https://dub.sh/cslp?dict=FRI&page=167" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-परोक्ष
+परोक्ष|परोक्षं|परोक्षः
 paro'kṣa
 1 jsoucí mimo dohled, neviditelný, tajný
 2 находящийся не в поле зрения, невидимый, тайный
@@ -30954,7 +30954,7 @@ paro'kṣa
 <a href="https://dub.sh/cslp?dict=FRI&page=167" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-परोक्ष
+परोक्ष|परोक्षं|परोक्षः
 paro'kṣa acc., loc.
 1 za zády
 2 за спиной
@@ -30962,7 +30962,7 @@ paro'kṣa acc., loc.
 <a href="https://dub.sh/cslp?dict=FRI&page=167" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-परोक्ष
+परोक्ष|परोक्षं|परोक्षः
 paro'kṣa instr., abl.
 1 tajně
 2 тайно
@@ -31023,7 +31023,7 @@ paryaṅka m.
 <a href="https://dub.sh/cslp?dict=FRI&page=168" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-पर्यन्त|पर्यंत|पर्य्यन्त|पर्य्यन्तः
+पर्यन्त|पर्यंत|पर्यन्तः|पर्य्यन्त|पर्य्यन्तः
 paryanta m.
 1 obvod, kraj, konec; -° a. zakoncený
 2 округ, край, конец; -° a. оконченный
@@ -31529,7 +31529,7 @@ pānīya
 <a href="https://dub.sh/cslp?dict=FRI&page=171" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-पाप|पापं
+पाप|पापं|पापः
 pāpa (f. -ī, -ā)
 1 špatný, zlý, bídný; m. ničema; n. zlo, hřích, vina
 2 плохой, злой, подлый; m. негодяй; n. зло, грех, вина
@@ -31545,7 +31545,7 @@ pāpa (f. -ī, -ā)
 <a href="https://dub.sh/cslp?dict=FRI&page=171" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-पापनाशन
+पापनाशन|पापनाशनः
 pāpanāśana
 1 ničící hřích, ocišťující
 2 уничтожающий грех, очищающий
@@ -32621,7 +32621,7 @@ puṣkala
 <a href="https://dub.sh/cslp?dict=FRI&page=176" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-पुष्ट|पुष्टं
+पुष्ट|पुष्टं|पुष्टः
 puṣṭa (pp. ≺ pus)
 1 vyživený, tučný, blahobytný; n. blahobyt, bohatství, zdar, růst
 2 выкормленный, жирный, преуспевающий; n. благосостояние, богатство, удача, рост
@@ -32802,7 +32802,7 @@ pūrṇacandra, pūrṇendu m.
 <a href="https://dub.sh/cslp?dict=FRI&page=177" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-पूर्व|पूर्व्व|पूर्व्वः
+पूर्व|पूर्वः|पूर्व्व|पूर्व्वः
 pūrva
 1 jsoucí vpředu, prvni, (prvni věk = mládí), přední, východní, předcházející, dávný, minulý, po- čátecní; -° provázený; m. starší bratr; m. pl. předkově
 2 находящийся впереди, первый, (первый возраст = молодость), передний, восточный, предшествующий, давний, прошедший, начальный; -° сопровождаемый; m. старший брат; m. pl. предки
@@ -32834,7 +32834,7 @@ pūrveṇa + gen., acc.
 <a href="https://dub.sh/cslp?dict=FRI&page=177" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-पूर्वज|पूर्व्वज|पूर्व्वजः
+पूर्वज|पूर्वजः|पूर्व्वज|पूर्व्वजः
 pūrvaja
 1 dříve zrozený, prvorozený, starší; m. pl. předkově
 2 прежде рожденный, первородный, старший; m. pl. предки
@@ -33084,7 +33084,7 @@ pauṇaki
 <a href="https://dub.sh/cslp?dict=FRI&page=179" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-पौर|पौरं
+पौर|पौरं|पौरः
 paura m.
 1 obyvatel města, měšťan
 2 житель города, горожанин
@@ -33100,7 +33100,7 @@ paurava (f. -ī)
 <a href="https://dub.sh/cslp?dict=FRI&page=179" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-पौरुष|पौरुषं
+पौरुष|पौरुषं|पौरुषः
 pauruṣa n.
 1 mužství, mužnost, síla
 2 мужественность, мужество, сила
@@ -33244,7 +33244,7 @@ prakṛti f.
 <a href="https://dub.sh/cslp?dict=FRI&page=179" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-प्रकेत
+प्रकेत|प्रकेतः
 praketa m.
 1 úkaz, jev
 2 явление
@@ -34842,7 +34842,7 @@ prasādita (pp. caus. ≺ sad)
 <a href="https://dub.sh/cslp?dict=FRI&page=188" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-प्रसाधक
+प्रसाधक|प्रसाधकः
 prasādhaka
 1 zkrašlující, zdokonalující, dokazující
 2 украшающий, совершенствующий, доказывающий
@@ -34983,7 +34983,7 @@ prāṃta m., n., v. prānta
 <a href="https://dub.sh/cslp?dict=FRI&page=189" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-प्रांशु
+प्रांशु|प्रांशुः
 prāṃśu
 1 vysoký, velký
 2 высокий, большой
@@ -35276,7 +35276,7 @@ prārthita (cf. arthay)
 <a href="https://dub.sh/cslp?dict=FRI&page=191" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-प्रावृत|प्रावृतं
+प्रावृत|प्रावृतं|प्रावृतः
 prāvṛta (pp. ≺ II var)
 1 obklopený, pokrytý
 2 окруженный, покрытый
@@ -35830,7 +35830,7 @@ baṃh bāh baṃhate, pp. bādha
 <a href="https://dub.sh/cslp?dict=FRI&page=194" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-बक
+बक|बकः
 baka m.
 1 druh volavky; pokrytec; n. pr.
 2 порода цапли; лицемер; n. pr.
@@ -36456,7 +36456,7 @@ bilhaṇa m., n. pr.
 <a href="https://dub.sh/cslp?dict=FRI&page=197" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-बीज|बीजं
+बीज|बीजं|बीजः
 bīja n.
 1 semeno, zárodek, původ, pramen
 2 семя, зародыш, происхождение, источник
@@ -36673,7 +36673,7 @@ bṛhaspati m.
 <a href="https://dub.sh/cslp?dict=FRI&page=198" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-बोधन|बोधनं
+बोधन|बोधनं|बोधनः
 bodhana n.
 1 bdění, vnímání, probuzení, poučování
 2 состояние бдительности, восприятие, пробуждение, поучение
@@ -36718,7 +36718,7 @@ brahmakṣatra n. sg., du.
 <a href="https://dub.sh/cslp?dict=FRI&page=198" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-ब्रह्मचर्य|ब्रह्मचर्यं|ब्रह्मचर्य्य|ब्रह्मचर्य्यं
+ब्रह्मचर्य|ब्रह्मचर्यं|ब्रह्मचर्यः|ब्रह्मचर्य्य|ब्रह्मचर्य्यं
 brahmacarya n.
 1 studium ved, pohlavní zdrženlivost
 2 изучение вед, сексуальная воздержанность
@@ -37133,7 +37133,7 @@ bhadrasena m., n. pr.
 <a href="https://dub.sh/cslp?dict=FRI&page=201" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-भय|भयं
+भय|भयं|भयः
 bhaya n.
 1 bázeň, strach, hrůza, nebezpecl
 2 боязнь, страх, ужас, опасность
@@ -37279,7 +37279,7 @@ bhavadvidha
 <a href="https://dub.sh/cslp?dict=FRI&page=202" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-भवन|भवनं
+भवन|भवनं|भवनः
 bhavana n.
 1 sídlo, dům, palác
 2 жилище, дом, дворец
@@ -37854,7 +37854,7 @@ bhīma
 <a href="https://dub.sh/cslp?dict=FRI&page=205" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-भीमपराक्रम
+भीमपराक्रम|भीमपराक्रमः
 bhīmaparākrama
 1 mající strašnou sílu
 2 обладающий ужасной силой
@@ -38583,7 +38583,7 @@ bhoja
 <a href="https://dub.sh/cslp?dict=FRI&page=209" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-भोजन|भोजनं
+भोजन|भोजनं|भोजनः
 bhojana
 1 živící (se), sloužící za jldlo; n. pojídání, užívání, jídlo
 2 питающий (ся), служащий едой; n. поедание, употребление, пища
@@ -40185,7 +40185,7 @@ mahābala
 <a href="https://dub.sh/cslp?dict=FRI&page=218" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-महाबाहु
+महाबाहु|महाबाहुः
 mahābāhu
 1 dlouhých paží
 2 с длинными руками
@@ -40233,7 +40233,7 @@ mahābhārata m., n,
 <a href="https://dub.sh/cslp?dict=FRI&page=219" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-महाभिजन
+महाभिजन|महाभिजनः
 mahābhijana m.
 1 vznešený původ
 2 высокое происхождение
@@ -40249,7 +40249,7 @@ mahābhuja
 <a href="https://dub.sh/cslp?dict=FRI&page=219" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-महाभूत|महाभूतं
+महाभूत|महाभूतं|महाभूतः
 mahābhūta
 1 veliký; n. velký (základní) element
 2 большой; n. большой (основной) элемент
@@ -40329,7 +40329,7 @@ mahāvadha
 <a href="https://dub.sh/cslp?dict=FRI&page=219" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-महावीर्य|महावीर्य्य|महावीर्य्यः
+महावीर्य|महावीर्यः|महावीर्य्य|महावीर्य्यः
 mahāvīrya
 1 velkě slly, velmi mocný
 2 большой силы, весьма мощный
@@ -40361,7 +40361,7 @@ mahāśrotriya
 <a href="https://dub.sh/cslp?dict=FRI&page=219" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-महासत्त्व
+महासत्त्व|महासत्त्वः
 mahāsattva
 1 velké podstaty, dobrý, ušlechtilý; m. vynikající tvor
 2 с великой сущностью, хороший, благородный; m. выдающееся существо
@@ -40772,7 +40772,7 @@ mānavant
 <a href="https://dub.sh/cslp?dict=FRI&page=222" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-मानस|मानसं
+मानस|मानसं|मानसः
 mānasa (f. -ī, -ā)
 1 zrozený z mysli, duševní; n. mysl, duše
 2 рожденный из мысли, душевный; n. мысль, душа
@@ -40953,7 +40953,7 @@ mithilā f.
 <a href="https://dub.sh/cslp?dict=FRI&page=223" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-मिथुन|मिथुनं
+मिथुन|मिथुनं|मिथुनः
 mithuna
 1 tvořící dvojici, spářený; m., n. pár, dvojice; n. spáření, spojeni
 2 составляющий пару, спаренный; m., n. пара, двойка; n. соединение
@@ -41009,7 +41009,7 @@ miśra
 <a href="https://dub.sh/cslp?dict=FRI&page=223" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-आर्यमिश्र|आर्य्यमिश्र|आर्य्यमिश्रः
+आर्यमिश्र|आर्यमिश्रः|आर्य्यमिश्र|आर्य्यमिश्रः
  +āryamiśra
 1 ctihodný
 2 почтенный
@@ -43000,7 +43000,7 @@ yādṛśa (f. -ī) v. yādṛś
 <a href="https://dub.sh/cslp?dict=FRI&page=233" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-यान|यानं
+यान|यानं|यानः
 yāna n.
 1 jízda, chůze, příchod, pochod, vozidlo (vůz, loď, nosítka)
 2 езда, ходьба, приход, поход, средство передвижения (воз, корабль, носилки)
@@ -43303,7 +43303,7 @@ yudhiṣṭhira m.
 <a href="https://dub.sh/cslp?dict=FRI&page=235" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-युयुत्सु
+युयुत्सु|युयुत्सुः
 yuyutsu
 1 chtivý boje
 2 жаждущий боя
@@ -43340,7 +43340,7 @@ yuṣma-, yuṣmān pron., v. yūyam yuṣmad (°-) pron., v. yūyam
 <a href="https://dub.sh/cslp?dict=FRI&page=235" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-युष्मदीय
+युष्मदीय|युष्मदीयः
 yuṣmadīya
 1 váš
 2 ваш
@@ -43631,7 +43631,7 @@ rakṣaka m. (rakṣikā f.)
 <a href="https://dub.sh/cslp?dict=FRI&page=237" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-रक्षण|रक्षणं
+रक्षण|रक्षणं|रक्षणः
 rakṣaṇa m.
 1 ochránce; n. hlídání, střežení, ochrana, pѐče
 2 охранитель; n. охранение, охрана, забота
@@ -44483,7 +44483,7 @@ rājya n.
 <a href="https://dub.sh/cslp?dict=FRI&page=242" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-राति
+राति|रातिः
 rāti
 1 milostivý; f. milost, dar
 2 милостивый; f. милость, дар
@@ -44635,7 +44635,7 @@ rāśi m.
 <a href="https://dub.sh/cslp?dict=FRI&page=242" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-राष्ट्र|राष्ट्रं
+राष्ट्र|राष्ट्रं|राष्ट्रः
 rāṣṭra n.
 1 království, říše, země, lid, poddaní
 2 королевство, империя, земля, народ, подданные
@@ -45064,7 +45064,7 @@ rūpa n.
 <a href="https://dub.sh/cslp?dict=FRI&page=245" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-रूपक|रूपकं
+रूपक|रूपकं|रूपकः
 rūpaka
 1 mající formu; m. druh mince (rupie)
 2 имеющий форму; m. вид монеты (рупия)
@@ -45697,7 +45697,7 @@ lavaṇāmbhas
 <a href="https://dub.sh/cslp?dict=FRI&page=248" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-लांगल|लाङ्गल|लांगलं|लाङ्गलं
+लांगल|लाङ्गल|लांगलं|लाङ्गलं|लाङ्गलः
 lāṃgala, -ula -ūla, v. lāṅgala, -ula -ūla
 <a href="https://dub.sh/cslp?dict=FRI&page=248" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
@@ -45710,7 +45710,7 @@ lāghava n.
 <a href="https://dub.sh/cslp?dict=FRI&page=248" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-लाङ्गल|लांगल|लांगलं|लाङ्गलं
+लाङ्गल|लांगल|लांगलं|लाङ्गलं|लाङ्गलः
 lāṅgala n.
 1 pluh
 2 плуг
@@ -45718,7 +45718,7 @@ lāṅgala n.
 <a href="https://dub.sh/cslp?dict=FRI&page=248" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-लाङ्गूल
+लाङ्गूल|लांगूल|लांगूलं|लाङ्गूलं
 lāṅgûla n.
 1 ocas
 2 хвост
@@ -45750,7 +45750,7 @@ lābhālābha m. du., n. sg.
 <a href="https://dub.sh/cslp?dict=FRI&page=248" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-लालन|लालनं
+लालन|लालनं|लालनः
 lālana n.
 1 rozmazlování, hýčkání
 2 избаловывание
@@ -45763,7 +45763,7 @@ lālapyamāna p. pr. med. intens. ≺ lap, q. v.
 <a href="https://dub.sh/cslp?dict=FRI&page=249" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-लालस
+लालस|लालसः
 lālasa
 1 dychtivý, toužící
 2 жаждущий, желающий
@@ -46209,7 +46209,7 @@ lokayātrā f.
 <a href="https://dub.sh/cslp?dict=FRI&page=251" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-लोकायत|लोकायतं
+लोकायत|लोकायतं|लोकायतः
 lokāyata
 1 materialistický; m. materialista
 2 материалистический; m. материалист
@@ -47673,7 +47673,7 @@ vartman n. (m.)
 <a href="https://dub.sh/cslp?dict=FRI&page=261" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-वर्धन|वर्द्धनं|वर्द्धनः
+वर्धन|वर्द्धनं|वर्द्धनः|वर्धनः
 vardhana (f. -ī)
 1 posilující, přinášející zdar; n. posila, zdar, růst
 2 подкрепляющий, приносящий удачу; n. помощь, успех, рост
@@ -47689,7 +47689,7 @@ varman n.
 <a href="https://dub.sh/cslp?dict=FRI&page=261" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-वर्य|वर्य्य|वर्य्यं|वर्य्यः
+वर्य|वर्यः|वर्य्य|वर्य्यं|वर्य्यः
 varya
 1 vynikající, přední, nejlepší
 2 выдающийся, передний, самый лучший
@@ -47973,7 +47973,7 @@ IV√vas vasati, -te, pp. uṣita (uṣṭa)
 <a href="https://dub.sh/cslp?dict=FRI&page=263" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-ब्रह्मचर्यं|ब्रह्मचर्य|ब्रह्मचर्य्य|ब्रह्मचर्य्यं
+ब्रह्मचर्यं|ब्रह्मचर्य|ब्रह्मचर्यः|ब्रह्मचर्य्य|ब्रह्मचर्य्यं
  +brahmacaryaṃ vas
 1 bydliti (někde) jako žák
 2 жить (у кого-нибудь) как ученик
@@ -48313,7 +48313,7 @@ V √vā pp. vāta v. I van
 <a href="https://dub.sh/cslp?dict=FRI&page=265" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-वाक|वाकं
+वाक|वाकं|वाकः
 vāka (cf. priyavāka)
 1 mluvící
 2 говорящий
@@ -48494,7 +48494,7 @@ vādin
 <a href="https://dub.sh/cslp?dict=FRI&page=265" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-वाद्य|वाद्यं
+वाद्य|वाद्यं|वाद्यः
 vādya n.
 1 řeč, hudba; m., n. hudební nástroj
 2 речь, музыка; m., n. музыкальный инструмент
@@ -48630,7 +48630,7 @@ vāri n
 <a href="https://dub.sh/cslp?dict=FRI&page=266" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-वारुण|वारुणं
+वारुण|वारुणं|वारुणः
 vāruṇa (f. -ī)
 1 patřící Varuṇovi, pocházející od Varuṇy
 2 принадлежащий Варуне, происходящий от Варуны
@@ -49074,7 +49074,7 @@ vicitta
 <a href="https://dub.sh/cslp?dict=FRI&page=268" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-विचित्र|विचित्रं
+विचित्र|विचित्रं|विचित्रः
 vicitra
 1 pestrý, různý, zvláštní, půvabný
 2 пестрый, разный, особенный, прелестный
@@ -49444,7 +49444,7 @@ vidhi m.
 <a href="https://dub.sh/cslp?dict=FRI&page=270" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-विधिज्ञ
+विधिज्ञ|विधिज्ञः
 vidhijña
 1 znající předpisy nebo příkazy
 2 знающий предписания или приказы
@@ -49540,7 +49540,7 @@ vinā prep, + acc., instr., abl.
 <a href="https://dub.sh/cslp?dict=FRI&page=271" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-विनाशन|विनाशनं
+विनाशन|विनाशनं|विनाशनः
 vināśana (f. -ī)
 1 ničící; n. zkáza
 2 уничтожающий; n. гибель
@@ -50132,7 +50132,7 @@ vivadha m.
 <a href="https://dub.sh/cslp?dict=FRI&page=274" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-विवर|विवरं
+विवर|विवरं|विवरः
 vivara m., n.
 1 štěrbina, otvor, jeskyně, průlom, slabé místo
 2 щель, отверстие, пещера, брешь, слабое место
@@ -51340,7 +51340,7 @@ vṛścika
 <a href="https://dub.sh/cslp?dict=FRI&page=281" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-वृष
+वृष|वृषं|वृषः
 vṛṣá m.
 1 býk, samec, muž, manžel
 2 бык, самец, мужчина, супруг
@@ -52455,7 +52455,7 @@ II śakti f.
 <a href="https://dub.sh/cslp?dict=FRI&page=287" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-शङ्कर|शंकर|शङ्करः
+शङ्कर|शंकर|शंकरः|शङ्करः
 śaṅkara m.
 1 působící blaho nebo štěstí; jméno Śivovo
 2 вызывающий благо или счастье; имя Шивы
@@ -52764,7 +52764,7 @@ IV śam n.
 <a href="https://dub.sh/cslp?dict=FRI&page=289" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-शम्भु|शंभु|शम्भुः
+शम्भु|शंभु|शंभुः|शम्भुः
 śambhu
 1 blahodárný, epitheton Śivovo
 2 благодатный, эпитет Шивы
@@ -53179,7 +53179,7 @@ niśita
 <a href="https://dub.sh/cslp?dict=FRI&page=291" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-शारीर|शारीरं
+शारीर|शारीरं|शारीरः
 śārīra (f. -ī)
 1 tělesný
 2 телесный
@@ -53187,7 +53187,7 @@ niśita
 <a href="https://dub.sh/cslp?dict=FRI&page=291" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-शार्ङ्ग|शार्ंग|शार्ङ्गं
+शार्ङ्ग|शार्ंग|शार्ङ्गं|शार्ङ्गः
 śārṅga m., śārṅgī f.
 1 druh ptáka; jméno mužů a žen
 2 порода птицы; родовое имя мужчин и женщин
@@ -54886,7 +54886,7 @@ II ṣaṭśata* num. n. sg., pl., ṣaṭśatī f.
 <a href="https://dub.sh/cslp?dict=FRI&page=300" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-षड्दर्शन
+षड्दर्शन|षड्दर्शनः
 ṣaḍdarśana* n.
 1 šest indických filosofických systémů
 2 шесть индийских философских систем
@@ -54966,7 +54966,7 @@ II ṣaṭśata* num. n. sg., pl., ṣaṭśatī f.
 <a href="https://dub.sh/cslp?dict=FRI&page=300" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-षोडश
+षोडश|षोडशः
 I ṣoḍaśa* num.
 1 šestnáct
 2 шестнадцать
@@ -54974,7 +54974,7 @@ I ṣoḍaśa* num.
 <a href="https://dub.sh/cslp?dict=FRI&page=300" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-षोडश
+षोडश|षोडशः
 II ṣoḍaśa* num. ord. (f. -ī)
 1 šestnáctý
 2 шестнадцатый
@@ -55038,7 +55038,7 @@ saṃkalpa m.
 <a href="https://dub.sh/cslp?dict=FRI&page=301" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-संकाश|सङ्काश|सङ्काशः
+संकाश|सङ्काश|संकाशः|सङ्काशः
 saṃkāśa m.
 1 vzhled; -° a. podobající se, připomínající
 2 вид; -° a. похожий, напоминающий
@@ -55472,7 +55472,7 @@ saṃpad f.
 <a href="https://dub.sh/cslp?dict=FRI&page=303" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-संपन्न|सम्पन्न|सम्पन्नः
+संपन्न|सम्पन्न|संपन्नः|सम्पन्नः
 saṃpanna (pp. ≺ pad)
 1 zrozený, provedený, dokonalý, chutný, lahodný; opatřený cím
 2 рожденный, сделанный, совершенный, вкусный, приятный; снабженный чем-нибудь
@@ -55560,7 +55560,7 @@ saṃprāptayauvana
 <a href="https://dub.sh/cslp?dict=FRI&page=304" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-संबन्ध|सम्बन्ध|संबंध|सम्बन्धः
+संबन्ध|सम्बन्ध|संबंध|संबन्धः|सम्बन्धः
 saṃbandha m.
 1 svázání, spojení, sloučení, sbírka, kniha; příbuzenství, přátelství, příbuzný, spojenec
 2 связание, связь, соединение, сборник, книга; родство, дружба, родственник, союзник
@@ -55568,7 +55568,7 @@ saṃbandha m.
 <a href="https://dub.sh/cslp?dict=FRI&page=304" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-संबाध|सम्बाध|सम्बाधः
+संबाध|सम्बाध|संबाधः|सम्बाधः
 saṃbādha m.
 1 dav, tlak, tíseň; -° a. mající davy, oplývající
 2 толпа, давление, стеснение; -° а. имеющий толпы, изобилующий
@@ -56192,7 +56192,7 @@ sakhī f.
 <a href="https://dub.sh/cslp?dict=FRI&page=307" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-सख्य|सख्यं
+सख्य|सख्यं|सख्यः
 sakhya n. (RV. X, 10 sakhyā ≺ dat. sakhyāya)
 1 přátelství
 2 дружба
@@ -56305,7 +56305,7 @@ sacetanatā f.
 <a href="https://dub.sh/cslp?dict=FRI&page=308" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-सजन
+सजन|सजनः
 sajana
 1 s lidmi
 2 с людьми
@@ -56938,7 +56938,7 @@ saphalatā f.
 <a href="https://dub.sh/cslp?dict=FRI&page=311" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-सबन्धु|सबंधु
+सबन्धु|सबंधु|सबन्धुः
 sabandhu
 1 příbuzný
 2 родственный
@@ -57905,7 +57905,7 @@ sarpis n.
 <a href="https://dub.sh/cslp?dict=FRI&page=316" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-सर्व|सर्व्व|सर्व्वः
+सर्व|सर्वः|सर्व्व|सर्व्वः
 sarva
 1 celý, úplný, všechen, každý; se záporkou: žádný
 2 целый, полный, весь, каждый; с отрицанием: никакой
@@ -58313,7 +58313,7 @@ sahasraguṇa
 <a href="https://dub.sh/cslp?dict=FRI&page=318" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-सहस्रद
+सहस्रद|सहस्रदः
 sahasrada
 1 dávající tisíc
 2 дающий тысячу
@@ -58406,7 +58406,7 @@ sāṃkura v. sāṅkura
 <a href="https://dub.sh/cslp?dict=FRI&page=319" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-सांख्य|साङ्ख्य|सांख्यं|साङ्ख्यः
+सांख्य|साङ्ख्य|सांख्यं|सांख्यः|साङ्ख्यः
 sāṃkhya m., v. sāṅkhya m.
 <a href="https://dub.sh/cslp?dict=FRI&page=319" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
@@ -58504,7 +58504,7 @@ sāṅkura
 <a href="https://dub.sh/cslp?dict=FRI&page=319" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-साङ्ख्य|सांख्य|सांख्यं|साङ्ख्यः
+साङ्ख्य|सांख्य|सांख्यं|सांख्यः|साङ्ख्यः
 sāṅkhya m.
 1 stoupenec sāṅkhyové nauky
 2 приверженец науки санкхья
@@ -59588,7 +59588,7 @@ suprāvī
 <a href="https://dub.sh/cslp?dict=FRI&page=325" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-सुप्रिय
+सुप्रिय|सुप्रियः
 supriya
 1 velmi milý
 2 весьма милый
@@ -63334,7 +63334,7 @@ hiṅ interj.; hiṅ-kar
 <a href="https://dub.sh/cslp?dict=FRI&page=347" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-हित|हितं
+हित|हितं|हितः
 I hita (pp. ≺ hi)
 1 poslaný, uvedený v pohyb
 2 посланный, приведенный в движение
@@ -63342,7 +63342,7 @@ I hita (pp. ≺ hi)
 <a href="https://dub.sh/cslp?dict=FRI&page=347" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-हित|हितं
+हित|हितं|हितः
 II hita (pp. ≺ I dhā)
 1 položený, usazený, umístěný, připravený, ustanovený, vhodný, prospěšný, nakloněný; n. blaho, dobrodiní, prospěch
 2 положенный, помещенный, подготовленный, установленный, подходящий, полезный, доброжелательный; n. благо, благодеяние, польза
@@ -63512,7 +63512,7 @@ huṅkāra m.
 <a href="https://dub.sh/cslp?dict=FRI&page=348" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-हुत|हुतं
+हुत|हुतं|हुतः
 huta (pp. ≺ hu)
 1 obětovaný; n. oběť
 2 пожертвованный; n. жертва

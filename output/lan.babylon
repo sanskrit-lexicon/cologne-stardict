@@ -2,7 +2,7 @@
 #bookname=lanman (sa-en)
 #stripmethod=keep
 #sametypesequence=h
-#description=Data from https://www.sanskrit-lexicon.uni-koeln.de/ as on 2026-04-02
+#description=Data from https://www.sanskrit-lexicon.uni-koeln.de/ as on 2026-04-27
 
 अ|अं|अः
 1a, pron. root, see idam and 502.
@@ -54,7 +54,7 @@ akasmād-āgantu, m. an accidental arrival,
 <a href="https://dub.sh/cslp?dict=LAN&page=111-a" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-अकार
+अकार|अकारः
 a-kāra, m. the sound or letter a. [Whitney,
  18.]
 <a href="https://dub.sh/cslp?dict=LAN&page=111-a" target="_blank">PDF</a>
@@ -182,7 +182,7 @@ letters, the writing.
 <a href="https://dub.sh/cslp?dict=LAN&page=111-b" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-अक्षार
+अक्षार|अक्षारः
 a-kṣāra, a. not pungent.
 <a href="https://dub.sh/cslp?dict=LAN&page=111-b" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
@@ -301,7 +301,7 @@ agryá, a. foremost, best. [ágra, 1212c.]
 <a href="https://dub.sh/cslp?dict=LAN&page=112-a" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-अघ|अघं
+अघ|अघं|अघः
 aghá, a. distressful, harmful; as n. harm,
 trouble, evil; sin; sorrow. [like aṃhú,
 ‘narrow,’ and áṃhas, ‘distress,’ from
@@ -458,7 +458,7 @@ a-citvā, grd. without piling. [√1ci.]
 <a href="https://dub.sh/cslp?dict=LAN&page=112-b" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-अचिन्त्य|अचिंत्य
+अचिन्त्य|अचिंत्य|अचिन्त्यः
 a-cintya, a. incomprehensible.
 <a href="https://dub.sh/cslp?dict=LAN&page=112-b" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
@@ -723,7 +723,7 @@ ati-saṃnidhāna, n. excessive nearness.
 <a href="https://dub.sh/cslp?dict=LAN&page=113-b" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-अतीन्द्रिय|अतींद्रिय|अतीन्द्रियं
+अतीन्द्रिय|अतींद्रिय|अतीन्द्रियं|अतीन्द्रियः
 atīndriya, a. transcending the senses; as
 n. soul, spirit. [ati + indriya, 1310a.]
 <a href="https://dub.sh/cslp?dict=LAN&page=113-b" target="_blank">PDF</a>
@@ -752,7 +752,7 @@ good and bad deeds.
 <a href="https://dub.sh/cslp?dict=LAN&page=113-b" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-अत्र
+अत्र|अत्रः
 átra (átrā, 248a), adv.
 	—1. (as loc. of pron.
 root a [1099^4], and synonymous w. asmin)
@@ -908,7 +908,7 @@ seen.
 <a href="https://dub.sh/cslp?dict=LAN&page=114-b" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-अदेव
+अदेव|अदेवः
 a-devá, m. non-god, who is no god. [1288a^4.]
 <a href="https://dub.sh/cslp?dict=LAN&page=114-b" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
@@ -1183,7 +1183,7 @@ anarghyatva, n. pricelessness. [1239.]
 <a href="https://dub.sh/cslp?dict=LAN&page=115-b" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-अनर्थ
+अनर्थ|अनर्थः
 an-artha, m. non-advantage; disadvantage.
 <a href="https://dub.sh/cslp?dict=LAN&page=115-b" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
@@ -1269,7 +1269,7 @@ an-ādhṛṣyá, a. un-approachable. [acct,
 <a href="https://dub.sh/cslp?dict=LAN&page=115-b" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-अनामय|अनामयं
+अनामय|अनामयं|अनामयः
 an-āmayá, a. without disease, healthy;
 as n. health.
 <a href="https://dub.sh/cslp?dict=LAN&page=115-b" target="_blank">PDF</a>
@@ -1394,7 +1394,7 @@ best. [for mg, cf. niḥśreyasa.]
 <a href="https://dub.sh/cslp?dict=LAN&page=116-a" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-अनुद्योग
+अनुद्योग|अनुद्योगः
 an-udyoga, m. non-exertion.
 <a href="https://dub.sh/cslp?dict=LAN&page=116-a" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
@@ -1458,7 +1458,7 @@ anuvṛtti, f. sequence, and so, continuance.
 <a href="https://dub.sh/cslp?dict=LAN&page=116-b" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-अनुव्रत
+अनुव्रत|अनुव्रतः
 ánu-vrata, a. acting according to the
 will or command (of another), obedient;
 devoted to, w. acc. [272], 6^16, 100^4. [1310a:
@@ -1657,7 +1657,7 @@ antar-lajjā, f. inward shame. [1289.]
 <a href="https://dub.sh/cslp?dict=LAN&page=117-a" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-अन्तर्वेदि
+अन्तर्वेदि|अन्तर्वेदिः
 antar-vedi, a. situate within the sacrificial
 bed; -dí, adv. within the sacrificial
 spot. [1310a.]
@@ -1673,13 +1673,13 @@ an-swer.]
 <a href="https://dub.sh/cslp?dict=LAN&page=117-a" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-अन्तिक|अंतिक|अन्तिकं
+अन्तिक|अंतिक|अन्तिकं|अन्तिकः
 1antiká, n. neighborhood or presence;
 used like samīpa, q. v. [ánti.]
 <a href="https://dub.sh/cslp?dict=LAN&page=117-a" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-अन्तिक|अंतिक|अन्तिकं
+अन्तिक|अंतिक|अन्तिकं|अन्तिकः
 2antika, for anta at end of cpds, 1222,
 1307; grahaṇa_antika, having acquisition
 as its conclusion.
@@ -1950,7 +1950,7 @@ disadvantage; diminution. [√i + apa,
 <a href="https://dub.sh/cslp?dict=LAN&page=118-a" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-अपार|अपारं
+अपार|अपारं|अपारः
 a-pārá, a. boundless. [pārá: acct, 1304a.]
 <a href="https://dub.sh/cslp?dict=LAN&page=118-b" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
@@ -2001,7 +2001,7 @@ a-pīḍayant, a. non-oppressing. [√pīḍ.]
 <a href="https://dub.sh/cslp?dict=LAN&page=118-b" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-अपूर्व|अपूर्व्व|अपूर्व्वं
+अपूर्व|अपूर्वः|अपूर्व्व|अपूर्व्वं
 a-pūrvá, a. having no predecessor; unprecedented;
  incomparable. [pū́rva:
 acct, 1304a.]
@@ -2055,7 +2055,7 @@ a-pratta, a. not given (in marriage).
 <a href="https://dub.sh/cslp?dict=LAN&page=118-b" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-अप्रिय|अप्रियं
+अप्रिय|अप्रियं|अप्रियः
 á-priya, a. not dear; disliked; disagreeable.
 <a href="https://dub.sh/cslp?dict=LAN&page=119-a" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
@@ -2085,7 +2085,7 @@ that which ought not to be eaten.
 <a href="https://dub.sh/cslp?dict=LAN&page=119-a" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-अभय|अभयं
+अभय|अभयं|अभयः
 á-bhaya, a. dangerless; as n. safety;
 feeling of safety; superl. greatest safety.
 [bhayá: acct, 1304a^2.]
@@ -2177,7 +2177,7 @@ irreg.]
 <a href="https://dub.sh/cslp?dict=LAN&page=119-a" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-अभिमुख|अभिमुखं
+अभिमुख|अभिमुखं|अभिमुखः
 abhi-mukha, a. having the face towards;
 facing; turned towards. [1305.]
 <a href="https://dub.sh/cslp?dict=LAN&page=119-a" target="_blank">PDF</a>
@@ -2199,7 +2199,7 @@ abhivādin, a. signifying. [do.]
 <a href="https://dub.sh/cslp?dict=LAN&page=119-a" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-अभिवाद्य
+अभिवाद्य|अभिवाद्यः
 abhivādya, grdv. to be saluted. [do.]
 <a href="https://dub.sh/cslp?dict=LAN&page=119-a" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
@@ -2266,7 +2266,7 @@ be sick. [cf. aṃsa.]
 <a href="https://dub.sh/cslp?dict=LAN&page=119-b" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-अम|अमं
+अम|अमं|अमः
 áma, pron. this; he. [503^4: cf. amā́.]
 <a href="https://dub.sh/cslp?dict=LAN&page=119-b" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
@@ -2353,7 +2353,7 @@ question.
 <a href="https://dub.sh/cslp?dict=LAN&page=119-b" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-अमीव|अमीवं
+अमीव|अमीवं|अमीवः
 ámīva, n., but generally -ā, f. plague, distress;
  as m. tormenting spirit. [√am.]
 <a href="https://dub.sh/cslp?dict=LAN&page=120-a" target="_blank">PDF</a>
@@ -2571,7 +2571,7 @@ as consort of the Seven Rishis. [√rudh,
 <a href="https://dub.sh/cslp?dict=LAN&page=120-b" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-अरुष|अरुषं
+अरुष|अरुषं|अरुषः
 aruṣá, f. áruṣī, a. ruddy. [see 362b^2: cf.
 aruṇá.]
 <a href="https://dub.sh/cslp?dict=LAN&page=120-b" target="_blank">PDF</a>
@@ -2583,7 +2583,7 @@ are, word of address. Ah! [voc. of ari,
 <a href="https://dub.sh/cslp?dict=LAN&page=120-b" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-अरोग
+अरोग|अरोगः
 a-roga, a. not having disease, diseaseless.
 <a href="https://dub.sh/cslp?dict=LAN&page=120-b" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
@@ -2677,7 +2677,7 @@ arthya, a. wealthy. [artha.]
 <a href="https://dub.sh/cslp?dict=LAN&page=121-a" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-अर्ध|अर्द्धं|अर्द्धः
+अर्ध|अर्द्धं|अर्द्धः|अर्धः
 ardhá, a. half; as m. the half.
 <a href="https://dub.sh/cslp?dict=LAN&page=121-a" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
@@ -2687,7 +2687,7 @@ ardharcá, m. half-stanza. [ardha + ṛca.]
 <a href="https://dub.sh/cslp?dict=LAN&page=121-a" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-अर्धिक
+अर्धिक|अर्धिकः
 árdhika, a. amounting to half. [ardha.]
 <a href="https://dub.sh/cslp?dict=LAN&page=121-a" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
@@ -2709,7 +2709,7 @@ name of a mountain.
 <a href="https://dub.sh/cslp?dict=LAN&page=121-a" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-अर्य|अर्य्य|अर्य्यः
+अर्य|अर्यः|अर्य्य|अर्य्यः
 aryá, a. faithful; attached, kindly, 79^3.
 [‘going eagerly to,’ √ṛ: cf. ā́rya.]
 <a href="https://dub.sh/cslp?dict=LAN&page=121-a" target="_blank">PDF</a>
@@ -2794,7 +2794,7 @@ a-lobha, m. non-greed; absence of cupidity.
 <a href="https://dub.sh/cslp?dict=LAN&page=121-a" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-अल्प|अल्पं
+अल्प|अल्पं|अल्पः
 álpa, a. small.
 <a href="https://dub.sh/cslp?dict=LAN&page=121-a" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
@@ -2997,7 +2997,7 @@ a-vijñāya, grd. without discerning. [√jñā.]
 <a href="https://dub.sh/cslp?dict=LAN&page=122-a" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-अविज्ञेय|अविज्ञेयं
+अविज्ञेय|अविज्ञेयं|अविज्ञेयः
 a-vijñeya, a. unknowable. [do.]
 <a href="https://dub.sh/cslp?dict=LAN&page=122-a" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
@@ -3048,7 +3048,7 @@ a-viśaṅka, a. without hesitation, unhesitating.
 <a href="https://dub.sh/cslp?dict=LAN&page=122-a" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-अविषय
+अविषय|अविषयः
 a-viṣaya, m. a non-province; something
 out of one's line or that one has no business
 to do; unlawful thing.
@@ -3135,7 +3135,7 @@ acct, 1288a.]
 <a href="https://dub.sh/cslp?dict=LAN&page=122-b" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-अशेष|अशेषं
+अशेष|अशेषं|अशेषः
 a-śeṣa, a. without remainder, entire; -tas,
 adv. entirely, without exception.
 <a href="https://dub.sh/cslp?dict=LAN&page=122-b" target="_blank">PDF</a>
@@ -3184,7 +3184,7 @@ gods of the morning light, 85^15N. [aśva.]
 <a href="https://dub.sh/cslp?dict=LAN&page=122-b" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-अश्व्य
+अश्व्य|अश्व्यः
 áśvya, a. consisting of horses; of a horse.
 [aśva: cf. ἵππιος, ‘of a horse.’]
 <a href="https://dub.sh/cslp?dict=LAN&page=122-b" target="_blank">PDF</a>
@@ -3305,7 +3305,7 @@ a-samartha, a. unable.
 <a href="https://dub.sh/cslp?dict=LAN&page=123-a" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-असम्पत्ति|असंपत्ति
+असम्पत्ति|असंपत्ति|असंपत्तिः
 a-sampatti, f. non-success.
 <a href="https://dub.sh/cslp?dict=LAN&page=123-a" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
@@ -3316,7 +3316,7 @@ a-sambaddha, a. un-connected, in-coherent,
 <a href="https://dub.sh/cslp?dict=LAN&page=123-a" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-असम्बन्ध|असंबंध|असंबन्ध
+असम्बन्ध|असंबंध|असंबन्ध|असंबन्धः
 a-sambandha, a. not having relationship.
 <a href="https://dub.sh/cslp?dict=LAN&page=123-a" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
@@ -3376,7 +3376,7 @@ were a-sura--whence, by popular etymology,
 <a href="https://dub.sh/cslp?dict=LAN&page=123-b" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-असुर्य|असुर्य्य
+असुर्य|असुर्यः|असुर्य्य
 asuryà, a. godlike; as n. pl. godhead.
 [ásura, 1212d 4.]
 <a href="https://dub.sh/cslp?dict=LAN&page=123-b" target="_blank">PDF</a>
@@ -3416,7 +3416,7 @@ abandoned silence. [√2as.]
 <a href="https://dub.sh/cslp?dict=LAN&page=123-b" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-अस्ति
+अस्ति|अस्तिः
 asti, f. being. [√1as.]
 <a href="https://dub.sh/cslp?dict=LAN&page=123-b" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
@@ -3548,7 +3548,7 @@ ahaha, excl. of joy or sorrow. [1135a.]
 <a href="https://dub.sh/cslp?dict=LAN&page=124-a" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-अहार्य|अहार्य्य|अहार्य्यं|अहार्य्यः
+अहार्य|अहार्यः|अहार्य्य|अहार्य्यं|अहार्य्यः
 a-hārya, a. not liable to be stolen.
 <a href="https://dub.sh/cslp?dict=LAN&page=124-a" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
@@ -3639,7 +3639,7 @@ is not akin w. ab, ‘from.’]
 <a href="https://dub.sh/cslp?dict=LAN&page=124-a" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-आकर्षक
+आकर्षक|आकर्षकः
 ākarṣaka, a. attractive; --f. -ikā
 [1222d], Pleasanton, as name of a town.
 [√kṛṣ + ā.]
@@ -3737,7 +3737,7 @@ see √yaj.]
 <a href="https://dub.sh/cslp?dict=LAN&page=124-b" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-आघृणि
+आघृणि|आघृणिः
 ā́ghṛṇi, a. glowing, beaming. [√2ghṛ,
 ‘glow,’ + ā, 1158.]
 <a href="https://dub.sh/cslp?dict=LAN&page=124-b" target="_blank">PDF</a>
@@ -3818,7 +3818,7 @@ butter.
 <a href="https://dub.sh/cslp?dict=LAN&page=125-a" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-आञ्जन|आंजन
+आञ्जन|आंजन|आञ्जनः
 ā́ñjana, n. ointment. [√añj + ā: cf. Lat.
 unguen, ‘ointment.’]
 <a href="https://dub.sh/cslp?dict=LAN&page=125-a" target="_blank">PDF</a>
@@ -4207,7 +4207,7 @@ cf. āy-ú: cf. αἰ-ών, Lat. ae-vu-m, AS. ǣw,
 <a href="https://dub.sh/cslp?dict=LAN&page=126-b" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-आरण्यक
+आरण्यक|आरण्यकः
 āraṇyaka, a. pertaining to the wilderness;
  as n. forest-treatise (to be read in
 the solitude of the wilderness--Whitney,
@@ -4263,7 +4263,7 @@ cf. ārta and āpad.]
 <a href="https://dub.sh/cslp?dict=LAN&page=126-b" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-आर्य|आर्य्य|आर्य्यः
+आर्य|आर्यः|आर्य्य|आर्य्यः
 ā́rya, a. belonging to the faithful, i. e., as
 m., man of one's own tribe, an Aryan, as
 designation of a man of the Vedic Indian
@@ -4316,7 +4316,7 @@ make visible. [1078.]
 <a href="https://dub.sh/cslp?dict=LAN&page=127-a" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-आश
+आश|आशः
 āśa, m. food. [√2aś, ‘eat.’]
 <a href="https://dub.sh/cslp?dict=LAN&page=127-a" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
@@ -4849,13 +4849,13 @@ agní: acct, 1255b.]
 <a href="https://dub.sh/cslp?dict=LAN&page=129-b" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-इन्द्रायुध|इन्द्रायुधं
+इन्द्रायुध|इन्द्रायुधं|इन्द्रायुधः
 indrāyudha, n. Indra's weapon, the
 rainbow. [āyudha.]
 <a href="https://dub.sh/cslp?dict=LAN&page=129-b" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-इन्द्रिय|इंद्रिय|इन्द्रियं
+इन्द्रिय|इंद्रिय|इन्द्रियं|इन्द्रियः
 indriyá, a. belonging to Indra; as n.
 	—1. the quality pertaining especially to
 Indra, i. e. great might, power, 73^18, 97^6;
@@ -4911,7 +4911,7 @@ irasyā́, f. ill-will; wrath. [√irasya,
 <a href="https://dub.sh/cslp?dict=LAN&page=130-a" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-इरिण|इरिणं
+इरिण|इरिणं|इरिणः
 íriṇa, n. a run or runlet; gulch; gullied
 and so desert land. [√ṛ, 1177b: for mg,
 cf. Provincial Eng. run, ‘brook.’]
@@ -5213,7 +5213,7 @@ ukti, f. expression; declaration, 53^16.
 <a href="https://dub.sh/cslp?dict=LAN&page=131-b" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-उक्थ|उक्थं
+उक्थ|उक्थं|उक्थः
 ukthá, n. utterance, esp. of devotion;
 praise; hymn of praise; invocation.
 [√vac, 1163a.]
@@ -5263,7 +5263,7 @@ pleased; proper; suitable;
 <a href="https://dub.sh/cslp?dict=LAN&page=131-b" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-उच्च|उच्चं
+उच्च|उच्चं|उच्चः
 uccá, a. lofty; uccaís, adv. [1112c], high;
 of sound, loud. [fr. uccā́, adv. instr.
 (1112e) of údañc.]
@@ -5395,7 +5395,7 @@ uttara-dāyaka, a. giving answer; contradicting.
 <a href="https://dub.sh/cslp?dict=LAN&page=132-a" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-उत्तरपश्चिम
+उत्तरपश्चिम|उत्तरपश्चिमः
 uttara-paścima, a. north-westerly.
 <a href="https://dub.sh/cslp?dict=LAN&page=132-a" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
@@ -5567,7 +5567,7 @@ uditá, see √vad; úd-ita, see √i.
 <a href="https://dub.sh/cslp?dict=LAN&page=133-a" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-उदुम्बल|उदुंबल
+उदुम्बल|उदुंबल|उदुम्बलः
 udumbalá, a. brown.
 <a href="https://dub.sh/cslp?dict=LAN&page=133-a" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
@@ -5632,7 +5632,7 @@ look. [√mad + ud.]
 <a href="https://dub.sh/cslp?dict=LAN&page=133-a" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-उन्मार्ग
+उन्मार्ग|उन्मार्गः
 unmārga, m. by-way, evil way. [ud +
 mārga.]
 <a href="https://dub.sh/cslp?dict=LAN&page=133-a" target="_blank">PDF</a>
@@ -6012,7 +6012,7 @@ womb.’]
 <a href="https://dub.sh/cslp?dict=LAN&page=134-b" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-उल्बण
+उल्बण|उल्बणः
 ulbaṇá, a. lumpy, knotty, thick, massy.
 [ulba, for *urva, hence ṇ, 189.]
 <a href="https://dub.sh/cslp?dict=LAN&page=134-b" target="_blank">PDF</a>
@@ -6128,7 +6128,7 @@ from now on. [cf. Lat. arduus,
 <a href="https://dub.sh/cslp?dict=LAN&page=135-a" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-ऊर्ध्वदृष्टि
+ऊर्ध्वदृष्टि|ऊर्ध्वदृष्टिः
 ūrdhva-dṛṣṭi, a. having an upward
 gaze. [1298.]
 <a href="https://dub.sh/cslp?dict=LAN&page=135-a" target="_blank">PDF</a>
@@ -6408,7 +6408,7 @@ see note to 1^14.
 <a href="https://dub.sh/cslp?dict=LAN&page=136-b" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-ऋष्व
+ऋष्व|ऋष्वः
 ṛṣvá, a. lofty.
 <a href="https://dub.sh/cslp?dict=LAN&page=136-b" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
@@ -6418,7 +6418,7 @@ e, pron. root in éka, etá, ena, evá, evám.
 <a href="https://dub.sh/cslp?dict=LAN&page=136-b" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-एक|एकं
+एक|एकं|एकः
 éka [482a], num.
 	—1. one; only; alone
 (by one's self); alone (excluding every
@@ -6516,7 +6516,7 @@ ekādaśá, a. eleventh. [ékādaśa, 487^7.]
 <a href="https://dub.sh/cslp?dict=LAN&page=136-b" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-एकान्त|एकान्तं
+एकान्त|एकान्तं|एकान्तः
 ekānta, m. an end; a retired or secret
 spot. [anta.]
 <a href="https://dub.sh/cslp?dict=LAN&page=136-b" target="_blank">PDF</a>
@@ -6527,7 +6527,7 @@ ekāpāya, m. diminution by one. [apāya.]
 <a href="https://dub.sh/cslp?dict=LAN&page=136-b" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-एकार्थ
+एकार्थ|एकार्थः
 ekārtha, m. one purpose, i. e. one and
 the same purpose. [artha.]
 <a href="https://dub.sh/cslp?dict=LAN&page=136-b" target="_blank">PDF</a>
@@ -6664,7 +6664,7 @@ plant or Palma Christi.
 <a href="https://dub.sh/cslp?dict=LAN&page=137-a" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-एव|एवं
+एव|एवं|एवः
 evá, adv.
 	—1. in this way; so; in this signification
 Vedic only, its place being supplied
@@ -6741,7 +6741,7 @@ aikamatya, n. unanimity. [ekamati,
 <a href="https://dub.sh/cslp?dict=LAN&page=137-b" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-ऐतिहासिक
+ऐतिहासिक|ऐतिहासिकः
 aitihāsika, m. teller of old legends. [itihāsa,
 1222e 2.]
 <a href="https://dub.sh/cslp?dict=LAN&page=138-a" target="_blank">PDF</a>
@@ -7241,7 +7241,7 @@ kárṇa, m. ear.
 <a href="https://dub.sh/cslp?dict=LAN&page=140-a" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-कर्त|कर्त्त|कर्त्तः
+कर्त|कर्तः|कर्त्त|कर्त्तः
 kartá, m. (earth-) cut, ditch. [√kṛt: see
 garta.]
 <a href="https://dub.sh/cslp?dict=LAN&page=140-a" target="_blank">PDF</a>
@@ -7367,7 +7367,7 @@ whole.]
 <a href="https://dub.sh/cslp?dict=LAN&page=140-a" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-कल्याण|कल्याणं
+कल्याण|कल्याणं|कल्याणः
 kalyā́ṇa, f. -āṇī́ [355b], a. fair, lovely.
 [kalya.]
 <a href="https://dub.sh/cslp?dict=LAN&page=140-a" target="_blank">PDF</a>
@@ -7412,7 +7412,7 @@ kásmāt, adv. why ? wherefore ? [ka,
 <a href="https://dub.sh/cslp?dict=LAN&page=140-b" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-कांस्य|कांस्यं
+कांस्य|कांस्यं|कांस्यः
 kāṃsya, a. brazen; as n. brass. [kaṃsá.]
 <a href="https://dub.sh/cslp?dict=LAN&page=140-b" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
@@ -7966,7 +7966,7 @@ kuśa-piñjūla, n. tuft or bunch of Kuśa.
 <a href="https://dub.sh/cslp?dict=LAN&page=142-b" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-कुशल|कुशलं
+कुशल|कुशलं|कुशलः
 kúśala,
 	—1. a. in good condition; equal
 to or fit for a task; able; clever, 46^18;
@@ -8134,7 +8134,7 @@ vyatikara, ‘disaster.’]
 <a href="https://dub.sh/cslp?dict=LAN&page=143-b" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-कृच्छ्र|कृच्छ्रं|कृछ्र
+कृच्छ्र|कृच्छ्रं|कृच्छ्रः|कृछ्र
 kṛcchrá, a. distressful; troublesome; as
 n. trouble.
 <a href="https://dub.sh/cslp?dict=LAN&page=143-b" target="_blank">PDF</a>
@@ -8403,7 +8403,7 @@ limited. [anta.]
 <a href="https://dub.sh/cslp?dict=LAN&page=144-b" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-केत
+केत|केतः
 kéta, m. intention; desire; will. [√cit,
 ‘look, be intent upon.’]
 <a href="https://dub.sh/cslp?dict=LAN&page=144-b" target="_blank">PDF</a>
@@ -9881,7 +9881,7 @@ in Magadha.
 <a href="https://dub.sh/cslp?dict=LAN&page=151-b" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-गृह|गृहं
+गृह|गृहं|गृहः
 gṛhá, in V., m.; later, m. in pl.; otherwise,
 n. house, 28^7, 79^15; w. mṛnmaya, house
 of earth, the grave; gṛhaṃ gam, go home,
@@ -10012,7 +10012,7 @@ keep, 91^12. [gopā, 1055.]
 <a href="https://dub.sh/cslp?dict=LAN&page=152-a" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-गोमय|गोमयं
+गोमय|गोमयं|गोमयः
 gomáya,
 	—1. a. bovine; as n.
 	—2. cowdung,
@@ -10191,7 +10191,7 @@ grāhá, a. subst. grasping, grasper, in cpds.
 <a href="https://dub.sh/cslp?dict=LAN&page=152-b" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-ग्राह्य
+ग्राह्य|ग्राह्यः
 grāhyà, grdv. to be grasped; perceivable.
 [do.]
 <a href="https://dub.sh/cslp?dict=LAN&page=152-b" target="_blank">PDF</a>
@@ -10423,7 +10423,7 @@ cákṣus, n. eye. [√cakṣ, 1154.]
 <a href="https://dub.sh/cslp?dict=LAN&page=153-b" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-चञ्चल|चंचल|चञ्चलं
+चञ्चल|चंचल|चञ्चलं|चञ्चलः
 cañcala, a. moving to and fro; trembling.
 [√cal, 1148. 4, w. intens. reduplication, cf.
 1002b: cf. κίγ-καλ-ος, ‘wag-tail’; Lat.
@@ -11407,7 +11407,7 @@ jambuka, m. jackal.
 <a href="https://dub.sh/cslp?dict=LAN&page=158-a" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-जर
+जर|जरः
 jara, a. growing old, aging. [√jṛ.]
 <a href="https://dub.sh/cslp?dict=LAN&page=158-a" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
@@ -11486,7 +11486,7 @@ jā: cf. já, later form of jā́.]
 <a href="https://dub.sh/cslp?dict=LAN&page=158-b" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-जात|जातं
+जात|जातं|जातः
 jātá, ppl. born; grown; come into being,
 present; at beg. of cpds: arisen, existing,
 manifest; produced, aroused; as n. a living
@@ -12063,7 +12063,7 @@ condition or state of a thing. [tad.]
 <a href="https://dub.sh/cslp?dict=LAN&page=161-a" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-तत्त्वज्ञ
+तत्त्वज्ञ|तत्त्वज्ञः
 tattva-jña, a. knowing the essence or
 the truth or what's what.
 <a href="https://dub.sh/cslp?dict=LAN&page=161-a" target="_blank">PDF</a>
@@ -13234,7 +13234,7 @@ steps.
 <a href="https://dub.sh/cslp?dict=LAN&page=166-a" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-त्रिरात्र|त्रिरात्रं
+त्रिरात्र|त्रिरात्रं|त्रिरात्रः
 tri-rātrá, n. space of three nights, trinoctium.
  [rā́tri, 1315b, 13123, 4: cf. the
 Eng. usage in sen-night, fort-night.]
@@ -13901,7 +13901,7 @@ dātṛ, m. giver; as a. [375^3], generous, 21^4,
 <a href="https://dub.sh/cslp?dict=LAN&page=168-b" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-दान|दानं
+दान|दानं|दानः
 dā́na, n. giving, imparting; gift. [√1dā,
 1150: cf. Lat. dōnum, ‘gift.’]
 <a href="https://dub.sh/cslp?dict=LAN&page=168-b" target="_blank">PDF</a>
@@ -14311,7 +14311,7 @@ dur-, the form taken by dus before sonants.
 <a href="https://dub.sh/cslp?dict=LAN&page=170-b" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-दुरतिक्रम
+दुरतिक्रम|दुरतिक्रमः
 dur-atikrama, a. hard to overcome.
 [‘having a hard conquest,’ cf. 1304b.]
 <a href="https://dub.sh/cslp?dict=LAN&page=170-b" target="_blank">PDF</a>
@@ -14399,7 +14399,7 @@ dur-vijñeya, a. hard to distinguish.
 <a href="https://dub.sh/cslp?dict=LAN&page=171-a" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-दुर्विपाक
+दुर्विपाक|दुर्विपाकः
 dur-vipāka, m. evil issue (of one's destiny).
 <a href="https://dub.sh/cslp?dict=LAN&page=171-a" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
@@ -14647,7 +14647,7 @@ for beholding. [do.]
 <a href="https://dub.sh/cslp?dict=LAN&page=172-a" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-दृश्य|दृश्यं
+दृश्य|दृश्यं|दृश्यः
 dṛ́śya, grdv. to be seen; worthy to be
 seen, splendid. [√dṛś, 963d.]
 <a href="https://dub.sh/cslp?dict=LAN&page=172-a" target="_blank">PDF</a>
@@ -14907,7 +14907,7 @@ daitya-dānava-mardana, m. Daitya-andDānava-crusher,
 <a href="https://dub.sh/cslp?dict=LAN&page=173-a" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-दैव|दैवं
+दैव|दैवं|दैवः
 daiva, a. of the gods, 57^21; coming from
 the gods; divine; as n. divine appointment,
  i. e. fate, 18^12, etc. [devá, 1208f.]
@@ -15731,7 +15731,7 @@ dhārin, a. holding; possessing, 22^23; retaining,
 <a href="https://dub.sh/cslp?dict=LAN&page=176-b" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-धार्मिक|धार्म्मिक|धार्म्मिकः
+धार्मिक|धार्मिकः|धार्म्मिक|धार्म्मिकः
 dhārmika, a. righteous; virtuous. [dharma.
 ]
 <a href="https://dub.sh/cslp?dict=LAN&page=177-a" target="_blank">PDF</a>
@@ -15878,7 +15878,7 @@ for dhūma; f. -ikā [1222d], the same.
 <a href="https://dub.sh/cslp?dict=LAN&page=177-b" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-धूर्त|धूर्त्त|धूर्त्तं|धूर्त्तः
+धूर्त|धूर्तः|धूर्त्त|धूर्त्तं|धूर्त्तः
 dhūrta, a. subst. shrewd, sly, cunning;
 rogue. [ppl. of √dhvṛ, ‘harm by deceit’
 (cf. 957b^2): according to the grammarians,
@@ -16490,7 +16490,7 @@ narottama, a. subst. best of men. [uttama.
 <a href="https://dub.sh/cslp?dict=LAN&page=180-b" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-नर्मद|नर्म्मद|नर्म्मदः
+नर्मद|नर्मदः|नर्म्मद|नर्म्मदः
 narmada, a. granting or causing fun;
 making gladness; f. -dā, Narmadā (called
 also Revā), the modern Nerbudda river.
@@ -16757,7 +16757,7 @@ Eng. ne-ther, be-nea-th.]
 <a href="https://dub.sh/cslp?dict=LAN&page=181-b" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-निकट|निकटं
+निकट|निकटं|निकटः
 nikaṭa, a. near; as n. neighborhood;
 presence. [1245g.]
 <a href="https://dub.sh/cslp?dict=LAN&page=181-b" target="_blank">PDF</a>
@@ -16821,7 +16821,7 @@ nidrā́, f. sleep. [√2drā, ‘sleep,’ + ni.]
 <a href="https://dub.sh/cslp?dict=LAN&page=181-b" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-निधन|निधनं
+निधन|निधनं|निधनः
 nidhána, m. n. end; death, 5^19. [perhaps
 fr. √dhā + ni, ‘put down or out of the
 way,’ ‘make an end of.’]
@@ -16954,7 +16954,7 @@ nir-buddhi, a. without wit, stupid.
 <a href="https://dub.sh/cslp?dict=LAN&page=182-a" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-निर्भर|निर्भरं
+निर्भर|निर्भरं|निर्भरः
 nir-bhara, a.
 	—1. without measure,
 much; -am, adv. very; -am prasupta,
@@ -16981,12 +16981,12 @@ the world.
 <a href="https://dub.sh/cslp?dict=LAN&page=182-b" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-निर्वात|निर्व्वात|निर्व्वातः
+निर्वात|निर्वातः|निर्व्वात|निर्व्वातः
 nir-vāta, a. windless; sheltered.
 <a href="https://dub.sh/cslp?dict=LAN&page=182-b" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-निर्विशेष|निर्व्विशेष
+निर्विशेष|निर्विशेषः|निर्व्विशेष
 nir-viśeṣa, a. without distinction; undistinguished;
  alike; like.
 <a href="https://dub.sh/cslp?dict=LAN&page=182-b" target="_blank">PDF</a>
@@ -17004,7 +17004,7 @@ nivāra, m. the warding off. [√1vṛ,
 <a href="https://dub.sh/cslp?dict=LAN&page=182-b" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-निवीत|निवीतं
+निवीत|निवीतं|निवीतः
 nívīta, ppl. hung, i. e. draped, with hangings,
  esp. with the sacred cord; as n.
 [1176a], the wearing the sacred cord about
@@ -17102,7 +17102,7 @@ Nishadhans. [adhipa.]
 <a href="https://dub.sh/cslp?dict=LAN&page=183-a" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-निषूदन|निषूदनं
+निषूदन|निषूदनं|निषूदनः
 niṣūdana, m. finisher (in its colloquial
 sense), one who makes an end of, destroyer.
  [√sūd + ni.]
@@ -17427,7 +17427,7 @@ nṛ-páti, m. lord of men, i. e. prince, king.
 <a href="https://dub.sh/cslp?dict=LAN&page=184-a" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-नृम्ण
+नृम्ण|नृम्णः
 nṛmṇá, n. virtus, manliness, courage,
 strength. [fr. nṛ (1224c), as virtus fr.
 vir.]
@@ -17739,7 +17739,7 @@ paṇḍita-sabhā, f. assembly of pandits.
 <a href="https://dub.sh/cslp?dict=LAN&page=185-b" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-पण्य|पण्यं
+पण्य|पण्यं|पण्यः
 páṇya, grdv. to be bargained for or bartered;
  as n. article of trade. [√paṇ, 963.]
 <a href="https://dub.sh/cslp?dict=LAN&page=185-b" target="_blank">PDF</a>
@@ -17958,7 +17958,7 @@ pĕd-em, Eng. foot.]
 <a href="https://dub.sh/cslp?dict=LAN&page=186-b" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-पद|पदं
+पद|पदं|पदः
 padá, n.
 	—1. step, 17^21, 99^23;
 	—2. footstep;
@@ -18174,7 +18174,7 @@ averted; turning the back. [parā + añc,
 <a href="https://dub.sh/cslp?dict=LAN&page=187-b" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-परार्थ
+परार्थ|परार्थः
 parārtha, m. the sake of others; -am,
 -e, adv. for others. [artha, 1302c 4.]
 <a href="https://dub.sh/cslp?dict=LAN&page=187-b" target="_blank">PDF</a>
@@ -18743,7 +18743,7 @@ pāntha, m. wayfarer; viātor. [pánthan,
 <a href="https://dub.sh/cslp?dict=LAN&page=190-a" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-पाप|पापं
+पाप|पापं|पापः
 pāpá, a. bad; evil; as m. bad fellow, 46^19;
 as n. trouble; harm, 26^8; evil (deed),
 27^2.
@@ -19351,7 +19351,7 @@ fr. *puṣka, 1227.]
 <a href="https://dub.sh/cslp?dict=LAN&page=192-a" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-पुष्ट|पुष्टं
+पुष्ट|पुष्टं|पुष्टः
 puṣṭá, ppl. having thrived; strong; fat.
 [√puṣ, 955^2.]
 <a href="https://dub.sh/cslp?dict=LAN&page=192-a" target="_blank">PDF</a>
@@ -19457,7 +19457,7 @@ n. [1176a], fulfilment; reward; merit.
 <a href="https://dub.sh/cslp?dict=LAN&page=192-b" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-पूर्व|पूर्व्व|पूर्व्वः
+पूर्व|पूर्वः|पूर्व्व|पूर्व्वः
 pū́rva [525^4], a. being before in place or
 time:
 	—1. east (cf. prāñc);
@@ -19477,7 +19477,7 @@ and pra.]
 <a href="https://dub.sh/cslp?dict=LAN&page=192-b" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-पूर्वक|पूर्व्वक
+पूर्वक|पूर्वकः|पूर्व्वक
 pūrvaka, f. [1222d] -ikā, a.
 	—1. preceding;
 	—2. used like pūrva 3. [pūrva,
@@ -19713,7 +19713,7 @@ paúṃsya, n. manliness; manly deed.
 <a href="https://dub.sh/cslp?dict=LAN&page=194-a" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-पौरुष|पौरुषं
+पौरुष|पौरुषं|पौरुषः
 pauruṣá, n. manliness; manly deed.
 [púruṣa, 1208f.]
 <a href="https://dub.sh/cslp?dict=LAN&page=194-a" target="_blank">PDF</a>
@@ -20124,7 +20124,7 @@ pra, 333.]
 <a href="https://dub.sh/cslp?dict=LAN&page=195-b" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-प्रदक्षिण|प्रदक्षिणं
+प्रदक्षिण|प्रदक्षिणं|प्रदक्षिणः
 pra-dakṣiṇa,
 	—1. a. moving to the
 right;
@@ -20265,7 +20265,7 @@ to the preceding.]
 <a href="https://dub.sh/cslp?dict=LAN&page=196-a" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-प्रमाण|प्रमाणं
+प्रमाण|प्रमाणं|प्रमाणः
 pramāṇa, n. measure, extent (57^23),
 scale, standard; something by which to
 judge, 54^11; norm, rule of action, 21^21;
@@ -20359,7 +20359,7 @@ age; aged. [1305^2.]
 <a href="https://dub.sh/cslp?dict=LAN&page=196-b" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-प्रवर्तक|प्रवर्त्तक|प्रवर्त्तकः
+प्रवर्तक|प्रवर्तकः|प्रवर्त्तक|प्रवर्त्तकः
 pravartaka, a. causing to roll onward
 (as a wheel), setting in motion, promoting;
 as m. promoter, prompter. [caus. of √vṛt
@@ -20648,7 +20648,7 @@ prāpaṇīya, grdv. to be brought to.
 <a href="https://dub.sh/cslp?dict=LAN&page=197-b" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-प्राप्तकाल
+प्राप्तकाल|प्राप्तकालः
 prāpta-kāla, m. arrived time, favorable
 moment. [√āp + pra.]
 <a href="https://dub.sh/cslp?dict=LAN&page=197-b" target="_blank">PDF</a>
@@ -21330,7 +21330,7 @@ all probability, 24^21. [bahula, 1211.]
 <a href="https://dub.sh/cslp?dict=LAN&page=201-a" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-बाह्य
+बाह्य|बाह्यः
 bā́hya, a. being outside, external; at end
 of cpds, equiv. to Eng. extra- at beg. of
 cpds. [bahís, 1211: cf. 1208a^2 end.]
@@ -21353,7 +21353,7 @@ or bid, collateral forms of bhid, ‘cleave.’]
 <a href="https://dub.sh/cslp?dict=LAN&page=201-a" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-बीज|बीजं
+बीज|बीजं|बीजः
 bī́ja, n. seed, of plants and animals.
 <a href="https://dub.sh/cslp?dict=LAN&page=201-a" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
@@ -21529,7 +21529,7 @@ guilt, inherited from one's father. [bīja,
 <a href="https://dub.sh/cslp?dict=LAN&page=202-a" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-ब्रह्मचर्य|ब्रह्मचर्यं|ब्रह्मचर्य्य|ब्रह्मचर्य्यं
+ब्रह्मचर्य|ब्रह्मचर्यं|ब्रह्मचर्यः|ब्रह्मचर्य्य|ब्रह्मचर्य्यं
 brahma-cárya, n. life of holiness
 (bráhman), walk and conversation of a
 Brahman student (brahmán), esp. chastity;
@@ -21953,7 +21953,7 @@ praising.
 <a href="https://dub.sh/cslp?dict=LAN&page=204-b" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-भय|भयं
+भय|भयं|भयः
 bhayá, n.
 	—1. fear, anxiety; in composition
 w. the thing feared, 10^12, 31^9, 46^5;
@@ -22046,7 +22046,7 @@ as last (word of one's begging formula).
 <a href="https://dub.sh/cslp?dict=LAN&page=205-a" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-भवन|भवनं
+भवन|भवनं|भवनः
 bhavana, n. dwelling, abode, house.
 [prop. ‘an existing,’ then ‘place of existing,
 ’ √bhū, 1150. 1a. so Eng. dwelling and
@@ -22215,7 +22215,7 @@ bhārika, m. carrier. [bhāra.]
 <a href="https://dub.sh/cslp?dict=LAN&page=205-b" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-भार्य|भार्य्य
+भार्य|भार्यः|भार्य्य
 bhāryà, grdv. to be supported or maintained;
  -ā̀, f. wife. [√bhṛ, 963b.]
 <a href="https://dub.sh/cslp?dict=LAN&page=205-b" target="_blank">PDF</a>
@@ -22383,13 +22383,13 @@ name of a Vidarbhan king. [√bhī,
 <a href="https://dub.sh/cslp?dict=LAN&page=206-b" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-भीमपराक्रम
+भीमपराक्रम|भीमपराक्रमः
 bhīma-parākramá, m. terrible
 strength or courage. [1264, 1267.]
 <a href="https://dub.sh/cslp?dict=LAN&page=206-b" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-भीमपराक्रम
+भीमपराक्रम|भीमपराक्रमः
 bhīmá-parākrama, a. possessing
 bhīma-parākramá, 1^11, 2^3. [1293.]
 <a href="https://dub.sh/cslp?dict=LAN&page=206-b" target="_blank">PDF</a>
@@ -22900,7 +22900,7 @@ account of the g, 1230c end.]
 <a href="https://dub.sh/cslp?dict=LAN&page=209-a" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-भोजन|भोजनं
+भोजन|भोजनं|भोजनः
 bhójana, n. the enjoying, esp. of food;
 the eating; then (like Eng. eating), food.
 [√2bhuj, ‘enjoy,’ 1150. 1a.]
@@ -23802,7 +23802,7 @@ weak spot, lit. and fig. [cf. √1mṛ, ‘die.’]
 <a href="https://dub.sh/cslp?dict=LAN&page=213-b" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-मर्य
+मर्य|मर्यः
 márya, m. man, esp. young man; pl. (like
 Eng. men, Ger. Mannen), servants, attendants,
  henchmen.
@@ -23983,13 +23983,13 @@ mahā-prājña, a. very wise [1279].
 <a href="https://dub.sh/cslp?dict=LAN&page=214-b" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-महाबाहु
+महाबाहु|महाबाहुः
 mahā-bāhu, a. great-armed [1294], i. e.
 stout-armed.
 <a href="https://dub.sh/cslp?dict=LAN&page=214-b" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-महाभूत|महाभूतं
+महाभूत|महाभूतं|महाभूतः
 mahā-bhūta, n. grosser element, i. e.
 earth, air, fire, water, or other (as distinguished
 from a subtile element or rudimentary
@@ -24341,7 +24341,7 @@ father, Māna. [do.]
 <a href="https://dub.sh/cslp?dict=LAN&page=216-a" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-मानद
+मानद|मानदः
 māna-da, a. (giving, i. e.) showing honor
 (to others); as m. honor-giver, address of
 a woman to her lover.
@@ -24378,7 +24378,7 @@ the Mānavas or Mānava-school.
 <a href="https://dub.sh/cslp?dict=LAN&page=216-a" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-मानस|मानसं
+मानस|मानसं|मानसः
 mānasá, a. sprung from the mind; of the
 mind. [mánas, 1208a.]
 <a href="https://dub.sh/cslp?dict=LAN&page=216-a" target="_blank">PDF</a>
@@ -24668,7 +24668,7 @@ and ‘to associate with,’ whence Verkehr,
 <a href="https://dub.sh/cslp?dict=LAN&page=217-a" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-मिथुन|मिथुनं
+मिथुन|मिथुनं|मिथुनः
 mithuná,
 	—1. a. paired, forming a pair;
 	—2. m., later n. pair (consisting of a male
@@ -26120,7 +26120,7 @@ yātṛ́, m. avenger. [‘pursuer,’ √yā, 1182.]
 <a href="https://dub.sh/cslp?dict=LAN&page=225-a" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-यान|यानं
+यान|यानं|यानः
 yā́na, m. way; as n. wagon. [√yā, 1150.]
 <a href="https://dub.sh/cslp?dict=LAN&page=225-a" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
@@ -26301,7 +26301,7 @@ ayuj and ayuja.]
 <a href="https://dub.sh/cslp?dict=LAN&page=226-a" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-युज्य
+युज्य|युज्यः
 yújya, a. united, combined. [√yuj,
 1213e.]
 <a href="https://dub.sh/cslp?dict=LAN&page=226-a" target="_blank">PDF</a>
@@ -26565,7 +26565,7 @@ rakṣaka, m. keeper; warder; protector.
 <a href="https://dub.sh/cslp?dict=LAN&page=227-b" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-रक्षण|रक्षणं
+रक्षण|रक्षणं|रक्षणः
 rákṣaṇa, n. protection; preservation.
 [√1rakṣ, 1150.]
 <a href="https://dub.sh/cslp?dict=LAN&page=227-b" target="_blank">PDF</a>
@@ -27070,7 +27070,7 @@ rājya, n. kingship. [rā́j, 1211.]
 <a href="https://dub.sh/cslp?dict=LAN&page=230-a" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-राति
+राति|रातिः
 rātí, a. ready to give or bless; gracious;
 as f. grace. [√1rā, ‘give.’]
 <a href="https://dub.sh/cslp?dict=LAN&page=230-a" target="_blank">PDF</a>
@@ -27143,7 +27143,7 @@ applied to soldiers.]
 <a href="https://dub.sh/cslp?dict=LAN&page=230-a" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-राष्ट्र|राष्ट्रं
+राष्ट्र|राष्ट्रं|राष्ट्रः
 rāṣṭrá, n. kingdom; sovereignty. [√rāj 1:
 see 219^5, 1185a.]
 <a href="https://dub.sh/cslp?dict=LAN&page=230-a" target="_blank">PDF</a>
@@ -27267,7 +27267,7 @@ rutá; rótum). cry; yell; howl; hum,
 <a href="https://dub.sh/cslp?dict=LAN&page=230-b" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-रुक्म|रुक्मं
+रुक्म|रुक्मं|रुक्मः
 rukmá, m. ornament of gold; as n. gold.
 [√ruc, 1166, 216. 5.]
 <a href="https://dub.sh/cslp?dict=LAN&page=230-b" target="_blank">PDF</a>
@@ -28604,7 +28604,7 @@ doubtful.]
 <a href="https://dub.sh/cslp?dict=LAN&page=237-b" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-वनप्रस्थ
+वनप्रस्थ|वनप्रस्थः
 vana-prastha, m. n. forest-plateau,
 wooded table-land. [1280b.]
 <a href="https://dub.sh/cslp?dict=LAN&page=237-b" target="_blank">PDF</a>
@@ -28878,7 +28878,7 @@ describe; tell about; pass. 12^3. [varṇa,
 <a href="https://dub.sh/cslp?dict=LAN&page=238-b" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-वर्तन|वर्त्तन|वर्त्तनं|वर्त्तनः
+वर्तन|वर्तनः|वर्त्तन|वर्त्तनं|वर्त्तनः
 vartana, n. prop. an existing, and so
 (like Eng. living), means of subsistence.
 [√vṛt, mgs 3, 5: cf. vṛtti.]
@@ -28907,7 +28907,7 @@ as n. a water-stop, dam, weir. [√1vṛ,
 <a href="https://dub.sh/cslp?dict=LAN&page=239-a" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-वर्धन|वर्द्धनं|वर्द्धनः
+वर्धन|वर्द्धनं|वर्द्धनः|वर्धनः
 1várdhana, a.
 	—1. increasing, trans.;
 as m. increaser;
@@ -28916,7 +28916,7 @@ as m. increaser;
 <a href="https://dub.sh/cslp?dict=LAN&page=239-a" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-वर्धन|वर्द्धनं|वर्द्धनः
+वर्धन|वर्द्धनं|वर्द्धनः|वर्धनः
 2vardhana, n. the cutting. [√2vṛdh,
 ‘cut.’]
 <a href="https://dub.sh/cslp?dict=LAN&page=239-a" target="_blank">PDF</a>
@@ -29843,7 +29843,7 @@ conspicuous; or, far-seeing. [√cakṣ + vi.]
 <a href="https://dub.sh/cslp?dict=LAN&page=243-b" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-विचित्र|विचित्रं
+विचित्र|विचित्रं|विचित्रः
 vi-citra, a.
 	—1. very variegated;
 	—2.
@@ -30464,7 +30464,7 @@ vilāsa, m. joy. [√las + vi.]
 <a href="https://dub.sh/cslp?dict=LAN&page=246-a" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-विवर|विवरं
+विवर|विवरं|विवरः
 vivará, m. n. opening; hole (of creatures
 that live in the ground). [√1vṛ + vi,
 ‘uncover, open.’]
@@ -30727,7 +30727,7 @@ acct, 1280a, 1298c.]
 <a href="https://dub.sh/cslp?dict=LAN&page=247-b" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-विश्वभेषज|विश्वभेषजं
+विश्वभेषज|विश्वभेषजं|विश्वभेषजः
 viśvá-bheṣaja, a. all-healing. [víśva
 + bheṣajá: acct, 1280a, 1298c.]
 <a href="https://dub.sh/cslp?dict=LAN&page=247-b" target="_blank">PDF</a>
@@ -31627,7 +31627,7 @@ acquired by Veda-study.
 <a href="https://dub.sh/cslp?dict=LAN&page=252-a" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-वेदबाह्य
+वेदबाह्य|वेदबाह्यः
 veda-bāhya, a. being outside of the
 Veda, i. e. extra-Vedic, differing from or
 conflicting with the Veda. [1265, veda-
@@ -31769,7 +31769,7 @@ phisik) physician, doctor. [vidyā́, 1211.]
 <a href="https://dub.sh/cslp?dict=LAN&page=252-b" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-वैमानिक
+वैमानिक|वैमानिकः
 vaimānika, a. riding in a sky-traversing
 car called vimāna, q. v. [vimāna,
 1222c 2.]
@@ -32805,7 +32805,7 @@ during which the curse has effect.
 <a href="https://dub.sh/cslp?dict=LAN&page=257-b" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-शारीर|शारीरं
+शारीर|शारीरं|शारीरः
 śārīrá, a. corporeal, of the body. [śárīra,
 1208f.]
 <a href="https://dub.sh/cslp?dict=LAN&page=257-b" target="_blank">PDF</a>
@@ -33960,7 +33960,7 @@ of a dog,’ śvan + pāda.]
 <a href="https://dub.sh/cslp?dict=LAN&page=262-b" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-षट्क
+षट्क|षट्कः
 ṣaṭka,
 	—1. a. consisting of six;
 	—2. as n.
@@ -34198,12 +34198,12 @@ i. e.) friends.
 <a href="https://dub.sh/cslp?dict=LAN&page=264-a" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-सख्य|सख्यं
+सख्य|सख्यं|सख्यः
 sakhyá, n. friendship. [sákhi, 1212c.]
 <a href="https://dub.sh/cslp?dict=LAN&page=264-a" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-सगण
+सगण|सगणः
 sá-gaṇa, a. with (their) troops (of attendants).
  [2sa.]
 <a href="https://dub.sh/cslp?dict=LAN&page=264-a" target="_blank">PDF</a>
@@ -34922,7 +34922,7 @@ sa-phala, a. fruitful, fruit-bearing.
 <a href="https://dub.sh/cslp?dict=LAN&page=267-a" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-सबन्धु|सबंधु
+सबन्धु|सबंधु|सबन्धुः
 sá-bandhu, a. having a friend.
 <a href="https://dub.sh/cslp?dict=LAN&page=267-a" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
@@ -35218,7 +35218,7 @@ sám-priya, a. mutually dear. [priyá,
 <a href="https://dub.sh/cslp?dict=LAN&page=268-b" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-सम्बन्ध|संबन्ध|संबंध|सम्बन्धः
+सम्बन्ध|संबन्ध|संबंध|संबन्धः|सम्बन्धः
 sambandha, m. con-nection; and so, as
 in Eng., relationship. [√bandh + sam.]
 <a href="https://dub.sh/cslp?dict=LAN&page=268-b" target="_blank">PDF</a>
@@ -35370,7 +35370,7 @@ Eng. salve.]
 <a href="https://dub.sh/cslp?dict=LAN&page=269-a" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-सर्व|सर्व्व|सर्व्वः
+सर्व|सर्वः|सर्व्व|सर्व्वः
 sárva [524], pron.
 	—1. entire or complete,
 50^20, 95^18, 96^2; salvus, integer, unharmed;
@@ -35454,7 +35454,7 @@ sarva-deva, m. pl. all the gods.
 <a href="https://dub.sh/cslp?dict=LAN&page=269-b" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-सर्वदेवमय|सर्व्वदेवमय
+सर्वदेवमय|सर्वदेवमयः|सर्व्वदेवमय
 sarvadevamaya, a. containing in himself
 all the gods, i. e. representing or being
 in the name of all the gods, 28^19. [sarvadeva:
@@ -35884,7 +35884,7 @@ Bhagīratha with the water of the Ganges.]
 <a href="https://dub.sh/cslp?dict=LAN&page=271-b" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-साग्निक
+साग्निक|साग्निकः
 sāgnika, a. having Agni with them, with
 Agni. [sa + agni, 1304c: for -ka, see
 1222c 2^2 and 1307.]
@@ -36393,7 +36393,7 @@ sukhopaviṣṭa, a. comfortably seated.
 <a href="https://dub.sh/cslp?dict=LAN&page=273-b" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-सुग|सुगं
+सुग|सुगं|सुगः
 su-gá, a. having the going or approach
 easy; easy to attain; as n. good path.
 <a href="https://dub.sh/cslp?dict=LAN&page=273-b" target="_blank">PDF</a>
@@ -37227,7 +37227,7 @@ pl., sc. sūktāni, hymns to Sūrya. [sū́rya,
 <a href="https://dub.sh/cslp?dict=LAN&page=277-a" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-सौवर्ण|सौवर्णं
+सौवर्ण|सौवर्णं|सौवर्णः
 sauvarṇa, a. golden. [suvarṇa, 1208f.]
 <a href="https://dub.sh/cslp?dict=LAN&page=277-a" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
@@ -38086,7 +38086,7 @@ si-k, Ger. si-ch, ‘self.’]
 <a href="https://dub.sh/cslp?dict=LAN&page=282-a" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-स्वक|स्वकं
+स्वक|स्वकं|स्वकः
 svaka, a. own; his own, etc.; equiv. to
 sva. [sva, 1222a.]
 <a href="https://dub.sh/cslp?dict=LAN&page=282-a" target="_blank">PDF</a>
@@ -38882,7 +38882,7 @@ hā, excl. of pain or astonishment. [1135a.]
 <a href="https://dub.sh/cslp?dict=LAN&page=286-a" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-हार्य|हार्य्य|हार्य्यः
+हार्य|हार्यः|हार्य्य|हार्य्यः
 hā́rya, grdv. to be taken away or stolen.
 [√1hṛ, ‘seize,’ 963^3b.]
 <a href="https://dub.sh/cslp?dict=LAN&page=286-a" target="_blank">PDF</a>
@@ -38893,7 +38893,7 @@ hāsin, a. laughing. [√has, 1183^3.]
 <a href="https://dub.sh/cslp?dict=LAN&page=286-a" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-हास्य|हास्यं
+हास्य|हास्यं|हास्यः
 hāsya, grdv. to be laughed at; as n.
 laughter; ridicule. [√has, 963^3c.]
 <a href="https://dub.sh/cslp?dict=LAN&page=286-a" target="_blank">PDF</a>
@@ -38941,7 +38941,7 @@ cruel man. [√hiṃs, 1188a.]
 <a href="https://dub.sh/cslp?dict=LAN&page=286-a" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-हित|हितं
+हित|हितं|हितः
 hitá, ppl., adj.
 	—1. put, set; placed; and
 so

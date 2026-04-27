@@ -2,7 +2,7 @@
 #bookname=abhidhAnachintAmaNishiloNcha (sa-sa)
 #stripmethod=keep
 #sametypesequence=h
-#description=Data from https://www.sanskrit-lexicon.uni-koeln.de/ as on 2026-04-02
+#description=Data from https://www.sanskrit-lexicon.uni-koeln.de/ as on 2026-04-27
 
 सर्वीय|सम्भव|सर्व्वीय|सर्व्वीयः|संभव|संभवः|सम्भवः
 सर्वीय-पुं (१)
@@ -162,7 +162,7 @@
 <a href="https://dub.sh/cslp?dict=ACSJ&page=1" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=acsj" target="_blank">Correction</a>
 
-कालिका|वार्दल|वार्द्दल|वार्द्दलं|वार्द्दलः
+कालिका|वार्दल|वार्दलः|वार्द्दल|वार्द्दलं|वार्द्दलः
 कालिका-स्त्री (५६०)
 वार्दल-क्ली (५६१)
 मेघमाला कालिकाऽपि वार्दलं चापि दुर्दिनम् (१३) ।
@@ -502,7 +502,7 @@
 <a href="https://dub.sh/cslp?dict=ACSJ&page=2" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=acsj" target="_blank">Correction</a>
 
-नैमित्तिक|नैमित्त|मौहूर्त|लिखिता|मेला|कुलक|नैमित्तिकं|मौहूर्तः|मौहूर्त्त|मौहूर्त्तः|कुलकं|कुलकः
+नैमित्तिक|नैमित्त|मौहूर्त|लिखिता|मेला|कुलक|नैमित्तिकं|नैमित्तिकः|नैमित्तः|मौहूर्तः|मौहूर्त्त|मौहूर्त्तः|कुलकं|कुलकः
 नैमित्तिक-पुं, नैमित्त-पुं, मौहूर्त-पुं (१४९०)
 लिखिता-स्त्री (१४९३)
 मेला-स्त्री (१४९५)
@@ -605,7 +605,7 @@
 <a href="https://dub.sh/cslp?dict=ACSJ&page=2" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=acsj" target="_blank">Correction</a>
 
-कुसुम|पशुधर्म|कुसुमं|पशुधर्मः|पशुधर्म्म
+कुसुम|पशुधर्म|कुसुमं|कुसुमः|पशुधर्मः|पशुधर्म्म
 कुसुम-क्ली (१६६९)
 पशुधर्म-पुं (१६७१)
 पुष्पे कुसुममप्युक्तं पशुधर्मोऽपि मोहने (४४) ।
@@ -661,7 +661,7 @@
 <a href="https://dub.sh/cslp?dict=ACSJ&page=2" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=acsj" target="_blank">Correction</a>
 
-चलुक|आण्ड|पिलक|चलुकः|आंड
+चलुक|आण्ड|पिलक|चलुकः|आंड|आण्डः
 चलुक-पुं (१८३६)
 आण्ड-पुं, पिलक-पुं (१८७२)
 चलुकोऽपि चलुः मुष्के स्यादाण्डः पिलकोऽपि च ॥ ४७ ॥
@@ -701,7 +701,7 @@
 <a href="https://dub.sh/cslp?dict=ACSJ&page=2" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=acsj" target="_blank">Correction</a>
 
-विश्|विष्|अशुचि|वेश|वेशः
+विश्|विष्|अशुचि|वेश|अशुचिः|वेशः
 विश्-स्त्री, विष्-स्त्री, अशुचि-क्ली (१९३६)
 वेश-पुं (१९३७)
 शान्तः षान्तश्च विड्गूथेऽशुचि वेशोऽपि वेषवत् (५०) ।
@@ -751,7 +751,7 @@
 <a href="https://dub.sh/cslp?dict=ACSJ&page=3" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=acsj" target="_blank">Correction</a>
 
-कर्णान्दू|परिहार्य|कर्णांदू|परिहार्य्य|परिहार्य्यः
+कर्णान्दू|परिहार्य|कर्णांदू|परिहार्यः|परिहार्य्य|परिहार्य्यः
 कर्णान्दू-स्त्री (१९८९)
 परिहार्य-पुं (२०१३)
 कर्णान्दूरपि कर्णान्दुः परिहार्योऽपि कङ्कणम् (५४) ।
@@ -1218,7 +1218,7 @@
 <a href="https://dub.sh/cslp?dict=ACSJ&page=4" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=acsj" target="_blank">Correction</a>
 
-उपकर्या|प्रसादन|प्रसादनं
+उपकर्या|प्रसादन|प्रसादनं|प्रसादनः
 उपकर्या-स्त्री (३०२२)
 प्रसादन-पुं (३०२४)
 उपकार्योपकर्याऽपि प्रासादे च प्रसादनः ॥ ८६ ॥
@@ -1257,7 +1257,7 @@
 <a href="https://dub.sh/cslp?dict=ACSJ&page=4" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=acsj" target="_blank">Correction</a>
 
-पवनी|अयोनि
+पवनी|अयोनि|अयोनिः
 पवनी-स्त्री (३१००)
 अयोनि-पुंक्ली (३१०६)
 पवन्यपि समूहन्यामयोनिं मुसलं विदुः (८९) ।
@@ -1289,7 +1289,7 @@
 <a href="https://dub.sh/cslp?dict=ACSJ&page=4" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=acsj" target="_blank">Correction</a>
 
-कक्खटी|औदुम्बर|औदुंबर
+कक्खटी|औदुम्बर|औदुंबर|औदुम्बरः
 कक्खटी-स्त्री (३१६७)
 औदुम्बर-क्ली (३१७२)
 कक्खट्यपि खटिन्यां स्यात्ताम्रमौदुम्बरं विदुः (९१) ।
@@ -1570,7 +1570,7 @@
 <a href="https://dub.sh/cslp?dict=ACSJ&page=4" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=acsj" target="_blank">Correction</a>
 
-व्याड|औपवाह्य|अवरा|व्याडः
+व्याड|औपवाह्य|अवरा|व्याडः|औपवाह्यः
 व्याड-पुं (३६९६)
 औपवाह्य-पुं (३७००)
 अवरा-स्त्रीक्ली (३७२६)
@@ -1844,7 +1844,7 @@
 <a href="https://dub.sh/cslp?dict=ACSJ&page=5" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=acsj" target="_blank">Correction</a>
 
-लडह|रमणीय|सदातन|शाश्वतिक|नेदीयस्|लडहः|रमणीयं
+लडह|रमणीय|सदातन|शाश्वतिक|नेदीयस्|लडहः|रमणीयं|सदातनः
 लडह-क्ली, रमणीय-क्ली (४३२४)
 सदातन-क्ली, शाश्वतिक-क्ली (४३४०)
 नेदीयस्-क्ली (४३३७)
@@ -1937,7 +1937,7 @@
 <a href="https://dub.sh/cslp?dict=ACSJ&page=5" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=acsj" target="_blank">Correction</a>
 
-जात|सङ्घर्ष|विकार|विकृति|समर्पण|जातं|संघर्ष|संघर्षः|सङ्घर्षः|विकारः|विकृतिः|समर्पणं|समर्प्पण
+जात|सङ्घर्ष|विकार|विकृति|समर्पण|जातं|जातः|संघर्ष|संघर्षः|सङ्घर्षः|विकारः|विकृतिः|समर्पणं|समर्प्पण
 जात-क्ली (४४९२)
 सङ्घर्ष-पुं (४४९५)
 विकार-पुं, विकृति-स्त्री (४५०८)

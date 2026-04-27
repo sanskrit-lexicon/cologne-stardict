@@ -2,7 +2,7 @@
 #bookname=Meulenbeld-Sanskrit-Names-of-Plants (sa-en)
 #stripmethod=keep
 #sametypesequence=h
-#description=Data from https://www.sanskrit-lexicon.uni-koeln.de/ as on 2026-04-02
+#description=Data from https://www.sanskrit-lexicon.uni-koeln.de/ as on 2026-04-27
 
 अक्ष|अक्षं|अक्षः
 अक्ष
@@ -243,7 +243,7 @@ riety of ginger; the plant is difficult to identify.”
 <a href="https://dub.sh/cslp?dict=SNP&page=526" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=snp" target="_blank">Correction</a>
 
-अर्जक|अर्ज्जक|अर्ज्जकः
+अर्जक|अर्जकः|अर्ज्जक|अर्ज्जकः
 अर्जक
 (1) OCIMUM GRATISSIMUM LINN. (MW; PW; V 1, p. 78);
 (2) O. BASILICUM LINN. (Avk; Bpn, p. 511-512);
@@ -5378,7 +5378,7 @@ bālaka
 <a href="https://dub.sh/cslp?dict=SNP&page=446" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=snp" target="_blank">Correction</a>
 
-बीज|बीजं
+बीज|बीजं|बीजः
 bīja
 = bījaka (see Ḍa. on Su. Ci. 25, 32: bījasāra = asanasāra, on Su.U.
 10, 8: bījaḥ pītasāraḥ ‘bījaka’ iti yāvat).

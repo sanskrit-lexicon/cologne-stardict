@@ -2,7 +2,7 @@
 #bookname=Vedic-Index-of-Names-and-Subjects (sa-en)
 #stripmethod=keep
 #sametypesequence=h
-#description=Data from https://www.sanskrit-lexicon.uni-koeln.de/ as on 2026-04-02
+#description=Data from https://www.sanskrit-lexicon.uni-koeln.de/ as on 2026-04-27
 
 अंशु|अंशुः
 Aṃśu. — I. Name of a protégé of the Aśvins in the Rigveda.^1
@@ -24,7 +24,7 @@ the Vājasaneyi Saṃhitā (vii. 30; xxii. 31). See Māsa.
 <a href="https://dub.sh/cslp?dict=VEI&page=1-001" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=vei" target="_blank">Correction</a>
 
-अक्र
+अक्र|अक्रः
 Akra. — In several passages of the Rigveda^1 this word means,
 according to Geldner,^2 ‘horse.’ Roth^3 suggests that ‘riding
 horse’ is the precise sense. Cf. Aśva.
@@ -1669,7 +1669,7 @@ renders it as ‘hive,’ Böhtlingk as ‘honeycomb,’ Little^6 as
 <a href="https://dub.sh/cslp?dict=VEI&page=1-026" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=vei" target="_blank">Correction</a>
 
-अप्नवान
+अप्नवान|अप्नवानः
 Apnavāna appears only twice in the Rigveda^1 as an ancient
 sage, coupled with the Bhṛgus, to whose family Ludwig^2 con-
 jectures him to have belonged.
@@ -2203,7 +2203,7 @@ Brāhmaṇa^1 as the pupil of Dṛti Aindrota Śaunaka.
 <a href="https://dub.sh/cslp?dict=VEI&page=1-034" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=vei" target="_blank">Correction</a>
 
-अरित्र|अरित्रं
+अरित्र|अरित्रं|अरित्रः
 Aritra denotes the ‘oar’ by which boats were propelled.
 The Rigveda^1 and the Vājasaneyi Saṃhitā^2 speak of a vessel
 with a hundred oars, and a boat (nau) is said to be ‘propelled
@@ -2367,7 +2367,7 @@ xiii. 4, 3, 9.
 <a href="https://dub.sh/cslp?dict=VEI&page=1-037" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=vei" target="_blank">Correction</a>
 
-अर्य|अर्य्य|अर्य्यः
+अर्य|अर्यः|अर्य्य|अर्य्यः
 Arya. — This word is not common in the older literature, in
 places where the quantity of the first vowel is fixed as short, except
 in a mere adjectival sense. Geldner,^1 indeed, contends that no
@@ -2513,7 +2513,7 @@ vaveda.^1
 <a href="https://dub.sh/cslp?dict=VEI&page=1-039" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=vei" target="_blank">Correction</a>
 
-अलिन
+अलिन|अलिनः
 Alina is the name of a people mentioned once only in the
 Rigveda.^1 Roth^2 thought that the Alinas were allies — possibly
 a subdivision — of the Tṛtsus. Ludwig^3 more probably thinks
@@ -2629,7 +2629,7 @@ Avasa in the adjective an-avasa in the Rigveda^1 may mean
 <a href="https://dub.sh/cslp?dict=VEI&page=1-040" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=vei" target="_blank">Correction</a>
 
-अवस्कव
+अवस्कव|अवस्कवः
 Ava-skava. — A kind of worm, mentioned along with others
 in the Atharvaveda.^1
 1) ii. 31, 4. Cf. Whitney, ad loc.;
@@ -3404,7 +3404,7 @@ significance is doubtful.
 <a href="https://dub.sh/cslp?dict=VEI&page=1-052" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=vei" target="_blank">Correction</a>
 
-आगस्त्य
+आगस्त्य|आगस्त्यः
 Āgastya appears as a teacher in the Aitareya (iii. 1, 1) and
 Śāṅkhāyana (vii. 2) Āraṇyakas.
 <a href="https://dub.sh/cslp?dict=VEI&page=1-052" target="_blank">PDF</a>
@@ -3565,7 +3565,7 @@ Saṃhitā.^2
 <a href="https://dub.sh/cslp?dict=VEI&page=1-055" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=vei" target="_blank">Correction</a>
 
-आञ्जन|आंजन
+आञ्जन|आंजन|आञ्जनः
 Āñjana. — A salve frequently referred to in the Atharvaveda,^1
 which came from Mount Trikakubh^2 in the Himālaya, and was
 used to anoint the eyes.^3 The region of the Yamunā^4 is also
@@ -3713,7 +3713,7 @@ in both versions).
 <a href="https://dub.sh/cslp?dict=VEI&page=1-057" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=vei" target="_blank">Correction</a>
 
-आथर्वण|आथर्व्वण|आथर्व्वणं|आथर्व्वणः
+आथर्वण|आथर्वणः|आथर्व्वण|आथर्व्वणं|आथर्व्वणः
 Ātharvaṇa, a patronymic formed from the name of the
 mythic Atharvan, is found normally in the plural neuter as a
 designation of the hymns of the Atharvans. This use appears
@@ -3773,7 +3773,7 @@ Bṛhadāraṇyaka Upaniṣad^1 as a pupil of Ānabhimlāta.
 <a href="https://dub.sh/cslp?dict=VEI&page=1-058" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=vei" target="_blank">Correction</a>
 
-आनव
+आनव|आनवः
 Ānava. See Anu.
 <a href="https://dub.sh/cslp?dict=VEI&page=1-058" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=vei" target="_blank">Correction</a>
@@ -4005,7 +4005,7 @@ for Aruṇa.
 <a href="https://dub.sh/cslp?dict=VEI&page=1-062" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=vei" target="_blank">Correction</a>
 
-आरुणि
+आरुणि|आरुणिः
 Āruṇi is the patronymic normally referring to Uddālaka,
 son of Aruṇa Aupaveśi. Uddālaka is probably also meant by
 Āruṇi Yaśasvin, who occurs as a teacher of the Subrahmaṇyā
@@ -4031,12 +4031,12 @@ Upaniṣad, vi. 2, 1.
 <a href="https://dub.sh/cslp?dict=VEI&page=1-062" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=vei" target="_blank">Correction</a>
 
-आर्क्ष
+आर्क्ष|आर्क्षः
 Ārkṣa. — Patronymic of Śrutarvan and of Āśvamedha.
 <a href="https://dub.sh/cslp?dict=VEI&page=1-062" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=vei" target="_blank">Correction</a>
 
-आर्जीक
+आर्जीक|आर्जीकः
 Ārjīka^1 and Ārjīkīya^2 (masc.), Ārjīkīyā^3 (fem.). — The two
 masculine forms probably denote the people or land, while the
 feminine word designates the river of the land. Hillebrandt^4
@@ -4095,7 +4095,7 @@ Upaniṣad.^2
 <a href="https://dub.sh/cslp?dict=VEI&page=1-063" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=vei" target="_blank">Correction</a>
 
-आर्तव|आर्त्तव|आर्त्तवं|आर्त्तवः
+आर्तव|आर्तवः|आर्त्तव|आर्त्तवं|आर्त्तवः
 Ārtava. — This expression denotes a portion of the year
 consisting of more seasons than one. But it does not bear the
 exact sense of ‘half-year,’ as suggested by Zimmer.^1 This is
@@ -4146,7 +4146,7 @@ Oriental Society, 13, 270.
 <a href="https://dub.sh/cslp?dict=VEI&page=1-064" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=vei" target="_blank">Correction</a>
 
-आर्य|आर्य्य|आर्य्यः
+आर्य|आर्यः|आर्य्य|आर्य्यः
 Ārya is the normal designation in the Vedic literature from
 the Rigveda^1 onwards of an Āryan, a member of the three
 upper classes, Brāhmaṇa, Kṣatriya, or Vaiśya, as the formal
@@ -4237,7 +4237,7 @@ disches Leben, 214 et seq.
 <a href="https://dub.sh/cslp?dict=VEI&page=1-064" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=vei" target="_blank">Correction</a>
 
-आर्य|आर्य्य|आर्य्यः
+आर्य|आर्यः|आर्य्य|आर्य्यः
 Ārya. See Mālya.
 <a href="https://dub.sh/cslp?dict=VEI&page=1-066" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=vei" target="_blank">Correction</a>
@@ -4248,7 +4248,7 @@ Arṣṭi-ṣeṇa. — Patronymic of Devāpi.^1
 <a href="https://dub.sh/cslp?dict=VEI&page=1-066" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=vei" target="_blank">Correction</a>
 
-आल|आलं
+आल|आलं|आलः
 Āla appears to mean ‘weed’ in the Atharvaveda,^1 and to
 form part of three other words,^2 denoting, according to Sāyaṇa,
 grass-creepers (sasya-vallī) — viz., Alasālā, Silañjālā,^3 and Nīlā-
@@ -4731,7 +4731,7 @@ is named Rathin or Ratheṣṭhā.
 <a href="https://dub.sh/cslp?dict=VEI&page=1-073" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=vei" target="_blank">Correction</a>
 
-आस्राव
+आस्राव|आस्रावः
 Ā-srāva (‘discharge’) denotes a disease, thrice referred to in
 the Atharvaveda,^1 the precise nature of which is uncertain.
 The Scholiast^2 in one place interprets it as painful urination
@@ -5115,7 +5115,7 @@ Grammatical Index, 35.
 <a href="https://dub.sh/cslp?dict=VEI&page=1-080" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=vei" target="_blank">Correction</a>
 
-इरिण|इरिणं
+इरिण|इरिणं|इरिणः
 Iriṇa (neut.) occurs not rarely in the later Saṃhitās^1 and
 Brāhmaṇas^2 in the sense of ‘a cleft in the ground,’ usually
 natural (sva-kṛta). The same meaning is also, as Pischel^3
@@ -5943,7 +5943,7 @@ Atharvaveda, 525.
 <a href="https://dub.sh/cslp?dict=VEI&page=1-093" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=vei" target="_blank">Correction</a>
 
-उपर
+उपर|उपरः
 Upara, which, according to Pischel,^1 means ‘stone’ in
 general, is the technical name of the stone on which the Soma
 plant was laid in order to be pounded for the extraction of the
@@ -6283,7 +6283,7 @@ kakṣa, or das weite dickicht).
 <a href="https://dub.sh/cslp?dict=VEI&page=1-099" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=vei" target="_blank">Correction</a>
 
-उरुक्षय
+उरुक्षय|उरुक्षयः
 Uru-kṣaya. — A family of Urukṣayas, singers and worshippers
 of Agni, is referred to in one hymn of the Rigveda (x. 118, 8. 9).
 Cf. Ludwig, Translation of the Rigveda, 3, 167.
@@ -6784,7 +6784,7 @@ word an epithet of the Indus, ‘rich in sheep.’
 <a href="https://dub.sh/cslp?dict=VEI&page=1-106" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=vei" target="_blank">Correction</a>
 
-ऊर्दर|ऊर्दरं|ऊर्द्दर|ऊर्द्दरः
+ऊर्दर|ऊर्दरं|ऊर्दरः|ऊर्द्दर|ऊर्द्दरः
 Ūrdara. — This word occurs once in the Rigveda,^1 when
 reference is made to filling Indra with Soma as one fills an
 [<a href="https://dub.sh/cslp?dict=VEI&page=1-107" target="_blank">Page1-107+ 42</a>]
@@ -7680,7 +7680,7 @@ mentioned in the Śāṅkhāyana Āraṇyaka (xii. 8).
 <a href="https://dub.sh/cslp?dict=VEI&page=1-121" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=vei" target="_blank">Correction</a>
 
-एवावद
+एवावद|एवावदः
 Evāvada is regarded by Ludwig^1 in a very obscure passage
 of the Rigveda^2 as the name of a singer beside Kṣatra, Manasa,
 and Yajata. The commentator Sāyaṇa also interprets the
@@ -7702,7 +7702,7 @@ Jāna-śruteya.
 <a href="https://dub.sh/cslp?dict=VEI&page=1-121" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=vei" target="_blank">Correction</a>
 
-ऐक्ष्वाक
+ऐक्ष्वाक|ऐक्ष्वाकः
 Aikṣvāka, ‘descendant of Ikṣvāku,’ is the patronymic borne
 by Purukutsa in the Śatapatha Brāhmaṇa.^1 Another Aikṣvāka
 is Vārṣṇi, a teacher mentioned in the Jaiminīya Upaniṣad
@@ -7716,7 +7716,7 @@ the Pañcaviṃśa Brāhmaṇa.^4
 <a href="https://dub.sh/cslp?dict=VEI&page=1-121" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=vei" target="_blank">Correction</a>
 
-ऐतरेय
+ऐतरेय|ऐतरेयः
 Aitareya, perhaps a patronymic from Itara, though the
 commentator Sāyaṇa^1 regards the word as a metronymic from
 [<a href="https://dub.sh/cslp?dict=VEI&page=1-122" target="_blank">Page1-122+ 38</a>]
@@ -7740,7 +7740,7 @@ pralāpa, or ‘Discourse of Aitaśa,’ is a part of the Atharvaveda.^1
 <a href="https://dub.sh/cslp?dict=VEI&page=1-122" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=vei" target="_blank">Correction</a>
 
-ऐतिहासिक
+ऐतिहासिक|ऐतिहासिकः
 Aiti-hāsika. — This term was applied to the people who
 explained the Vedic hymns by treating them as legendary
 history (Itihāsa), as Sieg^1 shows by the passages of the
@@ -8143,7 +8143,7 @@ probably, as Sieg^4 suggests, an eclectic.
 <a href="https://dub.sh/cslp?dict=VEI&page=1-128" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=vei" target="_blank">Correction</a>
 
-और्व|और्व्व|और्व्वं|और्व्वः
+और्व|और्वः|और्व्व|और्व्वं|और्व्वः
 Aurva, ‘descendant of Uru or Urva,’ appears in the Rigveda^1
 in close connexion with Bhṛgu, being probably a Bhṛgu
 himself. As in one passage of the Aitareya Brāhmaṇa,^2 the
@@ -8254,7 +8254,7 @@ Böhtlingk,^2 it is identical with Kakkaṭa.
 <a href="https://dub.sh/cslp?dict=VEI&page=1-130" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=vei" target="_blank">Correction</a>
 
-ककुह
+ककुह|ककुहः
 Kakuha, a word occurring several times in the Rigveda,^1 is
 understood by Roth^2 to designate part of a chariot, perhaps the
 seat. Ludwig,^3 again, regards it in one passage^4 as the proper
@@ -8930,7 +8930,7 @@ den Rājasūya, 19 et seq.
 <a href="https://dub.sh/cslp?dict=VEI&page=1-140" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=vei" target="_blank">Correction</a>
 
-कर्वर|कर्व्वर
+कर्वर|कर्वरः|कर्व्वर
 Karvara, a word found in one passage of the Atharvaveda.^1
 seems to mean some kind of fish^2 caught by a fisherman
 (pauñjiṣṭha).
@@ -9045,7 +9045,7 @@ Cf. Zimmer, Altindisches Leben, 94,
 <a href="https://dub.sh/cslp?dict=VEI&page=1-142" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=vei" target="_blank">Correction</a>
 
-कल्याण|कल्याणं
+कल्याण|कल्याणं|कल्याणः
 Kalyāṇa is the name, in the Pañcaviṃśa Brāhmaṇa,^1 of an
 Āṅgirasa who saw the Aurṇāyava Sāman.
 1) xii. 11, 10. Cf. Hopkins, Transactions of the Connecticut Academy of Arts and
@@ -9075,7 +9075,7 @@ coats of mail only.
 <a href="https://dub.sh/cslp?dict=VEI&page=1-143" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=vei" target="_blank">Correction</a>
 
-कवष
+कवष|कवषः
 Kavaṣa is mentioned in a hymn of the Rigveda^1 as one of
 those whom, together with the Druhyu king, Indra overthrew
 for the Tṛtsus. The Anukramaṇī (Index) also attributes to
@@ -11261,7 +11261,7 @@ Saṃhitās.
 <a href="https://dub.sh/cslp?dict=VEI&page=1-177" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=vei" target="_blank">Correction</a>
 
-कूबर
+कूबर|कूबरः
 Kūbara in the Maitrāyaṇī Saṃhitā (ii. 1, 11) and Kūbarī
 in the Śatapatha Brāhmaṇa (iv. 6, 9, 11. 12) and the Kauṣītaki
 Brāhmaṇa (xxvii. 6) denote the pole of a cart.
@@ -12180,7 +12180,7 @@ Brāhmaṇa.^1
 <a href="https://dub.sh/cslp?dict=VEI&page=1-191" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=vei" target="_blank">Correction</a>
 
-कौत्स|कौत्सं
+कौत्स|कौत्सं|कौत्सः
 Kautsa (‘descendant of Kutsa’) is mentioned in the Śata-
 patha Brāhmaṇa^1 as a pupil of Māhitthi. A Kautsa is also
 attacked in the Nirukta^2 as denying the value of the Vedas, and
@@ -12419,7 +12419,7 @@ Kauṣya, ‘descendant of Koṣa,’ is the patronymic of Suśravas.
 <a href="https://dub.sh/cslp?dict=VEI&page=1-195" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=vei" target="_blank">Correction</a>
 
-कौसल्य|कौसल्यं
+कौसल्य|कौसल्यं|कौसल्यः
 Kausalya, ‘prince of Kosala,’ is the designation of Para Āṭṇāra
 in the Satapatha Brāhmaṇa,^1 and of Hiraṇyanābha in the
 Sāṅkhāvana Śrauta Sūtra.^2 Āśvalāyana is styled Kausalya, as
@@ -12595,7 +12595,7 @@ Krimi. See Kṛmi.
 <a href="https://dub.sh/cslp?dict=VEI&page=1-197" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=vei" target="_blank">Correction</a>
 
-क्रिवि
+क्रिवि|क्रिविः
 Krivi is asserted in the Śatapatha Brāhmaṇa^1 to have been
 the older name of the Pañcālas. This statement is supported
 by the name of the king there mentioned, Kraivya Pāñcāla,
@@ -14589,7 +14589,7 @@ Atithigva. Possibly a people may be meant.
 <a href="https://dub.sh/cslp?dict=VEI&page=1-228" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=vei" target="_blank">Correction</a>
 
-गुप्त|गुप्तं
+गुप्त|गुप्तं|गुप्तः
 Gupta is the name in the Jaiminīya Upaniṣad Brāhmaṇa
 (iii. 42) of Vaipaścita Dārḍhajayanti Gupta Lauhitya. All
 the three other names being patronymics show that he was
@@ -14664,7 +14664,7 @@ Sūtra literature.^3
 <a href="https://dub.sh/cslp?dict=VEI&page=1-229" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=vei" target="_blank">Correction</a>
 
-गृह|गृहं
+गृह|गृहं|गृहः
 Gṛha is used in the singular,^1 or oftener in the plural,^2 to
 denote the ‘house’ of the Vedic Indian. Dama or Dam has
 [<a href="https://dub.sh/cslp?dict=VEI&page=1-230" target="_blank">Page1-230+ 62</a>]
@@ -17759,7 +17759,7 @@ Sāyaṇa^4 appears to have adopted it.
 <a href="https://dub.sh/cslp?dict=VEI&page=1-278" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=vei" target="_blank">Correction</a>
 
-जरूथ|जरूथं
+जरूथ|जरूथं|जरूथः
 Jarūtha, mentioned in three passages of the Rigveda,^1
 appears to denote a demon defeated by Agni.^2 Ludwig, how-
 ever, followed by Griffith,^3 sees in him a foe slain in a battle in
@@ -18639,7 +18639,7 @@ Pañcaviṃśa Brāhmaṇa, ii. 1, 2; xx. 5, 2.
 <a href="https://dub.sh/cslp?dict=VEI&page=1-293" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=vei" target="_blank">Correction</a>
 
-ज्योतिष|ज्योतिषं
+ज्योतिष|ज्योतिषं|ज्योतिषः
 Jyotiṣa, ‘astronomy.’ It is important to note that no refer-
 ence to any work on astronomy occurs in the Saṃhitās or
 Brāhmaṇas. The text which claims to represent the astro-
@@ -20615,7 +20615,7 @@ of the ‘bolt’ of the god is adequate.
 <a href="https://dub.sh/cslp?dict=VEI&page=1-324" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=vei" target="_blank">Correction</a>
 
-तैत्तिरीय
+तैत्तिरीय|तैत्तिरीयः
 Taittirīya is the name of one of the divisions of the Black
 Yajurveda, which is, however, not found thus described until
 the Sūtra period.^1 The school is represented by a Saṃhitā,^2
@@ -20961,7 +20961,7 @@ a Ṛṣi or seer.
 <a href="https://dub.sh/cslp?dict=VEI&page=1-329" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=vei" target="_blank">Correction</a>
 
-त्रिपुर|त्रिपुरं
+त्रिपुर|त्रिपुरं|त्रिपुरः
 Tri-pura, ‘a threefold stronghold,’ is alluded to in the
 Brāhmaṇas^1 as a secure protection. But as the passages are
 mythical no stress can be laid on them as evidence for the
@@ -22247,7 +22247,7 @@ Zimmer, op. cit., 101 et seq.
 <a href="https://dub.sh/cslp?dict=VEI&page=1-347" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=vei" target="_blank">Correction</a>
 
-दाक्षायण
+दाक्षायण|दाक्षायणः
 Dākṣāyaṇa, ‘descendant of Dakṣa.’ The Dākṣāyaṇas are
 mentioned in the Atharvaveda and the Yajurveda Saṃhitās^1
 as having given gold to Śatānīka. In the Śatapatha Brāhmaṇa^2
@@ -22317,7 +22317,7 @@ Cyavana in the Pañcaviṃśa Brāhmaṇa (xiv. 6).
 <a href="https://dub.sh/cslp?dict=VEI&page=1-350" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=vei" target="_blank">Correction</a>
 
-दान|दानं
+दान|दानं|दानः
 1. Dāna, ‘giving,’ ‘gift,’ is a word of frequent occurrence in
 the Rigveda, especially in the Dāna-stutis^1 (‘Praises of Gifts’)
 of generous patrons (see Dakṣiṇā). One of the characteristics
@@ -22335,7 +22335,7 @@ Weber, Indische Studien, 10, 47-61.
 <a href="https://dub.sh/cslp?dict=VEI&page=1-350" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=vei" target="_blank">Correction</a>
 
-दान|दानं
+दान|दानं|दानः
 2. Dāna (‘distribution’)^1 seems in several passages of the
 Rigveda^2 to be a designation of the sacrificial feast to which
 [<a href="https://dub.sh/cslp?dict=VEI&page=1-351" target="_blank">Page1-351+ 46</a>]
@@ -22357,7 +22357,7 @@ originally ‘secretion.’
 <a href="https://dub.sh/cslp?dict=VEI&page=1-350" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=vei" target="_blank">Correction</a>
 
-दान|दानं
+दान|दानं|दानः
 3. Dāna is in three passages of the Rigveda^1 held by Roth
 to designate a chariot horse.
 1) v. 27, 5; vii. 18, 23; viii. 46, 24.
@@ -23583,7 +23583,7 @@ of the Atharvaveda, 314 et seq., 351.
 <a href="https://dub.sh/cslp?dict=VEI&page=1-370" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=vei" target="_blank">Correction</a>
 
-दुर्मुख|दुर्म्मुख|दुर्म्मुखः
+दुर्मुख|दुर्मुखः|दुर्म्मुख|दुर्म्मुखः
 Dur-mukha, ‘ugly-faced,’ is the name, in the Aitareya
 Brāhmaṇa,^1 of a Pāñcāla, that is, Pañcāla king, who conquered
 the world, and whose priest was Bṛhaduktha.
@@ -24219,7 +24219,7 @@ of Atyaṃhas in the Taittirīya Brāhmaṇa (iii. 10, 9, 3-5).
 <a href="https://dub.sh/cslp?dict=VEI&page=1-380" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=vei" target="_blank">Correction</a>
 
-दैव|दैवं
+दैव|दैवं|दैवः
 1. Daiva (masc.) appears in the list of sciences in the
 Chāndogya Upaniṣad,^1 where Śaṅkara explains it as utpāta-
 jñāna, apparently the ‘knowledge of portents.’ The St. Peters-
@@ -24233,7 +24233,7 @@ translation.^3
 <a href="https://dub.sh/cslp?dict=VEI&page=1-380" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=vei" target="_blank">Correction</a>
 
-दैव|दैवं
+दैव|दैवं|दैवः
 2. Daiva is the patronymic of the mythical Atharvan in the
 first two Vaṃśas (lists of teachers) of the Bṛhadāraṇyaka
 Upaniṣad.^1
@@ -24410,7 +24410,7 @@ Morgenländischen Gesellschaft, 55, 328.
 <a href="https://dub.sh/cslp?dict=VEI&page=1-382" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=vei" target="_blank">Correction</a>
 
-द्रप्स
+द्रप्स|द्रप्सः
 Drapsa is a common word from the Rigveda onwards^1 for
 a ‘drop’: according to Sāyaṇa,^2 a ‘thick drop’ as opposed to
 stoka, a ‘small drop.’ Hence there frequently occurs the ex-
@@ -27844,7 +27844,7 @@ a poisonous plant.
 <a href="https://dub.sh/cslp?dict=VEI&page=1-436" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=vei" target="_blank">Correction</a>
 
-नर्य|नर्य्य
+नर्य|नर्यः|नर्य्य
 Narya (‘manly’) is in two passages of the Rigveda (i. 54, 6;
 112, 9) understood by the commentator Sāyaṇa as the proper
 name of a man. See also Nārya.
@@ -28763,7 +28763,7 @@ xxxvii. 10; Taittirīya Āraṇyaka, ii. 5,
 <a href="https://dub.sh/cslp?dict=VEI&page=1-450" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=vei" target="_blank">Correction</a>
 
-निरष्ट
+निरष्ट|निरष्टः
 Nir-aṣṭa, ‘castrated,’ is found in some of the later Saṃhitās^1
 as applied to oxen, and in the Śatapatha Brāhmaṇa^2 to horses.
 1) Taittirīya Saṃhitā, i. 8, 9, 1; 17, 1; Kāṭhaka Saṃhitā, xv. 4. 9.
@@ -29753,7 +29753,7 @@ denotes a ‘vessel for cooking’ food.
 <a href="https://dub.sh/cslp?dict=VEI&page=1-465" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=vei" target="_blank">Correction</a>
 
-पज्र
+पज्र|पज्रः
 Pajra is the name of the family from which Kakṣīvant
 sprang (Pajriya). It is mentioned several times in the Rigveda.^1
 According to Pischel,^2 the epithet pṛkṣa-yāma^3 applied to them
@@ -31302,7 +31302,7 @@ to quadrupeds would represent ‘one-fourth.’ Cf. Pāda.
 <a href="https://dub.sh/cslp?dict=VEI&page=1-490" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=vei" target="_blank">Correction</a>
 
-पद|पदं
+पद|पदं|पदः
 Pada in the sense of ‘quarter of a stanza’ is found as early
 as the Rigveda^1 and often later.^2 In the Brāhmaṇas it also
 denotes a ‘word’ as opposed to a ‘letter’ (Varṇa).^3
@@ -33307,7 +33307,7 @@ Brāhmaṇa, ii. 6, 12; Weber, op. cit.,
 <a href="https://dub.sh/cslp?dict=VEI&page=1-520" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=vei" target="_blank">Correction</a>
 
-पारिप्लव|पारिप्लवं
+पारिप्लव|पारिप्लवं|पारिप्लवः
 Pāri-plava, ‘cyclic,’ is a term applied to the Ākhyāna, or
 ‘tale,’ which is to be recited at the Aśvamedha (‘horse
 [<a href="https://dub.sh/cslp?dict=VEI&page=1-521" target="_blank">Page1-521+ 35</a>]
@@ -36106,7 +36106,7 @@ side,’ occurs in Rv. i. 105, 18.
 <a href="https://dub.sh/cslp?dict=VEI&page=2-021" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=vei" target="_blank">Correction</a>
 
-पेत्व|पेत्वं
+पेत्व|पेत्वं|पेत्वः
 Petva is found twice in the Atharvaveda.^1 In the first
 passage reference is made to its vāja, which Zimmer^2 argues
 can only mean ‘strength,’ ‘swiftness,’ though naturally the
@@ -36362,7 +36362,7 @@ the name of a functional caste.
 <a href="https://dub.sh/cslp?dict=VEI&page=2-025" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=vei" target="_blank">Correction</a>
 
-पौण्डरीक|पौंडरीक|पौण्डरीकं
+पौण्डरीक|पौंडरीक|पौण्डरीकं|पौण्डरीकः
 Pauṇḍarīka is the patronymic of Kṣemadhṛtvan in the
 Pañcaviṃśa Brāhmaṇa (xxii. 18, 7).
 <a href="https://dub.sh/cslp?dict=VEI&page=2-025" target="_blank">PDF</a>
@@ -36427,7 +36427,7 @@ Verwandtschaftsnamen, 478.
 <a href="https://dub.sh/cslp?dict=VEI&page=2-026" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=vei" target="_blank">Correction</a>
 
-पौर|पौरं
+पौर|पौरं|पौरः
 Paura, ‘descendant of Pūru,’ is the name of a man, presum-
 ably a Pūru prince helped by Indra, in a hymn of the Rigveda.^1
 The Greek Πῶρος the name of Alexander's rival, is probably
@@ -37283,7 +37283,7 @@ Bṛhaddevatā, 2, 323.
 <a href="https://dub.sh/cslp?dict=VEI&page=2-039" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=vei" target="_blank">Correction</a>
 
-प्रवचन|प्रवचनं
+प्रवचन|प्रवचनं|प्रवचनः
 Pra-vacana means ‘oral instruction,’ ‘teaching,’ in the Śata-
 patha Brāhmaṇa^1 and later.^2
 1) xi. 5, 7, 1.
@@ -38516,7 +38516,7 @@ Phalgunī. See Nakṣatra.
 <a href="https://dub.sh/cslp?dict=VEI&page=2-058" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=vei" target="_blank">Correction</a>
 
-फाण्ट|फांट|फाण्टं
+फाण्ट|फांट|फाण्टं|फाण्टः
 Phāṇṭa in the Śatapatha Brāhmaṇa^1 is said to denote the
 first particles of butter produced by churning, ‘creamy butter.’
 1) iii. 1, 3, 8. Cf. Eggeling, Sacred Books of the East, 26, 14, n. 1.
@@ -38544,7 +38544,7 @@ Pañcāla (iv. 7, 2).
 <a href="https://dub.sh/cslp?dict=VEI&page=2-058" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=vei" target="_blank">Correction</a>
 
-बकुर
+बकुर|बकुरः
 Bakura is mentioned in one passage of the Rigveda,^1 where
 it is said that the Aśvins made light for the Āryan by blowing
 their Bakura against the Dasyus. According to the Nirukta,^2
@@ -38961,7 +38961,7 @@ bahuvat, in the Nirukta^3 means ‘in the dual and the plural.’
 <a href="https://dub.sh/cslp?dict=VEI&page=2-065" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=vei" target="_blank">Correction</a>
 
-बह्वृच
+बह्वृच|बह्वृचः
 Bahv-ṛca denotes an adherent of the Rigveda. The term
 is found in the Brāhmaṇas^1 of the Rigveda, in the Śatapatha^2
 and the Pañcaviṃśa Brāhmaṇas,^3 and in the Āraṇyakas of the
@@ -39111,7 +39111,7 @@ Bāṣkiha, ‘descendant of Baṣkiha,’ is the patronymic of
 <a href="https://dub.sh/cslp?dict=VEI&page=2-067" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=vei" target="_blank">Correction</a>
 
-बाहीक
+बाहीक|बाहीकः
 Bāhīka is applied in the Satapatha Brāhmaṇa^1 to the people
 of the west, of the Panjab,^2 as opposed to the Prācyas or
 easterns. They are said to have called Agni by the name
@@ -39198,7 +39198,7 @@ Cf. Zimmer, Altindisches Leben, 70.
 <a href="https://dub.sh/cslp?dict=VEI&page=2-068" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=vei" target="_blank">Correction</a>
 
-बीज|बीजं
+बीज|बीजं|बीजः
 Bīja denotes ‘seed,’ the operation of sowing seed (vap) being
 several times referred to in the Rigveda^1 and later.^2 In a
 metaphorical sense the term is used in the Upaniṣads of the
@@ -39562,7 +39562,7 @@ Upaniṣad (vi. 4, 31).
 <a href="https://dub.sh/cslp?dict=VEI&page=2-074" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=vei" target="_blank">Correction</a>
 
-ब्रह्मचर्य|ब्रह्मचर्यं|ब्रह्मचर्य्य|ब्रह्मचर्य्यं
+ब्रह्मचर्य|ब्रह्मचर्यं|ब्रह्मचर्यः|ब्रह्मचर्य्य|ब्रह्मचर्य्यं
 Brahma-carya denotes the condition of life of the Brahma-
 cārin^1 or religious student. The technical sense is first found in
 [<a href="https://dub.sh/cslp?dict=VEI&page=2-075" target="_blank">Page2-075+ 70</a>]
@@ -43565,7 +43565,7 @@ Cf. Zimmer, Altindisches Leben, 85.
 <a href="https://dub.sh/cslp?dict=VEI&page=2-136" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=vei" target="_blank">Correction</a>
 
-मर्य
+मर्य|मर्यः
 1. Marya in the Rigveda^1 denotes a ‘man’ especially re-
 garded as young and a lover, being constantly mentioned as in
 company with maidens (yuvatī).
@@ -43574,7 +43574,7 @@ ii. 10, 5. Cf. Nīrukta, iii. 15; iv. 2.
 <a href="https://dub.sh/cslp?dict=VEI&page=2-137" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=vei" target="_blank">Correction</a>
 
-मर्य
+मर्य|मर्यः
 2. Marya^1 in several passages of the Rigveda^1 denotes a
 ‘stallion.’^2 It is once^3 described as pastyāvant, ‘a stalled
 horse’ — that is, one carefully tended, and not allowed out to
@@ -43883,7 +43883,7 @@ Vāsiṣṭha Sātyahavya.
 <a href="https://dub.sh/cslp?dict=VEI&page=2-141" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=vei" target="_blank">Correction</a>
 
-महाभूत|महाभूतं
+महाभूत|महाभूतं|महाभूतः
 Mahā-bhūta in the Nirukta (xiv. 5, 10) and the Aitareya
 Upaniṣad (iii. 2, 3) denotes the ‘gross elements’ (earth, water,
 fire, air, ether).
@@ -47087,7 +47087,7 @@ Episches im vedischen Ritual, 37.
 <a href="https://dub.sh/cslp?dict=VEI&page=2-190" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=vei" target="_blank">Correction</a>
 
-यान|यानं
+यान|यानं|यानः
 Yāna denotes ‘vehicle’ in the Rigveda^1 and later.^2
 1) iv. 43, 6.
 2) Śatapatha Brāhmaṇa, v. 5, 3, 7;
@@ -49131,7 +49131,7 @@ Pañcaviṃśa Brāhmaṇa (viii. 1, 4; xiii. 4, 17; cf. xxiv. 1, 7).
 <a href="https://dub.sh/cslp?dict=VEI&page=2-222" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=vei" target="_blank">Correction</a>
 
-राष्ट्र|राष्ट्रं
+राष्ट्र|राष्ट्रं|राष्ट्रः
 Rāṣṭra in the Rigveda^1 and later^2 denotes ‘kingdom’ or
 ‘royal territory.’
 1) iv. 42, 1; vii. 34, 11; 84, 2;
@@ -49229,7 +49229,7 @@ It occurs in the Atharvaveda^2 also.
 <a href="https://dub.sh/cslp?dict=VEI&page=2-224" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=vei" target="_blank">Correction</a>
 
-रुक्म|रुक्मं
+रुक्म|रुक्मं|रुक्मः
 Rukma in the Rigveda^1 denotes an ornament, probably of
 gold, usually worn on the breast. Being in several passages
 used of the sun, it probably had the form of a disk. In the
@@ -49344,7 +49344,7 @@ Brāhmaṇa (vii. 17, 7) and the Śāṅkhāyana Śrauta Sūtra
 <a href="https://dub.sh/cslp?dict=VEI&page=2-226" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=vei" target="_blank">Correction</a>
 
-रेभ
+रेभ|रेभः
 1. Rebha in the Rigveda^1 denotes a ‘singer’ of praise, a
 ‘panegyrist.’
 1) i. 127, 10; vi. 3, 6; 11, 3; vii. 63, 3; viii. 97, 11; ix. 7, 6, etc. Cf. Av.
@@ -49352,7 +49352,7 @@ xx. 127, 4.
 <a href="https://dub.sh/cslp?dict=VEI&page=2-226" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=vei" target="_blank">Correction</a>
 
-रेभ
+रेभ|रेभः
 2. Rebha occurs in the Rigveda^1 as the name of a protégé of
 the Aśvins, who saved him from the waters and from imprison-
 ment.^1
@@ -49677,7 +49677,7 @@ Hymns of the Atharvaveda, 387, 421.
 <a href="https://dub.sh/cslp?dict=VEI&page=2-231" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=vei" target="_blank">Correction</a>
 
-लाङ्गल|लांगल|लांगलं|लाङ्गलं
+लाङ्गल|लांगल|लांगलं|लाङ्गलं|लाङ्गलः
 Lāṅgala is the regular word for ‘plough’ in the Rigveda^1
 and later.^2 It is described in a series of passages^3 as ‘lance-
 pointed’ (pavīravat or pavīravam), ‘well-lying’ (susīmam),^4 and
@@ -53027,7 +53027,7 @@ in the Taittirīya Āraṇyaka (i. 7, 2).
 <a href="https://dub.sh/cslp?dict=VEI&page=2-285" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=vei" target="_blank">Correction</a>
 
-वादन|वादनं
+वादन|वादनं|वादनः
 Vādana denotes the plectrum of a harp in the Āraṇyakas
 of the Rigveda.^1
 1) Aitareya Āraṇyaka, iii. 2, 5; Śāṅkhāyana Āraṇyaka, viii. 9; Śāṅkhāyana
@@ -53498,7 +53498,7 @@ Cf. Zimmer, Altindisches Leben, 261,
 <a href="https://dub.sh/cslp?dict=VEI&page=2-291" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=vei" target="_blank">Correction</a>
 
-वासिष्ठ|वासिष्ठं
+वासिष्ठ|वासिष्ठं|वासिष्ठः
 Vāsiṣṭha, ‘descendant of Vasiṣṭha,’ is the patronymic of
 Sātyahavya, a teacher mentioned several times in the later
 [<a href="https://dub.sh/cslp?dict=VEI&page=2-293" target="_blank">Page2-293+ 45</a>]
@@ -53983,7 +53983,7 @@ stars are an adequate explanation.
 <a href="https://dub.sh/cslp?dict=VEI&page=2-300" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=vei" target="_blank">Correction</a>
 
-विनशन|विनशनं
+विनशन|विनशनं|विनशनः
 Vi-naśana, ‘disappearance,’ is the name of the place where
 the Sarasvatī is lost in the sands of the desert. It is
 mentioned in the Pañcaviṃśa Brāhmaṇa^1 and the Jaiminīya
@@ -54259,7 +54259,7 @@ denotes a remedy for a dislocation or a sprain.
 <a href="https://dub.sh/cslp?dict=VEI&page=2-304" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=vei" target="_blank">Correction</a>
 
-विलोहित
+विलोहित|विलोहितः
 Vi-lohita is the name of a disease mentioned in the Athar-
 vaveda.^1 Bloomfield^2 thinks that ‘flow of blood from the nose’
 is meant; Henry^3 renders it ‘decomposition of the blood’;
@@ -58679,7 +58679,7 @@ Altindisches Leben, 93.
 <a href="https://dub.sh/cslp?dict=VEI&page=2-374" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=vei" target="_blank">Correction</a>
 
-शार्ङ्ग|शार्ंग|शार्ङ्गं
+शार्ङ्ग|शार्ंग|शार्ङ्गं|शार्ङ्गः
 Śārṅga. — The Anukramaṇī^1 (Index) of the Rigveda ascribes
 a hymn of that text^2 to the Śārṅgas, Jaritṛ, Droṇa, Sārisṛkva,
 and Stambamitra. The Mahābhārata^3 contains a tale describing
@@ -61445,7 +61445,7 @@ sense to the German comes or the English gesith.^1
 <a href="https://dub.sh/cslp?dict=VEI&page=2-418" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=vei" target="_blank">Correction</a>
 
-सजात
+सजात|सजातः
 Sa-jāta (‘born together’) is found once in the Rigveda,^1 and
 very often later.^2 The word must clearly mean a ‘relative,’ and
 then more widely a man of the same position or rank, but the
@@ -61745,7 +61745,7 @@ Saṃ-daṃśa. See Gṛha.
 <a href="https://dub.sh/cslp?dict=VEI&page=2-423" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=vei" target="_blank">Correction</a>
 
-संदान|सन्दान|संदानं|सन्दानं|सन्दानः
+संदान|सन्दान|संदानं|सन्दानं|संदानः|सन्दानः
 Saṃ-dāna in the Rigveda^1 and later^2 denotes a ‘bond,’
 ‘halter,’ or ‘fetter.’
 1) i. 162, 8. 16.
@@ -61919,7 +61919,7 @@ denote a ‘racecourse.’
 <a href="https://dub.sh/cslp?dict=VEI&page=2-426" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=vei" target="_blank">Correction</a>
 
-सबन्धु|सबंधु
+सबन्धु|सबंधु|सबन्धुः
 Sa-bandhu (‘of the same kin’) in the Rigveda^1 and later^2
 denotes ‘related.’
 1) iii. 1, 10; v. 47, 5; viii. 20, 21,

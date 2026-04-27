@@ -176,11 +176,17 @@ def _process_entry(entry, dictId, hwnormlist, altlist, dict_lbody):
             lin = lin.replace('¦', '')
             result += lin + '\n'
     
+    seen_refs = set()
     while '{{Lbody=' in result:
         match = re.search(r'\{\{Lbody=(.*?)\}\}', result)
         if not match:
             break
         ref_l = match.group(1)
+        if ref_l in seen_refs:
+            print(f"Warning: Circular Lbody reference {ref_l} detected for L={l}")
+            result = result.replace(match.group(0), f'{{Circular ref {ref_l}}}')
+            continue
+        seen_refs.add(ref_l)
         if ref_l in dict_lbody:
             result = result.replace(match.group(0), dict_lbody[ref_l])
         else:

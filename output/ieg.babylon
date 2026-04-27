@@ -2,7 +2,7 @@
 #bookname=indian-epigraphical-glossary (sa-en)
 #stripmethod=keep
 #sametypesequence=h
-#description=Data from https://www.sanskrit-lexicon.uni-koeln.de/ as on 2026-04-02
+#description=Data from https://www.sanskrit-lexicon.uni-koeln.de/ as on 2026-04-27
 
 आबाध|आबाधः
 ābādha (CII 1), illness.
@@ -58,7 +58,7 @@ loads on bullocks going on their way or coming to Nāḍlāi’
 <a href="https://dub.sh/cslp?dict=IEG&page=001" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=ieg" target="_blank">Correction</a>
 
-अभय|अभयं
+अभय|अभयं|अभयः
 abhaya (EI 24), pose of hand (mudrā); see abhaya-mudrā.
 (SITI), place of security to persons in distress; called
 añjinānpugal-idam in Tamil. Cf. abhaya-śāsana.
@@ -210,7 +210,7 @@ abhyaṅga (IA 22), smearing the body with oil.
 <a href="https://dub.sh/cslp?dict=IEG&page=002" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=ieg" target="_blank">Correction</a>
 
-आभ्यन्तर|आभ्यंतर
+आभ्यन्तर|आभ्यंतर|आभ्यन्तरः
 Ābhyantara (HD), an officer specially intimate or in close
 contact with the king. Cf. Antaraṅga. See Rājataraṅgiṇī, VIII.
 426. But cf. also Ābhyantarika, Abhyantar-opasthāyaka.
@@ -254,7 +254,7 @@ to the king. See abhyantara-siddhi, etc.
 <a href="https://dub.sh/cslp?dict=IEG&page=003" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=ieg" target="_blank">Correction</a>
 
-आभ्यन्तरिक
+आभ्यन्तरिक|आभ्यन्तरिकः
 Ābhyantarika (IE 8-3), a guard of the inner apartments
 of the palace; cf. Ābhyantarikā. See Ābhyantara, Abhyantar-
 opasthāyaka.
@@ -277,7 +277,7 @@ Abhyāsin (SII 13), a student.
 <a href="https://dub.sh/cslp?dict=IEG&page=003" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=ieg" target="_blank">Correction</a>
 
-अभ्यवहारमण्डप
+अभ्यवहारमण्डप|अभ्यवहारमण्डपः
 abhyavahāra-maṇḍapa (EI 3), dining hall.
 <a href="https://dub.sh/cslp?dict=IEG&page=003" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=ieg" target="_blank">Correction</a>
@@ -1378,7 +1378,7 @@ a-kālika (CII 1), ‘not restricted to time’.
 <a href="https://dub.sh/cslp?dict=IEG&page=013" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=ieg" target="_blank">Correction</a>
 
-आकर्षक
+आकर्षक|आकर्षकः
 ākarṣaka (EI 5), probably, the extent [of a piece of land].
 <a href="https://dub.sh/cslp?dict=IEG&page=013" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=ieg" target="_blank">Correction</a>
@@ -2741,7 +2741,7 @@ apagratha (CII 1), same as upaghāta; injury.
 <a href="https://dub.sh/cslp?dict=IEG&page=025" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=ieg" target="_blank">Correction</a>
 
-अपकृष्ट|अपकृष्टं
+अपकृष्ट|अपकृष्टं|अपकृष्टः
 apakṛṣṭa (CII 1), distant.
 <a href="https://dub.sh/cslp?dict=IEG&page=025" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=ieg" target="_blank">Correction</a>
@@ -2869,7 +2869,7 @@ Apratyagrāja, ‘having no rival among kings’; feudatory title.
 <a href="https://dub.sh/cslp?dict=IEG&page=026" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=ieg" target="_blank">Correction</a>
 
-अपूर्व|अपूर्व्व|अपूर्व्वं
+अपूर्व|अपूर्वः|अपूर्व्व|अपूर्व्वं
 apūrva, cf. apūrva-Brāhmaṇa (IA 18), a new Brāhmaṇa who
 was not fed on a previous occasion and is not to be fed again.
 <a href="https://dub.sh/cslp?dict=IEG&page=026" target="_blank">PDF</a>
@@ -2948,7 +2948,7 @@ araṇya (IE 8-5), a jungle.
 <a href="https://dub.sh/cslp?dict=IEG&page=027" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=ieg" target="_blank">Correction</a>
 
-आरण्यक
+आरण्यक|आरण्यकः
 Āraṇyaka (LL), a Buddhist hermit.
 <a href="https://dub.sh/cslp?dict=IEG&page=027" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=ieg" target="_blank">Correction</a>
@@ -2994,7 +2994,7 @@ arcanā-vṛtti (SII 3; SITI); see arcanā-bhoga.
 <a href="https://dub.sh/cslp?dict=IEG&page=027" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=ieg" target="_blank">Correction</a>
 
-अर्धचन्द्र|अर्द्धचन्द्रः
+अर्धचन्द्र|अर्द्धचन्द्रः|अर्धचन्द्रः
 ardha-candra (SITI), literally, ‘half-moon’; a part of
 the tiruvāśi; a variety of ornament.
 (SII 2), the arch of an aureola.
@@ -3058,7 +3058,7 @@ ardha-tṛtīya (CII 1), two and a half.
 <a href="https://dub.sh/cslp?dict=IEG&page=027" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=ieg" target="_blank">Correction</a>
 
-आर्धिक
+आर्धिक|आर्धिकः
 ārdhika (EI 9), a cultivator who tills other's lands and
 gets half the crop as his share.
 Cf. Prakrit addhika (EI 1), a slave.
@@ -3231,12 +3231,12 @@ the tax of six paṇas levied on mānya lands.
 <a href="https://dub.sh/cslp?dict=IEG&page=029" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=ieg" target="_blank">Correction</a>
 
-अर्य|अर्य्य|अर्य्यः
+अर्य|अर्यः|अर्य्य|अर्य्यः
 Arya (CII 1), same as Vaiśya.
 <a href="https://dub.sh/cslp?dict=IEG&page=029" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=ieg" target="_blank">Correction</a>
 
-आर्य|आर्य्य|आर्य्यः
+आर्य|आर्यः|आर्य्य|आर्य्यः
 ārya, cf. Tamil ayyar (EI 25), the father.
 Cf. bhadatasa aya-Isipālitasa, ‘of the Reverend Lord
 Ṛṣipālita’ (Ind. Ant., Vol. XI, p. 29).
@@ -3676,7 +3676,7 @@ the same as Sthāyin; may be ‘hereditary village officials’.
 <a href="https://dub.sh/cslp?dict=IEG&page=033" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=ieg" target="_blank">Correction</a>
 
-अस्ति
+अस्ति|अस्तिः
 asti (Ep. Ind., Vol XXVIII, p. 302, note 2), a mere
 particle used to introduce the narration of a grant.
 <a href="https://dub.sh/cslp?dict=IEG&page=033" target="_blank">PDF</a>
@@ -3910,7 +3910,7 @@ atijagalī (IE 7-1-2), ‘thirteen’.
 <a href="https://dub.sh/cslp?dict=IEG&page=035" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=ieg" target="_blank">Correction</a>
 
-अतिपर
+अतिपर|अतिपरः
 atipara (EI 24), an inveterate foe.
 <a href="https://dub.sh/cslp?dict=IEG&page=035" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=ieg" target="_blank">Correction</a>
@@ -3921,7 +3921,7 @@ case in which a grammatical rule exceeds its sphere.
 <a href="https://dub.sh/cslp?dict=IEG&page=036" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=ieg" target="_blank">Correction</a>
 
-अतिरात्र
+अतिरात्र|अतिरात्रः
 atirātra (CII 3), name of a particular sacrifice.
 <a href="https://dub.sh/cslp?dict=IEG&page=036" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=ieg" target="_blank">Correction</a>
@@ -4412,7 +4412,7 @@ avasatha (IE 8-3), explained as ‘a college or a dharma-
 <a href="https://dub.sh/cslp?dict=IEG&page=040" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=ieg" target="_blank">Correction</a>
 
-आवसथिक
+आवसथिक|आवसथिकः
 Āvasathika (IE 8-3), variously explained as ‘the superin-
 tendent of avasathas, i. e. colleges or dharma-śālās’, ‘the super-
 visor of the royal palace and other government buildings’
@@ -4842,7 +4842,7 @@ bāhu-valaya, cf. pāku-valayam (SITI), an armlet.
 <a href="https://dub.sh/cslp?dict=IEG&page=043" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=ieg" target="_blank">Correction</a>
 
-बाह्य
+बाह्य|बाह्यः
 bāhya, cf. bāhy-ābhyantar-ādāya (IE 8-5; Ep. Ind., Vol.
 [<a href="https://dub.sh/cslp?dict=IEG&page=-044" target="_blank">Page-044+ 40</a>]
 XVI, p. 276, text line 14); ‘income from the sale of things
@@ -5777,7 +5777,7 @@ bhāva (EI 26), a brother-in-law.
 <a href="https://dub.sh/cslp?dict=IEG&page=052" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=ieg" target="_blank">Correction</a>
 
-भवन|भवनं
+भवन|भवनं|भवनः
 bhavana (LL), a temple. Cf. pura, āyatana, ālaya, etc.
 <a href="https://dub.sh/cslp?dict=IEG&page=052" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=ieg" target="_blank">Correction</a>
@@ -5835,7 +5835,7 @@ bherī (SITI, ASLV), a musical instrument.
 <a href="https://dub.sh/cslp?dict=IEG&page=053" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=ieg" target="_blank">Correction</a>
 
-भेरुण्ड|भेरुंड|भेरुण्डं
+भेरुण्ड|भेरुंड|भेरुण्डं|भेरुण्डः
 bheruṇḍa (EI 31), a shortened form of gaṇḍabheruṇḍa (q. v.).
 <a href="https://dub.sh/cslp?dict=IEG&page=053" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=ieg" target="_blank">Correction</a>
@@ -6645,7 +6645,7 @@ etc.
 <a href="https://dub.sh/cslp?dict=IEG&page=060" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=ieg" target="_blank">Correction</a>
 
-ब्रह्मदेय
+ब्रह्मदेय|ब्रह्मदेयः
 brahmadeya (EI 30; ASLV; HRS; SITI), land or village
 given as gift (generally tax-free) to Brāhmaṇas; land to be
 granted to or in the possession of Brāhmaṇas.
@@ -8107,7 +8107,7 @@ cira-khila-śūnya (EI 23), epithet of gift land; fallow land.
 <a href="https://dub.sh/cslp?dict=IEG&page=074" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=ieg" target="_blank">Correction</a>
 
-चिरञ्जीव
+चिरञ्जीव|चिरंजीवः
 cirañjīva (EI 30), ‘long-lived’; epithet of living (not
 dead) persons.
 <a href="https://dub.sh/cslp?dict=IEG&page=074" target="_blank">PDF</a>
@@ -8597,7 +8597,7 @@ from Greek drachma.
 <a href="https://dub.sh/cslp?dict=IEG&page=078" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=ieg" target="_blank">Correction</a>
 
-दान|दानं
+दान|दानं|दानः
 dāna, dānā (ML), a gift.
 (HRS), known from Maitraka records to mean the so-
 called voluntary gifts of subjects.
@@ -10028,7 +10028,7 @@ and charitable institutions. See Dharmādhikārin.
 <a href="https://dub.sh/cslp?dict=IEG&page=092" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=ieg" target="_blank">Correction</a>
 
-धर्माधिकरण|धर्म्माधिकरण|धर्म्माधिकरणं|धर्म्माधिकरणः
+धर्माधिकरण|धर्माधिकरणः|धर्म्माधिकरण|धर्म्माधिकरणं|धर्म्माधिकरणः
 dharm-ādhikaraṇa (EI 18, 23, 25; CII 4; LP), a law-
 court; a court of justice. See Dharm-ādhikaraṇin.
 Cf. karaṇa (LP); the department of justice.
@@ -10289,7 +10289,7 @@ mahārāja and Yuvamahārāja.
 <a href="https://dub.sh/cslp?dict=IEG&page=095" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=ieg" target="_blank">Correction</a>
 
-धार्मिक|धार्म्मिक|धार्म्मिकः
+धार्मिक|धार्मिकः|धार्म्मिक|धार्म्मिकः
 dhārmika (IE 8-8; EI 30), probably, a cess collected in
 the name of a religious institution or festival.
 (IE 8-2), royal title; same as Prakrit Dhramika,
@@ -12030,7 +12030,7 @@ is worshipped; a Buddhist temple.
 <a href="https://dub.sh/cslp?dict=IEG&page=111" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=ieg" target="_blank">Correction</a>
 
-गान्धर्व|गांधर्व|गान्धर्व्वं|गान्धर्व्वः
+गान्धर्व|गांधर्व|गान्धर्वः|गान्धर्व्वं|गान्धर्व्वः
 gāndharva (EI 28), dance and music.
 <a href="https://dub.sh/cslp?dict=IEG&page=111" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=ieg" target="_blank">Correction</a>
@@ -12258,7 +12258,7 @@ age and style of composition.
 <a href="https://dub.sh/cslp?dict=IEG&page=113" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=ieg" target="_blank">Correction</a>
 
-गौडिक|गौडिकं
+गौडिक|गौडिकं|गौडिकः
 Gauḍika (EI 28), maker and seller cf sugar; see Guḍika.
 <a href="https://dub.sh/cslp?dict=IEG&page=113" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=ieg" target="_blank">Correction</a>
@@ -13019,7 +13019,7 @@ mortgage of an object.
 <a href="https://dub.sh/cslp?dict=IEG&page=119" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=ieg" target="_blank">Correction</a>
 
-ग्राह्य
+ग्राह्य|ग्राह्यः
 grāhya (IE 8-8), ‘to be apprehended or recruited’.
 Cf. a-kiñcid-grāhya; ‘to be levied’.
 <a href="https://dub.sh/cslp?dict=IEG&page=119" target="_blank">PDF</a>
@@ -13238,7 +13238,7 @@ Grāmeyika (LL), a villager; same as Grāmeyaka.
 <a href="https://dub.sh/cslp?dict=IEG&page=121" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=ieg" target="_blank">Correction</a>
 
-ग्रामिक
+ग्रामिक|ग्रामिकः
 Grāmika (IE 8-5; EI 15; CII 3; LL; HD), a village head-
 man (Manusmṛti, VII. 116; Arthaśāstra, III. 10; CII, Vol.
 III, p. 112); same as Grāmaṇī, etc.
@@ -13295,7 +13295,7 @@ Vol. XXX, p. 56.
 <a href="https://dub.sh/cslp?dict=IEG&page=122" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=ieg" target="_blank">Correction</a>
 
-गृह|गृहं
+गृह|गृहं|गृहः
 gṛha, cf. ghara (EI 7), a caitya; a cave. Cf. gṛha-mukha.
 <a href="https://dub.sh/cslp?dict=IEG&page=122" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=ieg" target="_blank">Correction</a>
@@ -13512,7 +13512,7 @@ equal to one-twentififth of a Māṇa.
 <a href="https://dub.sh/cslp?dict=IEG&page=124" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=ieg" target="_blank">Correction</a>
 
-गुप्त|गुप्तं
+गुप्त|गुप्तं|गुप्तः
 gupta, cf. gupt-ākṣarāṇi (LP), same as gupta-patḷaka, a deed
 of permanent lease. See Tamil guttagai = Sanskrit guptakā.
 <a href="https://dub.sh/cslp?dict=IEG&page=124" target="_blank">PDF</a>
@@ -13990,7 +13990,7 @@ talapāṭaka or talavāṭaka.
 <a href="https://dub.sh/cslp?dict=IEG&page=128" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=ieg" target="_blank">Correction</a>
 
-हवन|हवनं
+हवन|हवनं|हवनः
 havana (SII 3), a burnt oblation.
 <a href="https://dub.sh/cslp?dict=IEG&page=128" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=ieg" target="_blank">Correction</a>
@@ -14369,7 +14369,7 @@ indr-āsana (IA 23), hemp.
 <a href="https://dub.sh/cslp?dict=IEG&page=131" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=ieg" target="_blank">Correction</a>
 
-इन्द्रिय|इंद्रिय|इन्द्रियं
+इन्द्रिय|इंद्रिय|इन्द्रियं|इन्द्रियः
 indriya (IE 7-1-2; EI 5), five in number; ‘five’.
 <a href="https://dub.sh/cslp?dict=IEG&page=131" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=ieg" target="_blank">Correction</a>
@@ -14514,7 +14514,7 @@ was either made of conch or shell or was shaped like a lotus.
 <a href="https://dub.sh/cslp?dict=IEG&page=132" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=ieg" target="_blank">Correction</a>
 
-जलकर
+जलकर|जलकरः
 jala-kara (IE 8-5; EI 4), ‘water-tax’ paid for fishing
 rights, etc., in tanks, lakes and rivers; sometimes wrongly read
 as jāta-kara (Ep. Ind., Vol. VIII, p. 157, note 1).
@@ -14659,7 +14659,7 @@ body welling forth from nectarous sources’.
 <a href="https://dub.sh/cslp?dict=IEG&page=133" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=ieg" target="_blank">Correction</a>
 
-जन्मभूमि
+जन्मभूमि|जन्मभूमिः
 janma-bhūmi, called janma-kkāṇi in Tamil (SITI), gift
 of land, probably made for the lifetime of a person.
 <a href="https://dub.sh/cslp?dict=IEG&page=133" target="_blank">PDF</a>
@@ -14676,7 +14676,7 @@ jānu (IE 7-1-2), ‘two’.
 <a href="https://dub.sh/cslp?dict=IEG&page=133" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=ieg" target="_blank">Correction</a>
 
-जात|जातं
+जात|जातं|जातः
 jāta (EI 2; CII 1), a living being.
 <a href="https://dub.sh/cslp?dict=IEG&page=133" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=ieg" target="_blank">Correction</a>
@@ -15016,7 +15016,7 @@ jñāna-dīkṣā (EI 32), a kind of initiation.
 <a href="https://dub.sh/cslp?dict=IEG&page=136" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=ieg" target="_blank">Correction</a>
 
-ज्ञापक
+ज्ञापक|ज्ञापकः
 jñāpaka (SITI; ASLV), remembrancer; memorandum
 of events and happenings.
 <a href="https://dub.sh/cslp?dict=IEG&page=136" target="_blank">PDF</a>
@@ -15470,7 +15470,7 @@ ting a spirit-distiller.
 <a href="https://dub.sh/cslp?dict=IEG&page=140" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=ieg" target="_blank">Correction</a>
 
-कल्याण|कल्याणं
+कल्याण|कल्याणं|कल्याणः
 kalyāṇa (CII 1), a good deed which is beneficial to the
 people; a ceremony to bring health and prosperity to a person
 (Ep. Ind., Vol. XXXV, p. 147); cf. maṅgala in the same
@@ -16470,7 +16470,7 @@ Cf. Karttār (EI 33), Tamil; an officer.
 <a href="https://dub.sh/cslp?dict=IEG&page=149" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=ieg" target="_blank">Correction</a>
 
-कार्त्तिक|कार्तिक|कार्त्तिकः
+कार्त्तिक|कार्तिक|कार्तिकः|कार्त्तिकः
 kārttika (CITD), crops reaped in the month of Kārttika.
 <a href="https://dub.sh/cslp?dict=IEG&page=149" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=ieg" target="_blank">Correction</a>
@@ -17029,7 +17029,7 @@ khampaṇa or kampaṇa.
 <a href="https://dub.sh/cslp?dict=IEG&page=154" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=ieg" target="_blank">Correction</a>
 
-खानक
+खानक|खानकः
 khānaka (EI 15), same as khātaka in the sense of
 khanana.
 <a href="https://dub.sh/cslp?dict=IEG&page=154" target="_blank">PDF</a>
@@ -18547,7 +18547,7 @@ kuśa, cf. kuśa-kkāṇam (SITI), Tamil, tax on the potters.
 <a href="https://dub.sh/cslp?dict=IEG&page=168" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=ieg" target="_blank">Correction</a>
 
-कुशल|कुशलं
+कुशल|कुशलं|कुशलः
 kuśala (IA 17), used in the sense of puṇya, religious merit;
 cf. kuśala-mūla.
 <a href="https://dub.sh/cslp?dict=IEG&page=168" target="_blank">PDF</a>
@@ -18951,7 +18951,7 @@ p. 13).
 <a href="https://dub.sh/cslp?dict=IEG&page=171" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=ieg" target="_blank">Correction</a>
 
-लिखित|लिखितं
+लिखित|लिखितं|लिखितः
 likhita (CII 3, 4, etc.), ‘written’; a technical term indi-
 cating the manual drafting or writing of a record, as opposed
 to the composition and engraving of it; see also lekhaka.
@@ -19305,7 +19305,7 @@ Mahābhojī (LL), wife of a Mahābhoja.
 <a href="https://dub.sh/cslp?dict=IEG&page=175" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=ieg" target="_blank">Correction</a>
 
-महाभूत|महाभूतं
+महाभूत|महाभूतं|महाभूतः
 mahābhūta (IE 7-1-2), ‘five’.
 <a href="https://dub.sh/cslp?dict=IEG&page=175" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=ieg" target="_blank">Correction</a>
@@ -21435,7 +21435,7 @@ as Māṇḍalika.
 <a href="https://dub.sh/cslp?dict=IEG&page=195" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=ieg" target="_blank">Correction</a>
 
-माण्डलिक|मांडलिक
+माण्डलिक|मांडलिक|माण्डलिकः
 Māṇḍalika (IE 8-2; BL; CII 4), ruler of a maṇḍala or
 district; title of a feudatory chief; cf. Maṇḍalika, Maṇḍalīka.
 <a href="https://dub.sh/cslp?dict=IEG&page=195" target="_blank">PDF</a>
@@ -22078,7 +22078,7 @@ goddess installed around a Śiva temple.
 <a href="https://dub.sh/cslp?dict=IEG&page=201" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=ieg" target="_blank">Correction</a>
 
-मात्र|मात्रं
+मात्र|मात्रं|मात्रः
 Mātra, designation of a class of officers; cf. Mahāmātra
 in a similar sense. See Ep. Ind., Vol. XVIII, p. 117
 (mentioned along with Mūlaprakṛti; cf. Prakṛti).
@@ -23059,7 +23059,7 @@ themselves separated’.
 <a href="https://dub.sh/cslp?dict=IEG&page=210" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=ieg" target="_blank">Correction</a>
 
-नैमित्तिक|नैमित्तिकं
+नैमित्तिक|नैमित्तिकं|नैमित्तिकः
 Naimittika (EI 19, 26; HD), a soothsayer or astrologer.
 See Ep. Ind., Vol. IX, p. 305.
 <a href="https://dub.sh/cslp?dict=IEG&page=210" target="_blank">PDF</a>
@@ -23144,7 +23144,7 @@ nalā, same as śatamāna (q. v.).
 <a href="https://dub.sh/cslp?dict=IEG&page=210" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=ieg" target="_blank">Correction</a>
 
-नाल|नालं
+नाल|नालं|नालः
 nāla, cf. sa-khila-nāla (IE 8-5; EI 14); cultivated land;
 same as nāla-bhūmi.
 <a href="https://dub.sh/cslp?dict=IEG&page=211" target="_blank">PDF</a>
@@ -24251,7 +24251,7 @@ from it.
 <a href="https://dub.sh/cslp?dict=IEG&page=220" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=ieg" target="_blank">Correction</a>
 
-निवीत|निवीतं
+निवीत|निवीतं|निवीतः
 nivīta, cf. s-oṣar-āvaṣkara-sthāna-nivīta-lavaṇākara (EI 22).
 <a href="https://dub.sh/cslp?dict=IEG&page=220" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=ieg" target="_blank">Correction</a>
@@ -24504,7 +24504,7 @@ pacana (LL), a cooking place.
 <a href="https://dub.sh/cslp?dict=IEG&page=223" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=ieg" target="_blank">Correction</a>
 
-पद|पदं
+पद|पदं|पदः
 pada (EI 33), share; quarter of the standard land measure.
 (EI 4, 9; IA 17), a share.
 (EI 21), a land-measure; cf. paḍa (paṭa) in Sel. Ins.
@@ -25221,7 +25221,7 @@ pañcakula.
 <a href="https://dub.sh/cslp?dict=IEG&page=229" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=ieg" target="_blank">Correction</a>
 
-पञ्चक|पंचक|पञ्चकं
+पञ्चक|पंचक|पञ्चकं|पञ्चकः
 pañcaka (CII 4), same as Pañcāyat.
 <a href="https://dub.sh/cslp?dict=IEG&page=229" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=ieg" target="_blank">Correction</a>
@@ -27206,7 +27206,7 @@ a land measure.
 <a href="https://dub.sh/cslp?dict=IEG&page=247" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=ieg" target="_blank">Correction</a>
 
-पौण्डरीक|पौंडरीक|पौण्डरीकं
+पौण्डरीक|पौंडरीक|पौण्डरीकं|पौण्डरीकः
 pauṇḍarīka (EI 4; IA 19), name of a sacrifice.
 <a href="https://dub.sh/cslp?dict=IEG&page=248" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=ieg" target="_blank">Correction</a>
@@ -27217,7 +27217,7 @@ bably, an astrologer. Cf. Vyāsa.
 <a href="https://dub.sh/cslp?dict=IEG&page=248" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=ieg" target="_blank">Correction</a>
 
-पौर|पौरं
+पौर|पौरं|पौरः
 paura (CII 4), name of a coin.
 <a href="https://dub.sh/cslp?dict=IEG&page=248" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=ieg" target="_blank">Correction</a>
@@ -27472,7 +27472,7 @@ phala-saṃskāra (CII 3), equation of the centre.
 <a href="https://dub.sh/cslp?dict=IEG&page=250" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=ieg" target="_blank">Correction</a>
 
-फलित|फलितं
+फलित|फलितं|फलितः
 phalita, cf. phalita-pade (LP), also Gujarātī huṃḍī pāke
 tyāre, ‘when the bill of exchange becomes due’.
 <a href="https://dub.sh/cslp?dict=IEG&page=250" target="_blank">PDF</a>
@@ -27885,7 +27885,7 @@ dvādasī.
 <a href="https://dub.sh/cslp?dict=IEG&page=253" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=ieg" target="_blank">Correction</a>
 
-प्रदक्षिण|प्रदक्षिणं
+प्रदक्षिण|प्रदक्षिणं|प्रदक्षिणः
 pradakṣiṇa (CITD), circumambulation from left to right;
 paying homage to a temple, etc., by solemnly walking round
 it with the right hand towards it, so that the right side is always
@@ -27899,7 +27899,7 @@ pradeśa (IE 8-4), a province or district.
 <a href="https://dub.sh/cslp?dict=IEG&page=253" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=ieg" target="_blank">Correction</a>
 
-प्रादेशिक
+प्रादेशिक|प्रादेशिकः
 Prādeśika (IE 8-3; HD), cf. Prakrit Pādesika (EI 3), pro-
 vincial governor; governor of a pradeśa or province. Cf. CII,
 Vol. I, pp. 4-5.
@@ -28096,7 +28096,7 @@ pramadā-kula (EI 11), a host of courtesans.
 <a href="https://dub.sh/cslp?dict=IEG&page=255" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=ieg" target="_blank">Correction</a>
 
-प्रमाण|प्रमाणं
+प्रमाण|प्रमाणं|प्रमाणः
 pramāṇa (EI 6; SII 1; SITI), a document; a title deed.
 (Ep. Ind., Vol. XXVIII, p. 109), authority; witness.
 (SII 12), cf. mūla-pramāṇa, original order.
@@ -28890,7 +28890,7 @@ Prauḍha-pratāpa-cakravartin (IE 8-2), see Cakravartin.
 <a href="https://dub.sh/cslp?dict=IEG&page=262" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=ieg" target="_blank">Correction</a>
 
-प्रवचन|प्रवचनं
+प्रवचन|प्रवचनं|प्रवचनः
 pravacana, exposition of texts (Ep. Ind., Vol. XXXV, p.
 150).
 <a href="https://dub.sh/cslp?dict=IEG&page=262" target="_blank">PDF</a>
@@ -29424,7 +29424,7 @@ puruṣ-āyus (IE 7-1-2), ‘one hundred’.
 <a href="https://dub.sh/cslp?dict=IEG&page=267" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=ieg" target="_blank">Correction</a>
 
-पूर्व|पूर्व्व|पूर्व्वः
+पूर्व|पूर्वः|पूर्व्व|पूर्व्वः
 pūrva (IE 7-1-2), sometimes used to indicate ‘fourteen’.
 <a href="https://dub.sh/cslp?dict=IEG&page=267" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=ieg" target="_blank">Correction</a>
@@ -30293,7 +30293,7 @@ rakṣā-maṇi (EI 15), protecting jewel.
 <a href="https://dub.sh/cslp?dict=IEG&page=275" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=ieg" target="_blank">Correction</a>
 
-रक्षण|रक्षणं
+रक्षण|रक्षणं|रक्षणः
 rakṣaṇa, cf. doṣa-vināś-āvaṣṭabdhi-rakṣaṇāya (LP), ‘for keeping
 it safe from the three faults, viz. doṣa, vināśa and avaṣṭabdhi’.
 <a href="https://dub.sh/cslp?dict=IEG&page=275" target="_blank">PDF</a>
@@ -30507,7 +30507,7 @@ used to indicate ‘one’.
 <a href="https://dub.sh/cslp?dict=IEG&page=277" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=ieg" target="_blank">Correction</a>
 
-राष्ट्र|राष्ट्रं
+राष्ट्र|राष्ट्रं|राष्ट्रः
 rāṣṭra (IE 8-3, 8-4; EI 9, 23; CII 4; LL), a district or
 its subdivision; often the subdivision of a district; cf. Śātavāha-
 nīya-rāṣṭra; also Kona-rāṣṭra (EI 32), variously called deśa, maṇḍala,
@@ -31094,7 +31094,7 @@ Arthaśāstra, II. 5. Cf. Pārikh.
 <a href="https://dub.sh/cslp?dict=IEG&page=282" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=ieg" target="_blank">Correction</a>
 
-रूपक|रूपकं
+रूपक|रूपकं|रूपकः
 rūpaka (IE 8-8; EI 30; CII 4), name of a coin of silver; cf.
 kṛṣṇarāja-rūpaka (EI 25; CII 4), a silver coin issued by the
 Kalacuri king Kṛṣṇarāja; silver coin (1/16) of the value of a gold
@@ -32189,7 +32189,7 @@ sambodhita (LP), advised.
 <a href="https://dub.sh/cslp?dict=IEG&page=291" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=ieg" target="_blank">Correction</a>
 
-सम्बुद्ध|संबुद्ध|सम्बुद्धः
+सम्बुद्ध|संबुद्ध|संबुद्धः|सम्बुद्धः
 sambuddha (LP), one who is no longer a minor.
 <a href="https://dub.sh/cslp?dict=IEG&page=291" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=ieg" target="_blank">Correction</a>
@@ -33368,7 +33368,7 @@ states of mukti.
 <a href="https://dub.sh/cslp?dict=IEG&page=302" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=ieg" target="_blank">Correction</a>
 
-सार्वभौम|सार्व्वभौम|सार्व्वभौमः
+सार्वभौम|सार्वभौमः|सार्व्वभौम|सार्व्वभौमः
 Sārvabhauma (EI 7, 27, 30, 32), title of imperial rulers.
 <a href="https://dub.sh/cslp?dict=IEG&page=302" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=ieg" target="_blank">Correction</a>
@@ -33898,19 +33898,19 @@ Sautrika (LL), weaver.
 <a href="https://dub.sh/cslp?dict=IEG&page=307" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=ieg" target="_blank">Correction</a>
 
-सौवर्ण|सौवर्णं
+सौवर्ण|सौवर्णं|सौवर्णः
 sauvarṇa (EI 19), name of a coin; cf. suvarṇa.
 <a href="https://dub.sh/cslp?dict=IEG&page=307" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=ieg" target="_blank">Correction</a>
 
-सौवर्णिक
+सौवर्णिक|सौवर्णिकः
 Sauvarṇika (HD), cf. Prakrit Sovaṇika (EI 10), a gold-
 smith; the State goldsmith. See Hist. Dharm., Vol. III, pp.
 144-45. See Hairaṇyika, etc.
 <a href="https://dub.sh/cslp?dict=IEG&page=307" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=ieg" target="_blank">Correction</a>
 
-सौवर्णिक
+सौवर्णिक|सौवर्णिकः
 sauvarṇika (HRS), profits of the royal monopoly of manu-
 facture of gold and silver articles, as indicated by the Arthaśāstra.
 <a href="https://dub.sh/cslp?dict=IEG&page=307" target="_blank">PDF</a>
@@ -34906,7 +34906,7 @@ has to be determined.
 <a href="https://dub.sh/cslp?dict=IEG&page=315" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=ieg" target="_blank">Correction</a>
 
-स्फोटन|स्फोटनं
+स्फोटन|स्फोटनं|स्फोटनः
 sphoṭana (IE 8-5), cf. śira-sphoṭana, ‘breaking somebody's head.’
 <a href="https://dub.sh/cslp?dict=IEG&page=315" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=ieg" target="_blank">Correction</a>
@@ -36715,7 +36715,7 @@ nation of the chairman of the oilmen's guild.
 <a href="https://dub.sh/cslp?dict=IEG&page=332" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=ieg" target="_blank">Correction</a>
 
-तैर्थिक
+तैर्थिक|तैर्थिकः
 Tairthika (EI 32), same as Tīrthika, a priest [of the non-
 Buddhists].
 (IE 8-3), cf. Tūthika (EI 1; LL), ferry-officer or officer
@@ -36805,7 +36805,7 @@ watchman. See Talavara.
 <a href="https://dub.sh/cslp?dict=IEG&page=333" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=ieg" target="_blank">Correction</a>
 
-तलक|तलकं
+तलक|तलकं|तलकः
 talaka (LP), ‘on the spot’.
 (EI 23), a territorial division.
 <a href="https://dub.sh/cslp?dict=IEG&page=333" target="_blank">PDF</a>
@@ -37628,7 +37628,7 @@ Tīrṇa-daṇḍa (CII 1), ‘one who has been convicted’.
 <a href="https://dub.sh/cslp?dict=IEG&page=341" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=ieg" target="_blank">Correction</a>
 
-तीर्थ|तीर्थं
+तीर्थ|तीर्थं|तीर्थः
 tīrtha (IE 8-3, 8-4; EI 3; SII 1; CII 4; LL), a place
 of pilgrimage; a holy place or holy waters; a bathing place; a
 flight of steps for descent into a river; a ferry; sometimes
@@ -38520,7 +38520,7 @@ collected [from the country in this way]’; also udgrāhita
 <a href="https://dub.sh/cslp?dict=IEG&page=348" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=ieg" target="_blank">Correction</a>
 
-उद्ग्रन्थ|उद्ग्रंथ
+उद्ग्रन्थ|उद्ग्रंथ|उद्ग्रन्थः
 udgrantha (IE 8-5), same as udraṅga.
 <a href="https://dub.sh/cslp?dict=IEG&page=349" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=ieg" target="_blank">Correction</a>
@@ -38619,7 +38619,7 @@ cating an official designation. Cf. uttara-niyoga.
 <a href="https://dub.sh/cslp?dict=IEG&page=349" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=ieg" target="_blank">Correction</a>
 
-उक्थ्य
+उक्थ्य|उक्थ्यः
 ukthya, (EI 22; CII 3), name of a sacrifice.
 <a href="https://dub.sh/cslp?dict=IEG&page=349" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=ieg" target="_blank">Correction</a>
@@ -38817,7 +38817,7 @@ new undertakings.
 <a href="https://dub.sh/cslp?dict=IEG&page=351" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=ieg" target="_blank">Correction</a>
 
-उपक्षय
+उपक्षय|उपक्षयः
 upakṣaya (LP), expense; ‘other expenses’; cf. s-opak-
 ṣaya, sañjāt-opakṣaya, ‘expenses incurred’.
 <a href="https://dub.sh/cslp?dict=IEG&page=351" target="_blank">PDF</a>
@@ -39569,7 +39569,7 @@ names.
 <a href="https://dub.sh/cslp?dict=IEG&page=357" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=ieg" target="_blank">Correction</a>
 
-वाद्य|वाद्यं
+वाद्य|वाद्यं|वाद्यः
 vādya (SITI), a musical instrument.
 <a href="https://dub.sh/cslp?dict=IEG&page=358" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=ieg" target="_blank">Correction</a>
@@ -39963,7 +39963,7 @@ valisyati (LP), cf. Gujarātī vāḷi levāmāṃ āvaśe; see vālanīya.
 <a href="https://dub.sh/cslp?dict=IEG&page=361" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=ieg" target="_blank">Correction</a>
 
-वलित
+वलित|वलितः
 valita, vaḻita (E 12; SITI), same as vaṇita; a small terri-
 torial unit; a district or its subdivision.
 <a href="https://dub.sh/cslp?dict=IEG&page=361" target="_blank">PDF</a>
@@ -40022,12 +40022,12 @@ of nidhi-nikṣepa-sahita.
 <a href="https://dub.sh/cslp?dict=IEG&page=361" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=ieg" target="_blank">Correction</a>
 
-वंशधर
+वंशधर|वंशधरः
 vaṃśadhara (EI 24), a palanquin-bearer.
 <a href="https://dub.sh/cslp?dict=IEG&page=361" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=ieg" target="_blank">Correction</a>
 
-वंशकर
+वंशकर|वंशकरः
 Vaṃśakara (LL), a bamboo-worker.
 <a href="https://dub.sh/cslp?dict=IEG&page=361" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=ieg" target="_blank">Correction</a>
@@ -40054,7 +40054,7 @@ vana, a source of income. See Ghoshal, H. Rev. Syst., pp.
 <a href="https://dub.sh/cslp?dict=IEG&page=361" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=ieg" target="_blank">Correction</a>
 
-वनचर
+वनचर|वनचरः
 vanacara (EI 12), an animal.
 <a href="https://dub.sh/cslp?dict=IEG&page=361" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=ieg" target="_blank">Correction</a>
@@ -40332,7 +40332,7 @@ or sculptor.
 <a href="https://dub.sh/cslp?dict=IEG&page=364" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=ieg" target="_blank">Correction</a>
 
-वर्धमान|वर्द्धमानः
+वर्धमान|वर्द्धमानः|वर्धमानः
 vardhamāna (LP), ‘when cut down.’
 <a href="https://dub.sh/cslp?dict=IEG&page=364" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=ieg" target="_blank">Correction</a>
@@ -40466,7 +40466,7 @@ a vṛtti.
 <a href="https://dub.sh/cslp?dict=IEG&page=365" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=ieg" target="_blank">Correction</a>
 
-वर्तमान|वर्त्तमान|वर्त्तमानः
+वर्तमान|वर्तमानः|वर्त्तमान|वर्त्तमानः
 vartamāna (HRS), ‘running revenue’, as suggested by
 the Arthaśāstra.
 <a href="https://dub.sh/cslp?dict=IEG&page=365" target="_blank">PDF</a>
@@ -42625,7 +42625,7 @@ yāma (EI 7-1-2), ‘eight’.
 <a href="https://dub.sh/cslp?dict=IEG&page=384" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=ieg" target="_blank">Correction</a>
 
-यमल|यमलं
+यमल|यमलं|यमलः
 yamala (IE 7-1-2), ‘two’.
 <a href="https://dub.sh/cslp?dict=IEG&page=384" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=ieg" target="_blank">Correction</a>
@@ -43437,7 +43437,7 @@ on their visit.
 <a href="https://dub.sh/cslp?dict=IEG&page=393" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=ieg" target="_blank">Correction</a>
 
-अवह
+अवह|अवहः
 a-vaha (EI 26), refers to the freedom of the gift village
 from the obligation of carrying loads of the touring officers,
 etc., or of supplying a horse to them free of charges.
@@ -48642,7 +48642,7 @@ billon; cf. poruttha-dramma.
 <a href="https://dub.sh/cslp?dict=IEG&page=437" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=ieg" target="_blank">Correction</a>
 
-पौर|पौरं
+पौर|पौरं|पौरः
 paura, cf. purāṇa.
 <a href="https://dub.sh/cslp?dict=IEG&page=437" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=ieg" target="_blank">Correction</a>
@@ -48807,7 +48807,7 @@ rūpa, same as rūpaka or rūpyaka (q. v.).
 <a href="https://dub.sh/cslp?dict=IEG&page=438" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=ieg" target="_blank">Correction</a>
 
-रूपक|रूपकं
+रूपक|रूपकं|रूपकः
 rūpaka, silver coin; silver coin (1/16) (about 20 ratis) of a
 gold dīnāra, etc.; also called dramma, purāṇa, kārṣāpaṇa, etc.;
 same as modern rupee; cf. kṛṣṇarāja-rūpaka.
@@ -48907,7 +48907,7 @@ sateraka, same as satera (q. v.).
 <a href="https://dub.sh/cslp?dict=IEG&page=439" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=ieg" target="_blank">Correction</a>
 
-सौवर्ण|सौवर्णं
+सौवर्ण|सौवर्णं|सौवर्णः
 sauvarṇa, same as suvarṇa (q. v.).
 <a href="https://dub.sh/cslp?dict=IEG&page=439" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=ieg" target="_blank">Correction</a>
