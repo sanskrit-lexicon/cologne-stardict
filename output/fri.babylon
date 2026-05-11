@@ -2,7 +2,7 @@
 #bookname=frish (sa-ru)
 #stripmethod=keep
 #sametypesequence=h
-#description=Data from https://www.sanskrit-lexicon.uni-koeln.de/ as on 2026-05-05
+#description=Data from https://www.sanskrit-lexicon.uni-koeln.de/ as on 2026-05-11
 
 अ|अं|अः
 I a- pron., cf. a-tas, a-tra &c.
@@ -11171,7 +11171,7 @@ ekadā adv.
 <a href="https://dub.sh/cslp?dict=FRI&page=064" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-एकदेश
+एकदेश|एकदेशः
 ekadeśa m.
 1 jedno místo, jakési místo; část
 2 одно место, какое-то место; часть
@@ -27062,7 +27062,7 @@ nabhastala n.
 <a href="https://dub.sh/cslp?dict=FRI&page=147" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-संनम्
+संनम्|सन्नम्
  +sam (saṃnam)
 1 kloniti (se), podrobiti (se), upravovati, zařizovati
 2 склонять (ся), подчинять (ся), приводить в порядок, устраивать
@@ -39514,7 +39514,7 @@ manorājya n.
 <a href="https://dub.sh/cslp?dict=FRI&page=215" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-मनोहर|मनोहरं
+मनोहर|मनोहरं|मनोहरः
 manohara, -harin
 1 dost. "uchvacující mysl"; půvabný
 2 букв. "захватывающий мысль"; прелестный

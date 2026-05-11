@@ -2,7 +2,7 @@
 #bookname=abhidhAnaratnamAlA (sa-sa)
 #stripmethod=keep
 #sametypesequence=h
-#description=Data from https://www.sanskrit-lexicon.uni-koeln.de/ as on 2026-04-28
+#description=Data from https://www.sanskrit-lexicon.uni-koeln.de/ as on 2026-05-11
 
 स्वर्
 स्वर्;
@@ -152,7 +152,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0001" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-गीर्वाण|गीर्व्वाण|गीर्व्वाणः
+गीर्वाण|गीर्वाणः|गीर्व्वाण|गीर्व्वाणः
 गीर्वाण;
 आदित्यास्त्रिदशाः सुराः सुमनसः स्वर्गौकसो देवता,
 गीर्वाणा ऋभवोऽमराश्च मरुतो वृन्दारका निर्जराः ।
@@ -24581,7 +24581,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0038" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-भटित्र|भटित्रं|भटित्रः
+भटित्र|भटित्रं
 भटित्र;
 उख्यमुखासंसिद्धं शूले शूल्यं भटित्रं च ॥ ३२३ ॥
 २।१।१।३२३
@@ -26580,7 +26580,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0041" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-कदर्य|कदर्य्य|कदर्य्यः
+कदर्य|कदर्यः|कदर्य्य|कदर्य्यः
 कदर्य;
 कदर्यहीनकीनाशकिम्पचानमितम्पचाः ।
 कृपणक्षुल्लकक्लीवक्षुद्रा एकार्थवाचकाः ॥ ३४७ ॥
@@ -49438,7 +49438,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0080" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-मनोहर|मनोहरं
+मनोहर|मनोहरं|मनोहरः
 मनोहर;
 प्राग्र्यं प्राग्रहरं प्रवेकमपरं वर्यं वरेण्यं वरं,
 श्रेष्ठं प्रेष्ठमनुत्तमं च मधुरं मञ्जु प्रियं मञ्जुलम् ।
@@ -53820,7 +53820,7 @@
 <a href="https://dub.sh/cslp?dict=ARMH&page=0085" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-एकदेश
+एकदेश|एकदेशः
 एकदेश;
 आहुः प्रतीकमवयवमपघनमङ्गं तथैकदेशं च ।
 ४।१।१।७४४
