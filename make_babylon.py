@@ -192,13 +192,61 @@ def _process_entry(entry, dictId, hwnormlist, altlist, dict_lbody):
         else:
             print(f"Warning: Lbody reference {ref_l} not found for L={l}")
             break
+
+    # Handling printchanges
+    printchanges = []
+    def pc_replace(match):
+        # old = match.group('old')
+        new = match.group('new')
+        date = match.group('date').strip()
+        user = match.group('user').strip()
+        href = match.group('href').strip()
+        note = match.group('note').strip()
+        
+        index = len(printchanges) + 1
+        footnote = f"[{index}] Correction submitted by {user}"
+        if date:
+            footnote += f" on {date}"
+        footnote += "."
+        if href:
+            footnote += f" Reference: {href}."
+        if note:
+            footnote += f" note: {note}."
+        printchanges.append(footnote)
+        return f"{new}[PRINTCHANGE{index}]"
+
+    pc_pattern = re.compile(r'\{\{(?P<old>.*?)\-\>(?P<new>.*?)\|\|(?P<date>.*?)\|(?P<user>.*?)\|(?P<href>.*?)\|(?P<note>.*?)\}\}')
+    result = pc_pattern.sub(pc_replace, result)
     
+    # Protect printchange markers from transliteration by moving them outside of transliteration blocks
+    tags = [('{#', '#}')]
+    if dictId in params.devaparams:
+        for (start, end, _) in params.devaparams[dictId]:
+            tags.append((start, end))
+    for start_tag, end_tag in tags:
+        pattern = re.compile(re.escape(start_tag) + '(.*?)' + re.escape(end_tag), re.DOTALL)
+        def sub_fn(m, s=start_tag, e=end_tag):
+            content = m.group(1)
+            if '[PRINTCHANGE' not in content: return m.group(0)
+            parts = re.split(r'(\[PRINTCHANGE[0-9]+\])', content)
+            res = []
+            for p in parts:
+                if p.startswith('[PRINTCHANGE'):
+                    res.append(f'{e}{p}{s}')
+                else:
+                    res.append(p)
+            return f'{s}{"".join(res)}{e}'
+        result = pattern.sub(sub_fn, result)
+
     result = re.sub(r'(\W)oM(\W)', r'\g<1>ॐ\g<2>', result)
     result = utils.devaconvert(result, dictId)
+    result = re.sub(r'\[PRINTCHANGE([0-9]+)\]', r'<sup>\1</sup>', result)
     result = re.sub('<sup>([0-9]+)</sup>', r'^\g<1>', result)
     result = re.sub('<.*?>', '', result)
     result = re.sub(r'\[Page([^\]]+?)(?:\+([^\]]*))?\]', lambda m: f'[<a href="https://dub.sh/cslp?dict={dictId.upper()}&page={m.group(1)}" target="_blank">Page{m.group(1)}{"+" + m.group(2) if m.group(2) else ""}</a>]', result)
     result = re.sub('[ ]+', ' ', result)
+    if printchanges:
+        result += '\n' + '\n'.join(printchanges) + '\n'
     linkurl = utils.scanlink(dictId, pc)
     result += '<a href="' + linkurl + '" target="_blank">PDF</a>\n'
     correctionurl = utils.correctionlink(dictId, l)
