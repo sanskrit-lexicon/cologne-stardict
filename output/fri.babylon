@@ -2,7 +2,7 @@
 #bookname=frish (sa-ru)
 #stripmethod=keep
 #sametypesequence=h
-#description=Data from https://www.sanskrit-lexicon.uni-koeln.de/ as on 2026-05-11
+#description=Data from https://www.sanskrit-lexicon.uni-koeln.de/ as on 2026-05-15
 
 अ|अं|अः
 I a- pron., cf. a-tas, a-tra &c.
@@ -6954,7 +6954,7 @@ II ā pcl., adv.
 ādi, ādika (-˚) a.
 1 počínající; atd.
 2 начинающий; и m. д.
-3 beginning with; et caetera
+3 beginning with; {{et caetera->et cætera||20260515|Dr. Dhaval Patel|https://github.com/sanskrit-lexicon/csl-orig/pull/2845}}
 <a href="https://dub.sh/cslp?dict=FRI&page=042" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
@@ -8627,7 +8627,7 @@ ityartham adv.
 ityādi adv.
 1 tak počínající, atd., na př.
 2 так начинающийся, и т. д., на пр.
-3 thus beginning, et caetera, e. g.
+3 thus beginning, {{et caetera->et cætera||20260515|Dr. Dhaval Patel|https://github.com/sanskrit-lexicon/csl-orig/pull/2845}}, e. g.
 <a href="https://dub.sh/cslp?dict=FRI&page=051" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
