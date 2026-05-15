@@ -4,68 +4,43 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-**cologne-stardict** converts the Cologne Digital Sanskrit Lexicon (CDSL) XML dictionaries into Babylon/StarDict format for use in offline dictionary applications (GoldenDict, StarDict, etc.).
+**cologne-stardict** is a Sanskrit Lexicon **converter** repository — part of the Cologne Digital Sanskrit Lexicon (CDSL) infrastructure.
 
-The pipeline reads XML files from the local `csl-orig` sibling repo and headword normalization data from `hwnorm1`, then produces `.babylon` files that can be compiled into StarDict format.
+## Repo Category
 
-Assumed local directory layout:
-```
-cologne/
-  csl-orig/           ← source XML files per dictionary
-  cologne-stardict/   ← this repo
-  hwnorm1/            ← headword normalization tables
-```
+`converter` — see the [tooling runbook](https://github.com/sanskrit-lexicon/csl-observatory/blob/main/runbook/cologne-tooling-runbook.md) for category-specific conventions.
 
-## Architecture
+## GitHub Issue Conventions
 
-| File/Directory | Purpose |
-|---|---|
-| `redo.sh` | Main orchestration: pulls latest hwnorm1 + csl-orig, then runs all dictionaries |
-| `make_babylon.py` | Converts a single dictionary XML → `.babylon` format |
-| `make_babylon_synonymic.py` | Variant for synonymic dictionaries (ABCH, ACPH, ACSJ) |
-| `params.py` | Per-dictionary regex transformations for XML → Babylon display formatting |
-| `dictdata.py` | Dictionary metadata (names, filenames, language pairs) |
-| `parseheadline.py` | Parses XML headline elements into Babylon entry headers |
-| `fast_converter.py` | Optimized XML parsing for large dictionaries (MW) |
-| `utils.py` | Shared utilities (encoding, HTML stripping) |
-| `input/` | Input files: `hwnorm1c.txt` (copied from hwnorm1 during redo) |
-| `output/` | Generated `.babylon` files (one per dictionary) |
-| `production/` | Validated production-ready StarDict packages |
-| `add_endline.py` | Post-processes babylon files to add required end-of-entry markers |
-| `move_to_stardict.sh` | Moves babylon files to StarDict compilation directory |
-| `copy_licence.sh` | Copies license files into each StarDict package |
+This repository uses the **Cologne tooling-repo taxonomy**. All issues must have:
+- **Exactly one type label** (9 options)
+- **Exactly one severity label** (4 levels)
+- **One milestone** (5 options)
 
-### Dictionary list
+### Type Labels
+- `bug` — Code defect (wrong output, broken contract)
+- `feature` — Net-new capability
+- `enhancement` — Improvement to existing capability
+- `performance` — Speed, memory, throughput optimization
+- `tech-debt` — Refactoring, cleanup, dependency updates
+- `security` — CVE, auth issue, credential exposure
+- `documentation` — Prose docs, API docs, comments
+- `infrastructure` — CI/CD, deploy, data pipelines, build tooling
+- `question` — Research, proposals, open discussions
 
-Standard dictionaries (processed by `make_babylon.py`):
-`acc ae ap ap90 armh ben bhs bop bor bur cae ccs fri gra gst ieg inm krm lan lrv mci md mw mw72 mwe pd pe pgn pui pw pwg sch shs skd snp stc vcp vei wil yat`
+### Severity Labels
+- `trivial` — Cosmetic, < 1 hour
+- `minor` — Single function/component
+- `major` — Multiple files, design decision
+- `critical` — Blocks users, data loss/security CVE
 
-Synonymic dictionaries (processed by `make_babylon_synonymic.py`):
-`abch acph acsj`
+### Milestones
+- **API Stability** — performance, security, regressions
+- **User Experience** — bugs, features, enhancements
+- **Data Quality** — data-pipeline issues, integrity
+- **Developer Experience** — tech-debt, infrastructure, docs
+- **Community** — questions, proposals, discussions
 
-## Common Commands
+## Cross-Repo Coordination
 
-### Full rebuild of all dictionaries
-```bash
-sh redo.sh
-# With optional target dir argument:
-sh redo.sh <target_dir>
-```
-
-### Process a single dictionary
-```bash
-python3 make_babylon.py <dict_code>
-# e.g.: python3 make_babylon.py mw
-```
-
-### Process a synonymic dictionary
-```bash
-python3 make_babylon_synonymic.py <dict_code>
-# e.g.: python3 make_babylon_synonymic.py abch
-```
-
-## Dependencies
-
-- **Python 3**
-- **csl-orig** sibling repo — XML source files at `../csl-orig/v02/<dict>/<dict>.xml`
-- **hwnorm1** sibling repo — `../hwnorm1/sanhw1/hwnorm1c.txt` (headword normalization)
+The org-level project [Tooling Roadmap](https://github.com/orgs/sanskrit-lexicon/projects/9) tracks tool work across all repositories.
