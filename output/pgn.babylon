@@ -2,7 +2,7 @@
 #bookname=Personal-and-Geographical-Names-in-the-Gupta-Inscriptions (sa-en)
 #stripmethod=keep
 #sametypesequence=h
-#description=Data from https://www.sanskrit-lexicon.uni-koeln.de/ as on 2026-05-11
+#description=Data from https://www.sanskrit-lexicon.uni-koeln.de/ as on 2026-05-15
 
 गुप्त|गुप्तं|गुप्तः
 1. Gupta: (No. 1, L. 28; No. 21, L. 4; No. 22, L. 1; No. 47,
@@ -286,7 +286,7 @@ successive endowments of Śakrāditya, Budhagupta, Tathāgata-
 gupta and Bālāditya.^98 On the strength of this statement it has
 been suggested that Budhagupta was the son of Kumāragupta I
 who had the title of Mahendrāditya (Mahendra = Śakra).^99
-In view of the clear epigraphic reference to the parentage of
+In view of^1 the clear epigraphic reference to the parentage of
 Budhagupta the proposed identification must be rejected.^100
 The statement of Hiuen Tsang was based on hearsay and not
 on sound history, or else his Budhagupta is not to be identified
@@ -297,6 +297,7 @@ of the special leaning of Gupta kings towards the brahmanical
 faith we prefer to interpret Budha as referring to Mercury
 either as god Mercury (regarded as a son of Soma or the Moon)
 or as the planet Mercury.^101
+[1] Correction submitted by Dr. Sampada Savardekar on 20210704. Reference: https://github.com/sanskrit-lexicon/csl-corrections/issues/62.
 <a href="https://dub.sh/cslp?dict=PGN&page=025" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=pgn" target="_blank">Correction</a>
 
@@ -353,7 +354,7 @@ His name is clearly based on god Viṣṇu.
 
 घटोत्कचगुप्त
 1. Ghaṭotkacagupta: (No. 45, L. 1; No. 30, L. 3):
-Ghaṭotkacagupta of No. 30 is identical with that of No. 45.
+Ghaṭotkacagupta of No. 30 is identical with^1 that of No. 45.
 A distinction must be made between Ghaṭotkacagupta and
 Ghaṭotkaca, the latter being the grandfather of Samudragupta.
 Unfortunately the word expressing the exact relationship bet-
@@ -363,6 +364,7 @@ inscription. He was probably a son or younger brother of
 Kumāragupta I^107 and may have been one of the claimants for
 the throne after the death of Kumāragupta I. Altekar consi-
 ders him to be a brother of Kumāragupta.^108
+[1] Correction submitted by Dr. Sampada Savardekar on 20210704. Reference: https://github.com/sanskrit-lexicon/csl-corrections/issues/62.
 <a href="https://dub.sh/cslp?dict=PGN&page=027" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=pgn" target="_blank">Correction</a>
 
@@ -902,11 +904,12 @@ king Bhānugupta. He was the founder of the Lakṣa lineage.
 बलवर्म्मन्|बलवर्मन्
 1. Balavarmman (No. 1, L. 21):
 One of the kings of Āryyāvartta said to have been forcefully
-uprooted by Samudragupta. The first part of the name is Bala
+uprooted^1 by Samudragupta. The first part of the name is Bala
 which means strength or power and the second part Varmman
 is a surname used for kṣatriyas. The name may literally mean
 ‘one who protects with his power’.
 It is a name based on quality.
+[1] Correction submitted by Dr. Sampada Savardekar on 20210704. Reference: https://github.com/sanskrit-lexicon/csl-corrections/issues/62.
 <a href="https://dub.sh/cslp?dict=PGN&page=045" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=pgn" target="_blank">Correction</a>
 
@@ -1401,12 +1404,13 @@ or removes or averts’.^7
 धृतिमित्र
 1. Dhṛtimitra (No. 34, L. 5; No. 35, L. 5):
 It is a name based on virtue, the first part being Dhṛti ‘per-
-severance’ and the second part ‘mitra’ friend, the whole mean-
+severance’ and the second part^1 ‘mitra’ friend, the whole mean-
 ing ‘one who is friendly to perseverance’, i.e., a man full of
 perseverance. Names ending in mitra^8 are very few in the
 Vedic literature but seem to have been very popular in the
 post-Pāṇinian period. Coins^9 as well as the epigraphic records
 show an abundant use of mitra- ending names.^10
+[1] Correction submitted by Dr. Sampada Savardekar on 20210704. Reference: https://github.com/sanskrit-lexicon/csl-corrections/issues/62.
 <a href="https://dub.sh/cslp?dict=PGN&page=057" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=pgn" target="_blank">Correction</a>
 
@@ -1728,7 +1732,8 @@ excellent’^43 and thus can signify a hero. The term is also used
 for the animal rhinoceros, so it can also be a case of a name
 based on the name of an animal.
 The custom of deriving names from animals was unknown
-in the Vedic period.^44 But in Pāṇini we find such references.^45
+in the Vedic period^1.^44 But in Pāṇini we find such references.^45
+[1] Correction submitted by Dr. Sampada Savardekar on 20210704. Reference: https://github.com/sanskrit-lexicon/csl-corrections/issues/62.
 <a href="https://dub.sh/cslp?dict=PGN&page=062" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=pgn" target="_blank">Correction</a>
 
@@ -2986,9 +2991,10 @@ The name has two parts. The first part is Gopadeva and the
 second part is ‘svāmin’. Gopadeva means ‘Lord of the cow-
 herds’ and is often applied to Indra, Kṛṣṇa or Viṣṇu, mostly to
 the last two in the post-Vedic period. The second part ‘svāmin’
-means ‘a spiritual preceptor, learned brāhmaṇa or Paṇḍita’
+means ‘a spiritual preceptor^1, learned brāhmaṇa or Paṇḍita’
 (used as a title at the end of names, especially of natives of the
 Karnataka).^6
+[1] Correction submitted by Dr. Sampada Savardekar on 20210704. Reference: https://github.com/sanskrit-lexicon/csl-corrections/issues/62.
 <a href="https://dub.sh/cslp?dict=PGN&page=088" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=pgn" target="_blank">Correction</a>
 
@@ -3113,8 +3119,9 @@ The inscription records the purchase of land measuring one
 kulyavāpa by a brāhmaṇa, named Karppatika, for the purpose
 of his agnihotra rites.
 The word ‘Karpaṭika’ or Kārpaṭika means ‘acting deceitfully,
-fraudulent, dishonest, a rogue, cheat’.^26 It also means a beggar.^27
+fraudulent^1, dishonest, a rogue, cheat’.^26 It also means a beggar.^27
 Both the meanings may be applied here.
+[1] Correction submitted by Dr. Sampada Savardekar on 20210704. Reference: https://github.com/sanskrit-lexicon/csl-corrections/issues/62.
 <a href="https://dub.sh/cslp?dict=PGN&page=091" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=pgn" target="_blank">Correction</a>
 
@@ -3242,10 +3249,11 @@ Māheśvara cult and has been mentioned as Bhagavān Kapila.
 11. Kuśika (No. 41, L. 5):
 He is described as one of the pupils of Lakulin (Nakulin in
 the Vāyu Purāṇa), an incarnation of Maheśvara.^38 It is an
-abbreviated name formed by the addition of the suffix ‘ika’.
+abbreviated name formed by the addition of the suffix^1 ‘ika’.
 According to lexicographers literally Kuśika means ‘squint-
 eyed’.^39 In the present inscription the name has the epithet
 bhagavān prefixed to it.
+[1] Correction submitted by Dr. Sampada Savardekar on 20210704. Reference: https://github.com/sanskrit-lexicon/csl-corrections/issues/62.
 <a href="https://dub.sh/cslp?dict=PGN&page=093" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=pgn" target="_blank">Correction</a>
 
@@ -3636,7 +3644,7 @@ In the first and second centuries A.D. they are located in
 the country between the lower Sindhu valley and Kathiawar,
 as is indicated in the ‘Periplus’ and in the Geography of
 Ptolemy.^28 The Periplus calls their country Abiria. Ābhīra
-generals served in the armies of Śaka Kṣatraps of Western
+generals served in the armies^1 of Śaka Kṣatraps of Western
 India in the second century A.D. as is known from their
 inscriptions.^29 They are also mentioned in the Mahābhāṣya
 of Patañjali^30 in association with the Śūdras, the Sodrai of
@@ -3690,6 +3698,7 @@ Shafer^54 considers them to be an admixture possibly of
 white Iranian blood with enough Bhil blood to give them a
 a very dark colour and concludes that they were western
 Ānavas.^55
+[1] Correction submitted by Dr. Sampada Savardekar on 20210704. Reference: https://github.com/sanskrit-lexicon/csl-corrections/issues/62.
 <a href="https://dub.sh/cslp?dict=PGN&page=125" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=pgn" target="_blank">Correction</a>
 
@@ -3819,7 +3828,7 @@ many ancient empires.^93 The ancient Indian concept for ‘Deva-
 [<a href="https://dub.sh/cslp?dict=PGN&page=-130" target="_blank">Page-130+ 39</a>]
 putra’^94 meaning ‘god-son’ is slightly different. It was not used
 for worldly kings but specifically for a class of distinguished
-divinities, which in Indian Buddhist texts was specifically used
+divinities^1, which in Indian Buddhist texts was specifically used
 for four regional ‘great kings’, i. e., regents of four quarters,
 East, West, North and South who were ‘sons of heaven’. In
 the later Kuṣāṇa times, the term seems to have denoted the
@@ -3875,6 +3884,7 @@ and not as a title.^104 Aśoka could claim the title only of
 Devaputra or ‘god-son’ was a superior title given to the Kuṣāṇas
 by Indians. It is interesting to note that the epithet Devaputravat
 has been used for Buddha in one of our inscriptions^106
+[1] Correction submitted by Dr. Sampada Savardekar on 20210704. Reference: https://github.com/sanskrit-lexicon/csl-corrections/issues/62.
 <a href="https://dub.sh/cslp?dict=PGN&page=129" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=pgn" target="_blank">Correction</a>
 
@@ -3908,7 +3918,7 @@ language. “The Purāṇas have a form Urṇa which together with
 Epic Skr. Hūṇa suggests Indic Hūrṇa Turk, Xūrnu”.^111
 We may note here the Tibetan Hor, which corresponds
 with the first syllable of the reconstructed form Hūr-ṇa. The
-difference of vowels may indicate a back diphthong or back
+difference of vowels may indicate a back diphthong^1 or back
 vowel between o and u, as Ptolemy's Xoūnoi suggests, since
 the Greeks wrote u (y) for Indic u.^112
 Though all the above forms go back to one primitive form,
@@ -3958,7 +3968,7 @@ We know of Toramāṇa from his Eraṇ Boar Inscription^124
 and of Mihirakula from his Gwalior Inscription.^125 These
 two are generally taken to have been Hūṇa chiefs. There is
 another inscription found at Kura (Salt range in the Punjab)
-referring to Rājādhirāja Mahārāja Toramāṇa-Ṣāhi-Jau (bla),
+referring^2 to Rājādhirāja Mahārāja Toramāṇa-Ṣāhi-Jau (bla),
 whom some scholars identify with king Toramāṇa mentioned
 in the Eraṇ Inscription,^126 but others regard the two as quite
 different.^127 Here it must be pointed out, none of these inscrip-
@@ -4041,6 +4051,8 @@ Gujarat region during the early medieval period as evidenced
 by a large number of epigraphical and literary records, and
 also proved themselves as a source of danger to the Pāla kings
 of Bengal^148
+[1] Correction submitted by Dr. Sampada Savardekar on 20210704. Reference: https://github.com/sanskrit-lexicon/csl-corrections/issues/62.
+[2] Correction submitted by Dr. Sampada Savardekar on 20210704. Reference: https://github.com/sanskrit-lexicon/csl-corrections/issues/62.
 <a href="https://dub.sh/cslp?dict=PGN&page=131" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=pgn" target="_blank">Correction</a>
 
@@ -4151,7 +4163,7 @@ spread thence east, south and west. ^186
 The Uttara Kurus, who play a mythical part in the Epic
 and later literature, are still a historical people in the Aitareya
 Brāhmaṇa.^187 where they are located beyond the Himalayas
-(pareṇa Himavantam). In another passage,^188 however, the
+(pareṇa Himavantam). In another passage^1,^188 however, the
 country of the Uttara Kurus is stated by Vasiṣṭha Sāthavya
 to be a land of the gods (deva-kṣetra), but Jānṃtapi
 Atyarāti was anxious to conquer it, so that it is still not wholly
@@ -4174,6 +4186,7 @@ were Āryan, the bulk of the population were probably non-
 rallied the support mostly of the non-Āryans, the Pāṇḍavas
 had the support of Āryans and concludes that the Northern
 Kurus were Muṇḍic.^194
+[1] Correction submitted by Dr. Sampada Savardekar on 20210704. Reference: https://github.com/sanskrit-lexicon/csl-corrections/issues/62.
 <a href="https://dub.sh/cslp?dict=PGN&page=136" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=pgn" target="_blank">Correction</a>
 
@@ -4553,7 +4566,7 @@ Bṛhatsaṃhitā mentions Madraka and Mālava separately but
 side by side as people of the North.^301
 At the time of Samudragupta, the Mālavas possibly lived in
 Rajasthan and West Malwa^302 consisting of Mewar, Tonk and
-adjoining regions of south-east Rajasthan.^303 They settled in
+adjoining regions of south-east Rajasthan.^303 They settled in^1
 various localities in Western India after having migrated from
 the Punjab where they had fought with Alexander on the lower
 banks of Ravi.^304 Their original home was in Jhang District,
@@ -4639,6 +4652,7 @@ Malwa (a transformation of the word Mālava), and in the brāh-
 maṇa castes called ‘Mālavīs’ or ‘Mālavikas’. They are the brāh-
 maṇas of Mālava proper and the adjoining country, but are found
 also in Gujarat, Madhya Pradesh and Uttar Pradesh.^331
+[1] Correction submitted by Dr. Sampada Savardekar on 20210704. Reference: https://github.com/sanskrit-lexicon/csl-corrections/issues/62.
 <a href="https://dub.sh/cslp?dict=PGN&page=146" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=pgn" target="_blank">Correction</a>
 
@@ -4702,7 +4716,7 @@ sense of a barbarian in speech. Here the brāhmaṇas are for-
 bidden to use barbarian speech. The example^342 given of such
 speech is “he' layo”, explained by Sāyaṇa as “he' rayaḥ”, “ho,
 foes”. The barbarians referred to were Āryan speakers, though
-not speakers of Sanskrit, but of a Prakrit form of speech.^343
+not speakers of Sanskrit, but of a Prakrit form of speech^1.^343
 An ancient tradition regards the Andhras, Pulindas and
 Śabaras as dog-eaters or Mlecchas.^344 The Jain Prajñāpanā
 records two divisions of the people of India — Milikkha and
@@ -4768,6 +4782,7 @@ century), we get reference to the Mleccha (verse 24), Mahām-
 leccha (verses 28, 30) and Mleccha-mārga (verse 31) where they
 are mentioned along with Pāñcāla, Kāmboja and Bāhlīka and
 the Khurāśan country is described as the Mleccha-mārga.^370
+[1] Correction submitted by Dr. Sampada Savardekar on 20210704. Reference: https://github.com/sanskrit-lexicon/csl-corrections/issues/62.
 <a href="https://dub.sh/cslp?dict=PGN&page=149" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=pgn" target="_blank">Correction</a>
 
@@ -5193,7 +5208,7 @@ is heard of the Kṣaharātas.^482
 Another Śaka dynasty, called the Kārddamaka family but
 generally known as the “Western Satraps”, gained control of
 Kathiawar and Malwa at about the same time, and ruled
-roughly upto A.D. 400, and at the height of their power govern-
+roughly upto A.D. 400, and at the height^1 of their power govern-
 ing much of Rajasthan and Sind also. The greatest ruler of
 this dynasty was Rudradāman, who has left the earliest impor-
 tant inscription in correct Sanskrit,^483 a long panegyric which
@@ -5279,7 +5294,7 @@ The name of the capital of the Madras, Śākala, and that of
 the region between the Ravi and the Chenab, Śākaladvīpa, are
 based on the word Śaka and are indicative of a Śaka invasion.
 Likewise, the name of the clan Śākya, to which Buddha
-belonged, enshrines a reminiscence of the word Śaka.
+belonged, enshrines a reminiscence^2 of the word Śaka.
 Moreover, the place-names ending in kanthā existing in the
 [<a href="https://dub.sh/cslp?dict=PGN&page=-165" target="_blank">Page-165+ 39</a>]
 whole of the Punjab from the Bannu valley to the Kankhala
@@ -5333,6 +5348,8 @@ the Śakas.^514 So the name of Khosla is a remnant of this
 tribe.^515 Besides the Thakuras and Tokhis of the Punjab,
 there are caste-groups of Soi and Sikka, which are reminiscent
 of the Śakas.
+[1] Correction submitted by Dr. Sampada Savardekar on 20210704. Reference: https://github.com/sanskrit-lexicon/csl-corrections/issues/62.
+[2] Correction submitted by Dr. Sampada Savardekar on 20210704. Reference: https://github.com/sanskrit-lexicon/csl-corrections/issues/62.
 <a href="https://dub.sh/cslp?dict=PGN&page=161" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=pgn" target="_blank">Correction</a>
 
@@ -5498,11 +5515,12 @@ In the Kāmasūtra of Vatsyāyana,^566 Bāhlīka is grouped
 with Strīrājya, which occurs in the list of North-Western divi-
 sion. The peculiar custom in Bāhlika of several young men
 being married to a single woman as in strīrājya (strīrājye ca
-Bāhlike...), appears to be an outlandish custom prevailing
+Bāhlike...), appears to be an outlandish custom prevailing^1
 in the regions to the west of India.^567 The Jayamaṅgalā comm-
 entary also says that Bāhlīka was in Uttarāpatha.^568
 We find the word Vāhlika occurring in the Amara-kośa in
 two ways:
+[1] Correction submitted by Dr. Sampada Savardekar on 20210704. Reference: https://github.com/sanskrit-lexicon/csl-corrections/issues/62.
 <a href="https://dub.sh/cslp?dict=PGN&page=167" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=pgn" target="_blank">Correction</a>
 
@@ -6238,7 +6256,7 @@ bited by a single land-holder along with his dependants.^168 It
 is ‘Svabhoga’ for the master and ‘Ekabhoga’ for others’. Sharma
 connects this ‘Svabhoga’ with a feudatory ‘who lived therein
 with his family and dependants, and on whom Samudragupta,
-pleased by his ‘devotion’, policy, and valour’ conferred the title
+pleased by his ‘devotion’, policy, and valour’ conferred the title^1
 of Rājan and the accompanying glories of consecration, etc.
 described in verse 4.^169 But Sharma seems to be incorrect in
 associating the inscription with a feudatory, the inscription
@@ -6270,6 +6288,7 @@ dropped by the process of elision.^176 The meaning of the word
 Erikiṇa is a puzzle but its connexion with erakā ‘a kind of
 grass,^177 found in that area may be accepted as a hypothesis.
 Place-names ending in Deśa
+[1] Correction submitted by Dr. Sampada Savardekar on 20210704. Reference: https://github.com/sanskrit-lexicon/csl-corrections/issues/62.
 <a href="https://dub.sh/cslp?dict=PGN&page=220" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=pgn" target="_blank">Correction</a>
 
@@ -6636,20 +6655,22 @@ the northern and eastern sides of the empire and to look for
 Kartṛpura somewhere to the west of the Gupta dominions.
 Consequently he finds Karor or Karūr to be a good equivalent
 for Kartṛpura.^269 Kara here stands for Kartṛ and ‘ur’ or ‘ūr’
-would stand here for pura.^270 Karūr, again, is to be preferred
+would stand here for pura.^270 Karūr, again, is to be preferred^1
 to the other alternatives on account of its associations with the
 Gupta period of Indian History. According to Al-Beruni, an
 eastern king, called Vikramāditya, put to flight and killed a
 Śaka ruler in the region of Karūr, between Multan and Loni.^271
 This Vikramāditya is to be identified with Candragupta II
 ‘the enemy of the Śakas’, who disguised as his brother's wife,
-Dhruvasvāminī, ‘ripped upon the belly of the Śaka ruler’,
+Dhruvasvāminī, ‘ripped upon the belly^2 of the Śaka ruler’,
 and destroyed the Śaka army, most probably, in Kartṛpura or
 Karūr.^272
 This was the first encounter between the Śakas and Vikramā-
 ditya, and Karūr, Karor, or Kartṛpura was the theatre of the
 war because of its intermediate position between the Śaka
 dominions and the Gupta empire.^273
+[1] Correction submitted by Dr. Sampada Savardekar on 20210704. Reference: https://github.com/sanskrit-lexicon/csl-corrections/issues/62.
+[2] Correction submitted by Dr. Sampada Savardekar on 20210704. Reference: https://github.com/sanskrit-lexicon/csl-corrections/issues/62.
 <a href="https://dub.sh/cslp?dict=PGN&page=228" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=pgn" target="_blank">Correction</a>
 
@@ -6672,7 +6693,7 @@ takes it to be a mistake for Kuśasthalapura,^278 and identifies
 it with the holy city of Dwarka, the capital of Ānartta, i. e.
 North Gujarat.^279 Raj Bali Pandey also identifies it with
 Kuśasthalī (Dwarka)^280 G. Ramdas locates the place in
-Gujarat following Smith.^281 Monier Williams also identifies
+Gujarat following Smith.^281 Monier Williams also identifies^1
 Kuśasthala with the town of Dwarka.^282 Bhandarkar, follow-
 ing Barnett identifies the place with Kuttalur near Polur in
 North Arcot.^283
@@ -6691,6 +6712,7 @@ to a damp low-land.^287 The Mahābhārata, Harivaṃśa, early
 Jain and Pali literature use the word in this sense.^288 The
 Mahābhārata mentions both Kuśasthala as well as kuśa-sthalī.
 The latter is supposed to be another name of Dwarka.^289
+[1] Correction submitted by Dr. Sampada Savardekar on 20210704. Reference: https://github.com/sanskrit-lexicon/csl-corrections/issues/62.
 <a href="https://dub.sh/cslp?dict=PGN&page=229" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=pgn" target="_blank">Correction</a>
 
@@ -6792,7 +6814,7 @@ Pāṭaliputra had closely been associated with multifarious
 political and cultural activities right from the fifth century
 B.C. to the later part of the sixth century A.D.^315 It had the
 honour to be the capital of the Śaiśunāgas, the Nandas, the
-Mauryas and the great Imperial Guptas until the Hūṇa inva-
+Mauryas and the great Imperial Guptas until^1 the Hūṇa inva-
 sion in the 6th century A.D. when it was ruined. Harṣavardhana
 (7th century A.D.) made no attempt to restore it.^316 Śaśāṅka
 Narendragupta destroyed many Buddhist temples and monas-
@@ -6805,6 +6827,7 @@ there. It then came into importance under its modern name
 Patna (from Skt. Pattana) i. e. the town or city. It is even now
 [<a href="https://dub.sh/cslp?dict=PGN&page=-233" target="_blank">Page-233+ 36</a>]
 the capital of Bihar.^319
+[1] Correction submitted by Dr. Sampada Savardekar on 20210704. Reference: https://github.com/sanskrit-lexicon/csl-corrections/issues/62.
 <a href="https://dub.sh/cslp?dict=PGN&page=230" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=pgn" target="_blank">Correction</a>
 
@@ -7229,7 +7252,7 @@ to have any connection with Himavac-Chikhara. This village
 is to be located somewhere near Dāmodarpur and belonged to
 the Koṭivarṣa viṣaya as mentioned in the records.^408 But the
 village was most probably situated in a hilly area which is clear
-from the word Doṅgā itself.^409 The word ‘Atrāraṇye’ (local
+from the word Doṅgā^1 itself.^409 The word ‘Atrāraṇye’ (local
 forest where the temple of Śvetavarāhasvāmin was situated) in
 No. 37 also attests to it.^410 The village may have consisted of a
 few huts with bushes and trees all around or the place where
@@ -7238,6 +7261,7 @@ Thus the earlier suggestion that the Koṭivarṣa district
 included the hilly region bordering on the northern fringe of
 Bengal,^411 which was rejected by Sircar,^412 seems to be
 correct.
+[1] Correction submitted by Dr. Sampada Savardekar on 20210704. Reference: https://github.com/sanskrit-lexicon/csl-corrections/issues/62.
 <a href="https://dub.sh/cslp?dict=PGN&page=240" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=pgn" target="_blank">Correction</a>
 
@@ -7463,13 +7487,14 @@ the country ruled by Svāmidatta. Eraṇḍapallī will have, there-
 fore, to be identified with the village Yendipalli in the Golgonda
 [<a href="https://dub.sh/cslp?dict=PGN&page=-246" target="_blank">Page-246+ 37</a>]
 Taluka of the Vizagapatam district or with the village Eṇḍapalli
-in Elore Tāluka.^457 But if we suppose that Svāmidatta was
+in Elore Tāluka.^457 But if we suppose^1 that Svāmidatta was
 the king of Koṭṭūra alone and not of the whole of Kaliṅga,
 Eraṇḍapallī may well be identified with Chicacole.^458
 Palla is the corrupt form of Pallī which means an inhabitation
 and Eraṇḍa is the castor-oil-plant^459 It seems that the region
 abounded in eraṇḍa plants.
 Place-names ending in Gohālī
+[1] Correction submitted by Dr. Sampada Savardekar on 20210704. Reference: https://github.com/sanskrit-lexicon/csl-corrections/issues/62.
 <a href="https://dub.sh/cslp?dict=PGN&page=245" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=pgn" target="_blank">Correction</a>
 
@@ -7489,7 +7514,8 @@ Following are the place-names with this suffix:
 
 नित्वगोहाली
 1. Nitva-gohālī^465 (No. 28. L. 3, L. 9, L. 15):
-The meaning of Nitva is inexplicable.
+The meaning^1 of Nitva is inexplicable.
+[1] Correction submitted by Dr. Sampada Savardekar on 20210704. Reference: https://github.com/sanskrit-lexicon/csl-corrections/issues/62.
 <a href="https://dub.sh/cslp?dict=PGN&page=246" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=pgn" target="_blank">Correction</a>
 
@@ -7540,7 +7566,7 @@ Place-names ending in Pāṭaka
 
 पाटक|पाटकः
  Pāṭaka
-Literally meaning ‘a splitter or divider’ it means the
+Literally meaning ‘a splitter^1 or divider’ it means the
 half or any part, or a kind of village.^473 Pāṭaka is also the
 name of a land measure,^474 hence earlier pāṭaka, pāḍaga or
 pāḍā may have denoted a large but private house, or settle-
@@ -7548,6 +7574,7 @@ ment within a village. Gradually the village and sometimes
 the city also came to be called after it.^475
 There is only one name with this suffix in our inscriptions
 which is as follows:
+[1] Correction submitted by Dr. Sampada Savardekar on 20210704. Reference: https://github.com/sanskrit-lexicon/csl-corrections/issues/62.
 <a href="https://dub.sh/cslp?dict=PGN&page=247" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=pgn" target="_blank">Correction</a>
 
@@ -7571,11 +7598,12 @@ inscriptions which is given below:
 
 पृष्ठिमपोत्तक
  Pṛṣṭhima-pottaka (No. 28, L. 2, L. 8, L. 14):
-It seems to be a name based on the geographical situation
+It seems to be a name based on the geographical^1 situation
 of the place. Pṛṣṭhima literally meaning situated on the back-
 side may here signify ‘a neglected place’.
 [<a href="https://dub.sh/cslp?dict=PGN&page=-248" target="_blank">Page-248+ 35</a>]
 Place-names ending in Vihāra
+[1] Correction submitted by Dr. Sampada Savardekar on 20210704. Reference: https://github.com/sanskrit-lexicon/csl-corrections/issues/62.
 <a href="https://dub.sh/cslp?dict=PGN&page=247" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=pgn" target="_blank">Correction</a>
 
@@ -7908,7 +7936,7 @@ district where we still find a place called Doboka.^538
 कामरूप|कामरूपः
 3. Kāmarūpa (No. I, L. 22):
 It has been mentioned as one of the frontier states which were
-subordinate to Samudragupta and whose emperors paid him
+subordinate^1 to Samudragupta and whose emperors paid him
 [<a href="https://dub.sh/cslp?dict=PGN&page=-254" target="_blank">Page-254+ 39</a>]
 taxes and all kinds of obeisance. Majumdar^539 identifies it with
 Upper Assam. Kāmarūpa consisted of the Western districts of
@@ -7947,6 +7975,7 @@ The Ahoms of the Shan Tribe came into Assam at the be-
 ginning of the 13th century due to the break-up of the Chinese
 empire by the Moguls and ruled till the British occupation in
 the beginning of the 19th century.^553
+[1] Correction submitted by Dr. Sampada Savardekar on 20210704. Reference: https://github.com/sanskrit-lexicon/csl-corrections/issues/62.
 <a href="https://dub.sh/cslp?dict=PGN&page=253" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=pgn" target="_blank">Correction</a>
 
@@ -8054,11 +8083,12 @@ include the region in the Gupta empire.^592
 It was a great centre of trade and commerce. Patañjali in
 his Mahābhāṣya^593 mentions Kāśī cloth. The Buddhist litera-
 ture gives us many accounts of the merchants of the city.^594
-Kāśī has been a place of much importance for Hindu pil-
+Kāśī has been a place of much importance^1 for Hindu pil-
 grimage. Its religious importance has been discussed at length
 in the Kāśīkhaṇḍa of the Skanda Purāṇa. Lord Śiva never
 leaves it, hence it is known as Avimukta. A man who dies here
 is believed to get emancipation.^595
+[1] Correction submitted by Dr. Sampada Savardekar on 20210704. Reference: https://github.com/sanskrit-lexicon/csl-corrections/issues/62.
 <a href="https://dub.sh/cslp?dict=PGN&page=256" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=pgn" target="_blank">Correction</a>
 
@@ -8118,7 +8148,8 @@ to identify Koṭṭūra with Koṭṭūra near Tuni (E. Godavari dis-
 trict) and maintains that Samudragupta did not pass through
 Orissa, Ganjam and Vizagapatam^611 There is another
 Koṭṭūra in the Vizagapatam district.^612 But the generally
-accepted view is to identify it with Kothoor in Ganjam.
+accepted view is to identify it^1 with Kothoor in Ganjam.
+[1] Correction submitted by Dr. Sampada Savardekar on 20210704. Reference: https://github.com/sanskrit-lexicon/csl-corrections/issues/62.
 <a href="https://dub.sh/cslp?dict=PGN&page=258" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=pgn" target="_blank">Correction</a>
 
@@ -8456,16 +8487,18 @@ Bhilsa, and full of ancient monuments.^709
 3. Uttara Kuru (No. 22, L. 7):
 A person named Śaṃkara is described in the inscription as
 born in the region of the north, the best of countries, which
-resembles (in beatitude) the land of the Northern Kurus.^710
+resembles (in beatitude^1) the land of the Northern Kurus.^710
 [<a href="https://dub.sh/cslp?dict=PGN&page=-266" target="_blank">Page-266+ 39</a>]
 The Kurus had two branches, the northern and the southern.
 Uttarakuru or the country of the Northern Kurus, is supposed
 to be a region beyond the most northern range of the Himālaya
-mountains, and is described as a country of everlasting hap-
+mountains, and is described as a country of everlasting^2 hap-
 piness.^711 We have discussed in details, the Kurus, in the
 section on tribes. The Bṛhatsaṃhitā^712 mentions it as a country
 situated in the North. In the later period the Uttarakurus had
 only a mythical or legendary existence.
+[1] Correction submitted by Dr. Sampada Savardekar on 20210704. Reference: https://github.com/sanskrit-lexicon/csl-corrections/issues/62.
+[2] Correction submitted by Dr. Sampada Savardekar on 20210704. Reference: https://github.com/sanskrit-lexicon/csl-corrections/issues/62.
 <a href="https://dub.sh/cslp?dict=PGN&page=265" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=pgn" target="_blank">Correction</a>
 
@@ -8513,7 +8546,7 @@ mīmāṃsā mentions Vaṅga as a janapada situated in the east.^732
 The Bṛhatsaṃhitā also mentions it in the east along with Upa-
 Vaṅga.^733
 According to the Mahābhārata^734 Vaṅga, son of Bali, had
-established this country. The Amarakośa^735 mentions Vaṅga
+established^1 this country. The Amarakośa^735 mentions Vaṅga
 as a synonym of Raṅga (lead), but lead is not available
 in Bengal and is found in abundance in Malaya, Pegu and
 East Indies. People in other parts of India may have received
@@ -8536,6 +8569,7 @@ the Kalpadrukośa, a work of the seventeenth century states that
 Śrīhaṭṭa is Harikeli.^743 The commentary of Yaśodhara on the
 Kāmasūtra refers to Vaṅga as situated to the east of the
 Brahmaputra.^744
+[1] Correction submitted by Dr. Sampada Savardekar on 20210704. Reference: https://github.com/sanskrit-lexicon/csl-corrections/issues/62.
 <a href="https://dub.sh/cslp?dict=PGN&page=266" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=pgn" target="_blank">Correction</a>
 
