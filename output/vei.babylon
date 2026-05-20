@@ -2,7 +2,7 @@
 #bookname=Vedic-Index-of-Names-and-Subjects (sa-en)
 #stripmethod=keep
 #sametypesequence=h
-#description=Data from https://www.sanskrit-lexicon.uni-koeln.de/ as on 2026-05-11
+#description=Data from https://www.sanskrit-lexicon.uni-koeln.de/ as on 2026-05-20
 
 अंशु|अंशुः
 Aṃśu. — I. Name of a protégé of the Aśvins in the Rigveda.^1
@@ -1529,12 +1529,13 @@ apa and ci, ‘to pick off.’
 2) St. Petersburg Dictionary, s.v.
 3) Altindisches Leben, 97. So also
 Ludwig, Translation of the Rigveda,
-3, 342, 500.
+3, 342, 500^1.
 4) American Journal of Philology, 11,
 320 et seq.; Hymns of the Atharvaveda,
 503, 504. Cf. Jolly, Medicin, 89;
 Whitney, Translation of the Athar-
 vaveda, 343.
+[1] Correction submitted by Dr. Dhaval Patel, Andhrabharati on 20241111. Reference: https://github.com/sanskrit-lexicon/csl-orig/issues/614.
 <a href="https://dub.sh/cslp?dict=VEI&page=1-024" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=vei" target="_blank">Correction</a>
 
@@ -1951,9 +1952,10 @@ disches Leben, 305.
 <a href="https://dub.sh/cslc?dict=vei" target="_blank">Correction</a>
 
 अमावास्यशाण्डिल्यायन
-Amā-vāsya Śāṇḍilyāyana is mentioned in the Vaṃśa
+Amā-vāsya Śāṇḍilyāyana^1 is mentioned in the Vaṃśa
 Brāhmaṇa^1 as the teacher of Aṃśu Dhānaṃjayya.
 1) Indische Studien, iv. 373.
+[1] Correction submitted by Dr. Dhaval Patel on 20170912. Reference: https://github.com/sanskrit-lexicon/CORRECTIONS/issues/410.
 <a href="https://dub.sh/cslp?dict=VEI&page=1-031" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=vei" target="_blank">Correction</a>
 
@@ -7894,7 +7896,7 @@ The goddess Sinīvālī is called svaupaśā,^6 an epithet of doubtful
 sense, from which Zimmer^7 conjectures that the wearing of
 [<a href="https://dub.sh/cslp?dict=VEI&page=1-125" target="_blank">Page1-125+ 50</a>]
 false plaits of hair was not unknown in Vedic times. What
-was the difference between the braids referred to in the
+was the difference between the braids^1 referred to in the
 epithets pṛthu ṣṭuka,^8 ‘having broad braids,’ and viṣita-ṣṭuka,^9
 ‘having loosened braids,’ and the Opaśa cannot be made out
 from the evidence available. Geldner^10 thinks that the original
@@ -7925,6 +7927,7 @@ sense may be figurative.
 Cf. Bloomfield, Hymns of the Athar-
 vaveda, 538, 539; Whitney, Translation
 of the Atharvaveda, 348.
+[1] Correction submitted by Dr. Sampada Savardekar on 20210704. Reference: https://github.com/sanskrit-lexicon/csl-corrections/issues/67.
 <a href="https://dub.sh/cslp?dict=VEI&page=1-124" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=vei" target="_blank">Correction</a>
 
@@ -11790,7 +11793,7 @@ mentioned in the Sūtras, occurs in the Ṣaḍviṃśa Brāhmaṇa.^1
 Kekaya is the name of a tribe which in later days, and
 probably also in Vedic times, was settled in the north-west,
 [<a href="https://dub.sh/cslp?dict=VEI&page=1-186" target="_blank">Page1-186+ 48</a>]
-between the Sindhu (Indus) and Vitastā.^1 In the Vedic texts
+between^1 the Sindhu (Indus) and Vitastā.^1 In the Vedic texts
 the Kekayas are mentioned indirectly only in the name of their
 prince Aśvapati Kaikeya.^2
 1) Pargiter, Journal of the Royal Asiatic
@@ -11798,6 +11801,7 @@ Society, 1908, 317, 332.
 2) Śatapatha Brāhmaṇa, x. 6, 1, 2.
 et seq.; Chāndogya Upaniṣad, v. 11, 4.
 Cf. Weber, Indian Litenature, 120; Indische Studien, 1, 126.
+[1] Correction submitted by Dr. Sampada Savardekar on 20210704. Reference: https://github.com/sanskrit-lexicon/csl-corrections/issues/67.
 <a href="https://dub.sh/cslp?dict=VEI&page=1-185" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=vei" target="_blank">Correction</a>
 
@@ -12050,7 +12054,7 @@ Cf. Hillebrandt, Vedische Mythologie, 1,
 <a href="https://dub.sh/cslc?dict=vei" target="_blank">Correction</a>
 
 कोश|कोशं|कोशः
-2. Kośa denotes the body of a chariot.^1 Presumably it was
+2. Kośa^1 denotes the body of a chariot.^1 Presumably it was
 fastened to the axles, but it was probably not very secure, as
 the body of Pūṣan's chariot is said not to fall.^2 The ropes^3
 used to fasten the Kośa are perhaps referred to in the word
@@ -12062,6 +12066,7 @@ chariot.^5 See also Vandhura, Ratha.
 4) See under 1. Akṣa.
 5) Rv. viii. 20, 8; 22, 9.
 Cf. Zimmer, op. cit., 246.
+[1] Correction submitted by Marcis Gasuns on 20160315. note: print missing diacritic over s.
 <a href="https://dub.sh/cslp?dict=VEI&page=1-189" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=vei" target="_blank">Correction</a>
 
@@ -14851,7 +14856,7 @@ passage of the Rigveda,^21 but this is uncertain.
 Oxen were regularly used for ploughing or for drawing
 wagons (anaḍvāh), in which case they were, it seems, usually
 castrated.^22 Cows were not properly used for drawing carts,
-though they at times did so.^23 The flesh of both cows and
+though^1 they at times did so.^23 The flesh of both cows and
 bulls was sometimes eaten (Māmsa). Cattle were certainly the
 [<a href="https://dub.sh/cslp?dict=VEI&page=1-234" target="_blank">Page1-234+ 44</a>]
 objects of individual ownership, and they formed one of the
@@ -14959,6 +14964,7 @@ i. 2, 3.
 Cf. Zimmer, Altindisches Leben, 228
 1) i. 154, 6; vii. 36, 1.
 2) St. Petersburg Dictionary, s.v. 5.
+[1] Correction submitted by Dr. Sampada Savardekar on 20210704. Reference: https://github.com/sanskrit-lexicon/csl-corrections/issues/67.
 <a href="https://dub.sh/cslp?dict=VEI&page=1-231" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=vei" target="_blank">Correction</a>
 
@@ -16188,7 +16194,7 @@ Cf. Weber, Indische Studien, 13, 149.
 Caṇḍāla,^1 Cāṇḍāla,^2 are the variant forms of the name of a
 despised caste, which in origin was probably a tribal body,^3 but
 which in the Brahminical theory was the offspring of Śūdra
-fathers and Brahmin mothers.^4 The references to the caste in
+fathers^1 and Brahmin mothers.^4 The references to the caste in
 he Yajurveda Saṃhitās and in the Upaniṣads show clearly
 hat it was a degraded one, but they yield no particulars.
 1) Chāndogya Upaniṣad, v. 10, 7;
@@ -16205,6 +16211,7 @@ period by Zimmer, Altindisches Leben,
 217.
 Cf. von Schroeder, Indiens Litcratur
 und Cultur, 433.
+[1] Correction submitted by Dr. Sampada Savardekar on 20210704. Reference: https://github.com/sanskrit-lexicon/csl-corrections/issues/67.
 <a href="https://dub.sh/cslp?dict=VEI&page=1-253" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=vei" target="_blank">Correction</a>
 
@@ -17665,7 +17672,7 @@ Upaniṣad Brāhmaṇa:
 (a) Jayanta Pārāśarya (‘descendant of Parāśara’) is mentioned
 as a pupil of Vipaścit in a Vaṃśa (list of teachers).^1
 (b) Jayanta Vārakya (‘descendant of Varaka’) appears in the
-same Vaṃśa^1 as a pupil of Kubera Vārakya. His grandfather
+same Vaṃśa^1 as a pupil of Kubera Vārakya. His grandfather^1
 is also mentioned there as a pupil of Kaṃsa Vārakya.
 (c) A Jayanta Vārakya, pupil of Suyajña Śāṇḍilya, perhaps
 identical with the preceding, is found in another Vaṃśa.^2
@@ -17680,6 +17687,7 @@ Sanskrit Grammar, 1209d, and Mac-
 donell, Vedic Grammar 191a), but the
 Upaniṣad in which it occurs is also a
 late one.
+[1] Correction submitted by Dr. Sampada Savardekar on 20210704. Reference: https://github.com/sanskrit-lexicon/csl-corrections/issues/67.
 <a href="https://dub.sh/cslp?dict=VEI&page=1-277" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=vei" target="_blank">Correction</a>
 
@@ -22125,7 +22133,7 @@ while the Indians, retaining the signification of ‘enemy,’ ex-
 tended it to include demon foes. Roth^14 considers that the
 meaning of human enemy is a transfer from the strife of gods
 [<a href="https://dub.sh/cslp?dict=VEI&page=1-349" target="_blank">Page1-349+ 59</a>]
-and demons. Lassen^15 attempted to connect the contrast
+and demons. Lassen^15 attempted to connect^1 the contrast
 daqyu: dasyu with that of daeva: deva, and to see in it a result
 of the religious differences which, according to Haug's theory,
 had separated the Iranians and the Indians. The word may
@@ -22244,6 +22252,7 @@ xv. 26, 7.
 op. cit., 118.
 Cf. Hillebrandt, op. cit., 3, 276 et seq.;
 Zimmer, op. cit., 101 et seq.
+[1] Correction submitted by Dr. Sampada Savardekar on 20210704. Reference: https://github.com/sanskrit-lexicon/csl-corrections/issues/67.
 <a href="https://dub.sh/cslp?dict=VEI&page=1-347" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=vei" target="_blank">Correction</a>
 
@@ -22501,7 +22510,8 @@ Upaniṣad.^1
 lectio; see St. Petersburg Dictionary,
 s.v.). Cf. Delbrück, Die indogermanischen
 Verwandtschaftsnamen, 415, 416, who
-ignores the Bṛhadāraṇyaka passage.
+ignores^1 the Bṛhadāraṇyaka passage.
+[1] Correction submitted by Dr. Sampada Savardekar on 20210704. Reference: https://github.com/sanskrit-lexicon/csl-corrections/issues/67.
 <a href="https://dub.sh/cslp?dict=VEI&page=1-353" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=vei" target="_blank">Correction</a>
 
@@ -25907,7 +25917,7 @@ as a destruction of the world, as Cowell understood the
 expression.^4 Jacobi^5 sees in the motion of the Dhruva the
 possibility of fixing a date, on the ground that the only star
 which could have been deemed a pole star, as ‘immovable,’ was
-one (a Draconis) of the third millennium B.C. But this attempt
+one (a Draconis) of the third millennium^1 B.C. But this attempt
 to extract chronology from the name of the star is of very
 doubtful validity.^6
 1) Āśvalāyana Gṛhya Sūtra, i. 7, 22;
@@ -25937,6 +25947,7 @@ Royal Asiatic Society, 1909, 721 et seq.;
 Oriental Society, 16, xc; Keith, Journal
 of the Royal Asiatic Society, 1909, 1102;
 1910, 465 et seq.
+[1] Correction submitted by Dr. Sampada Savardekar on 20210704. Reference: https://github.com/sanskrit-lexicon/csl-corrections/issues/67.
 <a href="https://dub.sh/cslp?dict=VEI&page=1-405" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=vei" target="_blank">Correction</a>
 
@@ -26993,8 +27004,8 @@ the derivation of the Nakṣatra from the Chinese Sieou. The
 latter he did not regard as being in origin lunar mansions at all.
 He thought that they were equatorial stars used, as in modern
 astronomy, as a standard to which planets or other stars
-observed in the neighbourhood can be referred; they were, as
-regards twenty-four of them, selected about B.C. 2357 on
+observed in the neighbourhood can be referred^1; they were, as
+regards twenty-four of them, selected about^2 B.C. 2357 on
 account of their proximity to the equator, and of their having
 the same right ascension as certain circumpolar stars which had
 attracted the attention of Chinese observers. Four more were
@@ -27482,6 +27493,8 @@ dealt with by Hopkins, Journal of the
 American Oriental Society, 24, 29-36.
 Ludwig's views are given in his Trans-
 lation of the Rigveda, 3, 183 et seq.
+[1] Correction submitted by Dr. Sampada Savardekar on 20210704. Reference: https://github.com/sanskrit-lexicon/csl-corrections/issues/67.
+[2] Correction submitted by Dr. Sampada Savardekar on 20210704. Reference: https://github.com/sanskrit-lexicon/csl-corrections/issues/67.
 <a href="https://dub.sh/cslp?dict=VEI&page=1-419" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=vei" target="_blank">Correction</a>
 
@@ -30383,7 +30396,7 @@ Delbrück,^45 that in the sacrifice the Patnī is usually mentioned
 in the singular, apparent exceptions being due to some mytho-
 logical reason.^46 Zimmer^47 is of opinion that polygamy is
 dying out in the Rigvedic period, monogamy being developed
-from polygamy; Weber,^48 however, thinks that polygamy is
+from polygamy^1; Weber,^48 however, thinks that polygamy is
 secondary, a view that is supported by more recent anthro-
 pology.^49
 Polyandry. — On the other hand, polyandry is not Vedic.^50
@@ -30612,7 +30625,7 @@ the Atharvaveda.^143 On the other hand, the Rigveda does not
 contemplate the custom anywhere, but on the contrary con-
 siders the widow as married apparently to the brother of the
 dead man.^144 The custom of Suttee would therefore appear
-during the Vedic age to have been in abeyance, at least as
+during the Vedic^2 age to have been in abeyance, at least as
 a general rule. At all times the practice seems to have been
 mainly usual among families of the warrior class, to judge
 from the other Indo-Germanic parallels.^145 In other classes
@@ -30934,7 +30947,7 @@ but no clear evidence of this can be
 adduced. The later custom is not con-
 clusive, since it is bound up with the
 usage of child marriage, which deprived
-both son and daughter of any free choice.
+both son and daughter of any free^3 choice.
 Cf. ibid., 315; Kaegi, Der Rigveda, 15.
 83) This is so natural as not to need
 express evidence. Cf., e.g., the marriage
@@ -31231,6 +31244,9 @@ death.
 i. 124, 7, as explained by Yāska,
 Nirukta, iii. 5; Geldner, Rigveda, Kom-
 mentar, 22.
+[1] Correction submitted by Dr. Sampada Savardekar on 20210704. Reference: https://github.com/sanskrit-lexicon/csl-corrections/issues/67.
+[2] Correction submitted by Dr. Sampada Savardekar on 20210704. Reference: https://github.com/sanskrit-lexicon/csl-corrections/issues/67.
+[3] Correction submitted by Dr. Sampada Savardekar on 20210704. Reference: https://github.com/sanskrit-lexicon/csl-corrections/issues/67.
 <a href="https://dub.sh/cslp?dict=VEI&page=1-474" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=vei" target="_blank">Correction</a>
 
@@ -33578,15 +33594,16 @@ rence.^1
 पितापुत्रीय
 Pitā-putrīya (‘relating to father and son’), used with Sam-
 pradāna (‘handing over’) means the ceremony by which a
-father, when about to die, bequeathes his bodily and mental
+father, when about to die, bequeaths^1 his bodily and mental
 powers to his son. It is described in the Kauṣītaki Upaniṣad.^1
 1) ii. 15. Cf. Weber, Indische Studien, 1, 408.
+[1] Correction submitted by Dr. Sampada Savardekar on 20210704. Reference: https://github.com/sanskrit-lexicon/csl-corrections/issues/67.
 <a href="https://dub.sh/cslp?dict=VEI&page=1-525" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=vei" target="_blank">Correction</a>
 
 पितामह|पितामहः
 Pitā-maha, beside Tatāmaha, denotes from the Atharvaveda
-onwards^1 the ‘paternal grandfather,’ apparently as a ‘father in
+onwards^1 the ‘paternal grandfather,’ apparently^1 as a ‘father in
 a higher sense.’^2 The great-grandfather is Prapitāmaha and
 Pratatāmaha.^3 It is significant that there are no corrésponding
 Vedic words for maternal grandparents, and that the words
@@ -33622,6 +33639,7 @@ that in Rv. i. 71, 5, the sense of
 ‘grandfather’ can be found.
 7) Delbrück, op. cit., 480, citing
 Mahābhārata, ii. 1634.
+[1] Correction submitted by Dr. Sampada Savardekar on 20210704. Reference: https://github.com/sanskrit-lexicon/csl-corrections/issues/67.
 <a href="https://dub.sh/cslp?dict=VEI&page=1-525" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=vei" target="_blank">Correction</a>
 
@@ -41243,7 +41261,7 @@ Vātsīmāṇḍavīputra^3 respectively.
 भार्गव|भार्गवः
 Bhārgava, ‘descendant of Bhṛgu,’ is the patronymic of
 several teachers, including Cyavana^1 and Gṛtsamada.^2 Other
-Bhārgavas are also mentioned without indication of their
+Bhārgavas are also mentioned without indication^1 of their
 personal names.^3
 1) Śatapatha Brāhmaṇa, iv. 1, 5, 1;
 Aitareya Brāhmaṇa. viii. 21.
@@ -41256,6 +41274,7 @@ sad, i. 1 (Vaidarbhi), etc.; Pañcaviṃśa
 Brāhmaṇa, xii. 2, 23; 9, 19, 39, etc.
 Cf. Bloomfield, Hymns of the Athar-
 vaveda, xxxv.
+[1] Correction submitted by Dr. Sampada Savardekar on 20210704. Reference: https://github.com/sanskrit-lexicon/csl-corrections/issues/67.
 <a href="https://dub.sh/cslp?dict=VEI&page=2-101" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=vei" target="_blank">Correction</a>
 
@@ -45838,7 +45857,7 @@ Later the adjective Hastin alone became the regular name of
 the animal (like Mahiṣa of the ‘buffalo’). The elephant is
 also denoted in the Rigveda by the descriptive term Mṛga
 Vāraṇa,^4 the ‘wild or dangerous animal,’ the adjective vāraṇa
-similarly becoming one of the names for ‘elephant’ in the later
+similarly becoming one of the names for ‘elephant’^1 in the later
 language. Pischel's view^5 that the catching of elephants by
 the use of tame female elephants is already alluded to in the
 Rigveda^6 seems very doubtful. In the Aitareya Brāhmaṇa^7
@@ -45868,6 +45887,7 @@ Indica, 13. 14 (from Megasthenes).
 chukladato mṛgān). See Pischel, op. cit.,
 2, 122.
 Cf. Zimmer, Altindisches Leben, 80.
+[1] Correction submitted by Dr. Sampada Savardekar on 20210704. Reference: https://github.com/sanskrit-lexicon/csl-corrections/issues/67.
 <a href="https://dub.sh/cslp?dict=VEI&page=2-171" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=vei" target="_blank">Correction</a>
 
@@ -48221,7 +48241,7 @@ passage^1 the expression śīrṣaṇyā raśanā, ‘head rope,’ perhaps
 means not so much ‘reins’ as ‘headstall.’ In others^2 the
 sense of ‘traces’ seems certain, though sometimes^3 ‘reins’ or
 ‘traces’ may equally well be intended. Elsewhere the more
-general sense of ‘rope’ for fastening is meant.^4
+general sense of ‘rope’ for fastening^1 is meant.^4
 1) i. 162, 8. Cf. Rajju.
 2) Rv. i. 163, 2. 5; x. 79, 7.
 3) Rv. iv. 1. 9; ix. 87, 1; x. 18, 14.
@@ -48233,6 +48253,7 @@ xxviii. 33; Taittirīya Saṃhitā, vi. 6.
 10, etc. Cf. the use of Raśanā as
 equivalent to ‘finger’ in Rv. x. 4, 6.
 Cf. Zimmer, Altindisches Leben, 249.
+[1] Correction submitted by Dr. Sampada Savardekar on 20210704. Reference: https://github.com/sanskrit-lexicon/csl-corrections/issues/67.
 <a href="https://dub.sh/cslp?dict=VEI&page=2-208" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=vei" target="_blank">Correction</a>
 
@@ -48447,7 +48468,7 @@ people's contributions, a plan with many parallels. It is also
 probable that the king could assign the royal right of mainten-
 ance to a Kṣatriya, thus developing a nobility supported by the
 people. Taxation would not normally fall on Kṣatriya or
-Brahmin; the texts contain emphatic assertions of the exemp-
+Brahmin; the texts contain emphatic^1 assertions of the exemp-
 tion of the goods of the latter from the royal bounty.^19In
 the people, however, lay the strength of the king.^20 See also
 Bali.
@@ -48469,7 +48490,7 @@ Varuṇa's spies, for Varuṇa is the divine counterpart of the
 human king.^25 Possibly such spies could be used in war
 also.^26
 There is no reference in early Vedic literature to the exercise
-of legislative activity by the king, though later it is an essential
+of legislative activity^2 by the king, though later it is an essential
 [<a href="https://dub.sh/cslp?dict=VEI&page=2-214" target="_blank">Page2-214+ 52</a>]
 part of his duties.^27 Nor can we say exactly what executive
 functions devolved on the king.
@@ -48673,6 +48694,8 @@ königliche Gewalt nach den Dharmasūtren
 (Leipzig, 1895); Rhys Davids, Buddhist
 India, 46 et seq.; Journal of the Royal
 Asiatic Society, 1901, 860, 861.
+[1] Correction submitted by Dr. Sampada Savardekar on 20210704. Reference: https://github.com/sanskrit-lexicon/csl-corrections/issues/67.
+[2] Correction submitted by Dr. Sampada Savardekar on 20210704. Reference: https://github.com/sanskrit-lexicon/csl-corrections/issues/67.
 <a href="https://dub.sh/cslp?dict=VEI&page=2-210" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=vei" target="_blank">Correction</a>
 
@@ -51708,7 +51731,7 @@ et seq.; Gautama Dharma Sūtra, xvii. 17;
 et seq.; ii. 4, 9, 7, with Bühler's note;
 Manu, iv. 210 et seq.; Viṣṇu, 41, 7 et seq.;
 Fick, op. cit., 30-33, who points out
-that the Jātakas contain little evidence
+that the Jātakas contain little^1 evidence
 on the practice. Senart, Les Castes dans
 l'Inde, 48 et seq., 212 et seq., attributes
 great importance to the question of
@@ -51722,7 +51745,7 @@ only at a solemn festival, when the
 whole gens renewed its blood kinship.
 If we have no evidence exactly estab-
 lishing this for the Gotra in early Vedic
-literature, we need not hesitate to
+literature, we need not hesitate^2 to
 believe that in the earliest Vedic period
 the Gotra had solemn festivals of union,
 and of communication with the dead,
@@ -52032,6 +52055,8 @@ contemporary with Buddha (fifth cen-
 tury B.C.). The Dharma Sūtras also
 give full details, but their date likewise
 is uncertain.
+[1] Correction submitted by Dr. Sampada Savardekar on 20210704. Reference: https://github.com/sanskrit-lexicon/csl-corrections/issues/67.
+[2] Correction submitted by Dr. Sampada Savardekar on 20210704. Reference: https://github.com/sanskrit-lexicon/csl-corrections/issues/67.
 <a href="https://dub.sh/cslp?dict=VEI&page=2-247" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=vei" target="_blank">Correction</a>
 
@@ -54721,7 +54746,7 @@ im vedischen Ritual, 16, n. 3, prefers,
 and which omits all allusion to the
 ‘lordship’ of the Jahnus. This shows
 how little stress can-be laid on this
-late tradition.
+late tradition^1.
 17) xxi. 12, 2.
 Cf. Ludwig, Translation of the Rig-
 veda, 3, 121; Oldenberg, Zeitschrift der
@@ -54729,6 +54754,7 @@ Deutschen Morgenländischen Gesellschaft,
 42, 209, 210; Muir, Sanskrit Texts, 1^2,
 337 et seq.; Weber, op. cit., 16 et seq.;
 Indian Literature, 31, 37, 38, 53, etc.
+[1] Correction submitted by Dr. Sampada Savardekar on 20210704. Reference: https://github.com/sanskrit-lexicon/csl-corrections/issues/67.
 <a href="https://dub.sh/cslp?dict=VEI&page=2-310" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=vei" target="_blank">Correction</a>
 
@@ -54857,7 +54883,7 @@ Brāhmaṇa, xii. 7, 3, 2.
 <a href="https://dub.sh/cslc?dict=vei" target="_blank">Correction</a>
 
 विष्कन्ध
-Vi-ṣkandha occurs several times in the Atharvaveda^1 as the
+Vi-ṣkandha occurs several^1 times in the Atharvaveda^1 as the
 name of a disease. As rem dies against it a lead amulet,^2 or
 hemp,^3 or a salve,^4 or the Ja giḍa plant are recommended for
 use.^5 Weber^6 suggests that the disease meant is ‘rheumatism,’
@@ -54885,6 +54911,7 @@ found in the Taittirīya Saṃhitā, vii. 3,
 340. Roth, St. Petersburg Dictionary,
 s.v., thinks demons are meant: this
 seems the more probable view.
+[1] Correction submitted by Dr. Sampada Savardekar on 20210704. Reference: https://github.com/sanskrit-lexicon/csl-corrections/issues/67.
 <a href="https://dub.sh/cslp?dict=VEI&page=2-314" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=vei" target="_blank">Correction</a>
 
@@ -56691,10 +56718,10 @@ of non-Āryans.
 Some details are given of the life and dress of the Vrātyas.
 Their principles were opposed to those of the Brahmins: they
 beat those unworthy of correction.^9 Their leder (Gṛhapati) or
-householder wore a turban (Uṣṇīṣa), carried a whip (Pratoda),
+householder wore a turban^1 (Uṣṇīṣa), carried a whip (Pratoda),
 a kind of bow (Jyāhroḍa), was clothed in a black (kṛṣṇaśa)
 garment and two skins (Ajina), black and white (kṛṣṇa-valakṣa),
-and owned a rough wagon (Vipatha) covered with planks
+and owned a rough wagon^2 (Vipatha) covered with planks
 [<a href="https://dub.sh/cslp?dict=VEI&page=2-344" target="_blank">Page2-344+ 51</a>]
 (phalakāstīrṇa). The others,^10 subordinate to the leader, had
 garments with fringes of red (valūkāntāni dāmatūṣāṇi), two
@@ -56713,7 +56740,7 @@ the east: this possibility is so far supported by the fact that the
 Sūtras make the Brahmin receiving the gift of the Vrātya's
 outfit an inhabitant of Magadha. The Atharvaveda^13 does not
 help, for it treats the Vrātya in so mystical a way that he is
-represented as being in all the quarters. Indeed, Roth^14
+represented as being in all the quarters^3. Indeed, Roth^14
 believed that it was here not a case of the Vrātya of the Pañca-
 viṃśa Brāhmaṇa at all, but of a glorification of the Vrātya as
 the type of the pious vagrant or wandering religious mendicant
@@ -56761,6 +56788,9 @@ Cf. Weber, Indische Studien, i. 33, 52,
 1, 130 et seq.; Ludwig, Translation of
 the Rigveda, 3, xxvi et seq.; Zimmer,
 Altindisches Leben, 216.
+[1] Correction submitted by Dr. Sampada Savardekar on 20210704. Reference: https://github.com/sanskrit-lexicon/csl-corrections/issues/67.
+[2] Correction submitted by Dr. Sampada Savardekar on 20210704. Reference: https://github.com/sanskrit-lexicon/csl-corrections/issues/67.
+[3] Correction submitted by Dr. Sampada Savardekar on 20210704. Reference: https://github.com/sanskrit-lexicon/csl-corrections/issues/67.
 <a href="https://dub.sh/cslp?dict=VEI&page=2-342" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=vei" target="_blank">Correction</a>
 
@@ -57927,8 +57957,9 @@ Brāhmaṇas^2 ‘grit’ or ‘gravel.’
 1) Av. xi. 7, 21; Taittirīya Saṃhitā,
 v. 1, 6, 2; 2, 6, 2; 6, 4, 4, etc.
 2) Taittirīya Brāhmaṇa, i. 1, 3, 7;
-2, 1, 4; iii. 12, 6, Śatapatha Brāh-
+2, 1, 4; iii. 12, 6, Śatapatha^1 Brāh-
 maṇa, ii. 1, 1, 8, etc.
+[1] Correction submitted by Dr. Sampada Savardekar on 20210704. Reference: https://github.com/sanskrit-lexicon/csl-corrections/issues/67.
 <a href="https://dub.sh/cslp?dict=VEI&page=2-363" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=vei" target="_blank">Correction</a>
 
@@ -58544,8 +58575,9 @@ Vedische Studien, 3, 184, 185.
 
 शामुल्य
 Śāmulya in the marriage hymn of the Rigveda^1 denotes a
-woollen garment’ worn at night.
+woollen^1 garment’ worn at night.
 1) x. 85, 29. Cf. Zimmer, Altindisches Leben, 262.
+[1] Correction submitted by Dr. Sampada Savardekar on 20210704. Reference: https://github.com/sanskrit-lexicon/csl-corrections/issues/67.
 <a href="https://dub.sh/cslp?dict=VEI&page=2-372" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=vei" target="_blank">Correction</a>
 
@@ -60326,7 +60358,7 @@ im vedischen Ritual, 27.
 8) iv. 29. 4; xviii. 3, 15.
 9) viii. 5. 9. Weber, Episches im
 vedischen Ritual, 27, n. 4, bases on this
-an improbable conjecture that he was
+an improbable conjecture^1 that he was
 a Kṣatriya.
 10) i. 11, 2. But cf. Sieg, op. cit., 61,
 n. 4, who takes the word adjectivally,
@@ -60344,6 +60376,7 @@ schaft, 42, 214; Ṛgveda-Noten, 1, 354;
 Max Müller, Sacred Books of the East,
 32, 359 et seq.; Lévi, Ea Doctrine du
 Sacrifice, 122.
+[1] Correction submitted by Dr. Sampada Savardekar on 20210704. Reference: https://github.com/sanskrit-lexicon/csl-corrections/issues/67.
 <a href="https://dub.sh/cslp?dict=VEI&page=2-400" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=vei" target="_blank">Correction</a>
 
@@ -60947,9 +60980,10 @@ Max Müller, Ancient Sanskrit Literature,
 stream, probably a tributary of the Indus.^2
 1) x. 75, 6.
 2) Zimmer, Altindisches Leben, 14, 15;
-Ludwig, Translation of the Rigveda, 3,
+Ludwig^1, Translation of the Rigveda, 3,
 200, gives the form as Śvetī; Geldner,
 Rigveda, Glossar, 184, gives both forms.
+[1] Correction submitted by Dr. Sampada Savardekar on 20210704. Reference: https://github.com/sanskrit-lexicon/csl-corrections/issues/67.
 <a href="https://dub.sh/cslp?dict=VEI&page=2-410" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=vei" target="_blank">Correction</a>
 
@@ -61162,10 +61196,11 @@ ancient sacrificer. He may be identical with the next.
 <a href="https://dub.sh/cslc?dict=vei" target="_blank">Correction</a>
 
 संवर्तआङ्गिरस
-2. Saṃ-varta Āṅgirasa (‘descendant of Aṅgiras’) is said in
+2. Saṃ-varta Āṅgirasa^1 (‘descendant of Aṅgiras’) is said in
 the Aitareya Brāhmaṇa^1 to have consecrated Marutta.
 1) viii. 21, 12. Cf. Leumann, Zeitschrift der Deutschen Morgenländischen Gesell-
 schaft, 48, 67 et seq.
+[1] Correction submitted by Jim Funderburk on 20160315. Reference: https://github.com/sanskrit-lexicon/CORRECTIONS/issues/252. note: proper name. two words saMvarta + ANgirasa  (Angirasa seems print err.).
 <a href="https://dub.sh/cslp?dict=VEI&page=2-414" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=vei" target="_blank">Correction</a>
 
@@ -65699,9 +65734,10 @@ of Viśvantara in the Aitareya Brāhmaṇa (vii. 27, 1; 34, 7).
 <a href="https://dub.sh/cslc?dict=vei" target="_blank">Correction</a>
 
 स्कन्ध्या
-Skandhyā, fem. plur., is used in the Atharvaveda^1 of a
+Skandhyā^1, fem. plur., is used in the Atharvaveda^1 of a
 disease ‘of the shoulders,’ probably tumours of some kind.
 1) vi. 25, 3. Cf. Bloomfield, Hymns of the Atharvaveda, 472, 473.
+[1] Correction submitted by Dr. Dhaval Patel on 20160113. Reference: https://github.com/sanskrit-lexicon/CORRECTIONS/issues/189. note: Dh.
 <a href="https://dub.sh/cslp?dict=VEI&page=2-482" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=vei" target="_blank">Correction</a>
 
