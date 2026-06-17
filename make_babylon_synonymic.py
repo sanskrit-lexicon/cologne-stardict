@@ -52,7 +52,7 @@ def process_block(block_lines, dictId, production, hwnormlist):
                 info_text = to_deva(info_match.group(1))
                 
         elif lin.startswith('<eid>'):
-            ext_match = re.search(r'<eid>([^<]+)<syns><s>([^<]+)</s>', lin)
+            ext_match = re.search(r'<eid>([^<]+)<syns>(?:<s>)?([^<]+)', lin)
             if ext_match:
                 eid = ext_match.group(1)
                 synwords = ext_match.group(2)
