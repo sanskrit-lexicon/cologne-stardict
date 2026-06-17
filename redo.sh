@@ -17,7 +17,7 @@ do
 	echo '' 
 done
 
-dictList1=(abch acph acsj)
+dictList1=(abch acph acsj nmmb)
 for Val1 in "${dictList1[@]}"
 do
 	echo 'Started' $Val1 'handling'.
