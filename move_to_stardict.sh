@@ -1,3 +1,8 @@
+cp() {
+  mkdir -p "$(dirname "$2")"
+  command cp "$@"
+}
+
 cp production/ap90.babylon ../../indic-dict/stardict-sanskrit/sa-head/en-entries/apte-1890/apte-1890.babylon
 cp production/ap.babylon ../../indic-dict/stardict-sanskrit/sa-head/en-entries/apte-1957/apte-1957.babylon
 cp production/acc.babylon ../../indic-dict/stardict-sanskrit/sa-head/en-entries/aufrecht-catalogus-catalogorum/aufrecht-catalogus-catalogorum.babylon
