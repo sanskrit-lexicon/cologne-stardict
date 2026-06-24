@@ -2,7 +2,7 @@
 #bookname=frish (sa-ru)
 #stripmethod=keep
 #sametypesequence=h
-#description=Data from https://www.sanskrit-lexicon.uni-koeln.de/ as on 2026-05-15
+#description=Data from https://www.sanskrit-lexicon.uni-koeln.de/ as on 2026-06-24
 
 अ|अं|अः
 I a- pron., cf. a-tas, a-tra &c.
@@ -1338,7 +1338,7 @@ atharvan m.
 <a href="https://dub.sh/cslp?dict=FRI&page=016" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-अथर्ववेद
+अथर्ववेद|अथर्ववेदः
 atharvaveda m.
 1 čtvrtá sbírka vedská, obsahující zaříkadla
 2 четвертый ведический сборник, содержащий заклинания
