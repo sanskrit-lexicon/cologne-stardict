@@ -1,6 +1,6 @@
 # cologne-stardict
 
-_Created: 04-04-2017 · Last updated: 11-07-2026_
+_Created: 04-04-2017 · Last updated: 15-09-2026_
 
 Scripts that convert the [Cologne Digital Sanskrit Lexicon (CDSL)](https://www.sanskrit-lexicon.uni-koeln.de/) dictionary text into [Babylon](https://en.wikipedia.org/wiki/Babylon_(software))-format source files (`*.babylon`), which are then compiled into [StarDict](https://en.wikipedia.org/wiki/StarDict) dictionaries and published in the [indic-dict/stardict-sanskrit](https://github.com/indic-dict/stardict-sanskrit) collection.
 
@@ -52,6 +52,12 @@ The `main` branch is regenerated automatically after upstream `csl-orig` updates
 - the [`regex`](https://pypi.org/project/regex/) module
 
 The regeneration scripts assume sibling clones of `csl-orig`, `hwnorm1`, and `indic-dict/stardict-sanskrit` next to this repository.
+
+Run the full regeneration with `bash redo.sh` (it uses arrays, so plain `sh` on Debian/Ubuntu will not work).
+If it stops early: since 15-09-2026 ([#52](https://github.com/sanskrit-lexicon/cologne-stardict/pull/52)) it
+pulls `main` with `git pull --ff-only` (hwnorm1 and csl-orig have no `master` branch) and exits if
+`../hwnorm1` or `../csl-orig` is missing or a pull fails, instead of converting stale data. Fix the folder
+it names, or pull that repository by hand, then rerun.
 
 ## GitHub issue conventions
 
