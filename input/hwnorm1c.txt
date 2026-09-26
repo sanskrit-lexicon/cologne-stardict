@@ -164388,7 +164388,6 @@ kAlAtireka:kAlAtireka:LRV,VCP;kAlAtirekaH:AP
 kAlAtivAhana:kAlAtivAhana:PW,PWKVN,SCH
 kAlAtIta:kAlAtIta:AP,MW,PW,PWG,VCP
 kAlAtItaprAyaScitta:kAlAtItaprAyaScitta:ACC
-kAlAttaraviza:kAlAttaraviza:SHS
 kAlAtmaka:kAlAtmaka:AP,MW,PW,PWG
 kAlAtman:kAlAtman:AP,INM,VCP
 kAlAtmA:kAlAtmA:PUI
@@ -164424,10 +164423,10 @@ kAlAntayama:kAlAntayama:MW,PW
 kAlAntara:kAlAntara:BUR,CAE,CCS,FRI,MW,PW,PWG,SHS,VCP,WIL,YAT;kAlAMtara:LRV
 kAlAntarakzama:kAlAntarakzama:BEN,CAE,MW;kAlAMtarakzama:LRV
 kAlAntaram:kAlAntaram:AP
-kAlAntaraviza:kAlAntaraviza:ABCH,MW,VCP,WIL,YAT;kAlAMtaraviza:LRV;kAlAntaravizaH:SKD
+kAlAntaraviza:kAlAntaraviza:ABCH,MW,SHS,VCP,WIL,YAT;kAlAMtaraviza:LRV;kAlAntaravizaH:SKD
 kAlAntarAt:kAlAntarAt:MW
-kAlAntarAvfta:kAlAntarAvfta:MW;kAlAMtarAvfta:LRV
-kAlAntarAvftta:kAlAntarAvftta:SHS,WIL,YAT
+kAlAntarAvfta:kAlAntarAvfta:MW,SHS;kAlAMtarAvfta:LRV
+kAlAntarAvftta:kAlAntarAvftta:WIL,YAT
 kAlAntarAvfttiSuBASuBa:kAlAntarAvfttiSuBASuBa:MW
 kAlAntareRa:kAlAntareRa:MW
 kAlAnDa:kAlAnDa:PW
@@ -164722,7 +164721,6 @@ kAlpya:kAlpya:MW,PW,PWKVN,SCH
 kAlma:kAlma:IEG
 kAlya:kAlya:ABCH,AP,AP90,BEN,BUR,CAE,CCS,LRV,MD,MW,MW72,PW,PWG,SHS,STC,VCP,WIL,YAT;kAlyaM:SKD
 kAlyaka:kAlyaka:MW,MW72,PW,PWG,SHS,VCP,WIL,YAT;kAlyakaH:SKD
-kAlyaRineya:kAlyaRineya:SHS
 kAlyam:kAlyam:AP,MW
 kAlyamAna:kAlyamAna:YAT
 kAlyazwaka:kAlyazwaka:ACC
@@ -164730,7 +164728,7 @@ kAlyasya:kAlyasya:BHS
 kAlyA:kAlyA:ABCH,ACSJ,AP,ARMH,LRV,MW,NMMB,PE,PUI,SKD,VCP
 kAlyARaka:kAlyARaka:LRV,MW,PW,PWG,VCP;kAlyARakaM:AP90
 kAlyARakam:kAlyARakam:AP
-kAlyARineya:kAlyARineya:MW,MW72,PW,PWG,WIL,YAT
+kAlyARineya:kAlyARineya:MW,MW72,PW,PWG,SHS,WIL,YAT
 kAlyAyana:kAlyAyana:PW,PWG
 kAlyupanizad:kAlyupanizad:ACC,MW,PW
 kAlyUrDvAmnAyatantra:kAlyUrDvAmnAyatantra:ACC
@@ -167900,7 +167898,7 @@ kumBamudrA:kumBamudrA:VCP
 kumBamuzka:kumBamuzka:MW,PW,PWG
 kumBamUrDan:kumBamUrDan:MW,PW,PWG
 kumBay:kumBay:PW,PWG
-kumBayoni:kumBayoni:BEN,BOP,INM,MW,NMMB,PE,PUI,PW,PWG,SHS,VCP,WIL,YAT;kuMBayoni:LRV;kumBayoniH:SKD
+kumBayoni:kumBayoni:BEN,BOP,INM,MW,NMMB,PE,PUI,PW,PWG,SHS,VCP,WIL,YAT;kuMBayoni:LRV;kumBayoniH:AP,SKD
 kumBarASi:kumBarASi:MW;kumBarASiH:AP
 kumBarI:kumBarI:MW,MW72,PWG
 kumBaretas:kumBaretas:AP,BEN,INM,MW,PE,PW,PWG,VCP
@@ -167914,7 +167912,7 @@ kumBavIjaka:kumBavIjaka:PWG;kumBavIjakaH:SKD
 kumBaSAlA:kumBaSAlA:ABCH,AP,MW,PW,PWG,SHS,SKD,VCP,WIL,YAT
 kumBaSravas:kumBaSravas:PE
 kumBasanDi:kumBasanDi:SHS,VCP,WIL,YAT;kumBasaMDi:MW,PW,PWG;kuMBasaMDi:LRV;kumBasanDiH:AP,SKD
-kumBasamBava:kumBasamBava:INM,MW,PUI,SHS,VCP,WIL,YAT;kumBasaMBava:BEN,PW,PWG,SCH;kuMBasaMBava:LRV;kumBasamBavaH:SKD
+kumBasamBava:kumBasamBava:INM,MW,PUI,SHS,VCP,WIL,YAT;kumBasaMBava:BEN,PW,PWG,SCH;kuMBasaMBava:LRV;kumBasaMBavaH:AP;kumBasamBavaH:SKD
 kumBasarpis:kumBasarpis:MW,PW,PWG,VCP
 kumBastanI:kumBastanI:MW,PW
 kumBahanu:kumBahanu:MW,PW,PWG
@@ -167969,7 +167967,6 @@ kumBImuKam:kumBImuKam:AP
 kumBIra:kumBIra:ABCH,ARMH,BEN,BHS,BOP,BUR,CAE,CCS,MD,MW,MW72,PW,PWG,SHS,STC,VCP,WIL,YAT;kuMBIra:LRV;kuMBIraH:AP90;kumBIraH:AP,SKD
 kumBIraka:kumBIraka:BOP,BUR,MW,MW72;kuMBIraka:LRV;kuMBIrakaH:AP90;kumBIrakaH:AP
 kumBIrakamakzikA:kumBIrakamakzikA:AP
-kumBIrakala:kumBIrakalaH:AP
 kumBIramakzikA:kumBIramakzikA:MW,PW,PWG,SHS,SKD,VCP,WIL,YAT
 kumBIrAsana:kumBIrAsana:VCP
 kumBIla:kumBIla:CAE,CCS,MW,MW72,PW,PWG,SHS,VCP,WIL,YAT;kuMBIla:LRV;kuMBIlaH:AP90;kumBIlaH:AP,SKD
