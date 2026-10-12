@@ -29,6 +29,7 @@ dictdata = {
 	'mw72': ['mw-1872', 'sa-en'],
 	'mwe': ['mw-english-sanskrit', 'en-sa'],
 	'nmmb': ['nAmamAlikA', 'sa-sa'],
+	'nybj': ['nyAyakozA', 'sa-sa'],
 	'pe': ['puranic-encyclopedia', 'sa-en'],
 	'pgn': ['Personal-and-Geographical-Names-in-the-Gupta-Inscriptions', 'sa-en'],
 	'pui': ['purana-index', 'sa-en'],
