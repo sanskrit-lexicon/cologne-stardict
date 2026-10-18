@@ -2,7 +2,7 @@
 #bookname=L-R-Vaidya (sa-en)
 #stripmethod=keep
 #sametypesequence=h
-#description=Data from https://www.sanskrit-lexicon.uni-koeln.de/ as on 2026-09-26
+#description=Data from https://www.sanskrit-lexicon.uni-koeln.de/ as on 2026-10-18
 
 अ|अं|अः
 अ <i>(I) ind.</i> An interjection- (1) of pity; (2) of calling, e.g. अ अनंत; (3) of blame or reproach, e.g. अ पचसि त्वं जाल्म.
@@ -57627,7 +57627,8 @@
 <a href="https://dub.sh/cslc?dict=lrv" target="_blank">Correction</a>
 
 किण्व|किण्वं|किण्वः
-किण्व <i>n.</i> 1. Sin; 2. a drug or reed from which spirits are produced, M.viii.326.
+किण्व <i>n.</i> 1. Sin; 2. a drug or seed^1 from which spirits are produced, M.viii.326.
+[1] Correction submitted by Scott Rhodes on 20260729. Reference: https://github.com/sanskrit-lexicon/csl-corrections/issues/324.
 <a href="https://dub.sh/cslp?dict=LRV&page=188-24" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lrv" target="_blank">Correction</a>
 
@@ -57707,7 +57708,7 @@
 <a href="https://dub.sh/cslc?dict=lrv" target="_blank">Correction</a>
 
 किम्
-किम् <i>(I) pron. (nom. sing. कः m., किम् n., का f.)</i> Who, what, कः पौरवे वसुमतीं शासति शासितरि दुर्विनीतानाम् । अयमाचरत्यविनयं मुग्धासु तपस्विकन्यासु Sak.i., करुणाविमुखेन मृत्युना हरंता त्वां वद किं न मे हतम् R.viii.67, तदात्मताध्यातधवारते च का चकार वा न स्वमनोभवोद्भवम् Na.i.30.The neuter sing. किम् is often used with an inst. in the sense of ‘what is the use of,’ व्याधितस्यौषधं पथ्यं नीरुजस्तु किमौषधैः Hit.i., or किं कुलेनोपदिष्टेन शीलमेवान्न कारणम् Mrich.ix.चिद्, अपि, चिदपि or चन is often suffixed to this prenoun to render its sense indefinite, कश्चिद् (यक्षः ‘a certain Yaksha’) कांताविरहगुरुणा स्वाधिकारात् प्रमत्तः Megh.i.1, काऽपि (a certain lady) तत एवागतवती M.M.i, अत्रैव कोऽपि कस्यापि तिष्ठतीति मामंगुलीदलविलासेनाख्यातवत्यः i., तस्याश्च कश्चिंश्चिदपि महाभागधेयजन्मनि … … … … मन्मथविकारमुपलक्षितवानस्मि i., वदसि यदि किंचिदपि दंतरुचिकौमुदी हरति दरतिमिरमतिधोरम् Git.G.x.किमपि, किंचित् also mean ‘a little,’ ‘something’, किंचिद्दत्वा पृथक्क्रिया Yaj.ii.116.With अपि-, it sometimes means, ‘indescribable,’ See अपि.इव is sometimes added to this word, to give elegance and force to the meaning and may be rendered by ‘what possibly,’ किमिव हि … नाकृतीनां मंडनं Sak.i. See इव.
+किम् <i>(I) pron. (nom. sing. कः m., किम् n., का f.)</i> Who, what, कः पौरवे वसुमतीं शासति शासितरि दुर्विनीतानाम् । अयमाचरत्यविनयं मुग्धासु तपस्विकन्यासु Sak.i., करुणाविमुखेन मृत्युना हरंता त्वां वद किं न मे हतम् R.viii.67, तदात्मताध्यातधवारते च का चकार वा न स्वमनोभवोद्भवम् Na.i.30.The neuter sing. किम् is often used with an inst. in the sense of ‘what is the use of,’ व्याधितस्यौषधं पथ्यं नीरुजस्तु किमौषधैः Hit.i., or किं कुलेनोपदिष्टेन शीलमेवान्न कारणम् Mrich.ix.चिद्, अपि, चिदपि or चन is often suffixed to this pronoun to render its sense indefinite, कश्चिद् (यक्षः ‘a certain Yaksha’) कांताविरहगुरुणा स्वाधिकारात् प्रमत्तः Megh.i.1, काऽपि (a certain lady) तत एवागतवती M.M.i, अत्रैव कोऽपि कस्यापि तिष्ठतीति मामंगुलीदलविलासेनाख्यातवत्यः i., तस्याश्च कश्चिंश्चिदपि महाभागधेयजन्मनि … … … … मन्मथविकारमुपलक्षितवानस्मि i., वदसि यदि किंचिदपि दंतरुचिकौमुदी हरति दरतिमिरमतिधोरम् Git.G.x.किमपि, किंचित् also mean ‘a little,’ ‘something’, किंचिद्दत्वा पृथक्क्रिया Yaj.ii.116.With अपि-, it sometimes means, ‘indescribable,’ See अपि.इव is sometimes added to this word, to give elegance and force to the meaning and may be rendered by ‘what possibly,’ किमिव हि … नाकृतीनां मंडनं Sak.i. See इव.
 <a href="https://dub.sh/cslp?dict=LRV&page=188-28" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=lrv" target="_blank">Correction</a>
 
