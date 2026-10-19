@@ -2,7 +2,7 @@
 #bookname=apte-1957 (sa-en)
 #stripmethod=keep
 #sametypesequence=h
-#description=Data from https://www.sanskrit-lexicon.uni-koeln.de/ as on 2026-10-18
+#description=Data from https://www.sanskrit-lexicon.uni-koeln.de/ as on 2026-10-19
 
 अ|अं|अः
 अ The first letter of the alphabet; अक्षराणामकारोऽस्मि Bg. 10. 33.
@@ -184442,8 +184442,9 @@ N. of a sage, the son of कपिः शौनकः कापेयः Ch. Up.
 <a href="https://dub.sh/cslc?dict=ap" target="_blank">Correction</a>
 
 कुल्फः|कुल्फ|कुल्फं
-कुल्फः, -ल्फम् + .{@-ल्फः@} The ankle; अष्ठीवन्तौ परि कुल्कौ च देहन् Rv. 7. 50. 2.
+कुल्फः The ankle; अष्ठीवन्तौ परि कुल्फौ च देहत्^1 Rv. 7. 50. 2.
 .━{@Comp.@}: कुल्फदघ्न
+[1] Correction submitted by Scott Rhodes on 20260808. Reference: https://github.com/sanskrit-lexicon/csl-corrections/issues/350.
 <a href="https://dub.sh/cslp?dict=AP&page=0588-2" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=ap" target="_blank">Correction</a>
 
