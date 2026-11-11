@@ -35,6 +35,7 @@ dictdata = {
 	'pui': ['purana-index', 'sa-en'],
 	'pw': ['Bohtlingk-Sanskrit-Worterbuch-in-kurzerer-Fassung', 'sa-de'],
 	'pwg': ['Bohtlingk-and-Roth-Grosses-Petersburger-Worterbuch', 'sa-de'],
+	'pwkvn': ['Bohtlingk-Sanskrit-Worterbuch-in-kurzerer-Fassung-Nachtrage-und-Verbesserungen', 'sa-de'],
 	'sch': ['Schmidt-Nachtrage-zum-Sanskrit-Worterbuch', 'sa-de'],
 	'shs': ['shabda-sAgara', 'sa-en'],
 	'skd': ['kalpadruma-sa', 'sa-sa'],

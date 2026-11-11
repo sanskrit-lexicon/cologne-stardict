@@ -35,7 +35,7 @@ def _cached_transliterate(text, scheme_map):
 
 
 def applyaccent(line, dictId):
-    if dictId in ['pw', 'pwg']:
+    if dictId in ['pw', 'pwg', 'pwkvn']:
         line = ACCENT_CARET_PATTERN.sub(r'\g<1>॑', line)
         line = ACCENT_SLASH_PATTERN.sub(r'\g<1>꣫', line)
         line = BACKSLASH_PATTERN.sub("॒", line)
