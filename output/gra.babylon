@@ -2,7 +2,7 @@
 #bookname=grassman-sanskrit-german (sa-de)
 #stripmethod=keep
 #sametypesequence=h
-#description=Data from https://www.sanskrit-lexicon.uni-koeln.de/ as on 2026-05-11
+#description=Data from https://www.sanskrit-lexicon.uni-koeln.de/ as on 2026-11-11
 
 अ|अं|अः
 1. (a). Deutestamm der 3. Person, siehe unter idám. Mit ihm zusammengesetzt sind á-tas, á-tra, a-dyá und wahrscheinlich alle Präpositionen und Partikeln der Form a-a, a-i, a-u, in denen zwischen den beiden Vokalen ein Konsonant steht.
@@ -103,7 +103,7 @@ aṃhatí, f. (von aṃh). Die ursprüngliche Bedeutung der Enge (vgl. Cu. 〔16
 
 अंहस्
 áṃhas, n., die Bedrängniss (s. d. v.), doch scheint in {443,4} noch die Grundbedeutung Enge, enge Kluft erhalten: dvíṣas áṃhas ná tarati, über die Feinde setzt er hinweg, wie über eine enge Kluft (vgl. {224,3}).
--as {42,1}; {63,7}; {214,4}. _{214,5}; {219,6}; {224,2}; {225,15}; {293,2}; {298,9}; {299,14}; {307,6}; {308,6}; {316,9}; {385,13}; {399,11}; {443,4}; {444,2}; {445,8}; {452,6}; {478,4}; {485,16}; {508,8}; {556,4}; {582,5}; {598,7}; {639,6}; {816,6}; {861,14}; {865,11}; {889,6}; {952,1}. _{952,8}.
+-as {42,1};{63,7}; {214,4}. _{214,5}; {219,6}; {224,2}; {225,15}; {293,2}; {298,9}; {299,14}; {307,6}; {308,6}; {316,9}; {385,13}; {399,11}; {443,4}; {444,2}; {445,8}; {452,6}; {478,4}; {485,16}; {508,8}; {556,4}; {582,5}; {598,7}; {639,6}; {816,6}; {861,14}; {865,11}; {889,6}; {952,1}. _{952,8}.
 -asas [Ab.] {18,5}; {36,14}; {58,8}. _{58,9}; {91,15}; {93,8}; {106,1}; {115,6}; {118,8}; {136,5}; {180,5}; {217,4}; {266,14}; {298,8}; {349,6}; {351,5}; {405,13}; {457,30}. _{457,31}; {489,8}; {517,15}; {531,3}. _{531,13}. _{531,15}; {532,10}; {587,5}; {620,23}; {638,6}. _{638,10}; {644,27}; {651,2}; {768,4}; {850,3}; {851,8}; {862,2}. _{862,3}; {879,5}; {891,12}; {892,5}; {923,15}; {958,7}; {990,4}.
 -asas [G.] pārám {224,3}.
 -asi {54,1}.
@@ -157,7 +157,7 @@ a-kalpá, a., nicht geeignet [kálpa] zu einer Sache. Mit dem Acc. prati-mā́na
 <a href="https://dub.sh/cslp?dict=GRA&page=0004" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=gra" target="_blank">Correction</a>
 
-अकवारि
+अकवारि|अकवारिः
 á-kavāri, a., nicht geizig [kavārí], daher freigiebig; 1〉 von Indra, 2〉 von Sarasvati.
 -im 1〉 {281,5}.
 -ī 2〉 {612,3}.
@@ -1707,7 +1707,7 @@ anaj [aus ānaj metrisch verkürzt]:
 Stamm d. Pass. ajyá [vgl. aj]:
 -áse sam 1〉 góbhis {798,47} (camúos).
 ajya:
--ase 7〉 góbhis vāṇás {640,8}. — 9〉 mádhos dhā́rābhis {274,6}. — 11〉 rebhás váne {778,9}; kavís váne {790,2}.
+-ase7〉 góbhis vāṇás {640,8}. — 9〉 mádhos dhā́rābhis {274,6}. — 11〉 rebhás váne {778,9}; kavís váne {790,2}.
 -ate 8〉 túbhya rayís {1020,9}. — 9〉 srucā́ {944,3}. — 11〉 góbhis {744,3} (sómas). — sám 1〉 yajñás mádhvā {188,2}; agnís gāyatréna {188,11}; agnís ghṛténa {944,4}; aktúbhis {251,1}; sómas dhenúbhis {784,1}; háris (sómas) rūpaís {746,4}.
 Part. añját:
 -án 6〉 svárum ná péśas {92,5}. — práti dhā́māni {194,2}. — sam 1〉 pathás mádhvā {936,2}. — 2〉 pā́thas {936,10}; ródasī {906,1}. — 7〉 vīrúdhas {871,4} (agnís).
@@ -2191,7 +2191,7 @@ Stamm ád:
 -tti 1〉 píppalam {164,20}; yád {711,21} (upajíhvikā).
 ad:
 -dmi 1〉 pī́vas {912,14}.
--tti 1〉 vánāni {65,7}; {905,2}; bhójanam {204,4}; ánnam {226,7}; {445,5}; {951,4}; pratiáñcam {853,13}; mātárā {905,4}. — 2〉 agnís {143,5} (jámbhais); gárbhas {853,14}. — sám bhū́ri ánnā {520,2}.
+-tti 1〉 vánāni {65,7}; {905,2}; bhójanam {204,4}; ánnam {226,7};{445,5}; {951,4}; pratiáñcam {853,13}; mātárā {905,4}. — 2〉 agnís {143,5} (jámbhais); gárbhas {853,14}. — sám bhū́ri ánnā {520,2}.
 -ttas 1〉 bhū́ri {905,1}.
 -danti 1〉 havís {94,3}; {192,13}. _{192,14}; ukṣṇás {854,11}. — 2〉 gā́vas iva {972,3}. — ví mā ādhías (mū́ṣas ná śiśnā́) {105,8}; {859,3}.
 -dát 1〉 ā́śitam {863,11}.
@@ -7668,7 +7668,7 @@ ará-maṇas, a., dem Gedanken [mánas] sich anschmiegend [ára], ihm gehorchend
 
 अरमति|अरमतिः
 ará-mati, f., Andacht, Genie der Andacht.
--is {229,4}; {517,6}; {550,21}; {651,12}; {890,15}; {918,4}.
+-is{229,4}; {517,6}; {550,21}; {651,12}; {890,15}; {918,4}.
 -im {397,6}; {408,6}; {552,8}; {558,3}; {918,5}.
 <a href="https://dub.sh/cslp?dict=GRA&page=0103" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=gra" target="_blank">Correction</a>
@@ -7794,7 +7794,7 @@ arí, a., „regsam, strebsam“ [ar 6—9, besonders ar 9]. Von diesem allgemei
 -yás [G.] 1〉 (évān) {492,2}. — 2〉 (nṛpátim) {334,2}; (gā́vas, hávās) {853,8}; (mṛ́dhas) {214,13}; (puṣṭéṣu) {912,1}; (vásu) {912,3}. — 4〉 (paúṇsiāni) {169,6}. — 5〉 (manyúm) {576,11}; (gáyam) {644,22}; {735,3}; (árātīs) {457,27}; {659,2}; (árātayas) {959,3}; {489,16}; {500,8}; (puṣṭī́s) {203,5}; (puṣṭā́ni) {203,4}; dyumnā́ni {300,6}. — 6〉 (rayís) {461,1}; (rā́yas) {477,5}; (dṛḍhā́) {641,16}; (abhíbhūtim) {118,9}; (táruṣas) {456,3}; {941,5}; (hávanāni) {584,2}; (sávanā) {325,1}; {675,12}; (aghā́ni) {599,5}; (ādíśas) {669,12}; (śrávāṃsi) {942,6}; (jánān) {387,2}; (anukāmám) {668,8}; (védas) {356,12}; (váśasya) {465,5}; {868,1} (vā́cam).
 -yás [N. m.] 1〉 von den Maruts: {408,12}; {572,22}. — 2〉 (wir): {70,1}; {73,5}; {184,1}; {185,9}; {316,3}; {608,4}; {773,11}; kārávas {486,33}; {703,3}; sūráyas {466,7}; [<a href="https://dub.sh/cslp?dict=GRA&page=106" target="_blank">Page106</a>] vípas {621,4}; (śárdhantas) {550,18}; {537,9}. — 5〉 {791,1}.
 -yás [N. f.] 1〉 víbhṛtrās {71,3}. — 3〉 gíras {122,14}.
--yás [A. m.] 2〉 {298,18}; {547,5}; {654,10}; {602,7}; {674,9}. — 6〉 {312,19}; {564,3}; {885,3}.
+-yás [A. m.] 2〉 {298,18}; {547,5}; {654,10};{602,7}; {674,9}. — 6〉 {312,19}; {564,3}; {885,3}.
 -yás [A. f.] 3〉 āśíṣas {277,2}; gíras {974,3}. — 5〉 áratīs {346,11}; {613,9}.
 <a href="https://dub.sh/cslp?dict=GRA&page=0105" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=gra" target="_blank">Correction</a>
@@ -8415,7 +8415,7 @@ Imperf. ā́rda:
 -an {313,2} (dhánvāni).
 Stamm d. Caus. ardáya (betont nur {187,1}; {1022,2}; AV. 4,15,6):
 -at ví: vṛtrám víparvam {187,1}.
--as 2〉 vṛtrám {973,2}; atithigvám {1022,2}. — prá: nī́cīs apásas {458,12}.
+-as 2〉 vṛtrám {973,2}; atithigvám {1022,2}.— prá: nī́cīs apásas {458,12}.
 -a [1〉 AV. 4,15,6 udadhím] 2〉 amítram {684,10}. — ví: parirā́pas {214,14}.
 <a href="https://dub.sh/cslp?dict=GRA&page=0114" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=gra" target="_blank">Correction</a>
@@ -8883,7 +8883,7 @@ Imperf. ā́va:
 āva:
 -am 2〉 {875,3}.
 -as 2〉 {535,2}. — prá 1〉 étaśam {326,6}; śáṃsam {33,7}; cakrásya vartaním {672,8}. — 2〉 {33,14}; {176,5}; {206,9}; {467,5}; {535,3}; {880,1}.
--at 5〉 {934,2} (tád nas); yajñás te vájram {266,12}. — 7〉 prábhartum {282,1}; tám (drapsám) {705,13}; vā́cam {956,4}. — úd 2〉 {928,7}. — prá 2〉 {36,17}; {61,15}; {130,8}; {804,5}; {976,5}. — 4〉 (gī́r váruṇam) {600,5}.
+-at 5〉 {934,2} (tád nas); yajñás te vájram {266,12}. — 7〉 prábhartum {282,1};tám (drapsám) {705,13}; vā́cam {956,4}. — úd 2〉 {928,7}. — prá 2〉 {36,17}; {61,15}; {130,8}; {804,5}; {976,5}. — 4〉 (gī́r váruṇam) {600,5}.
 -atam 4〉 ráṇāya váśam {116,21}. — prá 2〉 {599,4}.
 -atām ánu {939,1}.
 -an 1〉 ū́rjam {1023,1}. — ánu {627,24}.
@@ -9756,7 +9756,7 @@ Stamm III. aśa (oder zum Aorist):
 Perf. ā́ś (betont nur {420,2}):
 -śatus 7〉 {645,8} kṣatrám.
 -śus 7〉 amṛtatvám {329,4}.
--śāthe [zu spr. śathe, 2. d. med.] 1〉 barhís {144,6}. — 7〉 krátum {2,8}; yajñám {15,6}; revát [váyas] {151,8}. _{151,9}; kṣatrám {421,1}.
+-śāthe [zu spr. śathe, 2. d. med.]1〉 barhís {144,6}. — 7〉 krátum {2,8}; yajñám {15,6}; revát [váyas] {151,8}. _{151,9}; kṣatrám {421,1}.
 -śāte [zu sprech. -śate, 3. d. med.] 1〉 barhís {651,6}; gártam {422,5}. — 7〉 kṣatrám {136,3}; {420,2}; dákṣam {422,4}; samānám {25,6}.
 Perf. ānáṃś, ānāś, schwach: ānaś:
 -áṃśa [3. s.] 7〉 sakhyám {677,8}.
@@ -9843,7 +9843,7 @@ Stamm III. aśa (oder zum Aorist):
 Perf. ā́ś (betont nur {420,2}):
 -śatus 7〉 {645,8} kṣatrám.
 -śus 7〉 amṛtatvám {329,4}.
--śāthe [zu spr. śathe, 2. d. med.] 1〉 barhís {144,6}. — 7〉 krátum {2,8}; yajñám {15,6}; revát [váyas] {151,8}. _{151,9}; kṣatrám {421,1}.
+-śāthe [zu spr. śathe, 2. d. med.]1〉 barhís {144,6}. — 7〉 krátum {2,8}; yajñám {15,6}; revát [váyas] {151,8}. _{151,9}; kṣatrám {421,1}.
 -śāte [zu sprech. -śate, 3. d. med.] 1〉 barhís {651,6}; gártam {422,5}. — 7〉 kṣatrám {136,3}; {420,2}; dákṣam {422,4}; samānám {25,6}.
 Perf. ānáṃś, ānāś, schwach: ānaś:
 -áṃśa [3. s.] 7〉 sakhyám {677,8}.
@@ -10647,7 +10647,7 @@ Impf. [2. s.] edhi (aus as-dhi entstanden):
 4〉 ihá {999,2}. — 5〉 {91,15}; {297,5}; {570,2}; {571,1}; {882,1}; {910,2}. _{910,6}; {911,44}; {929,4}. — 8〉 antár {999,1}. — 9〉 nas {458,14}. — 12〉 nas vṛdhé {363,7}; {364,7}; {370,5}; {371,5}.
 Schwacher Stamm: s-
 -thás 3〉 parāváti {47,7}; {427,1}; {628,14}; yádusu u. s. w. {108,8}; pṛthivyā́m {108,9}. _{108,11}; rocané {630,1}; druhyávi {630,5}. — 4〉 ápāk, prā́k {630,5}. — 5〉 {658,1}; {932,2}.
--thas 4〉 kúha {682,4}. — 5〉 {108,3}; {157,6}; {221,6}; {426,2}; {510,6}. — pári 2〉 mahimā́nam {61,8}. — 1〉 rátham {866,6}.
+-thas 4〉 kúha {682,4}. — 5〉 {108,3}; {157,6}; {221,6}; {426,2}; {510,6}.— pári 2〉 mahimā́nam {61,8}. — 1〉 rátham {866,6}.
 -mási 3〉 samdṛ́śi {428,6}. — 5〉 {29,1}; {638,22}. — 6〉 hitā́s {809,27}. — 9〉 esaam {37,15}.
 -masi 4〉 ihá {495,9}. — 5〉 {232,16}; {668,8}. — 9〉 táva {57,5}; {701,32}. — ápi 2〉 yuṣmé {667,8} s. o. — 3〉 yuṣmé, sajātíe {638,19}; tué {675,13}; te [Dat. st. Loc.] {652,7}.
 -más 4〉 {641,6} (dadíṣ tuám, 〰 vayám).
@@ -10662,7 +10662,7 @@ Schwacher Stamm: s-
 -tam [2. d. Impv.] 4〉 ihá {911,42}.
 -ántu 5〉 {306,8}.
 -antu 3〉 vidáthe {290,8}; diví {356,10}; śárman {669,6}; vihavé {954,2}. — 4〉 asmatrā́ {132,2}. — 5〉 {5,7}; {21,5}; {30,13}; {38,12}; {39,2}; {90,6}; {171,3}; {532,7}; {544,1}; {551,2}—_{551,4}. _{551,7}. _{551,8}. _{551,12}; {578,6}; {653,15}; {686,2}; {692,2}; {797,1}; {864,3}; {870,7}; {892,6}; {934,6}; {942,8}. — 6〉 jústāni {73,10}; júṣṭāsas {333,2}; rātā́ni {131,1}. — 8〉 mithás {26,9}. — 9〉 táva {382,3}; {877,9}; asmā́kam {567,2}; índrasya {622,7}. — 10〉 tásmai {493,2}; stotṛ́bhyas {519,10}; asmai {844,12}. — 11〉 asmé [<a href="https://dub.sh/cslp?dict=GRA&page=150" target="_blank">Page150</a>] {135,8} {442,12}; {515,2}; {538,9}; {617,5}; ṭué {528,3}. — 12〉 nas tujé {395,9}. — ánu 2〉 janúṣī {782,3}. — abhí 2〉 ádevīs {517,10}. — prá 1〉 {54,8}.
--yā́m [Optat.] 5〉 suvī́ras {491,9}; tuám {664,23}.
+-yā́m [Optat.] 5〉suvī́ras {491,9}; tuám {664,23}.
 -yām 3〉 śármaṇi {249,1}; {664,18}; ā́ vām sumné {504,11}. — 5〉 {116,25}. — abhí 2〉 pṛtanāyū́n {517,13}.
 -iā́m 3〉 raātaú {491,9}. — 5〉 {634,2}.
 -yās 4〉 ihá {517,8}. _{517,9}; {837,9}. — 5〉 {312,18}; 9〉 {474,5} nas. — abhí 2〉 pṛtanāyū́n {895,6}.
@@ -10763,7 +10763,7 @@ Part. III. ástṛ, vgl. ástṛ:
 -ā‿asi {959,3} śátrave vadhám.
 -ā {61,7} ádrim 〰.
 Absolutiv ásya:
--a pra 1〉 {121,13}; vi 1〉 náhanā {893,3}; ava śíśumatīs {140,10}.
+-a pra 1〉 {121,13};vi 1〉 náhanā {893,3}; ava śíśumatīs {140,10}.
 <a href="https://dub.sh/cslp?dict=GRA&page=0152" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=gra" target="_blank">Correction</a>
 
@@ -11051,7 +11051,7 @@ a-sunvá, a., nicht Soma bereitend, unfromm.
 
 असुर|असुरः
 ásura, a., lebendig, regsam; aber nur vom körperlosen, geistigen Leben gebraucht, und häufig mit Bezeichnungen der Weisheit (prácetas {24,14}; {699,6}; {349,1}; māyáyā {417,3}. _{417,7}; {1003,1}; ähnlich māyín {964,3}) verbunden. Also 1〉 geistig lebendig, und in substantivischem Sinne Geist, Gott, von Göttern überhaupt; 2〉 von einzelnen Göttern; 3〉 mit dyaús oder pitā́ oder auch ohne solchen Zusatz zur Bezeichnung eines höchsten Wesens, welches oft mit Varuna in nächste Beziehung [<a href="https://dub.sh/cslp?dict=GRA&page=156" target="_blank">Page156</a>] gesetzt wird, und als dessen Söhne putrā́sas, oder Helden vīrā́s die Götter und besonders die Adityaʼs erscheinen; 4〉 himmlisch, göttlich, von dem Gebetsrufe, der zum Himmel dringt ({900,2}), schmeichelnd, von den Opfergebern, die die Sänger reich beschenkten ({126,2}; {919,14}), vom Geiste des gestorbenen Vaters ({882,6}); 5〉 Bezeichnung eines obersten bösen Geistes, als dessen Mannen [vīrā́s] die Dämonen erscheinen; 6〉 Bezeichnung böser Geister überhaupt.
--a 2〉 varuṇa {24,14}; {151,4}; {218,10}; {219,7}; {958,4}; indra {174,1}; {699,6}; {922,11}; {925,12}; agne {298,5}.
+-a 2〉 varuṇa {24,14};{151,4}; {218,10}; {219,7}; {958,4}; indra {174,1}; {699,6}; {922,11}; {925,12}; agne {298,5}.
 -as 1〉 {639,23}. — 2〉 (savitā́) {35,7}. _{35,10}; (índras) {54,3}; agnís {369,1}; {546,3} (hotā́); {192,6} (mahás divás); {381,1}; {837,6}; (aryamā́) {396,1}; pūṣā́ {405,11}; (váruṇas) {662,1}; sómas {786,7}. — 3〉 {785,1}; dyaús {131,1}; pitā́ {237,4}; {437,6}; jánānām vidhartā́ {572,24}. — 4〉 hávas {900,2}.
 -am 2〉 rudrám {396,11} (devám); agním {518,3}. — 4〉 {882,6} (suarvídam).
 -āya 2〉 agnáye {366,1}; (sómāya) {811,1}. — 3〉 pitré {950,3}; divás {395,3}.
@@ -11510,7 +11510,7 @@ ahaṃyú, a. [von ahám], stolz.
 -nas [G.] nā́ma {123,9}; pratarītā́ {798,19}; bhāgás {956,5}; praketás {955,2}; prapitvé {312,12}. Nach Adverbien: trís {116,19}; {290,6}; idā́ {329,11}; idā́ cid {306,5}; {642,11}; idā́nīm {350,1}; prātár {430,3}; {868,5}; sakṛ́t {921,16}; vom Verb abhängig veda {836,6}.
 -ani {110,7}; {132,1}; {575,2}.
 -an [L.] {117,12}; {186,4}; {223,2}; {238,2}; {308,1}; {312,11}; {350,6}; {467,1}; [<a href="https://dub.sh/cslp?dict=GRA&page=163" target="_blank">Page163</a>] {798,18} {887,1}; {894,11}; {921,1}. _{921,11}.
--anī [d.] {123,7}; {185,1}; {351,3}; {436,8}; {499,1}; {844,14}; {865,12}; {902,1}.
+-anī [d.] {123,7}; {185,1}; {351,3}; {436,8}; {499,1};{844,14}; {865,12}; {902,1}.
 -āni s. Stamm áha.
 -abhis im Lauf der Tage, an allen Tagen {151,9}; {164,51}; {341,6}; {349,7}; {416,2}; {544,4} (ebhís); {767,3} (makṣū́tamebhis); {833,4}; {836,9}.
 -abhyas [Ab.] {915,11}; [Dat.] {603,1}.
@@ -11535,7 +11535,7 @@ Stamm áha:
 -nas [G.] nā́ma {123,9}; pratarītā́ {798,19}; bhāgás {956,5}; praketás {955,2}; prapitvé {312,12}. Nach Adverbien: trís {116,19}; {290,6}; idā́ {329,11}; idā́ cid {306,5}; {642,11}; idā́nīm {350,1}; prātár {430,3}; {868,5}; sakṛ́t {921,16}; vom Verb abhängig veda {836,6}.
 -ani {110,7}; {132,1}; {575,2}.
 -an [L.] {117,12}; {186,4}; {223,2}; {238,2}; {308,1}; {312,11}; {350,6}; {467,1}; [<a href="https://dub.sh/cslp?dict=GRA&page=163" target="_blank">Page163</a>] {798,18} {887,1}; {894,11}; {921,1}. _{921,11}.
--anī [d.] {123,7}; {185,1}; {351,3}; {436,8}; {499,1}; {844,14}; {865,12}; {902,1}.
+-anī [d.] {123,7}; {185,1}; {351,3}; {436,8}; {499,1};{844,14}; {865,12}; {902,1}.
 -āni s. Stamm áha.
 -abhis im Lauf der Tage, an allen Tagen {151,9}; {164,51}; {341,6}; {349,7}; {416,2}; {544,4} (ebhís); {767,3} (makṣū́tamebhis); {833,4}; {836,9}.
 -abhyas [Ab.] {915,11}; [Dat.] {603,1}.
@@ -11560,7 +11560,7 @@ Stamm áha:
 -nas [G.] nā́ma {123,9}; pratarītā́ {798,19}; bhāgás {956,5}; praketás {955,2}; prapitvé {312,12}. Nach Adverbien: trís {116,19}; {290,6}; idā́ {329,11}; idā́ cid {306,5}; {642,11}; idā́nīm {350,1}; prātár {430,3}; {868,5}; sakṛ́t {921,16}; vom Verb abhängig veda {836,6}.
 -ani {110,7}; {132,1}; {575,2}.
 -an [L.] {117,12}; {186,4}; {223,2}; {238,2}; {308,1}; {312,11}; {350,6}; {467,1}; [<a href="https://dub.sh/cslp?dict=GRA&page=163" target="_blank">Page163</a>] {798,18} {887,1}; {894,11}; {921,1}. _{921,11}.
--anī [d.] {123,7}; {185,1}; {351,3}; {436,8}; {499,1}; {844,14}; {865,12}; {902,1}.
+-anī [d.] {123,7}; {185,1}; {351,3}; {436,8}; {499,1};{844,14}; {865,12}; {902,1}.
 -āni s. Stamm áha.
 -abhis im Lauf der Tage, an allen Tagen {151,9}; {164,51}; {341,6}; {349,7}; {416,2}; {544,4} (ebhís); {767,3} (makṣū́tamebhis); {833,4}; {836,9}.
 -abhyas [Ab.] {915,11}; [Dat.] {603,1}.
@@ -13756,7 +13756,7 @@ Stamm I. schwach i-:
 -antu [yantu] ácha darśatám (agním) {680,10}.
 j:y:
 -ánti 1〉 yéna (pathā́) cedáyas {625,39}; yébhis (pathíbhis) sákhāyas {911,23}. — 2〉 pánthāsas {100,3}. — 4〉 abhí dyū́n {190,4}. — 5〉 bíbhratas {122,13}. — 6〉 ṛtávas {844,5}. — 7〉 ártham {688,5}; yám (agním) ástam {360,1}. — 9〉 pramā́dam {622,18}. — ánu 3〉 vahatúm {911,31}. — sámā agním {360,2}. — úpa 1〉 (erg. sómam) {807,3}. — upa 3〉 yajñám {193,11}. — párā {123,12}. — prá 1〉 {97,5} (agnés bhānávas); {243,3} (anyé); ácha manīṣā́s {852,1}. — pra 1〉 {933,9}. — sám 1〉 samudrám {190,7}; (sómam) {807,3}. — sam 3〉 {363,5}.
--anti 1〉 ambáyas {23,16} (ádhvabhis); ā́pas {565,1}; vṛṣṭáyas {407,6} (dhánvanā); sutā́s (vītáye) {5,5}; {702,22}. — 3〉 arcáyas {364,5}. — 7〉 ṛtám {219,4}; ártham {221,2}; tám (agním) {398,14}; tvā (agním) {375,2}; nimnám {405,7}; gópatim {809,34}. — 9〉 sampraśnám {908,3}. — ácha devā́ñ jánma {71,3}; vadhúas {401,6}. — áti 1〉 śáyānam {32,8}; pavítram {781,9}. — ánu 1〉 (náyantam) {163,12}. — 2〉 vā́tasya dhrā́jim {962,2}. — 4〉 vratám {309,2}; {660,8}. — ápa {50,2}. — ápi 1〉 pā́thas {242,9}; {563,3}. — 2〉 devíam {140,7}. — abhí 5〉 mā {709,1}. — ā́ áva mártam {395,13}. — ā́ 1〉 {113,11}; {123,12}; {265,14} (vṛtraghné); {808,24}. — pári ā́ {204,2}. — úpa ā́ mā {666,30}. — úpa 1〉 hotríyam {83,2}; índram {285,2}; pṛṇántam {125,4}; tvā (agním) {531,9}; yūthám {666,30}; dasmám {857,3}; niṣkṛtám {781,4}. — 5〉 tuā́m (agním) {517,3}. — 6〉 {226,3}. — abhí [<a href="https://dub.sh/cslp?dict=GRA&page=197" target="_blank">Page197</a>] úpa saṃskṛtatrám {469,4}. — ní niṣkṛtám {920,5}. — párā 2〉 urucákṣasam {25,16}. — pári 1〉 {226,9}. — 2〉 tám (agním) {226,4}; dyā́vāpṛthivī́ {115,3}; tuā́m (agním) {659,10}; krátum (váruṇam) {123,8}. — 5〉 dyā́vāpṛthivī́ (pánthās) {401,2}; dhā́māni {798,5}. _{798,6}. — prá 1〉 {274,4}; {712,6} (agnáye); {769,1}; {774,28}; {798,47}; {918,5}. — 3〉 jaṭháram {793,1}; yajñám {537,2}; vánāni {745,1}. — ánu prá śárdham {407,10}. — úpa prá 2〉 indrāgnī́ {246,7}. — sám prá avatā́n {851,4}. — práti 1〉 mádhvas {180,4}; (erg. ukṣáṇam) {781,4}. — 3〉 {92,1}; {119,2}. — ví 1〉 tuát {454,1}; {475,1}. — abhí ví ékam krátum {450,5}. — sám 1〉 tvā (agním) {31,10}. — 3〉 {226,3}; {784,6}; {825,5}.
+-anti 1〉 ambáyas {23,16} (ádhvabhis); ā́pas {565,1}; vṛṣṭáyas {407,6} (dhánvanā); sutā́s (vītáye) {5,5}; {702,22}. — 3〉 arcáyas {364,5}. — 7〉 ṛtám {219,4}; ártham {221,2}; tám (agním) {398,14}; tvā (agním) {375,2}; nimnám {405,7}; gópatim {809,34}. — 9〉 sampraśnám {908,3}. — ácha devā́ñ jánma {71,3}; vadhúas {401,6}. — áti 1〉 śáyānam {32,8}; pavítram {781,9}. — ánu 1〉 (náyantam) {163,12}. — 2〉 vā́tasya dhrā́jim {962,2}. — 4〉 vratám {309,2}; {660,8}. — ápa {50,2}. — ápi 1〉 pā́thas {242,9}; {563,3}. — 2〉 devíam {140,7}. — abhí 5〉 mā {709,1}. — ā́ áva mártam {395,13}. — ā́ 1〉 {113,11}; {123,12}; {265,14} (vṛtraghné); {808,24}. — pári ā́ {204,2}. — úpa ā́ mā {666,30}. — úpa 1〉 hotríyam {83,2}; índram {285,2}; pṛṇántam {125,4}; tvā (agním) {531,9}; yūthám {666,30}; dasmám {857,3}; niṣkṛtám {781,4}. — 5〉 tuā́m (agním) {517,3}. — 6〉 {226,3}. — abhí [<a href="https://dub.sh/cslp?dict=GRA&page=197" target="_blank">Page197</a>] úpa saṃskṛtatrám {469,4}. — ní niṣkṛtám {920,5}. — párā 2〉 urucákṣasam {25,16}. — pári 1〉 {226,9}. — 2〉 tám (agním) {226,4}; dyā́vāpṛthivī́ {115,3}; tuā́m (agním) {659,10}; krátum (váruṇam) {123,8}. — 5〉 dyā́vāpṛthivī́ (pánthās) {401,2}; dhā́māni {798,5}. _{798,6}. — prá 1〉 {274,4}; {712,6} (agnáye); {769,1}; {774,28}; {798,47}; {918,5}. — 3〉 jaṭháram {793,1}; yajñám {537,2}; vánāni {745,1}. — ánu prá śárdham {407,10}. — úpa prá 2〉indrāgnī́ {246,7}. — sám prá avatā́n {851,4}. — práti 1〉 mádhvas {180,4}; (erg. ukṣáṇam) {781,4}. — 3〉 {92,1}; {119,2}. — ví 1〉 tuát {454,1}; {475,1}. — abhí ví ékam krátum {450,5}. — sám 1〉 tvā (agním) {31,10}. — 3〉{226,3}; {784,6}; {825,5}.
 -an [Co.] práti 3〉 {238,5} (parallel caranta).
 -ántu 7〉 nisvarám {620,5}.
 -ántu 4〉 pratyák {913,15}; ágram {929,8}; pratyáñcas {954,6}; hávam {892,10}. — ácha (devám) {643,10}; índram {818,1}. — abhí 2〉 śunám {353,8}. — ā́ 1〉 {553,8}. — 2〉 nas {89,1}; vas {412,3}. — úpa ā́ nas {857,5}; {397,1}. — úpa 5〉 nas {167,1}. — 7〉 arvā́k {416,4}. — úd 4〉 {934,11}. — 5〉 {929,10}. — prá 1〉 {260,4}; {441,1} (víṣnave). — 3〉 rāyé {550,18}. — abhí prá 1〉 {910,1}. — úpa prá 1〉 {40,1}; {139,1}. — sám 2〉 te {91,18}; asmábhyam {264,21}. — abhí sám ápṛṇantam {125,7} (śókās).
@@ -14050,7 +14050,7 @@ idám 1〉 mit Subst.: barhís {13,7}; _{194,8}. (_{194,4}); {232,13}; {238,8}; 
 íd, adverbial, s. besonders.
 ena [I.] {173,9}; adv. dann {934,3}.
 enā (die Verlängerung metrisch) {356,11}.
-enā́, an einer Stelle [{461,10}] ená zu lesen: {105,19}; {171,1}; {197,2}; {225,14}; {267,4}; {332,7}; {373,3}; {407,12}; {485,17}; {532,1}; {587,4}; {609,7}; {625,39}; {641,6}; {705,8}; {808,2}; {840,4}; {911,27}. Als Adv. ist es besonders aufgeführt.
+enā́, an einer Stelle [{461,10}] ená zu lesen: {105,19}; {171,1}; {197,2}; {225,14}; {267,4}; {332,7}; {373,3}; {407,12}; {485,17}; {532,1}; {587,4}; {609,7}; {625,39}; {641,6}; {705,8};{808,2}; {840,4}; {911,27}. Als Adv. ist es besonders aufgeführt.
 asmai {32,2}. _{32,13}; {53,10}; {54,7}; {69,9}; {70,4}. _{70,5}; {71,5}; {76,3}; {77,1}; {91,20}; {104,7}; {114,11}; {116,8}; {125,2}; {127,4}; {147,4}; {161,11}; {162,16}; {166,3}; {173,4}. _{173,6}; {475,3} …
 asmaí {57,3}; {61,1}—_{61,6}. _{61,8}. _{61,12}. _{61,15} …
 ásmai {393,5}; {464,5}; {475,4}. _{475,5}; {663,2}.
@@ -15429,7 +15429,7 @@ Stamm ī́ḍ:
 īḍ:
 -ḍe [1. s. me.] 1〉 suastím {351,3}; níyatam (?) {299,9}; vásūnaam {651,14}. — 2〉 yā́tave {44,4}. — 3〉 {663,24}; {664,6}; {861,10}; {911,21}. — 4〉 {1,1}; {329,1}; {457,4}; {846,2}. — prá {569,1}.
 -ṭṭe 1〉 bhágam {134,5}; jyótis {321,3}; mārḍīkám {607,2}; vásūnām {540,5}. — 2〉 ávase {321,1}. — 4〉 {84,18}; {930,10}.
--ḍate [3. p.] 2〉 ávase {247,2}; {643,25}; devávītaye {457,7}; iṣṭáye {511,4}; dūtíāya {527,2}; {896,3}. — 3〉 {526,5}; {561,4} (Subj. gíras); {847,6}; {909,2}. — 4〉 {15,7}; {128,8}; {244,2}; {261,14}; {355,7}; {362,3}; {363,1}; {368,2}; {375,3}; {455,2}; {524,1}; {663,20}; {669,16}; {906,6}; {948,4}. — práti {592,6}.
+-ḍate [3. p.] 2〉 ávase {247,2}; {643,25}; devávītaye {457,7}; iṣṭáye {511,4}; dūtíāya {527,2}; {896,3}. — 3〉 {526,5}; {561,4} (Subj. gíras); {847,6}; {909,2}. — 4〉 {15,7}; {128,8}; {244,2}; {261,14};{355,7}; {362,3}; {363,1}; {368,2}; {375,3}; {455,2}; {524,1}; {663,20}; {669,16}; {906,6}; {948,4}. — práti {592,6}.
 -ḍāmahe [Co.] 3〉 {911,22}.
 -ḍata [3. p. Conj.] 4〉 {96,3}.
 -ḍīta [3. s. Opt.] 2〉 ávase {371,1}. — 3〉 {375,4}. — 4〉 {457,46}.
@@ -16839,7 +16839,7 @@ upastáraṇa, n., die Decke, als die hingebreitete [von star mit úpa].
 उपस्तिर्
 upastír, f., 1〉 die Decke, als die hingebreitete; 2〉 das Hinstreuen (Inf.) [von stir mit úpa].
 -íram 1〉 {774,28} (śukrā́m).
--íre 1〉 {439,1}; {783,1}. — 2〉 {222,5}; {329,1}.
+-íre 1〉 {439,1}; {783,1}. — 2〉{222,5}; {329,1}.
 <a href="https://dub.sh/cslp?dict=GRA&page=0258" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=gra" target="_blank">Correction</a>
 
@@ -17608,7 +17608,7 @@ uṣar-búdh, a., früh [uṣar s. usṛ́], wach.
 
 उषस्
 uṣás, f., 1〉 die Röthe des Himmels [von vas, hell werden, s. Cu. 〔613〕], im pl. die Röthen ({179,1}), d. h. Morgenröthen und Abendröthen; insbesondere 2〉 die Morgenröthe, als Göttin wird sie Tochter des Himmels [s. u. duhitṛ́] genannt; {123,5} auch Schwester der Adityaʼs (bhágasya svásā várunasya jāmís); 3〉 die Abendröthe; 4〉 der Morgen, namentlich L. und G. s. adverbial am Morgen, morgens, mit dem Gegensatze doṣā́, kṣapás, vástos; 5〉 der Dual, auch wenn er ohne náktā steht, bezeichnet Nacht und Morgenröthe, einmal jedoch 6〉 Abend- und Morgenröthe ({647,2}). Adj.: citrā́, vibhātī́, rócamanā, śukrā́, śubhrā́, bhadrā́, devī́, subhágā, maghónī, revátī u. s. w.
--as [V.] 2〉 {48,1}. _{48,2}. _{48,4}. _{48,9}. _{48,11}. _{48,12}. _{48,14}—_{48,16}; {49,1}—_{49,3}; {57,3}; {92,7}. _{92,8}. _{92,13}—_{92,15}; {113,7}. _{113,9}. _{113,12}; {123,3}. _{123,5}. _{123,11}. _{123,13}; {124,10}. _{124,12}; {240,7}; {295,1}—_{295,3}; {348,3}. _{348,6}. _{348,7}; {351,9}; {433,1}. _{433,6}. _{433,7}. _{433,10}; {505,2}. _{505,5}. _{505,6}; {506,5}; {591,2}. _{591,8}; {592,3}. _{592,6}; {593,5}. _{593,6}; {594,1}; {595,4}; {597,2}. _{597,3}. _{597,5}; {629,17}. _{629,18}; {667,16}. _{667,18}; {881,4}. — 3〉 {953,7}.
+-as [V.] 2〉 {48,1}. _{48,2}. _{48,4}. _{48,9}. _{48,11}. _{48,12}. _{48,14}—_{48,16}; {49,1}—_{49,3}; {57,3}; {92,7}. _{92,8}. _{92,13}—_{92,15}; {113,7}. _{113,9}. _{113,12}; {123,3}. _{123,5}. _{123,11}. _{123,13}; {124,10}. _{124,12};{240,7}; {295,1}—_{295,3}; {348,3}. _{348,6}. _{348,7}; {351,9}; {433,1}. _{433,6}. _{433,7}. _{433,10}; {505,2}. _{505,5}. _{505,6}; {506,5}; {591,2}. _{591,8}; {592,3}. _{592,6}; {593,5}. _{593,6}; {594,1}; {595,4}; {597,2}. _{597,3}. _{597,5}; {629,17}. _{629,18}; {667,16}. _{667,18}; {881,4}. — 3〉 {953,7}.
 -ar [V.] 2〉 {49,4} s. usṛ́.
 -ā́s 2〉 {46,1}. _{46,14}; {48,3}. _{48,5}. _{48,7}. _{48,8}. _{48,13}; {62,8}; {92,4}. _{92,6}; {113,4}—_{113,6}. _{113,8}. _{113,13}—_{113,15}; {123,2}. _{123,7}; {124,1}. _{124,2}. _{124,7}; {157,1}; {225,12}; {295,4}; {310,3}; {326,10}; {348,2}. _{348,5}; {429,9}; {434,2}. _{434,5}; {591,1}. _{591,5}; {592,1}. _{592,7}; {593,3}; {594,2}; {595,1}. _{595,3}; {596,2}; {597,6}; {682,16}; {837,3}; {861,3}; {960,1}; {964,5}.
 -ā́sam 2〉 {299,11}; {308,2}; {326,9}; {355,1}; {359,6}; {471,5}; {513,2}; {592,4}; {615,4}; {861,2}.
@@ -21002,7 +21002,7 @@ kaví, a., m., 1〉 a., weise, sinnig [von kū]; 2〉 m., der Weise, insbesonder
 -ínā 5〉 {490,10} (iṣitā́sas); {749,6} (iṣitás).
 -áye 1〉 vedháse {369,1} (Agni). — 3〉 {298,20}; {299,16}; {355,12} (médhiāya); {456,11}. — 4〉 von Indra {321,2}. — 5〉 {461,4} (dáśonaye). — 6〉 {875,3}.
 -és 1〉 ādityásya {219,1} (Varuna). — 4〉 vom Soma {480,1} (mandrásya); ápatyam {722,8}. — 5〉 tántum {831,3}.
--ī [V. d.] 3〉 {117,23}; {628,2}. _{628,5}. — 4〉 (indrāgnī) {660,3}.
+-ī [V. d.] 3〉 {117,23}; {628,2}. _{628,5}.— 4〉 (indrāgnī) {660,3}.
 -ī́ 1〉 hótārā daíviā 〰 {13,8}; {142,8}; {188,7}. — 3〉 {628,23}; {866,6}. — 4〉 mitrā́váruṇā {2,9}.
 -ayas [V.] 2〉 {185,1}. — 3〉 (yuvānas) {411,8} = {412,3} = {490,11}; {575,11}. — 4〉 {490,6}; {879,10}; devās {288,17}; pitaras {914,18}.
 -áyas 1〉 rebhā́s {163,12}; vedhásas {406,13} (marútas); víprās {940,5}. — 2〉 {103,1}; {146,4}; {164,5}; {242,4}; {602,3}; {831,6}; {955,4}; {980,5}; {1003,1}. _{1003,2}; {940,2}. _{940,6}; {950,9}. — 3〉 {31,1}. — 4〉 {159,4} (sudītáyas); {298,12}; {831,2}; {914,13} (yajñíyāsas); (ādityā́sas) {288,10}; (ṛbhávas) {332,7}; (spáśas váruṇasya) {603,3}; (spáśas) {785,7}. — 5〉 {215,7} (ṛtā́vānas) = {592,4}; {268,7}; {285,7}; {399,4}; {431,1}; {569,1}; {784,6}; {809,29}. _{809,57}; {927,4}. [<a href="https://dub.sh/cslp?dict=GRA&page=320" target="_blank">Page320</a>]
@@ -22232,7 +22232,7 @@ Stamm I. kṛ, stark kar:
 -riyāma [1. p. Opt.] 23〉 etā́ni bhadrā́ {858,9}.
 -arāṇi [1. s. Impv.] arám 1〉 mīḍúṣe {602,7}.
 -árāṇi [dass.] 18〉 vas várivas {878,5}.
--ṛdhi (-ṛdhī) 3〉 vīryā̀ {221,10}; tád {446,6}; {864,2}. — 13〉 nas saṃkṣákṣe bhúje {127,11}; nas jīvā́tave {1012,2}. — 17〉 rakṣásam asmát ā́ {816,6}. — 18〉 nas dhánāni {42,6}; gṛṇaté sugám {94,9}; asmábhyam [<a href="https://dub.sh/cslp?dict=GRA&page=335" target="_blank">Page335</a>] várivas {102,4}; nas sugám {106,5}; {214,7}; {702,10}; nas máyas {114,2}; nas práśastim {232,16}; nas bhāgám {235,19}; tokā́ya śam, asmábhyam śám {297,3}; nas suastí {405,14}; nas várivas {543,5}; nas vásū {548,25}; nas ábhayam {593,4}; {670,13}; {790,5}; jánāya várivas {776,14}; nas rayím {993,1}; tuāyaté urúm lokám {464,7}; nas urú {677,12}; {684,11}; śárdhāya urú {973,5}; ráṇam {938,10}. — 23〉 ṛ́ṣim sahasrasā́m {10,11}; yájatrān pátnīvatas {14,7}; āṅgūṣā́n dyumnínas {138,2}; dyā́vāpṛthivī́ prā́cī {193,7}; yajñám mádhumantam {238,2}; śrávas uttamám {327,15}; śrávas dyumát {372,5}; amítrān suṣáhān {487,6}; vṛtrā́ suhánā {541,5}; adhvarám yaśásam {558,5}; vácas upárimartiam {639,12}; nas gómatas {652,9}; havís súhutam {669,14}; rátham prathamám {689,5}; asmā́n jigyúṣas {689,6}; sárvā romaśā́ {700,6}; nas vásyasas {716,1}—_{716,10}; mā́m amṛ́tam {825,8}—_{825,11}; nas revátas {848,15}; pátim ekādaśám {911,45}; tám adhaspadám {959,4}; {960,2}; uditám priyám {977,2}. _{977,3}. — 24〉 virā́jam hantā́ram {992,1}. — ā́: 1〉 hárī arvā́ñcā {55,7}; rayím arvā́ñcam {699,4}. — ápa ā́: dvéṣāṃsi {250,5}; didyúm {968,1}. — áva ā́: dvéṣāṃsi {1022,4}. — prá 3〉 pastíam sū́riāya {922,11} (āvís). — purás: sū́riam {997,4}. — purástāt: rátham {689,4}. — mahás: stómam {656,6}. — śrád (nas) vā́riā {684,2}.
+-ṛdhi (-ṛdhī) 3〉 vīryā̀ {221,10}; tád {446,6}; {864,2}. — 13〉 nas saṃkṣákṣe bhúje {127,11}; nas jīvā́tave {1012,2}.— 17〉 rakṣásam asmát ā́ {816,6}. — 18〉 nas dhánāni {42,6}; gṛṇaté sugám {94,9}; asmábhyam [<a href="https://dub.sh/cslp?dict=GRA&page=335" target="_blank">Page335</a>] várivas {102,4}; nas sugám {106,5}; {214,7}; {702,10}; nas máyas {114,2}; nas práśastim {232,16}; nas bhāgám {235,19}; tokā́ya śam, asmábhyam śám {297,3}; nas suastí {405,14}; nas várivas {543,5}; nas vásū {548,25}; nas ábhayam {593,4}; {670,13}; {790,5}; jánāya várivas {776,14}; nas rayím {993,1}; tuāyaté urúm lokám {464,7}; nas urú {677,12}; {684,11}; śárdhāya urú {973,5}; ráṇam {938,10}. — 23〉ṛ́ṣim sahasrasā́m {10,11}; yájatrān pátnīvatas {14,7}; āṅgūṣā́n dyumnínas {138,2}; dyā́vāpṛthivī́ prā́cī {193,7}; yajñám mádhumantam {238,2}; śrávas uttamám {327,15}; śrávas dyumát {372,5}; amítrān suṣáhān {487,6}; vṛtrā́ suhánā {541,5}; adhvarám yaśásam {558,5}; vácas upárimartiam {639,12}; nas gómatas {652,9}; havís súhutam {669,14}; rátham prathamám {689,5}; asmā́n jigyúṣas {689,6}; sárvā romaśā́ {700,6}; nas vásyasas {716,1}—_{716,10}; mā́m amṛ́tam {825,8}—_{825,11}; nas revátas {848,15}; pátim ekādaśám {911,45}; tám adhaspadám {959,4}; {960,2}; uditám priyám {977,2}. _{977,3}. — 24〉 virā́jam hantā́ram {992,1}. — ā́: 1〉 hárī arvā́ñcā {55,7}; rayím arvā́ñcam {699,4}. — ápa ā́: dvéṣāṃsi {250,5}; didyúm {968,1}. — áva ā́: dvéṣāṃsi {1022,4}. — prá 3〉 pastíam sū́riāya {922,11} (āvís). — purás: sū́riam {997,4}. — purástāt: rátham {689,4}. — mahás: stómam {656,6}. — śrád (nas) vā́riā {684,2}.
 -ṛdhí (-ṛdhī́) 1〉 {919,9} (nas für uns); sugám {492,13}. — 18〉 nas anehás {676,12}; yájamānāya rátnam {532,6}; nas vā́jān {646,25}; nas bhāgadhéyam {705,8}; jaritré ávas {706,8}; praketám {208,7}; rátnam {252,5}. — 23〉 nas ūrdhvā́n {36,14}; jaritā́ram kṣumántam {200,5}; nas vásyasas {208,8}; nas uśíjas {249,3}; asmā́n ánāgān {308,4}; mā devávantam {488,10}; íṣas prajā́vatīs {735,3}; nas yaśásas {773,28}; ródasī suṣṭhāné {809,27}; dhíyam vā́jaratnām {868,7}; sátpatim ā́bhagam {1022,6}. — 24〉 (jaritā́ram) pátim rāyás {200,5}.
 -ṛtam [2. d.] 13〉 dhíyam sātáye {583,5}; bhujyúm sātáye {969,5}. — 23〉 asmā́n jigyúṣas {17,7}; vā́cam ratnínīm {182,4}; adhvarám ūrdhvám {518,7}; nas mádhumatas {850,6}; bhāgám cā́rum {865,2}. — ápa ā́: dvéṣāṃsi {500,8}. — āré: rápas asmát {638,16}.
 -ṛtám [dass.] 18〉 nas urú {418,6}. — 23〉 vā́cam ápnasvatīm {112,24}; yajñám cā́rum, bráhmāṇi praśastā́ {600,3}; nas ṛtvíyāvatas {628,13}; nas suśríyas {628,17}; tīrthám suprapāṇám {866,13}.
@@ -22242,7 +22242,7 @@ Stamm I. kṛ, stark kar:
 -ar [2. s. Imperf.] 4〉 ukthám {467,5}. — 13〉 apás srávitavaí {537,3}. — 23〉 sarátham urú {461,5}. — 24〉 aṃhás várivas {63,7}.
 -ár [dass.] 23〉 purás satī́s úparās {383,5}. [<a href="https://dub.sh/cslp?dict=GRA&page=336" target="_blank">Page336</a>]
 -ar [3. s. Impf.] 5〉 dásyave abhī́kam {804,5}. — 7〉 pā́dā {24,8}. — 14〉 mṛgám bhiyáse {383,4}. — 18〉 turvī́taye gādhám {61,11}. — 23〉 apás sasrútas {324,1}. — 24〉 nau dámpatī {836,5}. — ní 2〉 kā́viā {72,1}.
--ár [dass.] 12〉 pitré rásam {71,5}. — 18〉 nas apás {464,5}. — 23〉 mātárā návyasī {239,7}.
+-ár [dass.] 12〉 pitré rásam {71,5}. — 18〉 nas apás {464,5}.— 23〉 mātárā návyasī {239,7}.
 -ṛṣé [2. s. med.] 3〉 paúṃsiam {623,20}; {652,3}.
 -ṛṣe [dass.] 23〉 sávanā tūtumā́ {876,5}. _{876,6}.
 -ṛṣva [2. s. Impv.] 16〉 mánas vasudéyāya {54,9}. — 19〉 ójas {870,4}. — 23〉 puroḍā́śam cā́rum {286,5}. — prá 5〉 váruṇam ávase {462,9}. — āvís 1〉 tád {214,14}.
@@ -22352,7 +22352,7 @@ Stamm IV. kṛṇu (skṛṇv):
 -avai [1. s. Impv.] 24〉 tvā svásāram {934,9}.
 -ávai 3〉 yā́ {165,10}.
 -avā [= avai, obwol Pada -ava] 3〉 etā́ (vácāṃsi) {921,2}.
--uṣva 8〉 pánthām {968,7}. — 16〉 mánas vṛtratū́rie {217,2}; {639,20}. — 19〉 ókas {541,4}. — 23〉 samvídam súbhadrām {836,14}; vahatúm syonám {911,20}. — ā́ 1〉 nas ródasī {193,6}; jāspatyám {382,3}; ūtī́s {832,6}. — āvís 1〉 daíviāni {300,5}.
+-uṣva 8〉 pánthām {968,7}. — 16〉 mánas vṛtratū́rie {217,2}; {639,20}. — 19〉 ókas {541,4}. — 23〉 samvídam súbhadrām {836,14}; vahatúm syonám {911,20}. — ā́ 1〉 nas ródasī {193,6};jāspatyám {382,3}; ūtī́s {832,6}. — āvís 1〉 daíviāni {300,5}.
 -uṣvá 19〉 rā́dhas {10,7}; {673,1}. — 21〉 pā́jas {300,1}.
 -utā́m [3. s. Impv.] 13〉 ṛtvíjamsvā́ya dhā́yase {196,7}.
 -avāvahai 3〉 vácāṃsi miśrā́ {921,1}.
@@ -22366,7 +22366,7 @@ Imperf. akṛṇu:
 -ot 11〉 sárgam {534,11}; śvātrám {914,4}. — 13〉 mūrdhā́nam mā́tavaí {164,28}. — 18〉 tṛ́tsubhyas urúm lokám {549,5}. — 23〉 ápas adharācī́nam {208,5}; pathás sugā́n {264,10}; támas antarvā́vat {449,3}; uṣásas sapátnīs {485,23}. — 24〉 árṇāṃsi gādhā́ni {534,5}. — āvís 1〉 dhénās {268,3}; nidhin {894,6}.
 -utam 23〉 váyas yúvat {865,8}. — 24〉 (cyávānam) pátim {116,10}. — 13〉 kṛ́pamāṇam vicákṣe {116,14}.
 -uta (-utā) 23〉 camasám cáturvayam {110,3}.
--otana (-otanā) 7〉 tṛ́ṇam {161,11}. — 23〉 pitárā yúvānā {110,8}; járantā yuvaśā́ {161,7}. — ví 2〉 camasám caturdhā́ {331,3}.
+-otana (-otanā) 7〉 tṛ́ṇam {161,11}. — 23〉 pitárā yúvānā {110,8}; járantā yuvaśā́ {161,7}.— ví 2〉 camasám caturdhā́ {331,3}.
 -van 7〉 sukṣétrā {329,7}. — 13〉 tám bhuvé {914,10}. — 24〉 tuā́m āyúm {31,11}; sómāpūṣánā gopaú {231,1}; tuā́m dūtám {251,4}; (agním) aratím {872,4}; agním ketúm {914,12}. — sám 2〉 agním téjase {236,10}.
 -uta [3. s. med.] ā́ 1〉 gā́s {915,7}.
 -vata [3. p.] 21〉 añjī́n śriyé {903,2}. — 24〉 agním váhnim {245,4}; {532,12}; imám (agním) añjaspā́m {918,2}. — Unklar {839,4}. [<a href="https://dub.sh/cslp?dict=GRA&page=341" target="_blank">Page341</a>]
@@ -22386,7 +22386,7 @@ Perf. cakṛ, stark cakár, cakā́r:
 -ártha 1〉 gáve {387,4}. — 3〉 paúṃsiā {328,11}; {326,8}; vīríā {383,13}; yā́ {204,11}; {385,6}; kármāṇi {880,4}; ráṇiā {938,5}. — 5〉 nṛ́bhyas śruṣṭím {69,7}. — 7〉 yā́s (apás) {930,9}. — 11〉 várivas {942,3}. — 14〉 agním samídhe {113,9}.
 -āra [3. s.] 3〉 tā́ {206,2}; tád {534,17}; {809,41}; etā́ni {622,34}; kím {468,1}; sát {468,2}; anānukṛtyám {894,10}. — 11〉 várivas {268,7}; urukṣitím {616,4}. — 14〉 támāṃsi vicákṣe {312,4}. — 23〉 ṛjráaśvam andhám {116,16}; (dānavám) adhamám {386,7}; víśvāni satyā́ {399,7}; támas vayúnavat {462,3}; uṣásas śúcijanmanas {480,3} (oder zu 7); áyajyūn áparān {522,3}; mádhu madhulā́ {191,10}(?) — 24〉 vásiṣṭham ṛ́ṣim {604,4}.
 -ā́ra [3. s.] 3〉 yā́ni (vīríāṇi) {32,1}; {705,2}; yā́ {614,5}; tā́ {462,4}; {542,3}; náriā {312,16}. — 6〉 kím tvā́m {912,3}. — 7〉 (sū́riam ?) {164,32}; vayúnā {215,5}. — 11〉 várdhanam {80,1}. — 12〉 áhabhyas avánīs {603,1}; sū́ryāya pánthām {24,8}. — 18〉 jánāya lokám {514,2}. — 23〉 mádantīs (uṣásas) prā́cīs {522,4}; uṣásas aryápatnīs {522,5}; índram sadā́vṛdham {679,3}. — 24〉 gárbham nidhā́nam {265,2}. — ní 1〉 mártiam {164,29}.
--rathus 3〉 mahā́ni {513,1}. — 7〉 bhū́ma {159,2}. — 15〉 plavám síndhuṣu {182,5}. — 18〉 yajñā́ya urúm lokám {93,6}; ā́riāya jyótis {117,21}; andhā́ya jyótis {117,17}; púramdhaye súṣutim {865,7}. — 23〉 jihmábāram uccā́budhnam {116,9}; cyávānam yúvānam {117,13}; ṛbī́sam ómanvantam {865,9}.
+-rathus 3〉 mahā́ni {513,1}.— 7〉 bhū́ma {159,2}. — 15〉 plavám síndhuṣu {182,5}. — 18〉 yajñā́ya urúm lokám {93,6}; ā́riāya jyótis {117,21}; andhā́ya jyótis {117,17}; púramdhaye súṣutim {865,7}. — 23〉 jihmábāram uccā́budhnam {116,9}; cyávānam yúvānam {117,13}; ṛbī́sam ómanvantam {865,9}.
 -ráthus 3〉 vīríāṇi {108,5}; vīríā {500,1}. — 7〉 yā́ {164,19}; jātā́ni {598,5}.
 -ṛma (-ṛmā) 3〉 duṣkṛtám {926,7}. — 5〉 asmai ātithyám {76,3}; yuvós ávas {292,2}. — 7〉 havís [<a href="https://dub.sh/cslp?dict=GRA&page=342" target="_blank">Page342</a>] {101,8}. _{101,9}; tā́ni (havyā́) {171,4}. — 12〉 vashavyā́ {841,4}; te karambhám {286,7}. — 23〉 enam subándhum {162,7}; yajñám prā́ñcam {235,2}. — ā́ 1〉 índram ávase {670,8}. — áti 1〉 vratám {838,5}.
 -ṛmá (-ṛmā́) 3〉 ā́gas {179,5}; {218,14}; {308,4}; {439,7}; {609,7}; yád {836,4}; {298,14}. — 5〉 daívie jáne yád {350,3}; te bhū́ri {666,25}; vas gurú {863,12}. — 6〉 devā́n ā́gas {185,8}. — 7〉 yajñám {196,8}; drugdhā́ni {602,5}. — 12〉 te yám (yónim) {299,2}; satyárādhase (ukthám) {547,2}; te yád (bráhma) {31,18}. — 18〉 vas sionám {896,8}. — ā́ 2〉 {313,18}.
@@ -23723,7 +23723,7 @@ kṣám, f., stark kṣā́m, in den schwächsten Formen kṣm, die Erde, der Er
 
 क्षय|क्षयः
 kṣáya, m., Wohnsitz, Sitz, sicherer Wohnsitz [von 1. kṣi]; vgl. die Adj. pitumát, vayā́vat, prajā́vat, pastíāvat, nṛvát, mā́nuṣa, suapatyá, suvī́ra, dáasvat, śatā́yus, ajára, amṛ́ta, ásama, vṛktábarhis, máh, bṛhát, pṛthú, vāmá, pányas, suprāvī́, die Gen. ṛtásya, ṛ́ṣīṇaam, maghónaam, carṣaṇīnā́m, párīṇasas und uru-kṣáya u. s. w.
--as {144,7}; {242,1}; {366,6}; {582,5}; {672,7}; {890,11}; {635,9} (wo mit BR. bṛhátkṣayas zu lesen sein wird).
+-as {144,7};{242,1}; {366,6}; {582,5}; {672,7}; {890,11}; {635,9} (wo mit BR. bṛhátkṣayas zu lesen sein wird).
 -am {40,7}; {132,3}; {133,7}; {202,14}; {236,6}. _{236,13}; {237,2}; {245,7}; {274,4}; {349,7}; {402,4}; {443,5}; {490,15}; {517,12}; {575,2}; {647,16}; {667,4}; {794,3}; {809,26}; {873,8}; {889,5}.
 -eṇa {562,2}.
 -āya {36,8}; {123,1}; {349,6}; {419,4}; {491,3}; {576,11}; {635,13}; {677,12}; {721,2}; {821,3}; {884,1}—_{884,12}; {925,8}.
@@ -24822,7 +24822,7 @@ Stamm II. jagam, jagm (vor Vocalen):
 -amyus ápi 3〉 pátnīs {179,1}. — sám 5〉 pátnīs vṛ́ṣabhis {179,2}.
 Imperf. ájagam, ajagm (vor Vocalen) [unbetont {385,10}; {534,7}; {161,1}; {853,15}]:
 -an [2. s.] 1〉 {130,9}. — 5〉 apás {243,2}. — 14〉 adás {187,7}.
--an [3. s.] 1〉 {130,9}. — 3〉 áśvān {385,10}. — 8〉 nṝ́n {534,7}. — ā́ 3〉 nas {161,1}.
+-an [3. s.]1〉 {130,9}. — 3〉 áśvān {385,10}. — 8〉 nṝ́n {534,7}. — ā́ 3〉 nas {161,1}.
 -anta [2. p.] 8〉 urás {981,4}.
 -antana [dass.] 5〉 gṛhám {912,22}.
 -miran [3. p. med.] sám 1〉 {853,15}.
@@ -25272,7 +25272,7 @@ gavyayú, a., nach Rindern begierig, parallel aśvayú ({748,6}).
 
 गव्या
 gavyā́, f., Verlangen nach dem Besitze von Rindern [von gavy], Lust an Kühen, parallel aśvayā́ ({776,4}; {666,10}), daher 2〉 Kampfbegierde; 3〉 Begierde nach Milch.
--ā́ [I.] {666,10}; {776,4}. — 2〉 {534,7}. — 3〉 {702,17}.
+-ā́ [I.] {666,10}; {776,4}.— 2〉 {534,7}. — 3〉 {702,17}.
 <a href="https://dub.sh/cslp?dict=GRA&page=0390" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=gra" target="_blank">Correction</a>
 
@@ -26238,7 +26238,7 @@ gó, m., f., „Rind, Stier, Kuh“, ursprünglich wol: der Brüller von gu, ert
 -ā́vā [d.] 1〉 ánasvantā {381,1}. — 4〉 śubhré {267,1}.
 -ā́vau [d.] 1〉 sthiraú {287,17}; aruṣā́ {468,7}; yuktaú {853,20}; abhíhitau {911,11}.
 -āvas [V.] 4〉 {681,12}; {926,10}.
--ā́vas [N.] 1〉 {168,2} (d. Marutʼs); {163,8}; {666,30}; {830,2}; {887,21}; durdhúras {410,4}; bhúrṇayas {753,1}; ghṛṣváyas {813,8} (sómāsas); in {911,13} könnte man auch an ein Sternbild denken. — 2〉 {23,18}; {38,2}; {66,10}; {91,13}; {191,4}; {338,10}; {387,10}; {407,16}; [<a href="https://dub.sh/cslp?dict=GRA&page=409" target="_blank">Page409</a>] {482,1} {534,10}; {624,18}; {640,21}; {661,6}; {701,12}; {705,5}; {761,2}; {851,1}; {860,13}; {915,14}; {923,8}; {972,3}; {975,4}. — 3〉 {203,7}; {916,10}; {551,12} (árvantas). — 4〉 {25,16}; {32,11}; {90,8}; {92,4}; {95,6}; {135,8}; {153,4}; {164,7}; {186,7}; {270,5}; {287,14}; {290,2}; {319,9}; {337,8}; {384,10}; {401,4}; _{469,1}. 4—6 _{469,4}. _{469,5}; {481,2}; {534,1}; {539,4}; {629,19}; {663,17}; {678,6}; {681,12}; {724,2}; {743,5}; {774,5}; {783,4}; {784,6}; {796,5}; {805,3}; {806,2}; {809,9}. _{809,34}; {811,3}; {853,8}; {934,5}. _{934,11}; {998,1}. — 5〉 {173,1}; {486,28}; {745,4}; {778,12}; {780,1}; {809,35}; {858,4}; {921,6}. — 6〉 bhū́riśṛṅgās {154,6}. — 7〉 {71,1}; {591,7}; {595,2}; {505,3} (rúśantas). — 8〉 {525,4}. — 10〉 aruṣī́s {92,1}. — 11〉 {187,11}. — 12〉 {736,2}; {738,2}; {744,5}; {809,22}. — 15〉 {668,5}; {508,11}.
+-ā́vas [N.] 1〉 {168,2} (d. Marutʼs); {163,8}; {666,30}; {830,2}; {887,21}; durdhúras {410,4}; bhúrṇayas {753,1}; ghṛṣváyas {813,8} (sómāsas); in {911,13} könnte man auch an ein Sternbild denken. — 2〉 {23,18}; {38,2}; {66,10}; {91,13}; {191,4}; {338,10}; {387,10}; {407,16}; [<a href="https://dub.sh/cslp?dict=GRA&page=409" target="_blank">Page409</a>] {482,1} {534,10}; {624,18}; {640,21}; {661,6}; {701,12}; {705,5}; {761,2}; {851,1}; {860,13}; {915,14}; {923,8}; {972,3}; {975,4}. — 3〉 {203,7}; {916,10}; {551,12} (árvantas). — 4〉 {25,16}; {32,11}; {90,8}; {92,4}; {95,6}; {135,8}; {153,4}; {164,7}; {186,7}; {270,5}; {287,14}; {290,2}; {319,9}; {337,8}; {384,10}; {401,4}; _{469,1}. 4—6_{469,4}. _{469,5}; {481,2}; {534,1}; {539,4}; {629,19}; {663,17}; {678,6}; {681,12}; {724,2}; {743,5}; {774,5}; {783,4}; {784,6}; {796,5}; {805,3}; {806,2}; {809,9}. _{809,34}; {811,3}; {853,8}; {934,5}. _{934,11}; {998,1}. — 5〉 {173,1}; {486,28}; {745,4}; {778,12}; {780,1}; {809,35}; {858,4}; {921,6}. — 6〉 bhū́riśṛṅgās {154,6}. — 7〉 {71,1}; {591,7}; {595,2}; {505,3} (rúśantas). — 8〉 {525,4}. — 10〉 aruṣī́s {92,1}. — 11〉 {187,11}. — 12〉 {736,2}; {738,2}; {744,5}; {809,22}. — 15〉 {668,5}; {508,11}.
 -ā́s [A. p. aus gávas zusammengezogen] 1〉 {640,19}; śímīvatas {84,16}; tṝ́n yuktā́n {126,5}; bildlich von den Somaʼs {278,5}; {824,3}. — 2〉 {10,8}; {33,3}; {91,22}; {101,5}; {264,21}; {265,21}; {284,3}; {313,10}. _{313,11}; {458,3}; {464,4}; {468,8}; {476,2}; {488,24}; {495,6}; {501,2} (yodhiṣṭam); {516,2}; {661,1}; {802,4}; {803,6}; {845,6}; {982,2}; {986,3}. — 3〉 {103,5}; mit árvatas {118,2}; {480,5}; {495,5}; {776,3}. — 4〉 {83,5}; {279,3}; {416,3}; {488,14}; {893,8}. — 6〉 {552,1}. — 7〉 {92,2}; {953,8} (damit die Lieder verglichen). — 8〉 {210,3}; {501,2} (agne yuvase). — 11〉 {212,5}; {227,1}. — 12〉 {776,13}; {783,7}; {784,3}; {790,1}; {794,1}. _{794,3}; {799,7}. _{799,8}; {801,3}; {808,8}. _{808,16}; {809,13}. — 13〉 {32,12}; {33,10}; {62,2}. _{62,3}; {203,3}; {205,3}; {215,3}. _{215,14}; {264,10}; {273,5}; {297,15}; {368,4}; {383,3}; {399,7}. _{399,8}; {458,5}; {484,3}; {623,19}; {634,8}; {672,3}; {705,17}; {799,8}; {820,6}; {834,8}; {874,2}; {893,3}. _{893,4}. _{893,6}; {894,3}—_{894,5}. _{894,10}; {915,7}; {225,1} (die Marutʼs). — 16〉 {726,5}; {798,26}; {807,1}; {819,26}; {754,1}.
 (-ā́s), -ávas [A. p.] 13〉 {61,10}; {458,6}.
 -óbhis 1〉 {23,15}; {640,8}. — 2〉 {216,2}; {221,7}; {356,5}; {374,4}; {396,4}; {868,10}; {869,10}; {870,10}; {890,11}. — 3〉 {16,9}; {53,4} (neben aśvínā); {206,4}; {264,20}; {534,2}; {557,3}; {570,2}; {606,6}; {833,2}; {894,12}; {934,7}. — 4〉 {644,6}. — 5〉 {622,6} (bildlich von der Milch). — 7〉 aruṇébhis {434,3}; — {62,5}. — 11〉 {937,2}. — 12〉 {718,6}. — 13〉 {7,3}; {299,11}; {399,8}; {894,2}. — 15〉 {488,26}; {516,11}. — 16〉 {95,8}; {134,2}; {269,8}; {284,3}; {323,5}; {488,27}; {622,3}; {691,5}; {714,4}; {720,5}; {722,3}; {726,3}; {744,3}; {755,1}; {757,3}; {758,4}; {762,5}; {773,13}; {778,13}; {780,9}; {786,8}; {796,3}; {797,5}; {798,47}; {798,27}; {808,22}; {816,4}; {819,2}. _{819,9} (dugdhā́bhis). _{819,18}. _{819,22}; {821,15}. _{821,17}. — 17〉 {151,8}; {355,3}; {357,2}. — 18〉 {842,7}.
@@ -29678,7 +29678,7 @@ Imperf. ájana:
 -at 4〉 tvā bhúvanebhias páritváṣṭā‿ 〰 {214,17}.
 ajana:
 -at 6〉 sū́ryam u. s. w. {265,15}.
--an 3〉 devám devā́s {204,5}. — 7〉 ghṛtám {908,1}.
+-an 3〉 devám devā́s {204,5}.— 7〉 ghṛtám {908,1}.
 -anta 9〉 tvā (agním) kavím {711,17}. — 5〉 bāhúbhyām {833,5} (jananta zu lesen).
 Stamm III. jā́ya:
 -ase 13〉 {357,1}.
@@ -29868,7 +29868,7 @@ jána, m., das beseelte Wesen, der Mensch [als der geborene, von jan], seltener 
 -ān, zu sprechen jā́nān 13〉 sūrī́n {173,8}. — 14〉 {211,2}; {280,2}; {387,2}; {451,5}; {461,1}; {490,15}; {508,3}; {509,5}.
 -ebhias [D.] 14〉 {55,5}; {58,6}; {982,4}.
 -ebhias [Ab.] 14〉 {7,10}.
--ānām 14〉 jétā {66,3}; vṛṣabhás {177,1}; ávitārā {181,1}; kṣitáyas {252,1}; vaśī́ {257,3}; abhíśastim {264,1}; dyumnā́ {300,9}; muhuké {312,17}; samídhā {355,1}; vasatím {356,6}; rā́yas {442,5}; átithim {448,1}; {827,5}; pátis {477,4}; árātīs {485,9}; satyānṛté {565,3}; anṛtā́ {577,5}; prasavitā́ {579,2}; vayúnā {591,4}; árātayas {599,3}; védas {690,7} (neben ádāśūṣṭarasya); pura(s)etā́ {799,3}; bhójanā {799,6}; saṃgámanam {840,1}; yavasā́das {853,9}; yugā́ _{853,19}; dhénās {869,6}; potrám {828,2}; prayújas {859,1}; {922,12}; kṣáyam {873,8}; abhímātis {895,5}; cyávanas _{895,6}; sávanā {915,16}; nṛpátim {933,5}.
+-ānām 14〉 jétā {66,3}; vṛṣabhás {177,1};ávitārā {181,1}; kṣitáyas {252,1}; vaśī́ {257,3}; abhíśastim {264,1}; dyumnā́ {300,9}; muhuké {312,17}; samídhā {355,1}; vasatím {356,6}; rā́yas {442,5}; átithim {448,1}; {827,5}; pátis {477,4}; árātīs {485,9}; satyānṛté {565,3}; anṛtā́ {577,5}; prasavitā́ {579,2}; vayúnā {591,4}; árātayas {599,3}; védas {690,7} (neben ádāśūṣṭarasya); pura(s)etā́ {799,3}; bhójanā {799,6}; saṃgámanam {840,1}; yavasā́das {853,9}; yugā́ _{853,19}; dhénās {869,6}; potrám {828,2}; prayújas {859,1}; {922,12}; kṣáyam {873,8}; abhímātis {895,5}; cyávanas _{895,6}; sávanā {915,16}; nṛpátim {933,5}.
 -ānaam 14〉 drúhvāṇas {25,14}; jāmís {75,3}. _{75,4}; védas {81,9}; ketávas {191,4}; upavaktā́ {305,5}; dyúbhis {370,2}; ketúnā {420,4}; rā́dhas {532,2}; yantā́ras _{532,7}; vidhartā́ {572,24}; nṛpātā́ras {590,6}; vípas {621,4}; bráhma {625,13}; vṛ́ṣā {635,10}; dyumnā́ {639,33}; priyám {644,4}; taránim {665,28}; rā́jā {673,3}; vásu {712,6}; śúṣmam {764,4}; vratā́ni {824,1}; ā́yus {1023,7}.
 -ānām (tonlos, weil mit Voc. verbunden) 14〉 gṛhapate 〰 {456,19}.
 -eṣu 14〉 {55,4}; {95,2}; {214,15}; {230,2}; {292,5}; {347,11}; {385,13}; {386,11}; {485,11}; {539,2}; {546,2}; {848,2}; {880,2}; {890,11}; {932,2}; {1022,3}. — 15〉 {271,9}; {777,23}.
@@ -30771,7 +30771,7 @@ jaya:
 -āti 4〉 imā́s víśvās pṛ́tanās {878,5}. — 9〉 prahā́m {868,9}. — sám 3〉 vṛ́tau {391,5}. [<a href="https://dub.sh/cslp?dict=GRA&page=487" target="_blank">Page487</a>]
 -ātha 7〉 hitám (erg. dhánam) {927,7}.
 -ema [Opt.] 1〉 {102,4}. — 4〉 dūḍhías {598,1}; spṛ́dhas {844,9}. — 6〉 pṛ́tanās {231,5}; {954,1}; ājím {316,3}. — 7〉 vā́jam {358,1}; {449,6}; gā́s, ājím {516,2}; ājím, sauśravasám {614,4}; dhánāni {868,10}; rathíā {928,11}. — 8〉 apás {356,11}.
--a (-ā) 1〉 {516,1}. — 6〉 ājī́n {476,2}. — 7〉 apás {635,6}; súar {635,12}. — sám 1〉 rayím {684,12}.
+-a (-ā) 1〉 {516,1}.— 6〉 ājī́n {476,2}. — 7〉 apás {635,6}; súar {635,12}. — sám 1〉 rayím {684,12}.
 -atu 7〉 jétuāni {488,26}.
 -atam [2. d.] sám 1〉 dhánāni {108,13}.
 -ata 7〉 tád {929,2} (índreṇa).
@@ -32462,7 +32462,7 @@ tanū-tyáj, a., Leib und Leben hingebend, d. h. es wagend, in Gefahr gebend.
 
 तनूनपात्
 tánū-nápāt, m., Sohn [nápāt] seiner selbst [tanū́], der aus seinem eigenen Leibe entsprungene. So wird Agni genannt, sofern Feuer aus Feuer entspringt, während er als Blitz apā́m nápāt und als den Reibhölzern entsprossen aráṇias gárbhas und ähnlich benannt wird. — Ausser in {263,11} und {918,2} kommt diese Benennung nur im zweiten Verse der āprī-Lieder vor.
--āt [V.] {13,2}; {142,2}; {188,2}; {238,2}; {717,2}; {936,2}.
+-āt [V.] {13,2}; {142,2}; {188,2}; {238,2};{717,2}; {936,2}.
 -āt [N.] {263,11}.
 -ātam {918,2}.
 <a href="https://dub.sh/cslp?dict=GRA&page=0520" target="_blank">PDF</a>
@@ -48407,7 +48407,7 @@ Verbale pád als Inf.:
 pád, stark pā́d, m., Fuss [von pad 1], auch 2〉 vom Fusse des Vogels; vgl. a-pád u. s. w.
 -ā́d N. siehe in apád u. s. w.
 -ā́dam {548,2}.
--adā́ [I.] {42,4}; {51,6}; {84,8}; {133,2}; {164,7}. _{164,17}; {327,5}; {661,8}; {673,2}; {887,8}; {960,6}. — 2〉 {691,9}; {970,5} (śyenás).
+-adā́ [I.] {42,4}; {51,6}; {84,8}; {133,2}; {164,7}. _{164,17}; {327,5}; {661,8}; {673,2};{887,8}; {960,6}. — 2〉 {691,9}; {970,5} (śyenás).
 -adí {308,6}; {952,8} (gauríam 〰 ṣitā́m).
 -ā́dau {488,15}.
 -ā́dā {24,8}; {230,5}; {470,3}; {899,3}; {916,11} (vor u-); {932,9}.
@@ -48423,7 +48423,7 @@ pád, stark pā́d, m., Fuss [von pad 1], auch 2〉 vom Fusse des Vogels; vgl. a
 pád, stark pā́d, m., Fuss [von pad 1], auch 2〉 vom Fusse des Vogels; vgl. a-pád u. s. w.
 -ā́d N. siehe in apád u. s. w.
 -ā́dam {548,2}.
--adā́ [I.] {42,4}; {51,6}; {84,8}; {133,2}; {164,7}. _{164,17}; {327,5}; {661,8}; {673,2}; {887,8}; {960,6}. — 2〉 {691,9}; {970,5} (śyenás).
+-adā́ [I.] {42,4}; {51,6}; {84,8}; {133,2}; {164,7}. _{164,17}; {327,5}; {661,8}; {673,2};{887,8}; {960,6}. — 2〉 {691,9}; {970,5} (śyenás).
 -adí {308,6}; {952,8} (gauríam 〰 ṣitā́m).
 -ā́dau {488,15}.
 -ā́dā {24,8}; {230,5}; {470,3}; {899,3}; {916,11} (vor u-); {932,9}.
@@ -55097,7 +55097,7 @@ prayantṛ́, m., Darreicher [von yam mit pra, vgl. Part. III. von yam].
 <a href="https://dub.sh/cslc?dict=gra" target="_blank">Correction</a>
 
 प्रयस्
-práyas, n. [von prī], 1〉 Liebe, Gunst; 2〉 Genuss, Freude (prī in dem Sinne erfreuen, erheitern); 3〉 Gegenstand des Genusses, labende Speise, Labetrunk, gewöhnlich von den den Göttern vórgesetzten Speisen oder Tränken, oft mit hitá ({228,4}; {652,29}; {702,24}) oder súdhita ({135,4}; {456,15}; {669,4}) verbunden; namentlich 4〉 in Verbindungen wie: zu [Abl.] den (vorgesetzten) Opferspeisen kommen oder bringen.
+práyas, n. [von prī], 1〉 Liebe, Gunst; 2〉 Genuss, Freude (prī in dem Sinne erfreuen, erheitern); 3〉 Gegenstand des Genusses, labende Speise, Labetrunk, gewöhnlich von den den Göttern vórgesetzten Speisen oder Tränken, oft mit hitá ({228,4}; {652,29}; {702,24}) oder súdhita ({135,4}; {456,15}; {669,4}) verbunden; namentlich 4〉 in Verbindungen wie: zu [Abl.] den (vorgesetzten) Opferspeisen kommenoder bringen.
 -as 1〉 {132,3}. — 2〉 {31,7} (neben máyas); {639,22} (gāyasi agnáye). — 3〉 {61,1}. _{61,2}; {228,4}; [<a href="https://dub.sh/cslp?dict=GRA&page=879" target="_blank">Page879</a>] {311,2} — 4〉 {45,8}; {118,4}; {119,1}; {134,1}; {342,3}; {405,5}. _{405,6}. _{405,7}; {504,7}; {626,42}; {633,28}; {652,29}; {683,14}; {702,24}.
 -asā 1〉 {669,12} (nas vardha); {301,6} (dadhātha). — 3〉 {58,7}; {71,3}; {288,3}.
 -ase 2〉 {420,1} (mahé); {778,23} (sómas hitás).
@@ -59497,7 +59497,7 @@ Stamm bhū́ṣa:
 bhūṣa:
 -asi pári 3〉 vratám {31,2}.
 -ati ā́ 3〉 vṛ́kas cid asya ‥ ā́ vayúneṣu 〰 {675,8}. — 4〉 dyū́n {837,7} (sá dyumā́n).
-pári 1〉 dyā́vāpṛthivī́ {642,5} (ráthas vām). — 6〉 kṣáyam dyúbhis {237,2}. — práti 1〉 rátham {429,1} (stómebhis); {866,1} (suvitā́ya). — 3〉 tád ávas {46,12}.
+pári1〉 dyā́vāpṛthivī́ {642,5} (ráthas vām). — 6〉 kṣáyam dyúbhis {237,2}. — práti 1〉 rátham {429,1} (stómebhis); {866,1} (suvitā́ya). — 3〉 tád ávas {46,12}.
 -athas úpa 2〉 gṛṇántam {429,8}. — pári 1〉 rocanā́ divás {246,9}. — 7〉 víśvāni sádāṃsi {272,6}.
 -atas [3. d.] úpa 2〉 mánma {503,4}.
 -anti ā́ 3〉 tvé {708,2} (vedhásas). — úpa 1〉 índram {930,7} (gíras). — pári 2〉 áśvam {162,13} (aṅkā́s sūnā́s). — 7〉 trī́ṇi jā́nā asya {95,3}.
@@ -59679,7 +59679,7 @@ Part. Perf. babhrāṇá:
 Part. des Intens. bháribhrat:
 -at [m.] 22〉 dhūmám aruṣám {871,7}.
 Part. II. bhṛta (vgl. sú-bhṛta):
--as ā́ 2〉 ūrmís apā́m ánīke {354,11}. — 5〉 (sómas) túbhyam {227,5}. — prá 5〉 me ádris {165,4}. — ví 3〉 rā́jā purutrā́ {289,4}; agnís óṣadhīṣu {827,2}. — 4〉 mātaríśvā {71,4}. — sám 4〉 vájras {702,9}. — ádhi sám víśvāni vīríā asmin {207,2}.
+-as ā́ 2〉 ūrmís apā́m ánīke {354,11}. — 5〉 (sómas) túbhyam {227,5}. — prá 5〉 me ádris {165,4}. — ví 3〉 rā́jā purutrā́ {289,4}; agnís óṣadhīṣu {827,2}. — 4〉 mātaríśvā {71,4}. — sám 4〉 vájras {702,9}.— ádhi sám víśvāni vīríā asmin {207,2}.
 -am [m.] sám 3〉 yajñám {269,2} (viśvátas); rásam {779,31}. _{779,32} (ṛ́ṣibhis).
 -am [n.] ánu 1〉 yád {887,5} (duhitúr ā́). — ā́ 1〉 māṃsám {161,10}. — 3〉 yátas me mádhu {25,17}; páyas divás {778,30}; sáhas vánaspátibhvas pári {488,27}. — úd 1〉 médas madhyatás {255,5}. — (pári) úd ójas pṛthivyā́s {488,27}. — ní 2〉 mánas {102,5}. — 3〉 ctád me {205,10}. — párā yád párśāne {665,41}. — prá 1〉 mádhvas ágram {607,5}. — 4〉 tṛ́ṇam āsíe {162,8}. — sám 3〉 pṛṣadājiám {916,8}. — 5〉 vásu {660,6}. — 6〉 svā́dma usríyāyām {264,14}; mádhu usríyāyām {273,6}.
 -asya prá 1〉 mádhvas {942,4}; vácasas {147,2}. — práti 1〉 mádhvas {316,4}; {607,6}; {922,12}. — sám 5〉 yávasya {687,10}.
@@ -62329,7 +62329,7 @@ Perf. des Int. māmah:
 -hé [3. s. me.] 6〉 ṛjrā́ máhyam {621,32}. — 9〉 nas sakhitvanā́ya {632,6}.
 -he [dass.] 3〉 vas (marútas) {165,13}. — 6〉 me gā́vā {381,1}; dāsā́ {888,10}.
 Part. des Caus. maháyat:
--an 3〉 índram {54,2}; {558,3}. — 4〉 pitárā {237,11}. — sám 2〉 vas yajñám {558,3}.
+-an 3〉 índram {54,2}; {558,3}. — 4〉 pitárā {237,11}.— sám 2〉 vas yajñám {558,3}.
 -antam 4〉 nas {178,1} (kā́mam).
 -até (wie ein Denom. accentuirt) 5〉 (índrāya) {548,19}.
 -antas 3〉 ābhís śámībhis (índram) {313,18}; índram arkaís {385,4}; índram stómebhis {623,16}. — 5〉 pṛkṣā́s {891,4}.
@@ -62796,7 +62796,7 @@ Aor. mā:
 -āhi úpa nas vā́jān {542,5}; {854,12}; asmábhyam vā́jān {318,10}.
 -āsva úpa íṣas {784,9}; nas rayím {805,5}.
 Part. mímāna:
--as 6〉 áhā {50,7}. — 8〉 rūpā́ duhitúr vakṣáṇāsu {396,13}. — 11〉 ójas {208,2}; {910,2}. — vi 3〉 āhavám {155,6}; arkám {186,4}.
+-as 6〉 áhā {50,7}.— 8〉 rūpā́ duhitúr vakṣáṇāsu {396,13}. — 11〉 ójas {208,2}; {910,2}. — vi 3〉 āhavám {155,6}; arkám {186,4}.
 -am 6〉 ā́yudhā {356,3}.
 -ā [du.] 3〉 várāṃsi {503,2}. — 7〉 yajñám {936,7}.
 -ās [m.] 5〉 dhā́māni {882,5}. — 9〉 {534,15} prakalavíd 〰 jahús víśvāni bhójanā sudā́se.
@@ -64614,7 +64614,7 @@ mṛḍayā́ku, a., gnädig, hold [von mṛḍ].
 mṛḍīká, n., Gnade, Huld [von mṛḍ]; vgl. sumṛḍīká.
 -ám {297,3}. _{297,5}; {602,2}; {976,4}.
 -ā́ya {25,3}. _{25,5}; {491,1}; {976,1}.
--é [L.] {474,5}; {489,12}; {668,12}.
+-é [L.]{474,5}; {489,12}; {668,12}.
 <a href="https://dub.sh/cslp?dict=GRA&page=1059" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=gra" target="_blank">Correction</a>
 
@@ -65317,7 +65317,7 @@ Aor. ayaj, ayāj (betout {794,5}):
 yaj, yāj:
 -āṭ [2. s. Co.] 3a〉 nas tuám {887,21}.
 -ákṣi [dass.] 1a〉 devā́n {36,6}; {525,5} (víśvān); {533,3}; ā́ vaha devā́n 〰 ca {13,1}; ā́ devā́n vakṣi 〰 ca {380,1}; {457,2}; {711,16}; {227,4}; devā́n yájasi 〰 ānuṣák {489,4}; priyám (daíviam jánam) {31,17}; divás víśas {457,9}. — 4a〉 rāyé púraṃdhim {525,6}. — 10a〉 suám dámam {75,5}. — 12a〉 ródasī ihá {457,24}.
--akṣi 1a〉 devā́n {105,13}; {142,11}; {194,3}; {248,5}; {382,5}; sákhīn (devā́n) {238,1}; enān (devā́n) {936,3}. — 2a〉 havíṣā devā́n {251,2}. — 8a〉 {197,8}; {896,9} (uśán). — 11a〉 uśatás devā́n {445,1}; {896,4}. — 12a〉 tā́n adhvaré uśatás {555,4}; ihá devā́n {527,3}; {827,6}; tváṣṭāram ihá {936,9}. — 13a〉 devā́nam ávas {251,3}.
+-akṣi 1a〉 devā́n {105,13}; {142,11}; {194,3}; {248,5}; {382,5}; sákhīn (devā́n) {238,1}; enān (devā́n) {936,3}. — 2a〉 havíṣā devā́n {251,2}. — 8a〉{197,8}; {896,9} (uśán). — 11a〉 uśatás devā́n {445,1}; {896,4}. — 12a〉 tā́n adhvaré uśatás {555,4}; ihá devā́n {527,3}; {827,6}; tváṣṭāram ihá {936,9}. — 13a〉 devā́nam ávas {251,3}.
 -ákṣva (-ákṣvā) 4〉 mahé saumanasā́ya rudrám {396,11}. — 11a〉 arvā́ñcam daíviam jánam {45,10} (sáhūtibhis).
 -akṣva áva 2〉 nas váruṇam {297,5}.
 Aor. yákṣ:
@@ -66346,7 +66346,7 @@ yahú, a., m. [von *yah; Zusammenhang mit zend. yazu findet nicht statt; dies is
 यह्व|यह्वः
 yahvá, a., m. [von *yah], 1〉 a., schnell dahin schiessend, rasch strömend; 2〉 a., eilend, rastlos, fortwährend thätig; insbesondere 3〉 von Agni; 4〉 a., zusammenhängend, weit ausgedehnt; 5〉 m., Vogel, als der schnell dahinschiessende; 6〉 m., der rastlose Gehülfe mit Gen., der Ordner von Agni; 7〉 Sohn, mit Gen.
 -a 3〉 {936,3}.
--ás 1〉 oder 2〉 (sómas) {787,1}. — 3〉 {235,12}; {239,5}. _{239,9}; {301,2}; {303,11}; {370,4}; {522,5}; {524,2}. — 7〉 ádites {837,1} (agnís).
+-ás 1〉 oder 2〉 (sómas) {787,1}. — 3〉 {235,12}; {239,5}. _{239,9}; {301,2}; {303,11};{370,4}; {522,5}; {524,2}. — 7〉 ádites {837,1} (agnís).
 -ám [m.] 1〉 oder 3〉 aktúm ná {918,2} (agním). — 2〉 (índram) {633,24}. — 3〉 viśpátim {237,8}. — 6〉 purūṇáam viśā́m {36,1}.
 -ám [n.] 2〉 rudrásya mánas {633,20}. — 4〉 pṛṣṭhám {301,6}.
 -ásya 3〉 {236,9}; {262,4}.
@@ -69733,7 +69733,7 @@ rīya:
 — ánu vártmāni {85,3} [<a href="https://dub.sh/cslp?dict=GRA&page=1164" target="_blank">Page1164</a>] (ghṛtám). — ā́ 3〉 sahásram sámāśirām nimnám ná {30,2}.
 -ante ā́ 2〉 nivanā́‿iva {866,9} (síndhavas).
 Part. riṇát:
--án 1〉 apás {213,4}; {627,28}; {652,2}; {821,22}.
+-án 1〉 apás {213,4};{627,28}; {652,2}; {821,22}.
 riṇāná:
 -ás ni 4〉 (sómas) {726,4}.
 (rī́yamāṇa) [Stamm II.]:
@@ -69779,7 +69779,7 @@ rīya:
 — ánu vártmāni {85,3} [<a href="https://dub.sh/cslp?dict=GRA&page=1164" target="_blank">Page1164</a>] (ghṛtám). — ā́ 3〉 sahásram sámāśirām nimnám ná {30,2}.
 -ante ā́ 2〉 nivanā́‿iva {866,9} (síndhavas).
 Part. riṇát:
--án 1〉 apás {213,4}; {627,28}; {652,2}; {821,22}.
+-án 1〉 apás {213,4};{627,28}; {652,2}; {821,22}.
 riṇāná:
 -ás ni 4〉 (sómas) {726,4}.
 (rī́yamāṇa) [Stamm II.]:
@@ -74798,7 +74798,7 @@ vājínīvat, a., gabenreich [von vājínī, dem f. von vājín, in dem Sinne: r
 vājínī-vasu, a., dass.
 -o indra {276,5}.
 -us hárikeśas {922,8}.
--ū [V. du.] aśvinā {694,3}; {866,12}; {228,5}; {428,6}. _{428,7}; {429,3}; {432,3}; _{625,3}. _{625,12}. _{625,19}. _{625,20}. _{625,30}; {628,10}; {629,4}; {630,5}; {642,7}. _{642,14}. _{642,18}; {646,3}; {710,8}; {866,12}; vā́yav índras ca {2,5}.
+-ū [V. du.] aśvinā {694,3}; {866,12}; {228,5}; {428,6}. _{428,7}; {429,3}; {432,3}; _{625,3}. _{625,12}. _{625,19}._{625,20}. _{625,30}; {628,10}; {629,4}; {630,5}; {642,7}. _{642,14}. _{642,18}; {646,3}; {710,8}; {866,12}; vā́yav índras ca {2,5}.
 <a href="https://dub.sh/cslp?dict=GRA&page=1256" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=gra" target="_blank">Correction</a>
 
@@ -75142,7 +75142,7 @@ vāyú-gopa, a., den Wind zum Hüter [gopā́, gopá] habend.
 वार|वारं|वारः
 1. vā́ra, m. n. [von vṛ bedecken], ursprünglich „das lange Körperhaar“, daher 1〉 m., die Schweifhaare, der Haarschweif des Rosses; 2〉 m. n., die zur Somaseihe dienende Schafwolle, diese Seihe selbst; namentlich 3〉 mit den Adjectiven ávya und 4〉 avyáya, oder 5〉 dem Gen. ávyas (SV. ávyās). — Vgl. puruvā́ra, vītá-vāra. [<a href="https://dub.sh/cslp?dict=GRA&page=1261" target="_blank">Page1261</a>]
 -as 1〉 áśvias {32,12}.
--am 2〉 {750,5}; {772,2}; {780,2}; {781,2}; {798,26}; und vielleicht {132,3}; in {142,10} scheint puruvā́ram statt purú vā́ram gelesen werden zu müssen. — 3〉 {725,6}; {773,17}; {809,4}. _{809,56}; {821,16}. — 4〉 {794,3}; {779,20}; {781,4}; {794,1}; {797,5}; {798,31}; {812,4}. — 5〉 {728,8}; {740,1}; {786,9}; {818,10}.
+-am 2〉 {750,5}; {772,2}; {780,2}; {781,2}; {798,26}; und vielleicht {132,3};in {142,10} scheint puruvā́ram statt purú vā́ram gelesen werden zu müssen. — 3〉 {725,6}; {773,17}; {809,4}. _{809,56}; {821,16}. — 4〉 {794,3}; {779,20}; {781,4}; {794,1}; {797,5}; {798,31}; {812,4}. — 5〉 {728,8}; {740,1}; {786,9}; {818,10}.
 -eṇa 2〉 {713,6}; {810,7}.
 -e 3〉 {798,25}. — 4〉 {748,4}; {776,5}; {811,5}; {815,3}; {819,22}; {822,10}. — 5〉 {719,6}; {724,4}; {762,3}; {764,2}; {798,48}; {819,6} (SV. -ais).
 -ān 1〉 átyas ná ráthyas dodhavīti 〰 {195,4}. — 2〉 {772,3}. — 3〉 {809,31} (SV. -am).
@@ -75925,7 +75925,7 @@ Perf. (ohne Redupl.) vid, véd:
 Stamm des Caus. vedaya:
 -āmasi ā́ 3〉 tā́n vas pītáye {332,2}. — 4〉 tā́n vas {332,7}; śraddhā́m {977,1}.
 Part. Perf. vidvás, vidús (vgl. á-vidvas):
--vā́n 3〉 nas suvitásya {517,24}. — 7〉 devā́nām jánma mártān ca {70,6}; vratā́ {196,4}; bhúvanāni {338,3}; antárikṣam {355,11}; vīríā {383,13}; pathás {400,1}; prayā́ṇam ásurasya {403,2}; paramám asya {827,3}; ṛtū́n {828,1}; tā́m {853,11}; pathás devayā́nān {924,11}; saubhagatvásya {94,16}; bhadrásya {220,1}; devā́nām jánmanas {793,2}. — 8〉 víśvasya {986,2}. — 14〉 vayúnāni {152,6}; {189,1}; {239,6}; {456,10}; {516,14}; {616,5}; {948,2}; ṛtásya dī́dhitim {265,1}; dūtíāni {303,8}; ápāṃsi náriāṇi {537,4}; náriāṇi {312,6}; várpāṃsi {485,14}; praśā́sanam {681,1}; yajñásya {879,1}. — 15〉 pítriāṇi ā́yudhāni {834,8}. — 17〉 kā́viāni {235,17}. _{235,18}; vīríāṇi {259,2}; púru {701,9}. — 19〉 von Göttern: {24,13}; {103,3}; {145,5}; {190,7}; {196,8}; {197,7}. _{197,8}; {248,2}; {251,3}; {263,16}; {269,4}. _{269,8}; {278,2}; {281,2}; {286,7}; {297,4}; {298,11}; {304,4}; {326,17}; {356,8}; {357,9}; {358,5}; {462,11}; {488,8}; {523,1}; {544,1}; {672,3}; {782,10}; {785,8}; {789,4}; {808,2}; {828,3}. _{828,4}; {831,5}; {843,3}; {854,5}; {858,6}; {878,4}; {893,3}; {896,10}; {928,7}; {936,9}; {965,1}; von Menschen: {120,5}; {164,6}; {289,14}; {384,3}; {603,4} (vípras); {538,5} (wissentlich); {974,3} (vípras). — antar ádhvanas devayā́nān {72,7}. — ā 2〉 {315,10}. — pra 3〉 mártas {147,5}; (vásiṣṭhas) {549,12}; prá 3〉 {120,5}(?). — ánu pra pánthām {828,7}. — upá prá devā́nām pā́thas {896,9}. — ví 1〉 ubháyān {189,7}. — ā́ ví 1〉 jánmāni {526,2}.
+-vā́n 3〉 nas suvitásya {517,24}. — 7〉 devā́nām jánma mártān ca {70,6}; vratā́ {196,4}; bhúvanāni {338,3}; antárikṣam {355,11}; vīríā {383,13}; pathás {400,1}; prayā́ṇam ásurasya {403,2}; paramám asya {827,3}; ṛtū́n {828,1}; tā́m {853,11}; pathás devayā́nān {924,11}; saubhagatvásya {94,16}; bhadrásya {220,1}; devā́nām jánmanas {793,2}. — 8〉 víśvasya {986,2}. — 14〉 vayúnāni {152,6}; {189,1}; {239,6}; {456,10}; {516,14}; {616,5}; {948,2}; ṛtásya dī́dhitim {265,1}; dūtíāni {303,8}; ápāṃsi náriāṇi {537,4}; náriāṇi {312,6}; várpāṃsi {485,14}; praśā́sanam {681,1}; yajñásya {879,1}. — 15〉 pítriāṇi ā́yudhāni {834,8}. — 17〉 kā́viāni {235,17}. _{235,18}; vīríāṇi {259,2}; púru {701,9}. — 19〉 von Göttern: {24,13}; {103,3}; {145,5};{190,7}; {196,8}; {197,7}. _{197,8}; {248,2}; {251,3}; {263,16}; {269,4}. _{269,8}; {278,2}; {281,2}; {286,7}; {297,4}; {298,11}; {304,4}; {326,17}; {356,8}; {357,9}; {358,5}; {462,11}; {488,8}; {523,1}; {544,1}; {672,3}; {782,10}; {785,8}; {789,4}; {808,2}; {828,3}. _{828,4}; {831,5}; {843,3}; {854,5}; {858,6}; {878,4}; {893,3}; {896,10}; {928,7}; {936,9}; {965,1}; von Menschen: {120,5}; {164,6}; {289,14}; {384,3}; {603,4} (vípras); {538,5} (wissentlich); {974,3} (vípras). — antar ádhvanas devayā́nān {72,7}. — ā 2〉 {315,10}. — pra 3〉 mártas {147,5}; (vásiṣṭhas) {549,12}; prá 3〉 {120,5}(?). — ánu pra pánthām {828,7}. — upá prá devā́nām pā́thas {896,9}. — ví 1〉 ubháyān {189,7}. — ā́ ví 1〉 jánmāni {526,2}.
 -uā́n 3〉 ketásya {962,6}. — 7〉 apagohám kanī́nām {206,7}. — 19〉 bṛ́haspátis {190,7}.
 -vā́ṃsam 19〉 {164,4}.
 -úṣā 19〉 {156,1}; {398,10}; {495,1}.
@@ -78906,7 +78906,7 @@ Stamm (vṛṇā), vṛṇī, (vṛṇ):
 -īmahe 1〉 agním dūtám {12,1}; {44,3}; hótāram tvā {374,3}; {380,4}; {669,1}; {847,1}. — 5〉 devásya bhójanam {436,1}; vā́riam {645,13}; agnés sakhyám {664,20}; ávas te {114,9}. — ā́ 1〉 ávas {39,7}; {42,5}; {217,2}; {692,1}; {861,1}. _{861,2}; {862,2}—_{862,12}; ávāṃsi {613,2}; {646,21}; {676,4}; sumatím {114,4}; ūtím {634,6}; śárma {638,16}; yujyā́ {699,2}; tád vas {647,22}; sakhitvám {773,4}; {777,9}; dákṣam {777,28}; śárdhas diviám {139,1}; yuvā́m {232,19}; savitā́ram {436,7}; sarvátātim áditim {926,1}—_{926,11}. — prá 1〉 tvā dūtám {36,3}. — 2〉 pūṣáṇam yújiāya {624,15}.
 -áte [3. p.] 1〉 agním hótāram {837,4}; {58,7}.
 -ate 1〉 (agním) hótāram {141,6}; {917,9}. — 3〉 agním {365,4}; índram {458,8}; tám íd {917,8}; tuā́m íd {973,2}. — 5〉 váram {990,2}. [<a href="https://dub.sh/cslp?dict=GRA&page=1324" target="_blank">Page1324</a>]
--īta [3. s.] 3〉 índram {626,44}. — 4〉 jyótis támasas {273,7}. — 5〉 dyumnám {404,1} (puṣyáse). — nís tvā́m ékam íd {315,1}.
+-īta [3. s.] 3〉 índram {626,44}. — 4〉 jyótis támasas {273,7}. — 5〉 dyumnám {404,1} (puṣyáse).— nís tvā́m ékam íd {315,1}.
 -īmáhe ā 1〉 sumatím {456,9}; vāmám {692,4}.
 -īṣvá 5〉 stómam {953,8}.
 -īṣva 2〉 asmā́n yújiāya {535,9}; asmā́n sakhiā́ya {327,11} (-īṣua zu sprechen).
@@ -82489,7 +82489,7 @@ Stamm śamāyá:
 śayú, a., m., [von śī], 1〉 a., liegend, ruhend, (Gegensatz cárat), von Agni und Indra; 2〉 m., Eigenname eines Mannes, dem die Aśvinen die unfruchtbare Kuh mit Milch füllen.
 -ús 1〉 dvimātā́ (agnī́s) {31,2}; {289,6}.
 -úm 1〉 〰 kás tvā́m (índram) ajighāṃsat cárantam {314,12}. — 2〉 {866,8}.
--áve 2〉 {112,16}; {116,22}; {117,20}; {118,8}; {119,6}; {503,7}; {584,8}; {865,13}.
+-áve 2〉 {112,16}; {116,22}; {117,20}; {118,8};{119,6}; {503,7}; {584,8}; {865,13}.
 <a href="https://dub.sh/cslp?dict=GRA&page=1381" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=gra" target="_blank">Correction</a>
 
@@ -82918,7 +82918,7 @@ Part. śarmayát:
 1. √śas, Grundbegriff etwa „schneiden“, daher „schlachten“. Mit ā́ in āśásana, mit ví zerschneiden, zertheilen, zerlegen das getödtete Opferthier [A.]; vgl. viśastṛ́, viśásana.
 Mit sám jemandem [Ab. m. ā́] etwas [A.] zutheilen.
 Stamm śas:
--sta [2. p.] ví párus-parus {162,18}. — sám rayím áśvam carṣaṇíbhyas ā́ {333,8}.
+-sta [2. p.] ví párus-parus {162,18}.— sám rayím áśvam carṣaṇíbhyas ā́ {333,8}.
 <a href="https://dub.sh/cslp?dict=GRA&page=1388" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=gra" target="_blank">Correction</a>
 
@@ -84485,7 +84485,7 @@ in parṇa-śuṣ (trocken machend), phalapākaśuṣ siehe BR.
 शुष्ण|शुष्णः
 śúṣṇa, m., Dämon der Dürre [von 1. śuṣ], von Indra bekämpft. — Beinamen ámānuṣa, aśúṣa, kúyava, dásyu, dā́sa, māyín, vrandín, śṛṅgín, śvasaná.
 -as {461,5}.
--am {11,7}; {33,12}; {56,3}; {63,3}; {101,2}; {103,8}; {121,9}; {205,5}; {210,6}; {265,8}; {312,12}; {383,9}; {386,4}; {459,8}; {467,3}; {472,3}; {535,2}; {848,7}. _{848,14}; {925,9}; {937,5}; {1020,8}.
+-am {11,7}; {33,12}; {56,3}; {63,3}; {101,2}; {103,8}; {121,9};{205,5}; {210,6}; {265,8}; {312,12}; {383,9}; {386,4}; {459,8}; {467,3}; {472,3}; {535,2}; {848,7}. _{848,14}; {925,9}; {937,5}; {1020,8}.
 -am [zu sprechen śúṣaṇam] {205,5}.
 -āya {175,4}.
 -asya púras {51,11}; púram {621,28}; mūrdháni {54,5}; ójas {121,10}; védanam {326,13}; māyā́s {385,7}; {461,4}; āṇḍā́ni {660,10}. _{660,11}; jātám {848,11}; śnáthitā {875,3}; sámgrathitam {887,13}; áva‿atiras {705,17}.
@@ -86899,7 +86899,7 @@ saca:
 -ate 1〉 átyam {398,3} (havís); apā́m ūrmím {798,8} (sómas). — 2〉 tám {91,14} (kavís). — 8〉 ásunvatā {388,5}; anyébhis {209,2}; sahásreṇa yavīyúdhā {624,6}. — 10〉 asya krátvā {145,2}; rāyás póṣeṇa {125,1}; divás rétasā {386,1}; dhā́rābhis {805,3} (índus); váyasā {624,9}. — 11〉 tā́bhis (góbhis) {469,3} (gópatis). — 13〉 {308,2} (púsyan rayím). — 14〉 [<a href="https://dub.sh/cslp?dict=GRA&page=1446" target="_blank">Page1446</a>] vā́tasya meḍím {303,11}. — 19〉 túbhyam agne {669,18}. — 20〉 apás {180,5} (kṣoṇī́ vām). — ánu 3〉 váṛtanīs {140,9}. — abhí 4〉 {786,7} dhiyā́ śámī 〰 sā́‿īm abhí pravát.
 -ethe 1〉 uṣásas {180,1}. — 8〉 uṣásā {183,2}. — 11〉 ṛténa {152,1}. — 3〉 kṣā́ma ūrjā́ {932,10}. — 24〉 {230,2}. — sám 2〉 śriyā́ {116,17}.
 -ete 23〉 vápūṃṣi {273,3}. — ā́ 2〉 áditim {136,3}.
--ante 1〉 īm (sómam) {801,5} (cátasras ghṛtadúhas); tám (sómam) matáyas {807,4}. — 14〉 tám (índram) {100,13} (sanáyas, dhánāni); uṣásam {549,7} (gharmā́sas). — 15〉 ánṛtā jánānām {577,5} (drúhas). — 17〉 asyá śā́sus {60,2}; krátum váruṇasya {338,1}; asya indriyám {950,8}. — 20〉 dīrghám váruṇasya dhā́ma {123,8}; nā́kam {164,50}; tuā́m (agním) {521,5} (harítas, gíras). — ánu 2〉 táva vratám {794,5} (ā́pas). — abhí 1〉 yuvós vápus {340,2} (pṛ́kṣas); rátham vām {606,5} (pṛ́kṣas); vām {588,1} (niyútas). — 4〉 agním pṛ́kṣas samudrám ná sravátas {71,7}; índram dyumnā́ni {274,7}. — úpa tám (bṛ́haspátim) {190,2} (vā́cas).
+-ante 1〉 īm (sómam) {801,5} (cátasras ghṛtadúhas); tám (sómam) matáyas {807,4}. — 14〉 tám (índram) {100,13} (sanáyas, dhánāni); uṣásam {549,7} (gharmā́sas). — 15〉 ánṛtā jánānām {577,5} (drúhas). — 17〉 asyá śā́sus {60,2}; krátum váruṇasya {338,1}; asya indriyám {950,8}. — 20〉 dīrghám váruṇasya dhā́ma {123,8};nā́kam {164,50}; tuā́m (agním) {521,5} (harítas, gíras). — ánu 2〉 táva vratám {794,5} (ā́pas). — abhí 1〉 yuvós vápus {340,2} (pṛ́kṣas); rátham vām {606,5} (pṛ́kṣas); vām {588,1} (niyútas). — 4〉 agním pṛ́kṣas samudrám ná sravátas {71,7}; índram dyumnā́ni {274,7}. — úpa tám (bṛ́haspátim) {190,2} (vā́cas).
 -anta 1〉 agním {235,14} (bhānávas). — 6〉 váyas túbhyam {397,15}. — 14〉 néṣṭur várṇam {196,5} (dhenávas). — 16〉 vartaním {998,1}. — 17〉 táva vratám {521,4}; krátum {156,4}. — 20〉 nākám {916,16}. — 23〉 vā́riam {371,5}; pṛ́kṣas {590,5}.
 -eya 8〉 ṛḍūdáreṇa sákhiā {668,10}. — 10〉 táva ūtíbhis {639,28}.
 -eta 8〉 sūríbhis {406,15}. — 21〉 dhíyam {711,22}.
@@ -88632,7 +88632,7 @@ Stamm saparyá:
 -átas [3. du.] 1〉 yám (agním) {144,4}; índrasya sáhas {876,1}. — 3〉 mithunā́ {83,3}.
 -atas [dass.] 1〉 asya śúṣmam {485,5}; te śúṣmam {702,12}.
 -ánti 1〉 asya sáhas {84,12} (námasā); súar, mātúr ū́dhar {486,2} (énīs).
--an [Co.] 1〉 agnés ánīkam {833,3}. — ví tvā {70,10}.
+-an [Co.]1〉 agnés ánīkam {833,3}. — ví tvā {70,10}.
 -ā́t 1〉 índrā agnī́ {501,1}. — 2〉 agnī́ṣómā havíṣā {93,8}.
 -ā́n 2〉 tvā́m ghṛténa {72,3}.
 -éma 1〉 tvā (agním) {197,3}.
@@ -89040,7 +89040,7 @@ sama, pr. [von sa, vgl. ἀμός, goth. sums], 1〉 irgend einer, irgend jemand
 -asmāt 3〉 aghāyatás {378,3}.
 -asya 1〉 śárdhatas {483,4}. — 2〉 dūḍhías {684,9}. — 3〉 {855,4} (ánne); {773,30} (nidás); (paṇínas) {494,8} (hṛ́dayam); kásya cid {741,5} (svanā́t). — 4〉 mahimánas te {468,3}; {880,3}.
 -asmin 3〉 vā́je gómati {641,8}.
--e [N. p. m.] 3〉 anyaké 〰 {659,1}—_{659,10}; {660,1}—_{660,11} ; (also) {661,1}—_{661,10}; {662,4}—{662,6}.
+-e [N. p. m.] 3〉 anyaké 〰 {659,1}—_{659,10}; {660,1}—_{660,11}; (also) {661,1}—_{661,10}; {662,4}—{662,6}.
 <a href="https://dub.sh/cslp?dict=GRA&page=1478" target="_blank">PDF</a>
 <a href="https://dub.sh/cslc?dict=gra" target="_blank">Correction</a>
 
@@ -90463,7 +90463,7 @@ sahasyà, sahasía, a., stark, kräftig, gewaltig [von sáhas].
 
 सहस्र|सहस्रं
 sahásra, n., tausend (vielleich von sáhas, also die gewaltige, d. h. grosse Zahl), 1〉 mit dem Gen. des gezählten; 2〉 in gleichem Casus und Numerus mit dem Substantiv; 3〉 ohne Nennung des gezählten in dem Sinne tausend Mann, oder 4〉 tausend Gaben (oder ähnlichem); 5〉 das gezählte wird durch ein dem Substantiv sahásra beigeordnetes Adjektiv bezeichnet, z. B. sahásram gávyam = 1000 Kühe; 6〉 im Plural mit einem Zahlworte, welches die Anzahl der Tausende angiebt und zwar das gezählte im Gen., oder 7〉 in gleichem Casus und Numerus, oder 8〉 zu ergänzen „Mann“, oder 9〉 „Gaben“ (s. o.); 10〉 Nom., Acc. sing. neben einem Substantiv im Nom., Acc., Instr. des Plurals. — Vgl. cátuḥ-, sáṃsahasra.
--am 1〉 sámāśirām (sómānām) {30,2}; viátīnaam {328,17}; ándhasas {687,1}. — 2〉 ádhiratham {924,4}; {928,2}; tredhā́ 〰 ví tád airayethām {510,8}; páśum {654,16}. — 3〉 {80,9}; (varcínas) {205,6}; {615,5}; 〰 abhí sīm áyodhīt {334,8}. — 4〉 {641,18} (〰 ayútā dádat). — 5〉 gávyam {126,3}; śatá-aśvam {888,8}. — 10〉 rātáyas {11,8}; ūtáyas {167,1}; {327,10}; íṣas, rā́yas {167,1}; bhiṣájas {24,9}; hárayas {342,3}; {621,24}; stotā́ras {475,3}; śáṃsās {541,3}; {1026,3}; bheṣajā́ {562,3}; niyútas {607,6}; {608,1}; sū́riās {679,5}; áśvās {790,2}; kaváyas {809,29}; mítas {844,12}; rúhas {923,2}; mahimā́nas {940,8}; (yūyám) {80,9} (sākám arcata). — mit Accus.: savā́n {126,1}; {322,7}; vīrā́n {205,7}; māsás {314,4}; śurúdhas {578,3}; rā́dhāṃsi {626,46}; mahiṣā́n {632,9}{632,8}; aṣṭakarṇías {888,7}; sālāvṛkā́n {899,3}. — mit Instr.: ṛ́ṣibhis {189,8}; {623,4}; pathíbhis {459,11}; {803,3}; {818,6}; ūtíbhis {764,5}; pitṛ́bhis {841,10}; akṣábhis {905,5}.
+-am 1〉 sámāśirām (sómānām) {30,2}; viátīnaam {328,17}; ándhasas {687,1}. — 2〉 ádhiratham {924,4}; {928,2}; tredhā́ 〰 ví tád airayethām {510,8}; páśum {654,16}. — 3〉{80,9}; (varcínas) {205,6}; {615,5}; 〰 abhí sīm áyodhīt {334,8}. — 4〉 {641,18} (〰 ayútā dádat). — 5〉 gávyam {126,3}; śatá-aśvam {888,8}. — 10〉 rātáyas {11,8}; ūtáyas {167,1}; {327,10}; íṣas, rā́yas {167,1}; bhiṣájas {24,9}; hárayas {342,3}; {621,24}; stotā́ras {475,3}; śáṃsās {541,3}; {1026,3}; bheṣajā́ {562,3}; niyútas {607,6}; {608,1}; sū́riās {679,5}; áśvās {790,2}; kaváyas {809,29}; mítas {844,12}; rúhas {923,2}; mahimā́nas {940,8}; (yūyám) {80,9} (sākám arcata). — mit Accus.: savā́n {126,1}; {322,7}; vīrā́n {205,7}; māsás {314,4}; śurúdhas {578,3}; rā́dhāṃsi {626,46}; mahiṣā́n {632,9}{632,8}; aṣṭakarṇías {888,7}; sālāvṛkā́n {899,3}. — mit Instr.: ṛ́ṣibhis {189,8}; {623,4}; pathíbhis {459,11}; {803,3}; {818,6}; ūtíbhis {764,5}; pitṛ́bhis {841,10}; akṣábhis {905,5}.
 -eṇa 2〉 niyútā {135,1}; yavīyúdhā {624,6}. — [<a href="https://dub.sh/cslp?dict=GRA&page=1501" target="_blank">Page1501</a>] 4〉 {674,12}; {1018,1}; {1019,1}.
 -āya 2〉 śulkā́ya {621,5}; rāyé {116,9}.
 -āt 2〉 yū́pāt {356,7}. — 3〉 úd 〰 ririce {102,7}.
@@ -91185,7 +91185,7 @@ sā́dhiṣṭha, a. [Superl. von sā́dh, siehe sādh], als Superlativ zu sādh
 sādhú, a. [von sādh], 1〉 gerade, richtig vom Wege; 2〉 gerade ausgehend vom Rosse; 3〉 gerade zum Ziele gehend, richtig treffend vom Pfeile; 4〉 richtig treffend vom Schützen; 5〉 (ein Werk) richtig ausführend, richtig verfahrend; 6〉 sittlich recht, Gegensatz vṛjiná; 7〉 richtig bereitet, richtig ausgeführt vom Opfer und Lobliede; 8〉 förderlich, heilvoll, segensreich; 9〉 -ú, -uyā́ adverbial gerade, auf richtigem, zum Ziele führenden Wege bei Verben der Bewegung; in gleichem Sinne auch als Adj. dem Subjekt zugeordnet ({366,6}); 10〉 auf richtige Weise.
 -ús 1〉 pánthās {218,6}. — 2〉 vā́jas {553,4}. — 3〉 〰 bundás hiraṇyáyas {686,11}. — 4〉 ástā {70,11}. — 5〉 (agnís) {77,3}. — 8〉 kṣémas {67,2}; pitárā‿iva 〰 {252,1}. — 9〉 ā́ 〰 etu náhuṣasya śéṣas {366,6}.
 -úm 5〉 vípram agním {355,7}.
--ú 6〉 vṛjinā́‿utá 〰 {218,3}. — 9〉 bei i {24,3}{124,3} = {434,3}; {450,5}; nī {456,16}. — 10〉 {194,6} (san); {559,2} (star).
+-ú 6〉 vṛjinā́‿utá 〰 {218,3}. — 9〉 bei i {24,3}{124,3} = {434,3}; {450,5}; nī {456,16}. — 10〉 {194,6}(san); {559,2} (star).
 -únā 1〉 pathā́ {840,10}. — 2〉 árvatā {155,1}.
 -ós 7〉 ándhasas {282,1}. — 8〉 dákṣasya {306,2}; rāyás {524,3}.
 -ū́ [du.] 8〉 ubhaú árdhau {218,15}.
@@ -97758,7 +97758,7 @@ siehe das Folgende und vi-ṣpáś.
 
 स्पश्
 spáś, m. [von spaś], 1〉 Späher, besonders 2〉 die göttlichen Späher, die der Menschen Thaten erschauen; namentlich 3〉 Späher der Götter [G.]; 4〉 Beschauer mit obj. Gen.
--áṭ [N. s.] 2〉 índras {670,15}; 〰 úd eti sū́rias {861,8}. — 3〉 vas (marútām) {413,1} (der Blitz).
+-áṭ [N. s.] 2〉 índras {670,15}; 〰 úd eti sū́rias {861,8}. — 3〉 vas (marútām) {413,1}(der Blitz).
 -áśam 4〉 víśvasya jágatas {309,3}.
 -áśas [N. p.] 1〉 {667,11} (ádhi kū́lāt). — 2〉 {25,13}; {508,5} (ádabdhāsas). — 3〉 váruṇasya {603,3}; {785,4} (bhū́rṇayas); devā́nām {836,8}; eṣām {785,7} [<a href="https://dub.sh/cslp?dict=GRA&page=1609" target="_blank">Page1609</a>] (rudrā́sas iṣirā́sas adrúhas 〰 suáñcassudṛ́śas nṛcákṣasas).
 -áśas [A. p.] 2〉 {33,8}; {300,3}; {577,3}.
