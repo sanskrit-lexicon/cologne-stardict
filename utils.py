@@ -61,7 +61,7 @@ def devaconvert(line, dictId):
     
     result = line
     
-    if dictId in ['armh', 'skd', 'vcp']:
+    if dictId in ['armh', 'skd', 'vcp', 'nybj']:
         result = devaconvert_protect_pages(line, dictId)
     else:
         result = _devaconvert_normal(line, dictId)
@@ -70,8 +70,14 @@ def devaconvert(line, dictId):
     return result
 
 
+PAGE_PATTERN = re.compile(r'(\[Page[^\]]+?(?:\+[^\]]*)?\])')
+# nybj also has ';p{0001}' page lines and '[^1]' / '[^*]' footnote refs,
+# whose '^' would otherwise be read as an slp1 accent mark.
+NYBJ_PROTECT_PATTERN = re.compile(r'(\[Page[^\]]+?(?:\+[^\]]*)?\]|;p\{[^}]*\}|\[\^[^\]]*\])')
+
+
 def devaconvert_protect_pages(line, dictId):
-    page_pattern = re.compile(r'(\[Page[^\]]+?(?:\+[^\]]*)?\])')
+    page_pattern = NYBJ_PROTECT_PATTERN if dictId == 'nybj' else PAGE_PATTERN
     parts = page_pattern.split(line)
     result_parts = []
     for i, part in enumerate(parts):
